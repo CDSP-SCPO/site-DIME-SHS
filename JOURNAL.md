@@ -11,12 +11,12 @@
 - j'ai apprécié te voir devenir autonome, ta capacité à rentrer dans les outils (github) et à transférer des contenus
 - rencontrer les personnes impliquées dans le projet et qui ont un avis à exprimer
 - l'espace de travail : pourvoir ecrire sur les murs et ne pas être dérangés
-- j'adore abordé le projet par le contenu, c'est un des trucs qui me fait le plus plaisir de pouvoir aider la personne qui est à l'origine des contenus
+- j'adore aborder le projet par le contenu, c'est un des trucs qui me fait le plus plaisir de pouvoir aider la personne qui est à l'origine des contenus
 - manger des glaces aprés le repas!
 
 ### Je changerais bien un truc demain
 
-- J'irai bien courir
+- J'irai courir
 - Utiliser les post-its réutilisables
 - Installer GitHub Desktop sur ma machine
 - Finir plus tôt
