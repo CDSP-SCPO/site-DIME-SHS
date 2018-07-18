@@ -1,0 +1,21 @@
+<header class="pv3 ph5" role="banner">
+
+  <div class="wrapper">
+    {%- assign pages = site.pages -%}
+    <a class="f-headline lh-solid" rel="author" href="{{ "/" | relative_url }}">
+      {{ site.title | escape }}
+    </a>
+
+    {%- if pages -%}
+      <nav class="">
+        <ul>
+          {%- for page in pages -%}
+            {%- if page.title -%}
+            <li><a class="page-link" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a></li>
+            {%- endif -%}
+          {%- endfor -%}
+        </ul>
+      </nav>
+    {%- endif -%}
+  </div>
+</header>

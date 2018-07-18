@@ -1,0 +1,29 @@
+---
+layout: default
+---
+{% for item in site.data.enquetes %}
+{% assign data = item[1] %}
+<h1>{{ data.title }}</h1>
+
+<ul>
+  {% for enquete in data.items %}
+  <li>
+    <strong>{{ enquete.title}}</strong> •
+    {{ enquete.date }} • {{ enquete.auteurs}}
+
+    <ul>
+      {% if enquete.lien_bequali %}
+      <li><a href="{{ enquete.lien_bequali }}">
+        L’enquête sur bequali.fr
+      </a></li>
+      {% endif %}
+      {% if enquete.lien_cdsp %}
+      <li><a href="{{ enquete.lien_cdsp }}">
+        L’enquête sur cdsp.science-po.fr
+      </a></li>
+      {% endif %}
+    </ul>
+  </li>
+  {% endfor %}
+</ul>
+{% endfor %}
