@@ -13,6 +13,12 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
 
+defaults:
+- scope:
+    path: ""
+  values:
+    layout: "page"
+
 exclude:
   - Gemfile
   - Gemfile.lock
