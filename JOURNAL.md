@@ -13,6 +13,7 @@
 
 - J'irai bien courir
 - Utiliser les post-its réutilisables
+- Installer GitHub Desktop sur ma machine
 
 ### Ça me pèse ou me ralentit
 
