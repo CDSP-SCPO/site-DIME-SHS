@@ -2,7 +2,7 @@ title: DIME-SHS
 email: your-email@example.com
 description: >-
   Truc qui apparaît dans les meta description
-baseurl: "" # e.g. /blog
+baseurl: "/site-DIME-SHS" # e.g. /blog
 url: "" # e.g. http://example.com
 
 # Build settings
@@ -16,6 +16,11 @@ plugins:
 defaults:
 - scope:
     path: ""
+  values:
+    layout: "page"
+- scope:
+    path: ""
+    type: "posts"
   values:
     layout: "page"
 
