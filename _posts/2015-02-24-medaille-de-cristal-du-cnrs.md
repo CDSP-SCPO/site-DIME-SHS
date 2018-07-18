@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Médaille de cristal du CNRS
 date:   2015-02-24T00:00:00
 ---
