@@ -12,8 +12,8 @@ Se voulant équivalente aux banques de données internationales et précurseur a
 
 # Fonctionnement
 Les enquêtes qui composent le catalogue sont sélectionnées selon différents critères scientifiques ou de faisabilité par un comité scientifique et technique (CST). La communauté scientifique est invitée à soumettre ses propositions dans le cadre d’un appel ouvert au moins une fois par an.<br>
-L’équipe beQuali traite les matériaux d’enquêtes sélectionnées et assure leur mise en ligne sur le site beQuali et leur référencement sur la plateforme de téléchargement Quetelet Progedo Diffusion.<br>
-BeQuali s’inscrit également dans une démarche de préservation des données de la recherche et prévoir un système d’archivage des enquêtes mises à disposition au Centre informatique nationale de l’Enseignement supérieur (CINES).
+L’équipe beQuali traite les matériaux d’enquêtes sélectionnées et assure leur mise en ligne sur [le site beQuali](http://bequali.fr/fr/contacs/) et leur référencement sur la plateforme de téléchargement [Quetelet Progedo Diffusion](http://quetelet.progedo.fr/commander-des-donnees/).<br>
+BeQuali s’inscrit également dans une démarche de préservation des données de la recherche et prévoir un système d’archivage des enquêtes mises à disposition au Centre informatique nationale de l’Enseignement supérieur ([CINES](https://www.cines.fr/)).
 
 # Apports
 A COMPLETER QUAND VALIDE
