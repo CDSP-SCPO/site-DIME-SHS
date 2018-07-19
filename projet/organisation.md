@@ -1,3 +1,8 @@
+---
+title: Projets/Organisation
+sort_order: 2
+---
+
 # Gouvernance
 Coordonné par Sciences Po, l’equipex DIME-SHS est animé par Nicolas Sauger en qualité de Responsable scientifique et technique depuis septembre 2017. Il prend la suite de Laurent Lesnard qui a initié le projet en 2011.<br>
 La gouvernance de DIME-SHS est spécifiée dans l’accord de consortium pour la réalisation du projet d’équipex; elle est organisée autour de trois instances.
@@ -17,7 +22,7 @@ Le **Comité de pilotage** prend les décisions relatives à l’orientation str
 
 Le **conseil scientifique** est une instance consultative chargée de formuler des proposition d’orientations scientifiques et d’ajustements du projet. Il est composé de personnalités qui siègent en qualité d’experts indépendants et reconnus à l’international dans le domaine des méthodes en sciences sociales.
 
-    **BARRE LATERALE :** 
+    **BARRE LATERALE :**
     - Dominique Joye (Président du CST), University of Lausanne, Suisse;
     - Roxane Silberman, CNRS, France;
     - Janet Heaton, University of Exeter, Grande Bretagne;
@@ -32,11 +37,10 @@ Le **conseil scientifique** est une instance consultative chargée de formuler d
 
 Chaque instrument est doté d’un **comité scientifique et technique** (CST). Il a pour fonction d’accompagner les développements, de sélectionner les projets à mettre en œuvre et discuter les choix scientifique et techniques propre à l’instrument. Organe indépendant, il est composé d’experts en méthodes qualitatives, quantitatives, ou web représentant un large panel de disciplines des sciences sociales.
 
-    **BARRE LATERALE :** 
+    **BARRE LATERALE :**
     - [Le CST DIME-Quanti](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#790)
     - [Le CST DIME-Quali](http://bequali.fr/fr/propos/#cst)
     - [Le CST DIME-Web](http://dimeweb.dime-shs.sciences-po.fr/#team)
 
 # Equipe
 A COMPLETER
-

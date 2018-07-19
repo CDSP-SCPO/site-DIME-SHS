@@ -8,7 +8,7 @@ layout: default
 <div class="lh-copy f4">{{ content }}</div>
 
 {% for collection in collections %}
-<h1 class="f2 lh-headline">{{ collection.name }}</h1>
+<h1 class="f2 lh-title">{{ collection.name }}</h1>
 
 <ul class="list pl0">
   {% assign group = groups | where_exp: 'g', 'g.name == collection.id' | first %}
