@@ -12,15 +12,19 @@
 - le fait que Claire et Lisa, ça nous a permis d'aller plus vite en le faisant ensemble
 - j'ai bien aimé que Benjamin rentre de vacances, y'a des choses qui avancent plus vite
 - ça m'a rassuré que tu poses la question des animations parce que ce n'était pas clair, on arrive à expliciter les trucs
--
+- mettre les mains dans le cambouis dans le sujet des publi qui me parassait épineux
+- je suis contente qu'on ait eu ce temps à 4 pour progresser de manière qualitative et de s'aligner de manière pragmatique : on a été rassurée, alegée en charge de travail et moi je vais où ça va
+- je suis content que ce soit fluide entre nous 4 pour travailler
 
 ### Je changerais bien un truc demain
 
-- aller au bout des petits post-it qui restent (redirections, etc).
+- aller au bout des petits post-it qui restent (redirections, etc)
+- être sur que l'on a bien couvert les différents cas de figure pour couvrir les angles morts et repartir tranquille demain.
 
 ### Ça me pèse ou me ralentit
 
 - toujours le manque de sommeil
+- je vois des sujets qui peuvent être chronophages et j'ai la conscience du temps qui va rester
 
 
 ## Mercredi 18 juillet 2018
