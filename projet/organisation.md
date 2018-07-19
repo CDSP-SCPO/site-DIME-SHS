@@ -35,7 +35,7 @@ Chaque instrument est doté d’un **comité scientifique et technique** (CST). 
     **BARRE LATERALE :** 
     - [Le CST DIME-Quanti](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#790)
     - [Le CST DIME-Quali](http://bequali.fr/fr/propos/#cst)
-    - [Le CST DIME-Web]
+    - [Le CST DIME-Web](http://dimeweb.dime-shs.sciences-po.fr/#team)
 
 # Equipe
 A COMPLETER
