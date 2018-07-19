@@ -25,14 +25,14 @@ Chaque instrument est doté d’un **comité scientifique et technique** (CST). 
 # Equipe
 A COMPLETER
 
-[^1] : Dominique Joye, University of Lausanne, Switzerland, President of the SAB
-Roxane Silberman, CNRS, France
-Janet Heaton, University of Exeter, Great Britain
-Peter Lynn, University of Essex, Great Britain
-Bertrand Müller, CNRS, France
-Marcel Das, CentERdata, Netherlands
-Valérie Beaudouin, Telecom Paristech, France
-Emiliano Grossman, Sciences Po, France
-Zeynep Pehlivan, INA, France 
-Arja Kuula, Finish Social Sciences Data Archive, Finland
-Anders Munk, Aalborg University, Denmark
+[^1] : Dominique Joye (Président du CST), University of Lausanne, Suisse;
+Roxane Silberman, CNRS, France;
+Janet Heaton, University of Exeter, Grande Bretagne;
+Peter Lynn, University of Essex, Grande Bretagne;
+Bertrand Müller, CNRS, France;
+Marcel Das, CentERdata, Pays-Bas;
+Valérie Beaudouin, Telecom Paristech, France;
+Emiliano Grossman, Sciences Po, France;
+Zeynep Pehlivan, INA, France;
+Arja Kuula, Finish Social Sciences Data Archive, Finlande;
+Anders Munk, Aalborg University, Danemark;
