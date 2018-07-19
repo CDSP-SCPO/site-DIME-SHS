@@ -1,0 +1,67 @@
+- source: spire
+  id: "oai:spire.sciencespo.fr:2441/3v2s7jooug9cv9vp3rnbapc1p2"
+  title: |
+    Valoriser les données d’enquêtes qualitatives en sciences sociales : le cas français de la banque d’enquête beQuali
+  auteurices:
+  - Bendjaballah, Selma
+  - Garcia, Guillaume
+  - Cadorel, Sarah
+  - Groshens, Emilie
+  - Fromont, Emilie
+  - Juillard, Emeline
+  date: "2017-10"
+  type: article
+  category: dime-web
+- source: spire
+  id: "oai:spire.sciencespo.fr:2441/42laen0t6t9r7qsmu6th72sb65"
+  title: |
+    Montrer et documenter l'analyse d'un terrain d'enquête en SHS : originalité de la banque d'enquêtes qualitatives beQuali
+  auteurices:
+  - Juillard, Emeline
+  date: "2017-10"
+  type: speech
+  format: application/pdf
+  category: null
+- source: spire
+  id: "oai:spire.sciencespo.fr:2441/7qb0rlgrcf88ga3m0bqqemr4s1"
+  title: |
+    Enquête sur l’enquête « Représentation du champ social, attitudes politiques et changements socio-économiques » de Jean-Marie Donégani, Guy Michelat, Michel Simon
+  auteurices:
+  - Souanef, Karim
+  - Cadorel, Sarah
+  - Garcia, Guillaume
+  date: "2015-01"
+  type: report
+  category: beQuali
+- source: zotero
+  id: "67L4HMJ8"
+  title: |
+    La profession d’architecte (2004-2010) – Florent Champy
+  auteurices:
+  - Corminboeuf, Bernard
+  date: "2017-06-19"
+  type: blogPost
+  url: http://archipolis.hypotheses.org/524
+  category: beQuali
+- source: zotero
+  id: "TFQ4JY54"
+  title: |
+    Types idéologiques et classe résiduelle dans l'enquête d'Etienne Schweisguth : les Français et la politique, 1982-1988. Réanalyse à partir de deux familles de logiciels, CAQDAS et ADT
+  auteurices:
+  - Abrial, Stéphanie
+  - Brugidou, Mathieu
+  - Salomon, Annie-Claude
+  date: "2017"
+  type: journalArticle
+  category: beQuali
+- source: zotero
+  id: "84SNI7TF"
+  title: |
+    The "European integration paradox" : comparing EU practice and discourse on the role of parliaments in the EU in the Assemblée nationale and the Bundestag across time
+  auteurices:
+  - Thomas, Anja
+  - Lequesne, Christian
+  - Wessels, Wolfgang
+  date: "2016-12"
+  type: thesis
+  category: beQuali
