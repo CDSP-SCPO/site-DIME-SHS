@@ -7,11 +7,15 @@ layout: default
 
 <ul>
   {% for enquete in data.items %}
-  <li>
-    <strong>{{ enquete.title}}</strong> •
-    {{ enquete.date }} • {{ enquete.auteurs}}
-
-    <ul>
+  <li class="flex mb3">
+    <div class="w-75">
+      <p class="measure">
+        <strong>{{ enquete.title}}</strong>
+        ({{ enquete.date | replace: ' ', '&nbsp;' }})
+        {{ enquete.auteurs | join: ', ' }}
+      </p>
+    </div>
+    <ul class="w-25">
       {% if enquete.lien_bequali %}
       <li><a href="{{ enquete.lien_bequali }}">
         L’enquête sur bequali.fr

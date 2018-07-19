@@ -2,6 +2,17 @@
 layout: default
 ---
 
-<h1 class="f1 lh-title">✨ {{ page.title }}</h1>
+<article class="ml6-l">
+  <h1 class="f1 lh-title">✨ {{ page.title }}</h1>
 
-<div class="measure-wide">{{ content }}</div>
+  <div class="flex">
+    <div class="w-two-thirds">
+      <div class="measure-wide">{{ content }}</div>
+    </div>
+    <aside class="w-third f6">
+      <p class="bl bw2 pl3 ">
+        (rapport Silberman en 1999, rapport Cribier en 2003)
+      </p>
+    </aside>
+  </div>
+</article>

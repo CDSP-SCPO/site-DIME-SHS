@@ -1,2 +1,30 @@
 ---
 ---
+
+$main-color: #Ff0000;
+$secondary-color: gray;
+
+.columns {
+  display: flex;
+  justify-content: space-between;
+  list-style-position: inside;
+  padding-left: 0;
+  color: fade($main-color, 10%);
+
+  > li {
+    padding-right: 1em;
+  }
+}
+
+.footnotes ol {
+  border-top: 1px solid gray;
+  margin-top: 1.5em;
+  padding-left: 0;
+}
+
+header[role="banner"] {
+  position: sticky;
+  top: 0;
+  transition: all .3s ease-in;
+  z-index: 1000;
+}
