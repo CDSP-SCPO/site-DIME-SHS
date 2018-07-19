@@ -18,9 +18,11 @@ Le **Comité de pilotage** prend les décisions relatives à l’orientation str
 Le **conseil scientifique** est une instance consultative chargée de formuler des proposition d’orientations scientifiques et d’ajustements du projet. Il est composé de personnalités[^1] qui siègent en qualité d’experts indépendants et reconnus à l’international dans le domaine des méthodes en sciences sociales.
 
 Chaque instrument est doté d’un **comité scientifique et technique** (CST). Il a pour fonction d’accompagner les développements, de sélectionner les projets à mettre en œuvre et discuter les choix scientifique et techniques propre à l’instrument. Organe indépendant, il est composé d’experts en méthodes qualitatives, quantitatives, ou web représentant un large panel de disciplines des sciences sociales.
-[Le CST DIME-Quanti](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#790)
-[Le CST DIME-Quali](http://bequali.fr/fr/propos/#cst)
-[Le CST DIME-Web]
+
+**BARRE LATERALE :** 
+- [Le CST DIME-Quanti](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#790)
+- [Le CST DIME-Quali](http://bequali.fr/fr/propos/#cst)
+- [Le CST DIME-Web]
 
 # Equipe
 A COMPLETER
