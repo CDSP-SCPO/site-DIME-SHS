@@ -1,5 +1,28 @@
 # Journal de bord
 
+
+## Jeudi 19 juillet 2018
+
+### C'était chouette
+
+- on a mangé de la pastèque
+- je pense qu'on a bien avancé sur la partie publications — hier on avait rien, aujourd'hui a avancé
+- je pense vraiment que le fait que tu sois là fasse avancer les choses plus vite
+- j'ai bien aimé bossé avec Lisa et Claire, j'ai l'impression qu'on est sur une version plutôt finale (plus équilibré) — ça m'a rassuré
+- le fait que Claire et Lisa, ça nous a permis d'aller plus vite en le faisant ensemble
+- j'ai bien aimé que Benjamin rentre de vacances, y'a des choses qui avancent plus vite
+- ça m'a rassuré que tu poses la question des animations parce que ce n'était pas clair, on arrive à expliciter les trucs
+-
+
+### Je changerais bien un truc demain
+
+- aller au bout des petits post-it qui restent (redirections, etc).
+
+### Ça me pèse ou me ralentit
+
+- toujours le manque de sommeil
+
+
 ## Mercredi 18 juillet 2018
 
 ### C'était chouette
