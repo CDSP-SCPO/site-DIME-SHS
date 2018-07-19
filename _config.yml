@@ -12,6 +12,29 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
 
+publications:
+- id: other
+  name: Autre
+  sort_order: '4'
+- id: beQuali
+  name: DIME SHS Quali
+  sort_order: '3'
+  collections:
+    zotero: WB7VJJ7Q
+    spire:  SCIENCESPO:DIME-SHS-beQuali
+- id: elipss
+  name: DIME SHS Quanti
+  sort_order: '2'
+  collections:
+    zotero: EKTQQHP7
+    spire:  SCIENCESPO:DIME-SHS-Elipss
+- id: dime-web
+  name: DIME SHS Web
+  sort_order: '1'
+  collections:
+    zotero: 7PZVF5PD
+    spire:  SCIENCESPO:DIME-SHS-DIME-Web
+
 defaults:
 - scope:
     path: ""
@@ -26,6 +49,7 @@ defaults:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - docs
   - node_modules
   - vendor/bundle/
   - vendor/cache/
