@@ -1,5 +1,27 @@
 # Journal de bord
 
+## Vendredi 20 juillet 2018
+
+### C'était chouette
+
+- on a bien dépoté ; les contenus c'est fini-fini
+- d'avoir vu vraiment comment fonctionnaient les fichiers et comment le projet allait marcher
+- on y est allé moins comme des bourrins, plus fluide
+- j'ai réussi à mieux trier mes emails et les réactions avec le monde extérieur
+- on a fini avant 21h
+- je suis allée voir les lombrics composteurs (et les nourrir !)
+- j'ai l'impression d'avoir davantage la maitrise de ce que je te donne, que tu comprends tous les jeux et qu'on le construit ensemble — ça aurait pu être chiant mais c'est facile
+- avoir 2 nouveaux logiciels installés sur l'ordinateur et d'à peu près savoir comment ils fonctionnent (surtout pour éditer du texte)
+
+### Je changerais bien un truc lundi
+
+- de méthode de travail pour travailler à distance
+- essayer autre chose que infogram pour faire les graphiques (j'ai l'impression d'être dans une impasse)
+- proposer des réunions quotidiennes de suivi du projet avec l'équipe
+
+### Ça me pèse ou me ralentit
+
+- je me sentirai rassurée quand il y aura la couche graphique
 
 ## Jeudi 19 juillet 2018
 
