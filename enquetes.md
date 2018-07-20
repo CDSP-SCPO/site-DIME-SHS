@@ -1,4 +1,4 @@
 ---
-layout: surveys
+layout: enquetes
 title: Enquêtes
 ---

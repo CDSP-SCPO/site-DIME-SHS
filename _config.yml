@@ -5,6 +5,8 @@ description: >-
 baseurl: "/site-DIME-SHS" # e.g. /blog
 url: "" # e.g. http://example.com
 
+permalink: /:year/:title:output_ext
+
 # Build settings
 markdown: kramdown
 plugins:
@@ -45,6 +47,9 @@ defaults:
     type: "posts"
   values:
     layout: "page"
+
+prose:
+  media: img
 
 exclude:
   - Gemfile

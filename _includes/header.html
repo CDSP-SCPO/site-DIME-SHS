@@ -5,7 +5,7 @@
       <img src="{{ '/img/logo-DIME-SHS.svg' | relative_url }}" alt="{{ site.title | escape }}">
     </a>
 
-    {%- assign pages = site.pages | sort: 'title' -%}
+    {%- assign pages = site.pages | where_exp: 'p', 'p.title != ""' | sort: 'title' -%}
     {%- if pages -%}
     <nav class="">
       <ul class="flex list flex-wrap">
