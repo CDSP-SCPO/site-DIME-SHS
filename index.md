@@ -11,7 +11,7 @@ Structuré autour de 3 instruments propres à différents types de ressources et
 
 Sélectionné dans le cadre des Programmes d’investissements d’Avenir dédiés aux Équipements d’Excellence, [le projet scientifique de DIME-SHS](docs/DIME-SHS-fiche-b.pdf) a été reconnu par l’Agence nationale de la recherche pour sa rigueur méthodologique et a reçu un financement de 10 M€ pour couvrir son déploiement de 2011 à 2019 (ANR-10-EQPX-19-01).
 
-appuis divers (label PRES Sorbonne Paris Cité)
+  + **appuis divers (label PRES Sorbonne Paris Cité)**
 
 
 ____
