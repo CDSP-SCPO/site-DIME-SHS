@@ -1,26 +1,36 @@
 ---
 ---
 
-$main-color: #Ff0000;
-$secondary-color: gray;
+@import 'vendor/tachyons/tachyons.scss';
 
-.article h1 {
-  font-size: 1.5rem;
-}
-.article h2 {
-  font-size: 1.25rem;
-}
 
-.article p:has(+ hr) {
-  color: red;
+.article {
+  @extend .flex;
+
+  .article__title {
+    @extend .f2;
+    @extend .mt0;
+    @extend .lh-title;
+  }
+
+  .article__body {
+    @extend .measure;
+    @extend .lh-copy;
+
+    h1 {
+      @extend .f3;
+    }
+    h2 {
+      @extend .f4;
+    }
+  }
 }
 
 .columns {
-  display: flex;
+  @extend .flex;
   justify-content: space-between;
   list-style-position: inside;
   padding-left: 0;
-  color: fade($main-color, 10%);
 
   > li {
     padding-right: 1em;

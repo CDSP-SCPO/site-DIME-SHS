@@ -1,13 +1,13 @@
 {%- assign post = includes.post -%}
-<article class="article flex">
+<article class="article">
   <header class="w-25">
     {{ post.date | date: '%Y-%m-%d' }}
   </header>
 
   <div class="w-50">
-    <h2 class="f2 mt0 lh-title">{{ post.title }}</h2>
+    <h2 class="article__title">{{ post.title }}</h2>
 
-    <div class="measure lh-copy">{{ post.content }}</div>
+    <div class="article__bod">{{ post.content }}</div>
   </div>
 
   <div class="w-25">

@@ -1,0 +1,66 @@
+{
+  "_from": "tachyons-sass",
+  "_id": "tachyons-sass@4.9.3",
+  "_inBundle": false,
+  "_integrity": "sha512-Cok8J0fGPx+v/12LizOma0tuRrd3EqIYqiUSTqkM/5HFy7sKmM1Gg3GU41XycWbrOGjNRc7S83cF+o4MhEInUQ==",
+  "_location": "/tachyons-sass",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "tachyons-sass",
+    "name": "tachyons-sass",
+    "escapedName": "tachyons-sass",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/tachyons-sass/-/tachyons-sass-4.9.3.tgz",
+  "_shasum": "a411a6416f1dfa88efb16ba498ace108eefe4aa3",
+  "_spec": "tachyons-sass",
+  "_where": "/Users/oncletom/workspace/medialab/site-DIME-SHS",
+  "author": {
+    "name": "John Otander"
+  },
+  "bugs": {
+    "url": "https://github.com/tachyons-css/tachyons-sass/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "tachyons-custom": "^4.9.2"
+  },
+  "deprecated": false,
+  "description": "Transpiled Sass partials for Tachyons",
+  "devDependencies": {
+    "ava": "^0.22.0",
+    "css-scss": "^0.1.0",
+    "glob": "^7.1.2",
+    "node-sass": "^4.5.3",
+    "standard": "^10.0.3"
+  },
+  "homepage": "https://github.com/tachyons-css/tachyons-sass#readme",
+  "keywords": [
+    "tachyons",
+    "tachyons-css",
+    "css",
+    "sass",
+    "scss"
+  ],
+  "license": "MIT",
+  "name": "tachyons-sass",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tachyons-css/tachyons-sass.git"
+  },
+  "scripts": {
+    "lint": "standard --fix",
+    "start": "node build.js",
+    "test": "ava"
+  },
+  "style": "tachyons.scss",
+  "version": "4.9.3"
+}

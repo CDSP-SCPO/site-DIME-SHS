@@ -1,0 +1,28 @@
+{
+  "name": "site-DIME-SHS",
+  "private": false,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "mkdir -p _sass/vendor/tachyons/ && cp -rf node_modules/tachyons-sass/ _sass/vendor/tachyons/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CDSP-SCPO/site-DIME-SHS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CDSP-SCPO/site-DIME-SHS/issues"
+  },
+  "homepage": "https://github.com/CDSP-SCPO/site-DIME-SHS#readme",
+  "dependencies": {
+    "tachyons-sass": "^4.8.1"
+  }
+}
