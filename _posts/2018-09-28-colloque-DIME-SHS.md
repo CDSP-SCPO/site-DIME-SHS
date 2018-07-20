@@ -3,9 +3,11 @@ title:  colloque DIME-SHS
 date:   2015-02-24T00:00:00
 ---
 
-_Depuis 2011, l'Equipex DIME-SHS[^1] a innové pour mettre en place de nouveaux instruments au service de la recherche et entre aujourd'hui, à l’issue de 7 années d’exploitation, dans la dernière phase de son cycle de vie.
+Depuis 2011, l'Equipex DIME-SHS[^1] a innové pour mettre en place de nouveaux instruments au service de la recherche et entre aujourd'hui, à l’issue de 7 années d’exploitation, dans la dernière phase de son cycle de vie.
 
-Le 28 septembre 2018, le colloque DIME-SHS "Des instruments pour la recherche en Sciences Sociales" permettra de partager analyses et résultats issus des données des instruments de l’équipement._
+Le 28 septembre 2018, le colloque DIME-SHS "Des instruments pour la recherche en Sciences Sociales" permettra de partager analyses et résultats issus des données des instruments de l’équipement.
+
+---
 
 # Programme
 ## 9h30 - 10h00 / Conférence d'introduction
