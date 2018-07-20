@@ -4,6 +4,17 @@
 $main-color: #Ff0000;
 $secondary-color: gray;
 
+.article h1 {
+  font-size: 1.5rem;
+}
+.article h2 {
+  font-size: 1.25rem;
+}
+
+.article p:has(+ hr) {
+  color: red;
+}
+
 .columns {
   display: flex;
   justify-content: space-between;

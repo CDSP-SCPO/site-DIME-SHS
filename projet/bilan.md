@@ -4,20 +4,24 @@ sort_order: 4
 ---
 # Repères
 ## Dates clés
-![PREMIÈRES BRIQUES
-- 2011 : acceptation du projet
-- 2012 : inauguration de l’equipex
-- 2012 : constitution du premier échantillon Elipss (1500 panelistes)
-DÉVELOPPEMENT
-- 2013 : première enquête Elipss
-- 2013 : lancement de Hyphe 0.0
-- 2015 : nouveau portail beQuali
-- 2016 : élargissement du panel Elipss (3500 individus)
-FONCTIONNEMENT
-- 2017: Evaluation à mi-parcours
-- 2018: Hyphe 1.0
-- 2018: Colloque
-- 2018 : kits d'enseignement beQuali](img/frise-chronologique-DIME.png)
+
+![Frise chronologique](img/frise-chronologique-DIME.png){: aria-describedby="description" }
+
+1. PREMIÈRES BRIQUES
+  - 2011 : acceptation du projet
+  - 2012 : inauguration de l’equipex
+  - 2012 : constitution du premier échantillon Elipss (1500 panelistes)
+1. DÉVELOPPEMENT
+  - 2013 : première enquête Elipss
+  - 2013 : lancement de Hyphe 0.0
+  - 2015 : nouveau portail beQuali
+  - 2016 : élargissement du panel Elipss (3500 individus)
+1. FONCTIONNEMENT
+  - 2017: Evaluation à mi-parcours
+  - 2018: Hyphe 1.0
+  - 2018: Colloque
+  - 2018 : kits d'enseignement beQuali
+{: id="description" }
 
 ## Budget
 Zoom sur une année et répartition
