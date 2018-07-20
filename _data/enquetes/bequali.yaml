@@ -5,6 +5,7 @@ items:
   auteurs:
   - VAN ZANTEN Agnès
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/cdsp_bequali_s1/
+  lien_doi: https://doi.org/10.21410/dshs_2016/KHUK6Z
 - title: De l’Afrique à la France, d’une génération à l’autre
   date: "2006-2010"
   auteurs:
@@ -16,32 +17,38 @@ items:
   - ROZENKIER Alain
   - SEGALEN Martine
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/cdsp_bq_s5/
+  lien_doi: https://doi.org/10.21410/dshs_2016/V2XWWP
 - title: Des femmes en politique
   date: "1984-1985"
   auteurs:
   - SINEAU Mariette
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/cdsp_bequali_sp6/
+  lien_doi: https://doi.org/10.21410/dshs_2016/XPWWW9
 - title: La Formation des couples
   date: "1983-1985"
   auteurs:
   - BOZON Michel
   - HERAN François
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/cdsp_bq_s2/
+  lien_doi: https://doi.org/10.21410/dshs_2016/IEKIE0
 - title: "La profession d'architecte : nouvelle théorie sociologique des professions"
   date: "2004-2010"
   auteurs:
   - CHAMPY Florent
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/cdsp_bq_s3/
+  lien_doi: https://doi.org/10.21410/dshs_2016/IWE3KI
 - title: "Le Parlement français et l’Union Européenne : l’Europe saisie par les rôles parlementaires"
   date: "1993-2005"
   auteurs:
   - ROZENBERG Olivier
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/cdsp_bequali_sp3/
+  lien_doi: https://doi.org/10.21410/dshs_2016/CLSJTH
 - title: Les Français et la politique
   date: "1983"
   auteurs:
   - SCHWEISGUTH Étienne
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/cdsp_bequali_sp2/
+  lien_doi: https://doi.org/10.21410/dshs_2016/MB6S9N
 - title: Quand des Français, des Anglais et des Belges (francophones) parlent d’Europe
   date: "2005-2006"
   auteurs:
@@ -52,6 +59,7 @@ items:
   - HAEGEL Florence
   - VAN INGELGOM Virginie
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/cdsp_bequali_sp1/
+  lien_doi: https://doi.org/10.21410/dshs_2016/QWDFMD
 - title: Représentation du champ social, attitudes politiques et changements socio-économiques
   date: "1978"
   auteurs:
@@ -59,6 +67,7 @@ items:
   - MICHELAT Guy
   - SIMON Michel
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/cdsp_bequali_sp5/
+  lien_doi: https://doi.org/10.21410/dshs_2016/6TRSZ3
 - title: Avec ceux du FN. Un sociologue au Front national
   date: "1995-2017"
   auteurs:
