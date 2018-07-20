@@ -14,7 +14,8 @@
 - avoir 2 nouveaux logiciels installés sur l'ordinateur et d'à peu près savoir comment ils fonctionnent (surtout pour éditer du texte)
 - je repars à la maison avec des réponses/éclaircissements sur tous les trucs flous jusqu'à présent
 - je suis content de la facilité des échanges avec les personnes extérieures mais impliquées dans le projet : on envoie un mail et une heure aprés on peut avoir une interaction de visu avec ces gens
-- c'était cool de bosser avec toi car tu sais ce que tu veux et c'est facile d'avancer dessus: y'a pas de chichi, une question, une réponse, on réfléchit ensemble et ça avance.
+- c'était cool de bosser avec toi car tu sais ce que tu veux et c'est facile d'avancer dessus: y'a pas de chichi, une question, une réponse, on réfléchit ensemble et ça avance
+- j'ai bien aimé que tu changes toute seule le gabarit html.
 
 
 ### Je changerais bien un truc lundi
