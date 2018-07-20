@@ -16,14 +16,14 @@ layout: default
       </p>
     </div>
     <ul class="w-25">
-      {% if enquete.lien_bequali %}
-      <li><a href="{{ enquete.lien_bequali }}">
-        L’enquête sur bequali.fr
-      </a></li>
-      {% endif %}
       {% if enquete.lien_cdsp %}
       <li><a href="{{ enquete.lien_cdsp }}">
-        L’enquête sur cdsp.science-po.fr
+        Présentation de l’enquête
+      </a></li>
+      {% endif %}
+      {% if enquete.lien_doi %}
+      <li><a href="{{ enquete.lien_doi }}">
+        L’enquête sur l'enquête
       </a></li>
       {% endif %}
     </ul>
