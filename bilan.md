@@ -17,15 +17,14 @@ FONCTIONNEMENT
 
 
 ## Budget
-Zoom sur une année et répartition (MdA)
+Zoom sur une année et répartition
 
 ## Personnel par expertises
 développement web (2), archive(2), documentation (4), production de données (4), gestion de panel (2), coordination equipex (2) + dime-web (2)
 
 Répartition projets déposés / sélectionnés
 
-# Evaluation de l’équipementexterne
-
+# Evaluation de l’équipement externe
 Dans le cadre de son processus de suivi, l’Agence Nationale de la Recherche, opérateur de l’équipement, a fait réaliser en 2017 -après 6 années de fonctionnement- une analyse détaillée des pratiques et résultats du projet en s’appuyant sur un jury international indépendant[^1]. Le rapport fait état d’une évaluation globalement positive des instruments, notamment au vu des objectifs fixés globalement atteints. Le rapport note : “One is impressed by the achievements of each of the three components of the DIME project”. Il conclut également “Overall, the three components of the DIME-SHS project are well on the way of reaching the initial targets of the project. The evaluation of each of these three components of the project is positive.”
 
 Le rapport souligne néanmoins un risque principal au projet qui tient à « l’arrêt de la source principale du financement » fin 2019 et que, pour le futur, la pérennisation de l’équipement suppose que  “the main source of sustainability remains institutional support”. En effet, puisqu’il semble difficile d’envisager une source de financement principale autre qu’institutionnelle, l’arrêt de ces crédits pourrait être un frein à la continuité des services offerts par DIME-SHS.
