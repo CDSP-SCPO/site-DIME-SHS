@@ -12,16 +12,23 @@
 - je suis allée voir les lombrics composteurs (et les nourrir !)
 - j'ai l'impression d'avoir davantage la maitrise de ce que je te donne, que tu comprends tous les jeux et qu'on le construit ensemble — ça aurait pu être chiant mais c'est facile
 - avoir 2 nouveaux logiciels installés sur l'ordinateur et d'à peu près savoir comment ils fonctionnent (surtout pour éditer du texte)
+- je repars à la maison avec des réponses/éclaircissements sur tous les trucs flous jusqu'à présent
+- je suis content de la facilité des échanges avec les personnes extérieures mais impliquées dans le projet : on envoie un mail et une heure aprés on peut avoir une interaction de visu avec ces gens
+- c'était cool de bosser avec toi car tu sais ce que tu veux et c'est facile d'avancer dessus: y'a pas de chichi, une question, une réponse, on réfléchit ensemble et ça avance.
+
 
 ### Je changerais bien un truc lundi
 
 - de méthode de travail pour travailler à distance
 - essayer autre chose que infogram pour faire les graphiques (j'ai l'impression d'être dans une impasse)
 - proposer des réunions quotidiennes de suivi du projet avec l'équipe
+- j'irai acheter de la salade de poulpe
+- Y'a qu'à : c'est surtout des trucs à faire, rien à changer.
 
 ### Ça me pèse ou me ralentit
 
 - je me sentirai rassurée quand il y aura la couche graphique
+- toujours la chaleur
 
 ## Jeudi 19 juillet 2018
 
