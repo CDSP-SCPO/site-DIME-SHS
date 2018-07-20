@@ -23,7 +23,7 @@ FONCTIONNEMENT
 Zoom sur une année et répartition
 
 ## Personnel par expertises
-développement web (2), archive(2), documentation (4), production de données (4), gestion de panel (2), coordination equipex (2) + dime-web (2)
+développement web (3), archive(2), documentation (4), production de données (5), gestion de panel (2), coordination equipex (2)
 
 Répartition projets déposés / sélectionnés
 
@@ -34,7 +34,7 @@ Le rapport souligne néanmoins un risque principal au projet qui tient à « l�
 
 Le rapport s’attache également à proposer des pistes de développement et d’amélioration pour la dernière phase de l’équipement. Le rapport souligne notamment la nécessaire diversification des sources de financement, le fait de devoir mieux favoriser le rayonnement scientifique de l’infrastructure construite mais également d’accentuer encore son ancrage international. Les deux faiblesses principales pointées par le jury d’évaluation restent néanmoins le sous-dimensionnement de l’équipe par rapport à ses objectifs et l’absence de synergies suffisantes entre les différents instruments de l’équipement.
 
-Ces recommandations du jury international ont permis une réévaluation des objectifs et des actions prioritaires à mener par l’EquipEx pendant la dernière phase de ses travaux (2018-2019). Cette réflexion a conduit à la formulation d’un [plan d’action](a stipuler) pour ces deux années. Ce plan d’action précise les objectifs opérationnels de réalisation visés (nombre d’enquêtes, développement d’applications,...) mais également les opérations à mener pour contribuer à mieux asseoir DIME-SHS dans le paysage de la recherche nationale et européenne.
+Ces recommandations du jury international ont permis une réévaluation des objectifs et des actions prioritaires à mener par l’EquipEx pendant la dernière phase de ses travaux (2018-2019). Cette réflexion a conduit à la formulation d’un [plan d’action](docs/CDSP2018-EquipEx-PlanAction-final.pdf) pour ces deux années. Ce plan d’action précise les objectifs opérationnels de réalisation visés (nombre d’enquêtes, développement d’applications,...) mais également les opérations à mener pour contribuer à mieux asseoir DIME-SHS dans le paysage de la recherche nationale et européenne.
 
 
 [^1]: [Synthèse de l'évaluation de DIME-SHS dans le programme d’évaluation globale des EquipEx](http://www.agence-nationale-recherche.fr/fileadmin/documents/2017/ANR-IA-Rapport-EQUIPEX-2016.pdf)
