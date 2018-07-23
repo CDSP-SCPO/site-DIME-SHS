@@ -1,5 +1,6 @@
 baseURL = "https://cdsp-scpo.github.io/"
 languageCode = "fr-fr"
+DefaultContentLanguage = "fr"
 title = "DIME-SHS"
 
 disableKinds = ["taxonomyTerm", "taxonomy"]
