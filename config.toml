@@ -4,3 +4,16 @@ DefaultContentLanguage = "fr"
 title = "DIME-SHS"
 
 disableKinds = ["taxonomyTerm", "taxonomy"]
+
+enableMissingTranslationPlaceholders = true
+
+[languages]
+  [languages.fr]
+    languageName = "Français"
+    languageCode = "FR"
+    weight = 1
+
+  [languages.en]
+    languageName = "English"
+    languageCode = "EN"
+    weight = 2

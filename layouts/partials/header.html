@@ -24,4 +24,20 @@
   </li>
   {{ end }}{{ end }}
   </ul>
+
+  <ul>
+    {{ range $.Site.Home.AllTranslations }}
+    {{ $Language := . }}
+    <li style="{{ if eq $.Lang .Lang }}font-weight:bold{{ end }}">
+      {{ $Translation := index (where $.Translations "Lang" .Lang) 0 }}
+      {{ if (default "" $Translation) }}
+      <a href="{{ $Translation.URL }}" lang="{{ $Language.Lang }}">{{ $Translation.Language.LanguageName }}</a>
+      {{ else if eq $.Lang .Lang }}
+      {{ .Language.LanguageName }}
+      {{ else }}
+      <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+      {{ end }}
+    </li>
+    {{ end }}
+  </ul>
 </header>
