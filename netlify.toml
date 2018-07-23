@@ -4,3 +4,9 @@
 
   [build.environment]
     HUGO_VERSION = "0.45"
+
+  [context.deploy-preview]
+    command = "hugo -b $DEPLOY_PRIME_URL --i18n-warnings"
+
+  [context.deploy-preview.environment]
+    HUGO_IS_PREVIEW = true
