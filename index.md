@@ -14,7 +14,7 @@ Structuré autour de 3 instruments propres à différents types de ressources et
 
 Sélectionné dans le cadre des Programmes d’investissements d’Avenir dédiés aux Équipements d’Excellence, [le projet scientifique de DIME-SHS](docs/DIME-SHS-fiche-b.pdf) a été reconnu par l’Agence nationale de la recherche pour sa rigueur méthodologique et a reçu un financement de 10 M€ pour couvrir son déploiement de 2011 à 2019 (ANR-10-EQPX-19-01).
 
-  + **appuis divers (label PRES Sorbonne Paris Cité)**
+Signal supplémentaire de l'excellence scientifique du projet et de son potentiel d'attractivité pour la communauté académique, l'Equipex DIME-SHS obtient dès juin 2010 [le label de l'Université Paris Sorbonne Cité](docs/2010_Label USPC_DIME-SHS.pdf), sur décision de son Conseil d'orientation scientifique et pédagogique.
 
 ---
 
