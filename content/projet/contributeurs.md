@@ -1,6 +1,8 @@
 ---
-title: Projets/Contributeurs
-sort_order: 3
+title: Contributeurs
+menu:
+  subnav:
+    weight: 30
 ---
 
 # Partenaires

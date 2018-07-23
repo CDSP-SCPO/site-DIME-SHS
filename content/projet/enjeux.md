@@ -1,5 +1,8 @@
 ---
-title: Projets/Enjeux
+title: Enjeux
+menu:
+  subnav:
+    weight: 10
 ---
 
 # Etat des lieux

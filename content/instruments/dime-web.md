@@ -1,5 +1,9 @@
 ---
 title: DIME-Web
+menu:
+  subnav:
+    weight: 30
+    title: Dime-Web
 ---
 
 L’instrument DIME-Web est une équipe de un à trois ingénieurs accompagnant des projets de recherche en Sciences Humaines et Sociales dans le développement et l’emploi de méthodes numériques afin d’exploiter le web comme terrain d’enquêtes. Cela permet notamment de collecter, d’enrichir, de nettoyer, de visualiser et d’analyser des données à partir des traces numériques accessibles sur Internet.

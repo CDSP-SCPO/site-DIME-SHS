@@ -1,0 +1,25 @@
+{{ define "content" }}
+<h1>{{ .Page.Title }}</h1>
+
+<div class="lh-copy f4">
+  {{ .Page.Content }}
+</div>
+
+
+<h1 class="f2 lh-title">Booh</h1>
+
+<ul class="list pl0">
+  {{ range .Site.Data.publications }}
+  <li class="flex" id="publication:{{ .id }}">
+    <div class="w-75">
+      <h3 class="f5 lh-copy measure-wide">{{ .title }} ({{ .date }})</h3>
+      <p class="f6 black-70 lh-copy measure">{{ delimit .auteurices ", " " et " }}</p>
+    </div>
+
+    <p class="w-25">
+      <span class="f6">+</span>
+    </p>
+  </li>
+  {{ end }}
+</ul>
+{{ end }}

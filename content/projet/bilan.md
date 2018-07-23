@@ -1,6 +1,8 @@
 ---
-title: Projets/Bilan
-sort_order: 4
+title: Bilan
+menu:
+  subnav:
+    weight: 40
 ---
 # Repères
 ## Dates clés

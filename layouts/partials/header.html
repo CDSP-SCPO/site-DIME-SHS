@@ -1,0 +1,27 @@
+{{ $activeMenu := newScratch }}
+<header>
+  <a href="{{ "/" | relURL }}" rel="home">
+    <img src="{{ "/img/logo-DIME-SHS.svg" | relURL }}" alt="{{ .Site.Title }}" style="max-width:20vw">
+  </a>
+
+  <ul>
+  {{ $currentPage := . }}
+  {{ range .Site.Menus.main }}
+  {{- $isActive := (or ($currentPage.IsMenuCurrent "main" .) (eq .Page $currentPage.Parent)) -}}
+  {{ if $isActive }}{{ $activeMenu.Set "active" .Page }}{{ end }}
+  <li>
+    <a href="{{ (index .Page.Pages 0).URL }}" style="{{ if $isActive }}font-weight:bold{{end}}">{{ .Title | default .Page.Title }}</a>
+  </li>
+  {{ end }}
+  </ul>
+
+  <ul>
+  {{ range .Site.Menus.subnav }}
+  {{- if eq ($activeMenu.Get "active") .Page.Parent -}}
+  {{- $isActive := ($currentPage.IsMenuCurrent "subnav" .) -}}
+  <li>
+    <a href="{{ .URL }}" style="{{ if $isActive }}font-weight:bold{{end}}">{{ .Title | default .Page.Title }}</a>
+  </li>
+  {{ end }}{{ end }}
+  </ul>
+</header>

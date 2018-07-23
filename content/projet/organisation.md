@@ -1,6 +1,8 @@
 ---
-title: Projets/Organisation
-sort_order: 2
+title: Organisation
+menu:
+  subnav:
+    weight: 20
 ---
 
 # Gouvernance

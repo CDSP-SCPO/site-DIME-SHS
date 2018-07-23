@@ -1,0 +1,11 @@
+{{ define "content" }}
+
+<main>
+<ul>
+  {{ range (where .Pages "Section" "posts") }}
+  <li>{{ .Title }}</li>
+  {{ end }}
+  </ul>
+</main>
+
+{{ end }}
