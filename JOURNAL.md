@@ -1,5 +1,24 @@
 # Journal de bord
 
+## Lundi 23 juillet 2018
+
+### Ce que j'ai fait
+
+- poursuite du contenu
+- mise en place du multi-lingue
+
+### Ce que je compte faire demain
+
+- terminer la mise en place du multi-lingue
+- prioriser l'intégration de la home, des instruments et d'une page qui contient des cartes de présentation
+- corriger des liens erronés dans les enquêtes
+
+### Ce qui me bloque ou me ralentit
+
+- j'ai galéré sur le réglage multi-lingue du générateur HUGO — ça a marché jusque 15h et depuis, j'ai dû changer quelque chose sans réussir à revenir à un état fonctionnel :-(
+
+---
+
 ## Vendredi 20 juillet 2018
 
 ### C'était chouette
