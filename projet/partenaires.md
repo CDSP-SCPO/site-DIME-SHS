@@ -12,4 +12,8 @@ Le consortium DIME-SHS est porté par Sciences Po et réunit des partenaires de 
 - Infrastructure de recherche : [TGIR PROGEDO](www.progedo.fr).
 
 # Co-financeurs
-A COMPLETER
+
+- Institut de recherche : CNRS, INED
+- Universités : EHESS, Université de Tour (Université François Rabelais), Université Paris Diderot, Université Rennes 2, USPC
+- Recherche privée : AXA Research Foundation
+- Services ministériels : Secrétariat général pour l'investissement (SGPI), Santé Publique France (INPES), Ministère de la culture
