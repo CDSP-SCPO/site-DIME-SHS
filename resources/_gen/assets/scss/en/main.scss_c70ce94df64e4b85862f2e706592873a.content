@@ -1996,7 +1996,7 @@ header[role="banner"] .secondary-navigation li {
    -l  = large
 
 */
-.flex, .article, header[role="banner"], header[role="banner"] .main-navigation, header[role="banner"] .language-picker, .columns, body > section {
+.flex, .slides, .article, header[role="banner"], header[role="banner"] .main-navigation, header[role="banner"] .language-picker, .columns, body > section {
   display: flex; }
 
 .inline-flex {
@@ -2014,7 +2014,7 @@ header[role="banner"] .secondary-navigation li {
 .flex-none {
   flex: none; }
 
-.flex-column {
+.flex-column, .slides {
   flex-direction: column; }
 
 .flex-row {
@@ -2035,7 +2035,7 @@ header[role="banner"] .secondary-navigation li {
 .flex-row-reverse {
   flex-direction: row-reverse; }
 
-.items-start, body > section {
+.items-start, .slides, body > section {
   align-items: flex-start; }
 
 .items-end {
@@ -3288,7 +3288,7 @@ header[role="banner"] .secondary-navigation > ul {
 .w-90 {
   width: 90%; }
 
-.w-100, header[role="banner"] .secondary-navigation, body {
+.w-100, .slides .slide, header[role="banner"] .secondary-navigation, body {
   width: 100%; }
 
 .w-third {
@@ -3829,7 +3829,7 @@ header[role="banner"] .secondary-navigation > ul {
 .light-gray, header[role="banner"] .secondary-navigation a {
   color: #eee; }
 
-.near-white {
+.near-white, .slides .slide {
   color: #f4f4f4; }
 
 .white, header[role="banner"] .secondary-navigation a:hover, header[role="banner"] .secondary-navigation a:focus {
@@ -3977,10 +3977,10 @@ header[role="banner"] .secondary-navigation > ul {
 .bg-near-black {
   background-color: #111; }
 
-.bg-dark-gray, .slide:nth-of-type(2n) {
+.bg-dark-gray, .slides .slide:nth-of-type(2n) {
   background-color: #4A4A4A; }
 
-.bg-mid-gray, .slide:nth-of-type(3n) {
+.bg-mid-gray, .slides .slide:nth-of-type(3n) {
   background-color: rgba(74, 74, 74, 0.75); }
 
 .bg-gray {
@@ -6924,9 +6924,11 @@ header[role="banner"] .secondary-navigation li {
   Add custom styles here.
 
 */
-.slide {
-  height: 100vh; }
-  .slide:nth-of-type(1) {
+.slides .slide {
+  height: 100vh;
+  padding-left: 20%;
+  padding-right: 20%; }
+  .slides .slide:nth-of-type(1) {
     background: #E6142D; }
 
 .list-inline {

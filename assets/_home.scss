@@ -1,14 +1,24 @@
-.slide {
-  height: 100vh;
+.slides {
+  @extend .flex;
+  @extend .flex-column;
+  @extend .items-start;
+
+  .slide {
+    @extend .near-white;
+    @extend .w-100;
+    height: 100vh;
+    padding-left: 20%;
+    padding-right: 20%;
 
 
-  &:nth-of-type(1) {
-    background: $secondary-color;
-  }
-  &:nth-of-type(2n) {
-    @extend .bg-dark-gray;
-  }
-  &:nth-of-type(3n) {
-    @extend .bg-mid-gray;
+    &:nth-of-type(1) {
+      background: $secondary-color;
+    }
+    &:nth-of-type(2n) {
+      @extend .bg-dark-gray;
+    }
+    &:nth-of-type(3n) {
+      @extend .bg-mid-gray;
+    }
   }
 }

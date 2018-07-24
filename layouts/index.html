@@ -1,15 +1,28 @@
 {{ define "main" }}
 
+<section class="slides">
 {{ .Page.Content }}
-
-<section>
-  <h1>Actualités</h1>
-
-  <ul>
-    {{ range (where .Pages "Section" "posts") }}
-    <li>{{ .Title }}</li>
-    {{ end }}
-  </ul>
 </section>
 
+<section data-section="{{ .Page.Kind }}">
+  <aside class="table-of-contents" role="aside">
+    {{ block "toc" . }}{{ end }}
+  </aside>
+
+  <main role="main">
+    <section>
+      <h1>Actualités</h1>
+
+      <ul>
+        {{ range (where .Pages "Section" "posts") }}
+        <li>{{ .Title }}</li>
+        {{ end }}
+      </ul>
+    </section>
+  </main>
+
+  <aside class="sidenotes" role="aside">
+    {{ block "sidenotes" . }}{{ end }}
+  </aside>
+</section>
 {{ end }}
