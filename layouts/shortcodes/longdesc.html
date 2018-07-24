@@ -1,0 +1,5 @@
+{{- $id := md5 (.Get "src") -}}
+<img src="{{ .Get "src" }}"{{ with .Get "alt"}} alt="{{ . | htmlEscape }}"{{ end }} aria-describedby="{{ $id }}">
+<div id="{{ $id }}">
+{{ .Inner | markdownify }}
+</div>

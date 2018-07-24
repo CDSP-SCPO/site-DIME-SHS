@@ -7,8 +7,7 @@ menu:
 # Repères
 ## Dates clés
 
-![Frise chronologique](img/frise-chronologique-DIME.png){: aria-describedby="description" }
-
+{{< longdesc src="img/frise-chronologique-DIME.png" alt="Frise chronologique" >}}
 1. PREMIÈRES BRIQUES
   - 2011 : acceptation du projet
   - 2012 : inauguration de l’equipex
@@ -23,7 +22,7 @@ menu:
   - 2018: Hyphe 1.0
   - 2018: Colloque
   - 2018 : kits d'enseignement beQuali
-{: id="description" }
+{{< /longdesc >}}
 
 ## Budget
 Zoom sur une année et répartition
@@ -35,9 +34,10 @@ Répartition projets déposés / sélectionnés
 
 # Evaluation de l’équipement
 
-    **BARRE LATERALE**
-    [Rapport d'activité 2014](docs/DIME-SHS-BilanPerspectives2014.pdf)
-    [Rapport d'activité 2011-2016](docs/DIME-SHS-ScientificReport2016.pdf)
+{{< sidebar >}}
+[Rapport d'activité 2014](docs/DIME-SHS-BilanPerspectives2014.pdf)<br>
+[Rapport d'activité 2011-2016](docs/DIME-SHS-ScientificReport2016.pdf)
+{{< /sidebar >}}
 
 Dans le cadre de son processus de suivi, l’Agence Nationale de la Recherche, opérateur de l’équipement, a fait réaliser en 2017 -après 6 années de fonctionnement- une analyse détaillée des pratiques et résultats du projet en s’appuyant sur un jury international indépendant[^1]. Le rapport fait état d’une évaluation globalement positive des instruments, notamment au vu des objectifs fixés en grande partie atteints. Le rapport note : _“One is impressed by the achievements of each of the three components of the DIME project”_. Il conclut également _“Overall, the three components of the DIME-SHS project are well on the way of reaching the initial targets of the project. The evaluation of each of these three components of the project is positive.”_
 
