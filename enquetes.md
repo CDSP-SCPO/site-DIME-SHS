@@ -1,4 +1,0 @@
----
-layout: enquetes
-title: Enquêtes
----

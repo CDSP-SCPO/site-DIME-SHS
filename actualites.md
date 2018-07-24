@@ -1,4 +1,0 @@
----
-layout: actualites
-title: Actualités
----

@@ -1,0 +1,15 @@
+.columns {
+  @extend .flex;
+  justify-content: space-between;
+  list-style-position: inside;
+  padding-left: 0;
+
+  > li {
+    padding-right: 1em;
+  }
+}
+
+.footnotes ol {
+  margin-top: 1.5em;
+  padding-left: 0;
+}
