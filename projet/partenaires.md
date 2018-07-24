@@ -18,3 +18,4 @@ Les ressources complémentaires à la subvention des investissement d’avenir c
 - Comue : [Université Sorbonne Paris Cité](http://www.sorbonne-paris-cite.fr/)
 - Recherche privée : [AXA Research Fund](https://www.axa-research.org/fr)
 - Services ministériels : [Santé Publique France (anciennement INPES)](https://www.santepubliquefrance.fr/), [Ministère de la culture - DEPS](http://www.culture.gouv.fr/Thematiques/Etudes-et-statistiques/Le-DEPS)
+- Union européenne : [EUCelLEX](https://www.eucellex.eu/), [SOURCE](http://www.societalsecurity.net/), [SOWELL](http://www.erc-sowell.com/) 
