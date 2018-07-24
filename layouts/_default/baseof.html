@@ -5,8 +5,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ .Page.Title }} • {{ .Site.Title }}</title>
-  {{ $css := resources.Get "main.scss" | toCSS }}
-  <link rel="stylesheet" href="{{ $css.Permalink }}">
+  {{ $css := resources.Get "main.scss" | toCSS | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.Permalink }}" integrity="{{ $css.Data.Integrity }}">
   <base href="{{ "/" | relURL }}">
 </head>
 <body>
