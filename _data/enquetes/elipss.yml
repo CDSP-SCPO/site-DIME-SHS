@@ -182,6 +182,7 @@ items:
   date: 2013
   auteurs:
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2013.04.ea/
 - title: Enquête annuelle - vague 2
   date: 2014
   auteurs:
@@ -191,6 +192,7 @@ items:
   date: 2015
   auteurs:
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2015.03.ea/
 - title: Enquête annuelle - vague 4
   date: 2016
   auteurs:
@@ -322,26 +324,27 @@ items:
   - Alexis Spire
   - équipe PREFACE
   - équipe ELIPSS
-  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2013.06.pmti/
 - title: Pratiques et représentations face à l'État - vague 2
   date: 2017
   auteurs:
   - Alexis Spire
   - équipe PREFACE
   - équipe ELIPSS
-  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2015.07.pmti/
 - title: Pratiques numériques - vague 1
   date: 2013
   auteurs:
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2012.12.pn/
 - title: Pratiques numériques - vague 2
   date: 2014
   auteurs:
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2014.05.pn/
 - title: Pratiques numériques - vague 3
   date: 2015
   auteurs:
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2015.05.pn/
 - title: Pratiques numériques - vague 4
   date: 2016
   auteurs:
