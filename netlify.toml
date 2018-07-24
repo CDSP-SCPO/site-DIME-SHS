@@ -6,7 +6,7 @@
   HUGO_VERSION = "0.45"
 
   [context.deploy-preview]
-  command = "echo $DEPLOY_PRIME_URL && hugo --i18n-warnings --baseURL $DEPLOY_URL"
+  command = "hugo --i18n-warnings --baseURL $DEPLOY_PRIME_URL"
 
   [context.deploy-preview.environment]
   HUGO_IS_PREVIEW = "1"
