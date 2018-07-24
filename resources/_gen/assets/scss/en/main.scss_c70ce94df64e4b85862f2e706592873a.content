@@ -3977,10 +3977,10 @@ header[role="banner"] .secondary-navigation > ul {
 .bg-near-black {
   background-color: #111; }
 
-.bg-dark-gray {
+.bg-dark-gray, .slide:nth-of-type(2n) {
   background-color: #4A4A4A; }
 
-.bg-mid-gray {
+.bg-mid-gray, .slide:nth-of-type(3n) {
   background-color: rgba(74, 74, 74, 0.75); }
 
 .bg-gray {
@@ -6924,6 +6924,11 @@ header[role="banner"] .secondary-navigation li {
   Add custom styles here.
 
 */
+.slide {
+  height: 100vh; }
+  .slide:nth-of-type(1) {
+    background: #E6142D; }
+
 .list-inline {
   list-style: inline; }
 

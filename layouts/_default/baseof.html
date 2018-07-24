@@ -14,7 +14,8 @@
 <body>
 {{ partial "header.html" . }}
 
-<section>
+{{ block "main" . }}
+<section data-section="{{ .Page.Kind }}">
   <aside class="table-of-contents" role="aside">
     {{ block "toc" . }}{{ end }}
   </aside>
@@ -25,6 +26,7 @@
     {{ block "sidenotes" . }}{{ end }}
   </aside>
 </section>
+{{ end }}
 
 {{ partial "footer.html" . }}
 </body>
