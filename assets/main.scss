@@ -1,51 +1,26 @@
----
----
-
+@import 'variables';
 @import 'vendor/tachyons/tachyons.scss';
+@import 'enquetes';
+@import 'articles';
+@import 'header';
+@import 'markdown_styles';
 
+body {
+  @extend .sans-serif;
+  @extend .w-100;
+  @extend .bg-white;
+  color: $main-color;
 
-.article {
-  @extend .flex;
+  > section {
+    @extend .flex;
+    @extend .items-start;
 
-  .article__title {
-    @extend .f2;
-    @extend .mt0;
-    @extend .lh-title;
-  }
-
-  .article__body {
-    @extend .measure;
-    @extend .lh-copy;
-
-    h1 {
-      @extend .f3;
+    aside {
+      @extend .w-20;
     }
-    h2 {
-      @extend .f4;
+
+    main {
+      @extend .w-60;
     }
   }
-}
-
-.columns {
-  @extend .flex;
-  justify-content: space-between;
-  list-style-position: inside;
-  padding-left: 0;
-
-  > li {
-    padding-right: 1em;
-  }
-}
-
-.footnotes ol {
-  border-top: 1px solid gray;
-  margin-top: 1.5em;
-  padding-left: 0;
-}
-
-header[role="banner"] {
-  position: sticky;
-  top: 0;
-  transition: all .3s ease-in;
-  z-index: 1000;
 }
