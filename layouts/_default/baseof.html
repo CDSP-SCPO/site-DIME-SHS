@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ .Page.Title }} • {{ .Site.Title }}</title>
   {{ $css := resources.Get "main.scss" | toCSS | fingerprint }}
-  <link rel="stylesheet" href="{{ $css.Permalink }}" integrity="{{ $css.Data.Integrity }}">
+  <link rel="stylesheet" href="{{ $css.Permalink }}">
   <base href="{{ "/" | relURL }}">
 </head>
 <body>
