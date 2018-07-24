@@ -1,4 +1,14 @@
-main {
+@import 'components/links';
+
+.link-color {
+  color: $secondary-color;
+}
+
+.link-color-active {
+  color: saturate($secondary-color, 25%);
+}
+
+main, [role="main"] {
   h1 {
     @extend .f1;
   }
@@ -19,4 +29,12 @@ main {
   p, li {
     @extend .lh-copy;
   }
+
+  a {
+    @include link-state('link-color', 'link-color-active');
+  }
+}
+
+.measure-narrow-title {
+  max-width: 15em;
 }
