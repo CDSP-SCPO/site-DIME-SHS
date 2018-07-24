@@ -10,7 +10,7 @@
     {{ range .Site.Menus.main }}
     {{- $isActive := (or ($currentPage.IsMenuCurrent "main" .) (eq .Page $currentPage.Parent)) -}}
     {{ if $isActive }}{{ $activeMenu.Set "active" .Page }}{{ end }}
-    <li class="navigation-item{{ if $isActive }} navigation-item--active{{end}}">
+    <li class="navigation-item{{ if $isActive }} navigation-item--active active{{end}}">
       <a href="{{ (index .Page.Pages 0).URL }}">{{ .Title | default .Page.Title }}</a>
     </li>
     {{ end }}
@@ -22,7 +22,7 @@
     {{ range .Site.Menus.subnav }}
     {{- if eq ($activeMenu.Get "active") .Page.Parent -}}
     {{- $isActive := ($currentPage.IsMenuCurrent "subnav" .) -}}
-    <li class="navigation-item{{ if $isActive }} navigation-item--active{{end}}">
+    <li class="navigation-item{{ if $isActive }} navigation-item--active active{{end}}">
       <a href="{{ .URL }}">{{ .Title | default .Page.Title }}</a>
     </li>
     {{ end }}{{ end }}

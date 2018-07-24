@@ -1,0 +1,22 @@
+main {
+  h1 {
+    @extend .f1;
+  }
+  h2 {
+    @extend .f2;
+  }
+  h3 {
+    @extend .f3;
+  }
+  h4 {
+    @extend .f4;
+  }
+
+  h1, h2, h3, h4 {
+    @extend .lh-title;
+  }
+
+  p, li {
+    @extend .lh-copy;
+  }
+}

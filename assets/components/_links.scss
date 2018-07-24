@@ -1,0 +1,17 @@
+@mixin link-state ($normal, $active) {
+  @extend .#{$normal};
+
+  &:hover,
+  &:focus {
+    @extend .#{$active};
+  }
+}
+
+.toggle-u-nou {
+  @extend .no-underline;
+
+  &:hover,
+  &:focus {
+    @extend .underline;
+  }
+}
