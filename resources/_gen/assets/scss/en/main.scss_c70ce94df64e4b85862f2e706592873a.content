@@ -6985,6 +6985,9 @@ header[role="banner"] {
 .in-sidebar:last-child, .in-sidebar.last-item, .in-sidebar.last {
   bottom: 0; }
 
+.in-sidebar .footnote-return {
+  display: none; }
+
 [aria-describedby] + div {
   left: -500em; }
 

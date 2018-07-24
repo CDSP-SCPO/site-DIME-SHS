@@ -5,6 +5,7 @@ title = "DIME-SHS"
 disableKinds = ["taxonomyTerm", "taxonomy"]
 
 enableMissingTranslationPlaceholders = true
+FootnoteReturnLinkContents = "↩"
 
 [languages]
   [languages.fr]

@@ -5,10 +5,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ .Page.Title }} • {{ .Site.Title }}</title>
-  {{ $css := resources.Get "main.scss" | toCSS | fingerprint }}
-
+  {{ $css := resources.Get "main.scss" | toCSS }}
+  {{ $js := resources.Get "main.js" }}
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
   <link href="{{ $css.Permalink }}" rel="stylesheet" >
+  <script src="{{ $js.Permalink}}" type="module"></script>
   <base href="{{ "/" | relURL }}">
 </head>
 <body>
