@@ -7,6 +7,9 @@ disableKinds = ["taxonomyTerm", "taxonomy"]
 enableMissingTranslationPlaceholders = true
 FootnoteReturnLinkContents = "↩"
 
+[blackfriday]
+  hrefTargetBlank = true
+
 [languages]
   [languages.fr]
     languageName = "Français"
