@@ -1,0 +1,21 @@
+.article {
+  @extend .flex;
+
+  .article__title {
+    @extend .f2;
+    @extend .mt0;
+    @extend .lh-title;
+  }
+
+  .article__body {
+    @extend .measure;
+    @extend .lh-copy;
+
+    h1 {
+      @extend .f3;
+    }
+    h2 {
+      @extend .f4;
+    }
+  }
+}
