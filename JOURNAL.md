@@ -1,5 +1,29 @@
 # Journal de bord
 
+## Mardi 24 juillet 2018
+
+**Remarque de Thomas** : comme j'ai pas été productif du tout hier, je travaillerai un jour de plus (lundi ou mardi prochain).
+
+### Ce que j'ai fait
+
+- j'ai présenté le site et le travail de la semaine dernière à la réunion d'équipe — ils et elles ont trouvé ça chouette
+- j'ai mis en place le déploiement automatique des _pull request_
+- j'ai terminé de mettre en place Hugo comme nouveau générateur de contenu
+- j'ai mis en place la navigation principale et secondaire
+- j'ai mis en place la bascule de langue et la correspondance des traductions
+- j'ai commencé à m'attaquer à la page d'accueil
+
+### Ce que je compte faire demain
+
+- terminer la page d'accueil — sans l'animation
+- demander à Claire et Lisa où en est l'iconographie
+- m'attaquer à la page instruments
+- puis m'attaquer aux enquêtes
+
+### Ce qui me bloque ou me ralentit
+
+- c'est quoi l'iconographie ? **Réponse** : ce sont les illustrations qui décrivent les différents instruments
+
 ## Lundi 23 juillet 2018
 
 ### Ce que j'ai fait
