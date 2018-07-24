@@ -12,11 +12,9 @@
   <section role="main">
     <h1>Actualités</h1>
 
-    <ul>
-      {{ range (where .Pages "Section" "posts") }}
-      <li>{{ .Title }}</li>
-      {{ end }}
-    </ul>
+    {{- range first 5 (where .Pages "Section" "posts") -}}
+    {{ partial "contents/post.html" . }}
+    {{- end -}}
 </section>
 
   <aside class="sidenotes" role="aside">

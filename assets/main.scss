@@ -21,7 +21,8 @@ body {
       @extend .w-20;
     }
 
-    main {
+    main,
+    [role="main"] {
       @extend .w-60;
     }
   }

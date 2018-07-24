@@ -24,33 +24,36 @@ Le **Comité de pilotage** prend les décisions relatives à l’orientation str
 
 Le **conseil scientifique** est une instance consultative chargée de formuler des proposition d’orientations scientifiques et d’ajustements du projet. Il est composé de personnalités qui siègent en qualité d’experts indépendants et reconnus à l’international dans le domaine des méthodes en sciences sociales.
 
-    **BARRE LATERALE :**
-    - Dominique Joye (Président du CST), University of Lausanne, Suisse;
-    - Roxane Silberman, CNRS, France;
-    - Janet Heaton, University of Exeter, Grande Bretagne;
-    - Peter Lynn, University of Essex, Grande Bretagne;
-    - Bertrand Müller, CNRS, France;
-    - Marcel Das, CentERdata, Pays-Bas;
-    - Valérie Beaudouin, Telecom Paristech, France;
-    - Emiliano Grossman, Sciences Po, France;
-    - Zeynep Pehlivan, INA, France;
-    - Arja Kuula, Finish Social Sciences Data Archive, Finlande;
-    - Anders Munk, Aalborg University, Danemark;
+{{< sidebar >}}
+- Dominique Joye (Président du CST), University of Lausanne, Suisse;
+- Roxane Silberman, CNRS, France;
+- Janet Heaton, University of Exeter, Grande Bretagne;
+- Peter Lynn, University of Essex, Grande Bretagne;
+- Bertrand Müller, CNRS, France;
+- Marcel Das, CentERdata, Pays-Bas;
+- Valérie Beaudouin, Telecom Paristech, France;
+- Emiliano Grossman, Sciences Po, France;
+- Zeynep Pehlivan, INA, France;
+- Arja Kuula, Finish Social Sciences Data Archive, Finlande;
+- Anders Munk, Aalborg University, Danemark;
+{{< /sidebar >}}
 
 Chaque instrument est doté d’un **comité scientifique et technique** (CST). Il a pour fonction d’accompagner les développements, de sélectionner les projets à mettre en œuvre et discuter les choix scientifique et techniques propre à l’instrument. Organe indépendant, il est composé d’experts en méthodes qualitatives, quantitatives, ou web représentant un large panel de disciplines des sciences sociales.
 
-    **BARRE LATERALE :**
-    - [Le CST DIME-Quanti](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#790)
-    - [Le CST DIME-Quali](http://bequali.fr/fr/propos/#cst)
-    - [Le CST DIME-Web](http://dimeweb.dime-shs.sciences-po.fr/#team)
+{{< sidebar >}}
+- [Le CST DIME-Quanti](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#790)
+- [Le CST DIME-Quali](http://bequali.fr/fr/propos/#cst)
+- [Le CST DIME-Web](http://dimeweb.dime-shs.sciences-po.fr/#team)
+{{< /sidebar >}}
 
 # Equipe
 Les instruments de l’EquipEx DIME-SHS sont principalement développés et animés par les équipes du CDSP (beQuali et ELIPSS) et du médialab (DIME-Web) de Sciences Po.
 
-**BARRE LATERALE :**
+{{< sidebar >}}
 - [Equipe Elipss](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#813)
 - [Equipe beQuali](http://bequali.fr/fr/propos/#13687)
 - [Equipe Dime web](http://dimeweb.dime-shs.sciences-po.fr/#team)
+{{< /sidebar >}}
 
 Au sein de ces équipes, l’expertise technique d’ingénieurs spécialisés est mobilisée dans des domaines de compétence extrêmement variés :
 - méthodologie d’enquêtes,

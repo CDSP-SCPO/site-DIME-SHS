@@ -11,15 +11,24 @@
 main, [role="main"] {
   h1 {
     @extend .f1;
+    @extend .b;
   }
   h2 {
     @extend .f2;
+    @extend .mid-gray;
+    @extend .normal;
+    @extend .bb;
+    @extend .bw1;
+    @extend .b--mid-gray;
+    @extend .pb3;
   }
   h3 {
     @extend .f3;
+    @extend .normal;
   }
   h4 {
     @extend .f4;
+    @extend .normal;
   }
 
   h1, h2, h3, h4 {
