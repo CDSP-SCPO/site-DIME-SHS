@@ -2,7 +2,7 @@
 title: DIME-Quanti/Elipss
 ---
 
-L’instrument DIME-Quanti, au travers de son panel ELIPSS (Étude Longitudinale par Internet Pour les Sciences Sociales) est un dispositif de production d’enquêtes par questionnaire destiné à la communauté scientifique.
+L’instrument DIME-Quanti, au travers de son panel[^0] ELIPSS (Étude Longitudinale par Internet Pour les Sciences Sociales) est un dispositif de production d’enquêtes par questionnaire destiné à la communauté scientifique.
 Il repose sur un échantillon aléatoire de la population résidant en France métropolitaine dont
 les membres ont été équipés d’une tablette tactile connectée à Internet pour
 répondre à des enquêtes mensuelles.
@@ -36,6 +36,7 @@ Le dispositif ELIPSS repose sur des expertises variées : design d’enquêtes  
 Il s’agit aujourd’hui de mettre à profit ces différentes expertises pour accompagner de nouveaux projets pour la recherche.
 La poursuite du dispositif doit également mettre l’accent sur le développement de travaux méthodologiques pour continuer à améliorer les méthodes d’enquêtes par questionnaire.
 
+[^0]: Un panel est un ensemble d’individus qui, dans le cadre d’une étude spécifique, sera interrogé à plusieurs reprises et dont il est possible de suivre l’évolution des opinions et comportements. Le baromètre, même s’il est répété dans le temps, interrogera des personnes différentes à chaque administration.
 [^1]: Baker, R., Blumberg, S. J., Brick, J. M., Couper, M. P., Courtright, M., Dennis, J. M.…Zahs, D. (2010). Research synthesis: AAPOR report on online panels. Public Opinion Quarterly, 74, 711–781
 [^2]: Das, M., Ester, P., Kaczmirek, L., (2011), Social and Behavioral Research and the Internet: Advances in Applied Methods and Research Strategies, Routledge.
 [^4]: Blom A., Bosnjak M., Cornilleau A., Cousteaux A.-S., Das M., Douhou S., Krieger U. (2016), "A Comparison of Four Probability-Based Online and Mixed-Mode Panels in Europe", Social Science Computer Review, vol.34, n°1, p.8-25
