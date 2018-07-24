@@ -9,4 +9,4 @@
   command = "echo $DEPLOY_PRIME_URL && hugo --i18n-warnings --baseURL $DEPLOY_URL"
 
   [context.deploy-preview.environment]
-  HUGO_IS_PREVIEW = 1
+  HUGO_IS_PREVIEW = "1"
