@@ -43,4 +43,28 @@ Chaque instrument est doté d’un **comité scientifique et technique** (CST). 
     - [Le CST DIME-Web](http://dimeweb.dime-shs.sciences-po.fr/#team)
 
 # Equipe
-A COMPLETER
+Les instruments de l’EquipEx DIME-SHS sont principalement développés et animés par les équipes du CDSP (beQuali et ELIPSS) et du médialab (DIME-Web) de Sciences Po.
+
+**BARRE LATERALE :**
+- [Equipe Elipss](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#813)
+- [Equipe beQuali](http://bequali.fr/fr/propos/#13687)
+- [Equipe Dime web](http://dimeweb.dime-shs.sciences-po.fr/#team)
+
+Au sein de ces équipes, l’expertise technique d’ingénieurs spécialisés est mobilisée dans des domaines de compétence extrêmement variés :
+- méthodologie d’enquêtes,
+- conception et programmation de questionnaires,
+- gestion de terrain d’enquêtes,
+- suivi de panel,
+- traitement statistique,
+- archivage d’enquêtes,
+- édition numérique,
+- développement des méthodes,
+- mise en conformité avec les standards internationaux,
+- conception et développement d’applications web,
+- design web,
+- construction et maintenance d’une infrastructure informatique.
+
+A la diversité des compétences nécessaires au déploiement des instruments, s’ajoute la diversité des statuts, des employeurs et des canaux de financement des personnels.<br>
+Ainsi, depuis le début du projet fin 2011, près de 40 ingénieurs financés par la subvention ANR ont contribué à la mise en œuvre et au pilotage des instruments, soit l’équivalent temps plein travaillé de 12 personnes en moyenne par an.<br>
+La contribution massive et constante des personnels permanents du CDSP –employés du CNRS, de la FNSP ou du MESR – représente également un apport en moyens humains essentiel à la réussite du projet, notamment en ce qui concerne la coordination de DIME-SHS (responsable scientifique, responsables d’instrument, chef de projet « infrastructure et développement informatique »).<br>
+En complément, des apports additionnels à la subvention PIA émanant de partenaires du consortium DIME-SHS (EHESS, INED) ou d’autres organismes ayant souhaité soutenir l’EquipEx (USPC, INPES, Ministère de la Culture, etc.) ont permis tout au long du projet de financer des mois de travail supplémentaires en appui au fonctionnement des instruments.
