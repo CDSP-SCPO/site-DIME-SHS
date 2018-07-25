@@ -1,8 +1,7 @@
 ---
 title: Contributeurs
-menu:
-  subnav:
-    weight: 30
+menu: subnav
+weight: 30
 ---
 
 # Partenaires

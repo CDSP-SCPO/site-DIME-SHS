@@ -1,8 +1,7 @@
 ---
 title: Organisation
-menu:
-  subnav:
-    weight: 20
+menu: subnav
+weight: 20
 ---
 
 # Gouvernance

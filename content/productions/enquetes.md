@@ -1,9 +1,8 @@
 ---
 layout: enquetes
 title: Enquêtes
-menu:
-  subnav:
-    weight: 10
+menu: subnav
+weight: 10
 ---
 
 Foo bar
