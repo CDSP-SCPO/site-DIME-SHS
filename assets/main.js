@@ -23,6 +23,10 @@ $$('.footnotes').forEach(footnotes => {
 $$('.in-sidebar--from-content').forEach(sidenote => {
   const {previousElementSibling} = sidenote;
 
+  if (!previousElementSibling) {
+    return;
+  }
+
   sidenote.style.top = `${previousElementSibling.offsetTop}px`;
 });
 
