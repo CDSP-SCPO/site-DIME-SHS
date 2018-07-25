@@ -25,3 +25,20 @@ $$('.in-sidebar--from-content').forEach(sidenote => {
 
   sidenote.style.top = `${previousElementSibling.offsetTop}px`;
 });
+
+// realign
+$$('.in-sidebar').forEach((sidenote, i, all) => {
+  const previousAlike = all[i-1];
+
+  if (i === 0) {
+    return;
+  }
+
+  // move after if overlap
+  const yStart = sidenote.offsetTop;
+  const prevEnd = previousAlike.offsetTop + previousAlike.offsetHeight;
+  if (yStart <= prevEnd) {
+    sidenote.style.transform = `translateY(${prevEnd - yStart}px)`;
+    sidenote.classList.add('moved');
+  }
+});
