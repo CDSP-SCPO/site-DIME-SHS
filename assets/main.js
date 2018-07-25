@@ -1,10 +1,10 @@
-const footnotes = document.querySelector('.footnotes');
+const $$ = (selector) => Array.from(document.querySelectorAll(selector));
 
-
-if (footnotes) {
+// footnotes -> sidenotes
+$$('.footnotes').forEach(footnotes => {
   footnotes.setAttribute('hidden', true);
 
-  const notes = Array.from(document.querySelectorAll('.footnote-return'));
+  const notes = $$('.footnote-return');
 
   notes.forEach((el) => {
     const id = el.hash.slice(1);
@@ -17,4 +17,11 @@ if (footnotes) {
     target.insertAdjacentElement('afterend', newNode);
     target.setAttribute('hidden', true);
   });
-}
+});
+
+// content-notes -> sidenotes
+$$('.in-sidebar--from-content').forEach(sidenote => {
+  const {previousElementSibling} = sidenote;
+
+  sidenote.style.top = `${previousElementSibling.offsetTop}px`;
+});

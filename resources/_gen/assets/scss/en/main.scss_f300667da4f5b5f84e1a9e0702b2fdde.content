@@ -4022,10 +4022,10 @@ body > section [role="main"] {
 .bg-light-gray {
   background-color: #eee; }
 
-.bg-near-white {
+.bg-near-white, body {
   background-color: #f4f4f4; }
 
-.bg-white, header[role="banner"], body {
+.bg-white, header[role="banner"] {
   background-color: #fff; }
 
 .bg-transparent {
