@@ -3596,8 +3596,10 @@ body > section [role="main"] {
 .static {
   position: static; }
 
-.relative, .article,
-.page {
+.relative, .article .article__body,
+.article .page__body,
+.page .article__body,
+.page .page__body {
   position: relative; }
 
 .absolute, .in-sidebar, [aria-describedby] + div {
@@ -7057,14 +7059,14 @@ header[role="banner"] {
 .in-sidebar:last-child, .in-sidebar.last-item, .in-sidebar.last {
   bottom: 0; }
 
-.in-sidebar.in-sidebar--from-footnote {
-  margin-top: -1.5rem; }
-
 .in-sidebar .footnote-return {
   display: none; }
 
 [aria-describedby] + div {
   left: -500em; }
+
+p:empty {
+  display: none; }
 
 body {
   color: #4A4A4A; }
