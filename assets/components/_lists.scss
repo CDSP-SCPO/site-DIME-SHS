@@ -1,7 +1,39 @@
+@import 'components/links';
+
 .list-inline {
   list-style: inline;
 }
 
 .list-position-inside {
   list-style-position: inside;
+}
+
+.badges-list {
+  @extend .pa0;
+  @extend .mv4;
+
+  > ol,
+  > ul {
+    @extend .flex;
+    @extend .flex-wrap;
+    @extend .items-start;
+    @extend .list;
+
+    > li {
+      @extend .mr3;
+      @extend .mb3;
+    }
+
+    img {
+      @extend .ba;
+      @extend .bw1;
+      @extend .b--mid-gray;
+      @extend .br-100;
+      @extend .mw3;
+    }
+
+    a > img {
+      @extend .b--link-color;
+    }
+  }
 }
