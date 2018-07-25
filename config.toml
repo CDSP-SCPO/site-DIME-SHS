@@ -7,6 +7,7 @@ disableKinds = ["taxonomyTerm", "taxonomy"]
 enableMissingTranslationPlaceholders = true
 FootnoteReturnLinkContents = "↩"
 summaryLength = 1000
+canonifyURLs = true
 
 [blackfriday]
   hrefTargetBlank = true

@@ -1,0 +1,22 @@
+@import 'components/links';
+
+.table-of-contents {
+  position: sticky;
+  top: 0;
+
+}
+
+#TableOfContents {
+  @extend .mt4;
+  @extend .pt1;
+  @extend .ml4;
+
+  > ul, > ol {
+    @extend .list;
+  }
+
+  a {
+    @extend .lh-copy;
+    @include link-state('mid-gray', 'dark-gray');
+  }
+}

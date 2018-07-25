@@ -1,5 +1,7 @@
 ---
 title: Dime Web
+options:
+- toc
 menu:
   subnav:
     weight: 30
