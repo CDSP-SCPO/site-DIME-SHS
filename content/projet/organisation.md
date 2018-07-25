@@ -25,7 +25,7 @@ Le **Comité de pilotage** prend les décisions relatives à l’orientation str
 Le **conseil scientifique** est une instance consultative chargée de formuler des proposition d’orientations scientifiques et d’ajustements du projet. Il est composé de personnalités qui siègent en qualité d’experts indépendants et reconnus à l’international dans le domaine des méthodes en sciences sociales.
 
 {{< sidebar >}}
-Membres du conseil scientifique:
+Membres du conseil scientifique:<br>
 - Dominique Joye (Président du CST), University of Lausanne, Suisse;
 - Roxane Silberman, CNRS, France;
 - Janet Heaton, University of Exeter, Grande Bretagne;
@@ -42,18 +42,18 @@ Membres du conseil scientifique:
 Chaque instrument est doté d’un **comité scientifique et technique** (CST). Il a pour fonction d’accompagner les développements, de sélectionner les projets à mettre en œuvre et discuter les choix scientifique et techniques propre à l’instrument. Organe indépendant, il est composé d’experts en méthodes qualitatives, quantitatives, ou web représentant un large panel de disciplines des sciences sociales.
 
 {{< sidebar >}}
-- [Le CST ELIPSS](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#790)
-- [Le CST beQuali](http://bequali.fr/fr/propos/#cst)
-- [Le CST Dime Web](http://dimeweb.dime-shs.sciences-po.fr/#team)
+[Le CST ELIPSS](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#790)
+[Le CST beQuali](http://bequali.fr/fr/propos/#cst)
+[Le CST Dime Web](http://dimeweb.dime-shs.sciences-po.fr/#team)
 {{< /sidebar >}}
 
 # Equipe
 Les instruments de l’Equipex DIME-SHS sont principalement développés et animés par les équipes du CDSP (beQuali et ELIPSS) et du médialab (Dime Web) de Sciences Po.
 
 {{< sidebar >}}
-- [Equipe ELIPSS](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#813)
-- [Equipe beQuali](http://bequali.fr/fr/propos/#13687)
-- [Equipe Dime web](http://dimeweb.dime-shs.sciences-po.fr/#team)
+[Equipe ELIPSS](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#813)
+[Equipe beQuali](http://bequali.fr/fr/propos/#13687)
+[Equipe Dime web](http://dimeweb.dime-shs.sciences-po.fr/#team)
 {{< /sidebar >}}
 
 Au sein de ces équipes, l’expertise technique d’ingénieurs spécialisés est mobilisée dans des domaines de compétence extrêmement variés :
