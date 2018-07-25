@@ -7,10 +7,14 @@
 @import 'header';
 @import 'markdown_styles';
 
+p:empty {
+  display: none;
+}
+
 body {
   @extend .sans-serif;
   @extend .w-100;
-  @extend .bg-white;
+  @extend .bg-near-white;
   color: $main-color;
 
   > section {

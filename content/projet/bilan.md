@@ -34,12 +34,12 @@ Répartition projets déposés / sélectionnés
 
 # Evaluation de l’équipement
 
+Dans le cadre de son processus de suivi, l’Agence Nationale de la Recherche, opérateur de l’équipement, a fait réaliser en 2017 -après 6 années de fonctionnement- une analyse détaillée des pratiques et résultats du projet en s’appuyant sur un jury international indépendant[^1]. Le rapport fait état d’une évaluation globalement positive des instruments, notamment au vu des objectifs fixés en grande partie atteints. Le rapport note : _“One is impressed by the achievements of each of the three components of the DIME project”_. Il conclut également _“Overall, the three components of the DIME-SHS project are well on the way of reaching the initial targets of the project. The evaluation of each of these three components of the project is positive.”_
+
 {{< sidebar >}}
 [Rapport d'activité 2014](docs/DIME-SHS-BilanPerspectives2014.pdf)<br>
 [Rapport d'activité 2011-2016](docs/DIME-SHS-ScientificReport2016.pdf)
 {{< /sidebar >}}
-
-Dans le cadre de son processus de suivi, l’Agence Nationale de la Recherche, opérateur de l’équipement, a fait réaliser en 2017 -après 6 années de fonctionnement- une analyse détaillée des pratiques et résultats du projet en s’appuyant sur un jury international indépendant[^1]. Le rapport fait état d’une évaluation globalement positive des instruments, notamment au vu des objectifs fixés en grande partie atteints. Le rapport note : _“One is impressed by the achievements of each of the three components of the DIME project”_. Il conclut également _“Overall, the three components of the DIME-SHS project are well on the way of reaching the initial targets of the project. The evaluation of each of these three components of the project is positive.”_
 
 Le rapport souligne néanmoins un risque majeur qui tient à l’arrêt de la source principale du financement fin 2019 et précise que la pérennisation de l’équipement suppose que _“the main source of sustainability remains institutional support”_. En effet, puisqu’il semble difficile d’envisager une source de financement principale autre qu’institutionnelle, l’arrêt de ces crédits pourrait être un frein à la continuité des services offerts par DIME-SHS.
 

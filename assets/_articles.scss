@@ -3,8 +3,6 @@
 .article,
 .page {
   @extend .mb5;
-  @extend .relative;
-
   .article__title {
     @extend .f2;
     @extend .mt0;
@@ -13,6 +11,8 @@
 
   .article__body,
   .page__body {
+    @extend .relative;
+
     h1 {
       @extend .f2;
       @extend .mt4;
