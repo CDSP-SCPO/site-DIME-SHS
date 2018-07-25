@@ -1,5 +1,5 @@
 ---
-title: Elipss
+title: ELIPSS
 menu:
   subnav:
     weight: 20
@@ -12,12 +12,12 @@ répondre à des enquêtes mensuelles.
 
 # Objectifs
 DIME-Quanti vise à doter la communauté scientifique de moyens de production de données à partir des standards méthodologiques les plus élevés.<br>
-Grâce au tirage aléatoire de l’échantillon Elipss, les enquêtes académiques sélectionnées peuvent atteindre les critères de qualité statistique de référence. La dimension longitudinale de l’instrument est également un axe fort du dispositif puisqu’il existe très peu de données de panel de grande envergure pour la recherche en sciences sociales.<br>
+Grâce au tirage aléatoire de l’échantillon ELIPSS, les enquêtes académiques sélectionnées peuvent atteindre les critères de qualité statistique de référence. La dimension longitudinale de l’instrument est également un axe fort du dispositif puisqu’il existe très peu de données de panel de grande envergure pour la recherche en sciences sociales.<br>
 Un objectif secondaire du dispositif DIME-Quanti est le développement de la recherche méthodologique notamment grâce à l’accompagnement de projets innovants et d’expérimentations sur le design d’enquêtes.<br>
 Enfin, la documentation et la diffusion des données produites par l’instrument vise à favoriser leur réutilisation et participe ainsi à la cumulativité de la recherche.
 
 # Positionnement
-Elipss s’inscrit dans le paysage international des panels sur Internet à destination de la communauté académique.
+ELIPSS s’inscrit dans le paysage international des panels sur Internet à destination de la communauté académique.
 Le recours à Internet s’est très rapidement développé au cours des quinze dernières années dans le secteur des enquêtes marketing et des sondages d’opinion, principalement en raison des faibles coûts et de la rapidité de collecte que permet le web.<br>
 Dans un rapport sur les enquêtes par Internet (Baker[^1], 2010), l’AAPOR (American Association for Public Opinion Research) attire l’attention sur les biais importants des access ou opt-in panels (interrogation des internautes) lorsque l’on s’intéresse à la population générale. En effet, si l’accès à Internet s’est fortement accru depuis le début des années 2000, une partie de la population n’est toujours pas connectée. Par exemple en France en 2017, 15% de la population reste sans accès à domicile. Ce défaut de couverture exclut de fait une partie de la population des enquêtes en ligne. De plus, le recours des access ou opt-in panels à des échantillons non probabilistes remet en cause leur représentativité et l'extrapolation des résultats.<br>
 Pour autant, [les avantages des enquêtes par Internet](http://quanti.dime-shs.sciences-po.fr/fr/les-origines/) ont très tôt intéressé la recherche en sciences sociales notamment pour pallier la baisse des taux de réponse dans les enquêtes traditionnelles.<br>

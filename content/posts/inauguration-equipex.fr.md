@@ -1,5 +1,5 @@
 ---
-title:  Inauguration de l'equipex
+title:  Inauguration de l'Equipex
 ---
 
 Le 27 janvier 2012, le CDSP a organisé une journée de lancement pour son équipex DIME-SHS.

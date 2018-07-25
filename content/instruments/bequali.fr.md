@@ -1,5 +1,5 @@
 ---
-title: BeQuali
+title: beQuali
 menu:
   subnav:
     weight: 20

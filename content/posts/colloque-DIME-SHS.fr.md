@@ -30,7 +30,7 @@ Enseigner avec des données qualitatives existantes
 
 ## 11h45 - 12h30 / Utiliser Hyphe en sciences sociales : comment articuler les méthodes numériques avec d’autres aspects de sa recherche ?
 Des outils pour appréhender le Web comme terrain d’enquêtes
-- Benjamin Ooghe-Tabanou, Ingénieur de recherche médialab et Responsable de l'instrument DIME-Web
+- Benjamin Ooghe-Tabanou, Ingénieur de recherche médialab et Responsable de l'instrument Dime Web
 Controverses autour de la vaccination
 - Jérémy Ward, Chercheur associé au LIED PIERI et ingénieur d'étude à l'ORS-PACA
 - Paul Guille-Escuret, doctorant à l'Université Paris Sorbonne
@@ -49,7 +49,7 @@ Controverses autour de la vaccination
 
 # Public
 Le colloque DIME-SHS "Des instruments pour la recherche en sciences sociales" vise le large public des utilisateurs de données en sciences sociales que sont :
-- les chercheurs et enseignants-chercheurs, utilisateurs, intéressés ou curieux des instruments de Dime-SHS et des données produites par ces instruments (équipes de recherche, enseignants, etc.),
+- les chercheurs et enseignants-chercheurs, utilisateurs, intéressés ou curieux des instruments de DIME-SHS et des données produites par ces instruments (équipes de recherche, enseignants, etc.),
 - les ingénieur.e.s en production, traitement, analyse et représentation des données de la recherche en Sciences Humaines et Sociales,
 - les étudiant.e.s souhaitant poursuivre en cursus recherche,
 - les doctorant.e.s intéressés par les méthodes d’analyse de données,
@@ -63,4 +63,4 @@ Le colloque DIME-SHS "Des instruments pour la recherche en sciences sociales" es
 Le colloque DIME-SHS "Des instruments au service de la recherche en sciences sociales" aura lieu à la Société Nationale d'Horticulture de France, située au 84 rue de Grenelle, 75007 Paris.
 
 
-[^1]: L'equipex DIME-SHS a reçu le soutien de l’Agence Nationale pour la Recherche au titre du programme « Investissements d’avenir » (ANR-10-EQPX-19-01)
+[^1]: L'Equipex DIME-SHS a reçu le soutien de l’Agence Nationale pour la Recherche au titre du programme « Investissements d’avenir » (ANR-10-EQPX-19-01)

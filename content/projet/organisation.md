@@ -6,7 +6,7 @@ menu:
 ---
 
 # Gouvernance
-Coordonné par Sciences Po, l’equipex DIME-SHS est animé par Nicolas Sauger en qualité de Responsable scientifique et technique depuis septembre 2017. Il prend la suite de Laurent Lesnard qui a initié le projet en 2011.<br>
+Coordonné par Sciences Po, l’Equipex DIME-SHS est animé par Nicolas Sauger en qualité de Responsable scientifique et technique depuis septembre 2017. Il prend la suite de Laurent Lesnard qui a initié le projet en 2011.<br>
 La gouvernance de DIME-SHS est spécifiée dans [l’accord de consortium pour la réalisation du projet d’équipex](docs/DIME-SHS_ACCORDCONSORTIUM.pdf); elle est organisée autour de trois instances.
 
 Le **Comité de coordination** assure le suivi opérationnel transversal des activités des trois instruments. Il réunit:
@@ -42,16 +42,16 @@ Membres du conseil scientifique:
 Chaque instrument est doté d’un **comité scientifique et technique** (CST). Il a pour fonction d’accompagner les développements, de sélectionner les projets à mettre en œuvre et discuter les choix scientifique et techniques propre à l’instrument. Organe indépendant, il est composé d’experts en méthodes qualitatives, quantitatives, ou web représentant un large panel de disciplines des sciences sociales.
 
 {{< sidebar >}}
-- [Le CST DIME-Quanti](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#790)
-- [Le CST DIME-Quali](http://bequali.fr/fr/propos/#cst)
-- [Le CST DIME-Web](http://dimeweb.dime-shs.sciences-po.fr/#team)
+- [Le CST ELIPSS](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#790)
+- [Le CST beQuali](http://bequali.fr/fr/propos/#cst)
+- [Le CST Dime Web](http://dimeweb.dime-shs.sciences-po.fr/#team)
 {{< /sidebar >}}
 
 # Equipe
-Les instruments de l’EquipEx DIME-SHS sont principalement développés et animés par les équipes du CDSP (beQuali et ELIPSS) et du médialab (DIME-Web) de Sciences Po.
+Les instruments de l’Equipex DIME-SHS sont principalement développés et animés par les équipes du CDSP (beQuali et ELIPSS) et du médialab (Dime Web) de Sciences Po.
 
 {{< sidebar >}}
-- [Equipe Elipss](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#813)
+- [Equipe ELIPSS](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#813)
 - [Equipe beQuali](http://bequali.fr/fr/propos/#13687)
 - [Equipe Dime web](http://dimeweb.dime-shs.sciences-po.fr/#team)
 {{< /sidebar >}}
@@ -73,4 +73,4 @@ Au sein de ces équipes, l’expertise technique d’ingénieurs spécialisés e
 A la diversité des compétences nécessaires au déploiement des instruments, s’ajoute la diversité des statuts, des employeurs et des canaux de financement des personnels.<br>
 Ainsi, depuis le début du projet fin 2011, près de 40 ingénieurs financés par la subvention ANR ont contribué à la mise en œuvre et au pilotage des instruments, soit l’équivalent temps plein travaillé de 12 personnes en moyenne par an.<br>
 La contribution massive et constante des personnels permanents du CDSP –employés du CNRS, de la FNSP ou du MESR – représente également un apport en moyens humains essentiel à la réussite du projet, notamment en ce qui concerne la coordination de DIME-SHS (responsable scientifique, responsables d’instrument, chef de projet « infrastructure et développement informatique »).<br>
-En complément, des apports additionnels à la subvention PIA émanant de partenaires du consortium DIME-SHS (EHESS, INED) ou d’autres organismes ayant souhaité soutenir l’EquipEx (USPC, INPES, Ministère de la Culture, etc.) ont permis tout au long du projet de financer des mois de travail supplémentaires en appui au fonctionnement des instruments.
+En complément, des apports additionnels à la subvention PIA émanant de partenaires du consortium DIME-SHS (EHESS, INED) ou d’autres organismes ayant souhaité soutenir l’Equipex (USPC, INPES, Ministère de la Culture, etc.) ont permis tout au long du projet de financer des mois de travail supplémentaires en appui au fonctionnement des instruments.
