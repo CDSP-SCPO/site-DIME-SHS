@@ -18,5 +18,17 @@
   a {
     @extend .lh-copy;
     @include link-state('mid-gray', 'dark-gray');
+    @extend .toggle-u-nou;
+  }
+
+  .active {
+    @extend .b;
+
+    &:before {
+      content: "·";
+      @extend .absolute;
+      @extend .ml-n1;
+      @extend .lh-copy;
+    }
   }
 }

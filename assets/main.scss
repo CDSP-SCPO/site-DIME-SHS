@@ -12,6 +12,10 @@ p:empty {
   display: none;
 }
 
+.ml-n1 {
+  margin-left: -0.5em;
+}
+
 body {
   @extend .sans-serif;
   @extend .w-100;

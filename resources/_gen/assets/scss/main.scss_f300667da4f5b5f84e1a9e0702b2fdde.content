@@ -392,9 +392,47 @@ template {
 
 /*
 
-    VARIABLES
+   Tachyons
+   COLOR VARIABLES
+
+   Grayscale
+   - Solids
+   - Transparencies
+   Colors
 
 */
+/*
+
+  CUSTOM MEDIA QUERIES
+
+  Media query values can be changed to fit your own content.
+  There are no magic bullets when it comes to media query width values.
+  They should be declared in em units - and they should be set to meet
+  the needs of your content. You can also add additional media queries,
+  or remove some of the existing ones.
+
+  These media queries can be referenced like so:
+
+  @media (--breakpoint-not-small) {
+    .medium-and-larger-specific-style {
+      background-color: red;
+    }
+  }
+
+  @media (--breakpoint-medium) {
+    .medium-screen-specific-style {
+      background-color: red;
+    }
+  }
+
+  @media (--breakpoint-large) {
+    .large-and-larger-screen-specific-style {
+      background-color: red;
+    }
+  }
+
+*/
+/* Media Queries */
 /*
 
   DEBUG CHILDREN
@@ -424,19 +462,19 @@ template {
 
 */
 .debug-grid {
-  background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTExIDc5LjE1ODMyNSwgMjAxNS8wOS8xMC0wMToxMDoyMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MTRDOTY4N0U2N0VFMTFFNjg2MzZDQjkwNkQ4MjgwMEIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MTRDOTY4N0Q2N0VFMTFFNjg2MzZDQjkwNkQ4MjgwMEIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo3NjcyQkQ3NjY3QzUxMUU2QjJCQ0UyNDA4MTAwMjE3MSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo3NjcyQkQ3NzY3QzUxMUU2QjJCQ0UyNDA4MTAwMjE3MSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PsBS+GMAAAAjSURBVHjaYvz//z8DLsD4gcGXiYEAGBIKGBne//fFpwAgwAB98AaF2pjlUQAAAABJRU5ErkJggg==) repeat top left; }
+  background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAFElEQVR4AWPAC97/9x0eCsAEPgwAVLshdpENIxcAAAAASUVORK5CYII=) repeat top left; }
 
 .debug-grid-16 {
-  background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTExIDc5LjE1ODMyNSwgMjAxNS8wOS8xMC0wMToxMDoyMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6ODYyRjhERDU2N0YyMTFFNjg2MzZDQjkwNkQ4MjgwMEIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ODYyRjhERDQ2N0YyMTFFNjg2MzZDQjkwNkQ4MjgwMEIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo3NjcyQkQ3QTY3QzUxMUU2QjJCQ0UyNDA4MTAwMjE3MSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo3NjcyQkQ3QjY3QzUxMUU2QjJCQ0UyNDA4MTAwMjE3MSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PvCS01IAAABMSURBVHjaYmR4/5+BFPBfAMFm/MBgx8RAGWCn1AAmSg34Q6kBDKMGMDCwICeMIemF/5QawEipAWwUhwEjMDvbAWlWkvVBwu8vQIABAEwBCph8U6c0AAAAAElFTkSuQmCC) repeat top left; }
+  background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAMklEQVR4AWOgCLz/b0epAa6UGuBOqQHOQHLUgFEDnAbcBZ4UGwDOkiCnkIhdgNgNxAYAiYlD+8sEuo8AAAAASUVORK5CYII=) repeat top left; }
 
 .debug-grid-8-solid {
-  background: white url(data:image/jpeg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAAAAAAD/4QMxaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjYtYzExMSA3OS4xNTgzMjUsIDIwMTUvMDkvMTAtMDE6MTA6MjAgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE1IChNYWNpbnRvc2gpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkIxMjI0OTczNjdCMzExRTZCMkJDRTI0MDgxMDAyMTcxIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkIxMjI0OTc0NjdCMzExRTZCMkJDRTI0MDgxMDAyMTcxIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QjEyMjQ5NzE2N0IzMTFFNkIyQkNFMjQwODEwMDIxNzEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QjEyMjQ5NzI2N0IzMTFFNkIyQkNFMjQwODEwMDIxNzEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7/7gAOQWRvYmUAZMAAAAAB/9sAhAAbGhopHSlBJiZBQi8vL0JHPz4+P0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHAR0pKTQmND8oKD9HPzU/R0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0dHR0f/wAARCAAIAAgDASIAAhEBAxEB/8QAWQABAQAAAAAAAAAAAAAAAAAAAAYBAQEAAAAAAAAAAAAAAAAAAAIEEAEBAAMBAAAAAAAAAAAAAAABADECA0ERAAEDBQAAAAAAAAAAAAAAAAARITFBUWESIv/aAAwDAQACEQMRAD8AoOnTV1QTD7JJshP3vSM3P//Z) repeat top left; }
+  background: white url(data:image/gif;base64,R0lGODdhCAAIAPEAAADw/wDx/////wAAACwAAAAACAAIAAACDZQvgaeb/lxbAIKA8y0AOw==) repeat top left; }
 
 .debug-grid-16-solid {
-  background: white url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTExIDc5LjE1ODMyNSwgMjAxNS8wOS8xMC0wMToxMDoyMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NzY3MkJEN0U2N0M1MTFFNkIyQkNFMjQwODEwMDIxNzEiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NzY3MkJEN0Y2N0M1MTFFNkIyQkNFMjQwODEwMDIxNzEiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo3NjcyQkQ3QzY3QzUxMUU2QjJCQ0UyNDA4MTAwMjE3MSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo3NjcyQkQ3RDY3QzUxMUU2QjJCQ0UyNDA4MTAwMjE3MSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pve6J3kAAAAzSURBVHjaYvz//z8D0UDsMwMjSRoYP5Gq4SPNbRjVMEQ1fCRDg+in/6+J1AJUxsgAEGAA31BAJMS0GYEAAAAASUVORK5CYII=) repeat top left; }
+  background: white url(data:image/gif;base64,R0lGODdhEAAQAPEAAADw/wDx/xXy/////ywAAAAAEAAQAAACIZyPKckYDQFsb6ZqD85jZ2+BkwiRFKehhqQCQgDHcgwEBQA7) repeat top left; }
 
 /*
-
+ 
   BOX SIZING
 
 */
@@ -1179,13 +1217,13 @@ img {
   border-radius: 0; }
 
 .br1 {
-  border-radius: 0.125rem; }
+  border-radius: .125rem; }
 
 .br2 {
-  border-radius: 0.25rem; }
+  border-radius: .25rem; }
 
 .br3 {
-  border-radius: 0.5rem; }
+  border-radius: .5rem; }
 
 .br4 {
   border-radius: 1rem; }
@@ -1217,11 +1255,11 @@ img {
   .br0-ns {
     border-radius: 0; }
   .br1-ns {
-    border-radius: 0.125rem; }
+    border-radius: .125rem; }
   .br2-ns {
-    border-radius: 0.25rem; }
+    border-radius: .25rem; }
   .br3-ns {
-    border-radius: 0.5rem; }
+    border-radius: .5rem; }
   .br4-ns {
     border-radius: 1rem; }
   .br-100-ns {
@@ -1245,11 +1283,11 @@ img {
   .br0-m {
     border-radius: 0; }
   .br1-m {
-    border-radius: 0.125rem; }
+    border-radius: .125rem; }
   .br2-m {
-    border-radius: 0.25rem; }
+    border-radius: .25rem; }
   .br3-m {
-    border-radius: 0.5rem; }
+    border-radius: .5rem; }
   .br4-m {
     border-radius: 1rem; }
   .br-100-m {
@@ -1273,11 +1311,11 @@ img {
   .br0-l {
     border-radius: 0; }
   .br1-l {
-    border-radius: 0.125rem; }
+    border-radius: .125rem; }
   .br2-l {
-    border-radius: 0.25rem; }
+    border-radius: .25rem; }
   .br3-l {
-    border-radius: 0.5rem; }
+    border-radius: .5rem; }
   .br4-l {
     border-radius: 1rem; }
   .br-100-l {
@@ -1394,13 +1432,13 @@ img {
 .article .article__title h2,
 .page .page__body h1,
 .page .article__title h2 {
-  border-width: 0.125rem; }
+  border-width: .125rem; }
 
 .bw2 {
-  border-width: 0.25rem; }
+  border-width: .25rem; }
 
 .bw3 {
-  border-width: 0.5rem; }
+  border-width: .5rem; }
 
 .bw4 {
   border-width: 1rem; }
@@ -1425,11 +1463,11 @@ img {
   .bw0-ns {
     border-width: 0; }
   .bw1-ns {
-    border-width: 0.125rem; }
+    border-width: .125rem; }
   .bw2-ns {
-    border-width: 0.25rem; }
+    border-width: .25rem; }
   .bw3-ns {
-    border-width: 0.5rem; }
+    border-width: .5rem; }
   .bw4-ns {
     border-width: 1rem; }
   .bw5-ns {
@@ -1447,11 +1485,11 @@ img {
   .bw0-m {
     border-width: 0; }
   .bw1-m {
-    border-width: 0.125rem; }
+    border-width: .125rem; }
   .bw2-m {
-    border-width: 0.25rem; }
+    border-width: .25rem; }
   .bw3-m {
-    border-width: 0.5rem; }
+    border-width: .5rem; }
   .bw4-m {
     border-width: 1rem; }
   .bw5-m {
@@ -1469,11 +1507,11 @@ img {
   .bw0-l {
     border-width: 0; }
   .bw1-l {
-    border-width: 0.125rem; }
+    border-width: .125rem; }
   .bw2-l {
-    border-width: 0.25rem; }
+    border-width: .25rem; }
   .bw3-l {
-    border-width: 0.5rem; }
+    border-width: .5rem; }
   .bw4-l {
     border-width: 1rem; }
   .bw5-l {
@@ -1868,9 +1906,9 @@ img {
     it    = inline-table
     t     = table
     tc    = table-cell
-    tr    = table-row
-    tcol  = table-column
-    tcolg = table-column-group
+    t-row          = table-row
+    t-columm       = table-column
+    t-column-group = table-column-group
 
    Media Query Extensions:
      -ns = not-small
@@ -2147,18 +2185,6 @@ header[role="banner"] .secondary-navigation li {
 .order-last {
   order: 99999; }
 
-.flex-grow-0 {
-  flex-grow: 0; }
-
-.flex-grow-1 {
-  flex-grow: 1; }
-
-.flex-shrink-0 {
-  flex-shrink: 0; }
-
-.flex-shrink-1 {
-  flex-shrink: 1; }
-
 @media screen and (min-width: 30em) {
   .flex-ns {
     display: flex; }
@@ -2247,15 +2273,7 @@ header[role="banner"] .secondary-navigation li {
   .order-8-ns {
     order: 8; }
   .order-last-ns {
-    order: 99999; }
-  .flex-grow-0-ns {
-    flex-grow: 0; }
-  .flex-grow-1-ns {
-    flex-grow: 1; }
-  .flex-shrink-0-ns {
-    flex-shrink: 0; }
-  .flex-shrink-1-ns {
-    flex-shrink: 1; } }
+    order: 99999; } }
 
 @media screen and (min-width: 30em) and (max-width: 60em) {
   .flex-m {
@@ -2345,15 +2363,7 @@ header[role="banner"] .secondary-navigation li {
   .order-8-m {
     order: 8; }
   .order-last-m {
-    order: 99999; }
-  .flex-grow-0-m {
-    flex-grow: 0; }
-  .flex-grow-1-m {
-    flex-grow: 1; }
-  .flex-shrink-0-m {
-    flex-shrink: 0; }
-  .flex-shrink-1-m {
-    flex-shrink: 1; } }
+    order: 99999; } }
 
 @media screen and (min-width: 60em) {
   .flex-l {
@@ -2443,15 +2453,7 @@ header[role="banner"] .secondary-navigation li {
   .order-8-l {
     order: 8; }
   .order-last-l {
-    order: 99999; }
-  .flex-grow-0-l {
-    flex-grow: 0; }
-  .flex-grow-1-l {
-    flex-grow: 1; }
-  .flex-shrink-0-l {
-    flex-shrink: 0; }
-  .flex-shrink-1-l {
-    flex-shrink: 1; } }
+    order: 99999; } }
 
 /*
 
@@ -2526,10 +2528,10 @@ header[role="banner"] .secondary-navigation li {
 
 */
 .sans-serif, body {
-  font-family: Open sans, -apple-system, BlinkMacSystemFont, helvetica, "helvetica neue", arial, sans-serif; }
+  font-family: -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif; }
 
 .serif {
-  font-family: georgia, serif; }
+  font-family: georgia, times, serif; }
 
 .system-sans-serif {
   font-family: sans-serif; }
@@ -2639,7 +2641,7 @@ code, .code {
 
 .b, main h1, [role="main"] h1, header[role="banner"] .main-navigation .active,
 header[role="banner"] .language-picker .active,
-header[role="banner"] .secondary-navigation .active {
+header[role="banner"] .secondary-navigation .active, #TableOfContents .active {
   font-weight: bold; }
 
 .fw1 {
@@ -2962,37 +2964,37 @@ header[role="banner"] .secondary-navigation .active {
 
 */
 .tracked {
-  letter-spacing: 0.1em; }
+  letter-spacing: .1em; }
 
 .tracked-tight {
-  letter-spacing: -0.05em; }
+  letter-spacing: -.05em; }
 
 .tracked-mega {
-  letter-spacing: 0.25em; }
+  letter-spacing: .25em; }
 
 @media screen and (min-width: 30em) {
   .tracked-ns {
-    letter-spacing: 0.1em; }
+    letter-spacing: .1em; }
   .tracked-tight-ns {
-    letter-spacing: -0.05em; }
+    letter-spacing: -.05em; }
   .tracked-mega-ns {
-    letter-spacing: 0.25em; } }
+    letter-spacing: .25em; } }
 
 @media screen and (min-width: 30em) and (max-width: 60em) {
   .tracked-m {
-    letter-spacing: 0.1em; }
+    letter-spacing: .1em; }
   .tracked-tight-m {
-    letter-spacing: -0.05em; }
+    letter-spacing: -.05em; }
   .tracked-mega-m {
-    letter-spacing: 0.25em; } }
+    letter-spacing: .25em; } }
 
 @media screen and (min-width: 60em) {
   .tracked-l {
-    letter-spacing: 0.1em; }
+    letter-spacing: .1em; }
   .tracked-tight-l {
-    letter-spacing: -0.05em; }
+    letter-spacing: -.05em; }
   .tracked-mega-l {
-    letter-spacing: 0.25em; } }
+    letter-spacing: .25em; } }
 
 /*
 
@@ -3018,7 +3020,7 @@ header[role="banner"] .secondary-navigation .active {
 .page .article__body p,
 .page .article__body li,
 .page .page__body p,
-.page .page__body li, #TableOfContents a {
+.page .page__body li, #TableOfContents a, #TableOfContents .active:before {
   line-height: 1.5; }
 
 @media screen and (min-width: 30em) {
@@ -3228,39 +3230,39 @@ header[role="banner"] .secondary-navigation > ul, #TableOfContents > ul, #TableO
    Base:
      w = width
 
-     Modifiers
-       1 = 1st step in width scale
-       2 = 2nd step in width scale
-       3 = 3rd step in width scale
-       4 = 4th step in width scale
-       5 = 5th step in width scale
+   Modifiers
+     1 = 1st step in width scale
+     2 = 2nd step in width scale
+     3 = 3rd step in width scale
+     4 = 4th step in width scale
+     5 = 5th step in width scale
 
-       -10  = literal value 10%
-       -20  = literal value 20%
-       -25  = literal value 25%
-       -30  = literal value 30%
-       -33  = literal value 33%
-       -34  = literal value 34%
-       -40  = literal value 40%
-       -50  = literal value 50%
-       -60  = literal value 60%
-       -70  = literal value 70%
-       -75  = literal value 75%
-       -80  = literal value 80%
-       -90  = literal value 90%
-       -100 = literal value 100%
+     -10  = literal value 10%
+     -20  = literal value 20%
+     -25  = literal value 25%
+     -30  = literal value 30%
+     -33  = literal value 33%
+     -34  = literal value 34%
+     -40  = literal value 40%
+     -50  = literal value 50%
+     -60  = literal value 60%
+     -70  = literal value 70%
+     -75  = literal value 75%
+     -80  = literal value 80%
+     -90  = literal value 90%
+     -100 = literal value 100%
 
-       -third      = 100% / 3 (Not supported in opera mini or IE8)
-       -two-thirds = 100% / 1.5 (Not supported in opera mini or IE8)
-       -auto       = string value auto
+     -third      = 100% / 3 (Not supported in opera mini or IE8)
+     -two-thirds = 100% / 1.5 (Not supported in opera mini or IE8)
+     -auto       = string value auto
 
 
-     Media Query Extensions:
-       -ns = not-small
-       -m  = medium
-       -l  = large
+   Media Query Extensions:
+     -ns = not-small
+     -m  = medium
+     -l  = large
 
-  */
+*/
 /* Width Scale */
 .w1 {
   width: 1rem; }
@@ -3611,7 +3613,7 @@ body > section [role="main"] {
 .page .page__body {
   position: relative; }
 
-.absolute, .in-sidebar, [aria-describedby] + div {
+.absolute, #TableOfContents .active:before, .in-sidebar, [aria-describedby] + div {
   position: absolute; }
 
 .fixed {
@@ -3772,8 +3774,8 @@ body > section [role="main"] {
    Docs: http://tachyons.io/docs/themes/skins/
 
    Classes for setting foreground and background colors on elements.
-   If you haven't declared a border color, but set border on an element, it will
-   be set to the current text color.
+   If you haven't declared a border color, but set border on an element, it will 
+   be set to the current text color. 
 
 */
 /* Text colors */
@@ -3864,7 +3866,7 @@ body > section [role="main"] {
 .light-gray, header[role="banner"] .secondary-navigation a {
   color: #eee; }
 
-.near-white, .slides .slide {
+.near-white, .slides .slide, header[role="banner"] .secondary-navigation {
   color: #f4f4f4; }
 
 .white, header[role="banner"] .secondary-navigation a:hover, header[role="banner"] .secondary-navigation a:focus {
@@ -4120,13 +4122,13 @@ body > section [role="main"] {
 .bg-inherit {
   background-color: inherit; }
 
-/*
-
+/* 
+  
    SKINS:PSEUDO
 
    Customize the color of an element when
    it is focused or hovered over.
-
+ 
  */
 .hover-black:hover,
 .hover-black:focus {
@@ -6165,10 +6167,10 @@ header[role="banner"] .secondary-navigation li {
 .strike {
   text-decoration: line-through; }
 
-.underline, .toggle-u-nou:hover, header[role="banner"] a:hover, .toggle-u-nou:focus, header[role="banner"] a:focus {
+.underline, .toggle-u-nou:hover, header[role="banner"] a:hover, #TableOfContents a:hover, .toggle-u-nou:focus, header[role="banner"] a:focus, #TableOfContents a:focus {
   text-decoration: underline; }
 
-.no-underline, .toggle-u-nou, header[role="banner"] a {
+.no-underline, .toggle-u-nou, header[role="banner"] a, #TableOfContents a {
   text-decoration: none; }
 
 @media screen and (min-width: 30em) {
@@ -6207,6 +6209,7 @@ header[role="banner"] .secondary-navigation li {
     l = left
     r = right
     c = center
+    j = justify
 
   Media Query Extensions:
     -ns = not-small
@@ -6223,13 +6226,18 @@ header[role="banner"] .secondary-navigation li {
 .tc {
   text-align: center; }
 
+.tj {
+  text-align: justify; }
+
 @media screen and (min-width: 30em) {
   .tl-ns {
     text-align: left; }
   .tr-ns {
     text-align: right; }
   .tc-ns {
-    text-align: center; } }
+    text-align: center; }
+  .tj-ns {
+    text-align: justify; } }
 
 @media screen and (min-width: 30em) and (max-width: 60em) {
   .tl-m {
@@ -6237,7 +6245,9 @@ header[role="banner"] .secondary-navigation li {
   .tr-m {
     text-align: right; }
   .tc-m {
-    text-align: center; } }
+    text-align: center; }
+  .tj-m {
+    text-align: justify; } }
 
 @media screen and (min-width: 60em) {
   .tl-l {
@@ -6245,7 +6255,9 @@ header[role="banner"] .secondary-navigation li {
   .tr-l {
     text-align: right; }
   .tc-l {
-    text-align: center; } }
+    text-align: center; }
+  .tj-l {
+    text-align: justify; } }
 
 /*
 
@@ -6324,6 +6336,7 @@ header[role="banner"] .secondary-navigation li {
      4 = 4th step in size scale
      5 = 5th step in size scale
      6 = 6th step in size scale
+     7 = 7th step in size scale
 
    Media Query Extensions:
      -ns = not-small
@@ -6367,11 +6380,12 @@ header[role="banner"] .secondary-navigation li {
   font-size: 1rem; }
 
 .f6, .in-sidebar {
-  font-size: 0.875rem; }
+  font-size: .875rem; }
 
 .f7 {
-  font-size: 0.75rem; }
+  font-size: .75rem; }
 
+/* Small and hard to read for many people so use with extreme caution */
 @media screen and (min-width: 30em) {
   .f-6-ns,
   .f-headline-ns {
@@ -6390,9 +6404,9 @@ header[role="banner"] .secondary-navigation li {
   .f5-ns {
     font-size: 1rem; }
   .f6-ns {
-    font-size: 0.875rem; }
+    font-size: .875rem; }
   .f7-ns {
-    font-size: 0.75rem; } }
+    font-size: .75rem; } }
 
 @media screen and (min-width: 30em) and (max-width: 60em) {
   .f-6-m,
@@ -6412,9 +6426,9 @@ header[role="banner"] .secondary-navigation li {
   .f5-m {
     font-size: 1rem; }
   .f6-m {
-    font-size: 0.875rem; }
+    font-size: .875rem; }
   .f7-m {
-    font-size: 0.75rem; } }
+    font-size: .75rem; } }
 
 @media screen and (min-width: 60em) {
   .f-6-l,
@@ -6434,9 +6448,9 @@ header[role="banner"] .secondary-navigation li {
   .f5-l {
     font-size: 1rem; }
   .f6-l {
-    font-size: 0.875rem; }
+    font-size: .875rem; }
   .f7-l {
-    font-size: 0.75rem; } }
+    font-size: .75rem; } }
 
 /*
 
@@ -6835,11 +6849,11 @@ header[role="banner"] .secondary-navigation li {
 .pointer:hover {
   cursor: pointer; }
 
-/*
+/* 
    Add shadow on hover.
 
-   Performant box-shadow animation pattern from
-   http://tobiasahlin.com/blog/how-to-animate-box-shadow/
+   Performant box-shadow animation pattern from 
+   http://tobiasahlin.com/blog/how-to-animate-box-shadow/ 
 */
 .shadow-hover {
   cursor: pointer;
@@ -6863,7 +6877,7 @@ header[role="banner"] .secondary-navigation li {
 .shadow-hover:focus::after {
   opacity: 1; }
 
-/* Combine with classes in skins and skins-pseudo for
+/* Combine with classes in skins and skins-pseudo for 
  * many different transition possibilities. */
 .bg-animate,
 .bg-animate:hover,
@@ -6958,7 +6972,7 @@ header[role="banner"] .secondary-navigation li {
 .nested-headline-line-height h4,
 .nested-headline-line-height h5,
 .nested-headline-line-height h6 {
-  line-height: 1.25rem; }
+  line-height: 1.25; }
 
 .nested-list-reset ul,
 .nested-list-reset ol {
@@ -6967,7 +6981,7 @@ header[role="banner"] .secondary-navigation li {
   list-style-type: none; }
 
 .nested-copy-indent p + p {
-  text-indent: 0.1em;
+  text-indent: 1em;
   margin-top: 0;
   margin-bottom: 0; }
 
@@ -7073,7 +7087,7 @@ header[role="banner"] {
   header[role="banner"] .main-navigation .active:before,
   header[role="banner"] .language-picker .active:before,
   header[role="banner"] .secondary-navigation .active:before {
-    content: "•"; }
+    content: "·"; }
 
 .break-word, main a, [role="main"] a {
   overflow-wrap: break-word; }
@@ -7081,6 +7095,9 @@ header[role="banner"] {
 .table-of-contents {
   position: sticky;
   top: 0; }
+
+#TableOfContents .active:before {
+  content: "·"; }
 
 .columns {
   justify-content: space-between;
@@ -7104,6 +7121,9 @@ header[role="banner"] {
 
 p:empty {
   display: none; }
+
+.ml-n1, #TableOfContents .active:before {
+  margin-left: -0.5em; }
 
 body {
   color: #4A4A4A; }
