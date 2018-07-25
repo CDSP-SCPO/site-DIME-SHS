@@ -3,5 +3,14 @@
     <h2>{{ .Title }}</h2>
   </header>
 
+  {{ if .Truncated }}
+  <div class="article__body article__body--excerpt">
+    {{ .Summary }}
+
+    <p class="cta"><button>Lire la suite…</button></p>
+  </div>
+  <div class="article__body" hidden>{{ .Content }}</div>
+  {{ else }}
   <div class="article__body">{{ .Content }}</div>
+  {{ end }}
 </article>
