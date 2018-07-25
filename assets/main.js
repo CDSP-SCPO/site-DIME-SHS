@@ -12,7 +12,7 @@ $$('.footnotes').forEach(footnotes => {
     const newNode = document.createElement('div');
     newNode.classList.add('in-sidebar');
     newNode.classList.add('in-sidebar--from-footnote');
-    newNode.style.top = `${target.parentElement.offsetTop}px`;
+    newNode.style.top = `${target.offsetTop}px`;
 
     newNode.innerHTML = el.parentElement.innerHTML;
     target.insertAdjacentElement('afterend', newNode);
@@ -41,7 +41,7 @@ $$('.in-sidebar').forEach((sidenote, i, all) => {
   // move after if overlap
   const yStart = sidenote.offsetTop;
   const prevEnd = previousAlike.offsetTop + previousAlike.offsetHeight;
-
+  console.log('%s <= %s', yStart, prevEnd)
   if (yStart <= prevEnd) {
     sidenote.style.transform = `translateY(${prevEnd - yStart}px)`;
     sidenote.classList.add('moved');
