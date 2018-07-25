@@ -15,3 +15,7 @@
     @extend .underline;
   }
 }
+
+.break-word {
+  overflow-wrap: break-word;
+}

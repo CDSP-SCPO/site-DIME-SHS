@@ -6982,6 +6982,9 @@ header[role="banner"] .secondary-navigation li {
   Add custom styles here.
 
 */
+.break-word, main a, [role="main"] a {
+  overflow-wrap: break-word; }
+
 .link-color, main a, [role="main"] a {
   color: #E6142D; }
 
@@ -7017,6 +7020,9 @@ header[role="banner"] .secondary-navigation li {
 .page .article__body p:empty:last-child,
 .page .page__body p:empty:last-child {
   display: none; }
+
+.break-word, main a, [role="main"] a {
+  overflow-wrap: break-word; }
 
 .list-inline {
   list-style: inline; }

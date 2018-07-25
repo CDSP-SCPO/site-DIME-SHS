@@ -36,6 +36,7 @@ main, [role="main"] {
 
   a {
     @include link-state('link-color', 'link-color-active');
+    @extend .break-word;
   }
 }
 
