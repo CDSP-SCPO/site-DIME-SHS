@@ -1,1 +1,1 @@
-# site-DIME-SHS
+# DIME-SHS

@@ -7,7 +7,7 @@ Depuis 2011, l'Equipex DIME-SHS[^1] a innové pour mettre en place de nouveaux i
 
 Le 28 septembre 2018, le colloque DIME-SHS "Des instruments pour la recherche en Sciences Sociales" permettra de partager analyses et résultats issus des données des instruments de l’équipement.
 
----
+<!--more-->
 
 # Programme
 ## 9h30 - 10h00 / Conférence d'introduction

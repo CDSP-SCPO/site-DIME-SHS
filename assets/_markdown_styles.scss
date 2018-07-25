@@ -13,3 +13,30 @@
   margin-top: 1.5em;
   padding-left: 0;
 }
+
+.in-sidebar {
+  @extend .absolute;
+  @extend .right-0;
+  @extend .w-30;
+  @extend .f6;
+  @extend .mid-gray;
+
+  &:last-child,
+  &.last-item,
+  &.last {
+    bottom: 0;
+  }
+
+  &.in-sidebar--from-footnote {
+    margin-top: -1.5rem;
+  }
+
+  .footnote-return {
+    display: none;
+  }
+}
+
+[aria-describedby] + div {
+  @extend .absolute;
+  left: -500em;
+}

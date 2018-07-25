@@ -1,9 +1,8 @@
 ---
-title: Dime-Quali/beQuali
+title: BeQuali
 menu:
   subnav:
     weight: 20
-    title: BeQuali
 ---
 
 L’instrument beQuali / DIME-QUALI est une banque d’enquêtes qualitatives en sciences sociales à disposition de la communauté de recherche et d’enseignement. Le catalogue propose des données brutes, collectées à partir de méthodes qualitatives (observations, entretiens, focus group, etc.), ainsi que des matériaux d’analyse et de mise en perspective du processus de recherche visant à faciliter la prise en main de ces archives.

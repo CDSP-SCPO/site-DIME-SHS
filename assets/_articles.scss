@@ -1,5 +1,9 @@
-.article {
-  @extend .flex;
+@import 'components/lists';
+
+.article,
+.page {
+  @extend .mb5;
+  @extend .relative;
 
   .article__title {
     @extend .f2;
@@ -7,15 +11,44 @@
     @extend .lh-title;
   }
 
-  .article__body {
-    @extend .measure;
-    @extend .lh-copy;
-
+  .article__body,
+  .page__body {
     h1 {
-      @extend .f3;
+      @extend .f2;
+      @extend .mt4;
     }
     h2 {
-      @extend .f4;
+      @extend .f3;
+      @extend .bw0;
+      @extend .pb0;
+      @extend .mt4;
+      @extend .measure;
+    }
+  }
+
+  .page__body h1,
+  .article__title h2 {
+    @extend .mid-gray;
+    @extend .b--mid-gray;
+    @extend .bb;
+    @extend .bw1;
+    @extend .pb3;
+  }
+
+  .article__body,
+  .page__body {
+    ol, ul {
+      @extend .pa0;
+      @extend .list-position-inside;
+    }
+
+    p, li {
+      @extend .measure-wide;
+      @extend .lh-copy;
+    }
+
+    p:empty:last-child {
+      display: none;
     }
   }
 }

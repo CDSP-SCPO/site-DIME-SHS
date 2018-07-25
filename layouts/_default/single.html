@@ -1,9 +1,12 @@
 {{ define "content" }}
 
-<h1>{{ .Page.Title }}</h1>
+<article class="{{ .Kind }} section--{{ .Section }}">
+  <header class="page__title">
+    <h1>{{ .Title }}</h1>
+  </header>
 
-<div>
-  {{ .Page.Content }}
-</div>
+  <div class="page__body">{{ .Content }}</div>
+</article>
+
 
 {{ end }}

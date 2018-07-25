@@ -1,0 +1,33 @@
+sudo: false
+language: cpp
+
+env:
+  HUGO_FLAVOUR: hugo
+  HUGO_VERSION: "0.45"
+  PREPROD_URL: "https://cdsp-scpo.github.io/site-DIME-SHS/"
+  PROD_URL: "https://www.sciencespo.fr/dime-shs/"
+
+install:
+- wget --no-clobber https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/${HUGO_FLAVOUR}_${HUGO_VERSION}_Linux-64bit.tar.gz
+- tar -xzf ${HUGO_FLAVOUR}_${HUGO_VERSION}_Linux-64bit.tar.gz
+- rm ${HUGO_FLAVOUR}_${HUGO_VERSION}_Linux-64bit.tar.gz
+
+script:
+- ./hugo -b $PREPROD_URL -d public/preprod
+- ./hugo -b $PROD_URL -d public/prod
+
+deploy:
+- provider: pages
+  skip-cleanup: true
+  github-token: "$GH_TOKEN"
+  local-dir: public/preprod
+  target-branch: gh-pages
+  on:
+    branch: master
+- provider: pages
+  skip-cleanup: true
+  github-token: "$GH_TOKEN"
+  local-dir: public/prod
+  target-branch: prod
+  on:
+    branch: master
