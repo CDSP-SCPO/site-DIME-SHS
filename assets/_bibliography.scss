@@ -46,6 +46,10 @@
     @extend .di;
   }
 
+  .publisher {
+    @extend .i;
+  }
+
   .bibliography-entry__metadata {
     @extend .f6;
     @extend .flex-auto-l;

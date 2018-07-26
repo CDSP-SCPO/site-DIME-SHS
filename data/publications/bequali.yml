@@ -1,5 +1,4 @@
-- source: spire
-  id: "oai:spire.sciencespo.fr:2441/7qb0rlgrcf88ga3m0bqqemr4s1"
+- id: "oai:spire.sciencespo.fr:2441/7qb0rlgrcf88ga3m0bqqemr4s1"
   title: |
     Enquête sur l’enquête « Représentation du champ social, attitudes politiques et changements socio-économiques » de Jean-Marie Donégani, Guy Michelat, Michel Simon
   authors:
@@ -8,8 +7,7 @@
   - Garcia, Guillaume
   date: "2015-01"
   type: report
-- source: zotero
-  id: "67L4HMJ8"
+- id: "67L4HMJ8"
   title: |
     La profession d’architecte (2004-2010) – Florent Champy
   authors:
@@ -17,8 +15,7 @@
   date: "2017-06-19"
   type: blogPost
   url: http://archipolis.hypotheses.org/524
-- source: zotero
-  id: "TFQ4JY54"
+- id: "TFQ4JY54"
   title: |
     Types idéologiques et classe résiduelle dans l'enquête d'Etienne Schweisguth : les Français et la politique, 1982-1988. Réanalyse à partir de deux familles de logiciels, CAQDAS et ADT
   authors:
@@ -27,8 +24,7 @@
   - Salomon, Annie-Claude
   date: "2017"
   type: article
-- source: zotero
-  id: "84SNI7TF"
+- id: "84SNI7TF"
   title: |
     The "European integration paradox" : comparing EU practice and discourse on the role of parliaments in the EU in the Assemblée nationale and the Bundestag across time
   authors:
@@ -37,3 +33,13 @@
   - Wessels, Wolfgang
   date: "2016-12"
   type: doctoralThesis
+- id: oai:spire.sciencespo.fr:2441/7qb0rlgrcf88ga3m0bqqemr4s1
+  url: http://spire.sciencespo.fr/hdl:/2441/5s5k3gjspk923q2vbggs3pu1q6
+  title: |
+    Présentation de la banque d’enquêtes qualitatives beQuali
+  authors:
+  - Cadorel, Sarah
+  - Guillaume Garcia
+  date: "2017-02"
+  type: speech
+  source: Séminaire ouvert des ingénieurs en SHS de Strasbourg, MISHA, Strasbourg, FR, 2017-02-02

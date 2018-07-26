@@ -21,11 +21,17 @@
       <article class="bibliography-entry bibliography-entry--quiet">
         <article class="bibliography-entry__body">
           <span class="authors">{{ delimit (.authors | default slice) ", " " et " }}</span>.
-          <span class="date">{{ .date }}</span>.
+          <span class="date">{{ index (split .date "-") 0 }}</span>.
           {{ if isset . "url" }}
           <span class="title"><a href="{{ .url }}" target="_blank">{{ trim .title " \n" }}</a></span>.
           {{ else }}
           <span class="title">{{ trim .title " \n" }}</span>.
+          {{ end }}
+          {{ with .publisher }}
+          <span class="publisher">{{ . }}</span>.
+          {{ end }}
+          {{ with .source }}
+          <span class="source">{{ . }}</span>.
           {{ end }}
         </article>
       </article>

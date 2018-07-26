@@ -2594,7 +2594,7 @@ code, .code {
      -l  = large
 
 */
-.i {
+.i, .bibliography-entry .publisher {
   font-style: italic; }
 
 .fs-normal {

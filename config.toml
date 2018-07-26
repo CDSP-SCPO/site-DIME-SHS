@@ -28,6 +28,7 @@ enableRobotsTXT = true
   [publicationsMapping]
     journalArticle = "article"
     thesis = "doctoralThesis"
+    "conference publication" = "conferenceContribution"
 
   [params.publications.dime-web]
     name = "DIME SHS Web"
