@@ -28,13 +28,18 @@ body {
     @extend .flex;
     @extend .items-start;
 
-    aside {
-      @extend .w-20;
+    > aside {
+      @extend .dn;
+      @extend .db-l;
+      @extend .w-20-l;
     }
 
     main,
     [role="main"] {
-      @extend .w-60;
+      @extend .w-100;
+      @extend .mh4;
+      @extend .w-60-l;
+      @extend .mh0-l;
     }
   }
 }
