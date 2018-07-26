@@ -41,8 +41,8 @@ Membres du conseil scientifique:<br>
 Chaque instrument est doté d’un **comité scientifique et technique** (CST). Il a pour fonction d’accompagner les développements, de sélectionner les projets à mettre en œuvre et discuter les choix scientifique et techniques propre à l’instrument. Organe indépendant, il est composé d’experts en méthodes qualitatives, quantitatives, ou web représentant un large panel de disciplines des sciences sociales.
 
 {{< sidebar >}}
-[Le CST ELIPSS](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#790)
-[Le CST beQuali](http://bequali.fr/fr/propos/#cst)
+[Le CST ELIPSS](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#790)<br>
+[Le CST beQuali](http://bequali.fr/fr/propos/#cst)<br>
 [Le CST Dime Web](http://dimeweb.dime-shs.sciences-po.fr/#team)
 {{< /sidebar >}}
 
@@ -50,8 +50,8 @@ Chaque instrument est doté d’un **comité scientifique et technique** (CST). 
 Les instruments de l’Equipex DIME-SHS sont principalement développés et animés par les équipes du CDSP (beQuali et ELIPSS) et du médialab (Dime Web) de Sciences Po.
 
 {{< sidebar >}}
-[Equipe ELIPSS](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#813)
-[Equipe beQuali](http://bequali.fr/fr/propos/#13687)
+[Equipe ELIPSS](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#813)<br>
+[Equipe beQuali](http://bequali.fr/fr/propos/#13687)<br>
 [Equipe Dime web](http://dimeweb.dime-shs.sciences-po.fr/#team)
 {{< /sidebar >}}
 
