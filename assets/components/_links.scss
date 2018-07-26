@@ -28,3 +28,15 @@
 .break-word {
   overflow-wrap: break-word;
 }
+
+.link-arrow {
+  @extend .db;
+  @extend .pv1;
+  @extend .relative;
+
+  &:after {
+    content: "→";
+    @extend .absolute;
+    right: 0;
+  }
+}
