@@ -5,14 +5,16 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ .Page.Title }} • {{ .Site.Title }}</title>
-  {{ $css := resources.Get "main.scss" | toCSS }}
-  {{ $main := resources.Get "main.js" }}
-  {{ $menuspy := (resources.Get "vendor/menuspy.js").Permalink }}
+  {{- $css := resources.Get "main.scss" | toCSS -}}
+  {{- $main := resources.Get "main.js" -}}
+  {{- $menuspy := (resources.Get "vendor/menuspy.js").Permalink -}}
+  {{- template "_internal/opengraph.html" . -}}
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
-  <link href="{{ $css.Permalink }}" rel="stylesheet" >
-  <script src="{{ $main.Permalink}}" type="module"></script>
+  <link href="{{ $css.RelPermalink | relURL }}" rel="stylesheet" >
+  <script src="{{ $main.RelPermalink | relURL }}" type="module"></script>
 </head>
 <body>
+{{ template "_internal/schema.html" . }}
 {{ partial "header.html" . }}
 
 {{ block "main" . }}
