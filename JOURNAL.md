@@ -1,5 +1,24 @@
 # Journal de bord
 
+## Mercredi 25 juillet 2018
+
+### Ce que j'ai fait
+
+- j'ai terminé la page d'accueil et les actualités
+- j'ai fait une bonne passe sur les notes de bas de page/latérales
+- j'ai quasiment terminé le gabarit instruments
+
+### Ce que je compte faire demain
+
+- je termine la table des matières du gabarit instruments
+- je m'attaque aux enquêtes
+- je fais le gabarit outils
+- je fais le gabarit publications
+
+### Ce qui me bloque ou me ralentit
+
+- il y a peut-être plus de choses à faire que de temps disponible
+
 ## Mardi 24 juillet 2018
 
 **Remarque de Thomas** : comme j'ai pas été productif du tout hier, je travaillerai un jour de plus (lundi ou mardi prochain).

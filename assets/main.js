@@ -1,4 +1,9 @@
+import menuspy from './vendor/menuspy.js';
+
 const $$ = (selector) => Array.from(document.querySelectorAll(selector));
+
+const toc = document.getElementById('TableOfContents');
+new menuspy(toc, {enableLocationHash: false});
 
 // footnotes -> sidenotes
 $$('.footnotes').forEach(footnotes => {
