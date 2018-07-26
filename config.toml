@@ -9,6 +9,23 @@ FootnoteReturnLinkContents = "↩"
 summaryLength = 1000
 canonifyURLs = true
 
+[params]
+  [params.publications.dime-web]
+    name = "DIME SHS Web"
+    weight = 10
+    collections = { zotero = "7PZVF5PD", spire = "SCIENCESPO:DIME-SHS-DIME-Web" }
+  [params.publications.elipss]
+    name = "DIME SHS Quanti"
+    weight = 20
+    collections = { zotero = "EKTQQHP7", spire = "SCIENCESPO:DIME-SHS-Elipss" }
+  [params.publications.bequali]
+    name = "DIME SHS Quali"
+    weight = 30
+    collections = { zotero = "WB7VJJ7Q", spire = "SCIENCESPO:DIME-SHS-beQuali" }
+  [params.publications.other]
+    name = "Autre"
+    weight = 40
+
 [blackfriday]
   hrefTargetBlank = true
 
