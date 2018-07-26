@@ -4,7 +4,7 @@ title: DIME-SHS
 {{< home-slide >}}
 # DIME-SHS
 Des instruments innovants pour produire et ré-utiliser des données de recherche en sciences humaines et sociales
-
+{{< /home-slide >}}
 {{< home-slide >}}
 
 # Des outils pour les Sciences Sociales
