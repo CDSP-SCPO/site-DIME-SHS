@@ -1,0 +1,55 @@
+@import 'components/measures';
+@import 'components/links';
+
+.bibliography {
+  > h2 {
+    @extend .normal;
+    @extend .mid-gray;
+    @extend .b--mid-gray;
+    @extend .bb;
+    @extend .bw1;
+    @extend .pb3;
+  }
+}
+
+.bibliography-entry {
+  @extend .lh-copy;
+  @extend .flex-l;
+  @extend .pb4;
+  @extend .pt4;
+  @extend .bb;
+  @extend .b--mid-gray;
+
+  h2 + & {
+    @extend .pt2;
+  }
+
+  .bibliography-entry__body {
+    @extend .black-60;
+    @extend .measure-wide;
+    @extend .w-two-thirds-l;
+  }
+
+  h3 {
+    @extend .f5;
+    @extend .b;
+    @extend .normal;
+    @extend .di;
+  }
+
+  .bibliography-entry__metadata {
+    @extend .f6;
+    @extend .flex-auto-l;
+
+    > ul {
+      @extend .list;
+      @extend .pl0;
+      @extend .mt0-l;
+    }
+
+    a {
+      @extend .link-arrow;
+      @extend .toggle-u-nou;
+    }
+  }
+}

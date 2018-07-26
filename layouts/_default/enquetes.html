@@ -5,6 +5,31 @@
   {{ .Page.Content }}
 </div>
 
+{{ range .Site.Data.enquetes }}
+<section class="bibliography">
+  <h2>{{ .title }}</h2>
+
+  {{ range .items }}
+  <article class="bibliography-entry">
+    <article class="bibliography-entry__body">
+      <h3>{{ .title }}</h3> ({{ .date }})
+      <span class="authors">{{ delimit (.auteurs | default slice) ", " " et " }}</span>
+    </article>
+
+    <aside class="bibliography-entry__metadata">
+      <ul>
+      {{- with .lien_cdsp -}}
+        <li><a href="{{ . }}" target="_blank">Présentation de l'enquête</a></li>
+      {{- end -}}
+      {{- with .lien_doi -}}
+        <li><a href="{{ . }}" target="_blank">L'enquête sur l'enquête</a></li>
+      {{- end -}}
+      </ul>
+    </aside>
+  </article>
+  {{ end }}
+</section>
+{{ end }}
 
 
 {{ end }}
