@@ -912,7 +912,8 @@ img {
 .bb, .article .page__body h1,
 .article .article__title h2,
 .page .page__body h1,
-.page .article__title h2, .bibliography > h2, .bibliography-entry {
+.page .article__title h2, .bibliography > h2,
+.bibliography > .bibliography-section > h3, .bibliography-entry:not(.bibliography-entry--quiet) {
   border-bottom-style: solid;
   border-bottom-width: 1px; }
 
@@ -1016,7 +1017,8 @@ img {
 .badges-list > ul img, .article .page__body h1,
 .article .article__title h2,
 .page .page__body h1,
-.page .article__title h2, .bibliography > h2, .bibliography-entry {
+.page .article__title h2, .bibliography > h2,
+.bibliography > .bibliography-section > h3, .bibliography-entry:not(.bibliography-entry--quiet) {
   border-color: #6F6E6E; }
 
 .b--gray {
@@ -2644,7 +2646,8 @@ code, .code {
 .normal, main h2, [role="main"] h2, main h3, [role="main"] h3, main h4, [role="main"] h4, .article .page__body h1,
 .article .article__title h2,
 .page .page__body h1,
-.page .article__title h2, .bibliography > h2, .bibliography-entry h3 {
+.page .article__title h2, .bibliography > h2,
+.bibliography > .bibliography-section > h3, .bibliography-entry h3 {
   font-weight: normal; }
 
 .b, main h1, [role="main"] h1, .bibliography-entry h3, header[role="banner"] .main-navigation .active,
@@ -3857,7 +3860,8 @@ body > section [role="main"] {
 .mid-gray, .article .page__body h1,
 .article .article__title h2,
 .page .page__body h1,
-.page .article__title h2, .bibliography > h2, header[role="banner"] a, #TableOfContents a, .in-sidebar {
+.page .article__title h2, .bibliography > h2,
+.bibliography > .bibliography-section > h3, header[role="banner"] a, #TableOfContents a, .in-sidebar {
   color: #6F6E6E; }
 
 .gray {
@@ -4713,10 +4717,11 @@ header[role="banner"] .secondary-navigation > ul {
 .pb3, .article .page__body h1,
 .article .article__title h2,
 .page .page__body h1,
-.page .article__title h2, .bibliography > h2 {
+.page .article__title h2, .bibliography > h2,
+.bibliography > .bibliography-section > h3, .bibliography-entry {
   padding-bottom: 1rem; }
 
-.pb4, .bibliography-entry {
+.pb4, .bibliography-entry:not(.bibliography-entry--quiet) {
   padding-bottom: 2rem; }
 
 .pb5 {
@@ -4737,10 +4742,10 @@ header[role="banner"] .secondary-navigation > ul {
 .pt2, h2 + .bibliography-entry {
   padding-top: 0.5rem; }
 
-.pt3 {
+.pt3, .bibliography-entry {
   padding-top: 1rem; }
 
-.pt4, .bibliography-entry {
+.pt4, .bibliography-entry:not(.bibliography-entry--quiet) {
   padding-top: 2rem; }
 
 .pt5 {

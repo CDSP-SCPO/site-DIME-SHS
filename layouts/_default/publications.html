@@ -14,11 +14,11 @@
   {{- range $labels -}}
   {{- $type := . -}}
   {{- with (where $items "type" $type) -}}
-    <section id="{{$key}}-{{$type}}">
+    <section class="bibliography-section" id="{{$key}}-{{$type}}">
       <h3>{{ humanize (i18n $type) }}</h3>
 
       {{ range . }}
-      <article class="bibliography-entry">
+      <article class="bibliography-entry bibliography-entry--quiet">
         <article class="bibliography-entry__body">
           <span class="authors">{{ delimit (.authors | default slice) ", " " et " }}</span>.
           <span class="date">{{ .date }}</span>.
