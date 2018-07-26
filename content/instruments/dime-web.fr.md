@@ -1,5 +1,7 @@
 ---
 title: Dime Web
+options:
+- toc
 menu:
   subnav:
     weight: 30
@@ -29,6 +31,17 @@ L’équipe opérationnelle de Dime Web s’est reposée essentiellement sur le 
 L’accompagnement de projets de recherche recouvre des réalités différentes qui sont prises en compte par plusieurs niveaux d’implication de l’instrument. Les demandes d’aide ponctuelle, qui sont souvent aussi des demandes d’orientation, se font gratuitement pendant l’atelier portes-ouvertes mensuel de méthodes de Sciences Po initié au médialab. C’est souvent là également que s’effectue un premier contact qui pourra ensuite être développé jusqu’à une prestation payante. Dime Web donne également des formations à des groupes de chercheurs et doctorants, soit dans le cadre de l’accompagnement à un projet, soit indépendamment par exemple lors d’écoles d’été. À partir de 2014, l’accès à l’équipement pour de l’accompagnement, de la formation ou de la co-construction de recherches se fait uniquement de façon payante pour les membres internes comme externes du consortium de l’Equipex, et participe ainsi au financement du travail de développement des outils génériques.
 
 Un Comité Scientifique et Technique (CST) spécifique à Dime Web assure le suivi de la sélection des projets et l’orientation de l’instrument, sur la base d’une réunion physique annuelle et d’échanges numériques. À partir de 2014, la sélection et le soutien des petits projets nécessitant une plus forte réactivité sans requérir de coûteux développements (au contraire des plus gros projets) ont été délégués à l’équipe opérationnelle et le CST a endossé un rôle de supervision annuelle.
+
+{{< badges-list >}}
+- ![](https://www.fillmurray.com/150/150)
+- [![](https://www.fillmurray.com/150/150)](#lien)
+- [![](https://www.fillmurray.com/150/150)](#lien)
+- [![](https://www.fillmurray.com/150/150)](#lien)
+- [![](https://www.fillmurray.com/150/150)](#lien)
+- [![](https://www.fillmurray.com/150/150)](#lien)
+- [![](https://www.fillmurray.com/150/150)](#lien)
+- [![](https://www.fillmurray.com/150/150)](#lien)
+{{< /badges-list >}}
 
 # Apports
 L’instrument Web a depuis 2011 débouché sur la création de plusieurs outils numériques dédiés aux sciences sociales, le soutien direct d’une vingtaine de projets par de l’accompagnement et de la formation, et le soutien indirect d’une vaste gamme d’utilisateurs des outils en France et à l’international, dans les mondes académiques et pédagogiques, mais également journalistiques et associatifs. Les travaux de l’instrument ont également contribué à la recherche théorique sur les algorithmes de visualisation et la spatialisation de réseaux.

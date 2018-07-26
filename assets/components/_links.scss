@@ -7,6 +7,15 @@
   }
 }
 
+@mixin border-state ($normal, $active) {
+  @extend .b--#{$normal};
+
+  &:hover,
+  &:focus {
+    @extend .b--#{$active};
+  }
+}
+
 .toggle-u-nou {
   @extend .no-underline;
 

@@ -34,6 +34,7 @@ header[role="banner"] {
     background: $secondary-color;
     @extend .w-100;
     @extend .order-4;
+    @extend .near-white;
 
     > ul {
       margin-left: 20%;
@@ -70,7 +71,7 @@ header[role="banner"] {
       @extend .b;
 
       &:before {
-        content: "•";
+        content: "·";
       }
     }
   }

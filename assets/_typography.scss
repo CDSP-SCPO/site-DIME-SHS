@@ -8,6 +8,14 @@
   color: saturate($secondary-color, 25%);
 }
 
+.b--link-color {
+  border-color: $secondary-color;
+}
+
+.b--link-color-active {
+  border-color: saturate($secondary-color, 25%);
+}
+
 main, [role="main"] {
   h1 {
     @extend .f1;

@@ -1,3 +1,7 @@
+{{ define "toc" }}
+{{- if in .Page.Params.options "toc" -}}{{ .TableOfContents }}{{- end -}}
+{{ end }}
+
 {{ define "content" }}
 
 <article class="{{ .Kind }} section--{{ .Section }}">

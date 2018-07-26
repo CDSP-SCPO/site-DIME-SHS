@@ -1,5 +1,7 @@
 ---
 title: ELIPSS
+options:
+- toc
 menu:
   subnav:
     weight: 20
