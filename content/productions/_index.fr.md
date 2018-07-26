@@ -1,7 +1,5 @@
 ---
 title: Productions
-menu:
-  main:
-    weight: 30
-    title: Productions
+weight: 30
+menu: main
 ---

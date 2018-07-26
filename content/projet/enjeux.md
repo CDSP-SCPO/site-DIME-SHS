@@ -1,8 +1,7 @@
 ---
 title: Enjeux
-menu:
-  subnav:
-    weight: 10
+menu: subnav
+weight: 10
 ---
 
 # Etat des lieux

@@ -1,7 +1,5 @@
 ---
-title: Instruments • Et d'autres choses pour le SEO
-menu:
-  main:
-    title: Instruments
-    weight: 20
+title: Instruments
+menu: main
+weight: 20
 ---

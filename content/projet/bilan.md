@@ -1,8 +1,7 @@
 ---
 title: Bilan
-menu:
-  subnav:
-    weight: 40
+menu: subnav
+weight: 40
 ---
 # Repères
 ## Dates clés

@@ -1,10 +1,9 @@
 ---
 title: ELIPSS
+weight: 10
+menu: subnav
 options:
 - toc
-menu:
-  subnav:
-    weight: 20
 ---
 
 L’instrument DIME-Quanti, au travers de son panel[^0] ELIPSS (Étude Longitudinale par Internet Pour les Sciences Sociales) est un dispositif de production d’enquêtes par questionnaire destiné à la communauté scientifique.

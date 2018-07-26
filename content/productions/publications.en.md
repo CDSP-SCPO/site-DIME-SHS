@@ -1,7 +1,6 @@
 ---
 title: Publications
 layout: publications
-menu:
-  subnav:
-    weight: 30
+menu: subnav
+weight: 30
 ---
