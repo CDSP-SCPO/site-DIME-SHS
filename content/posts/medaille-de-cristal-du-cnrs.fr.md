@@ -1,5 +1,6 @@
 ---
 title:  Médaille de cristal du CNRS
+date:   2015-09-22T00:00:00
 ---
 
 {{< sidebar >}}
@@ -11,8 +12,7 @@ Le Président du CNRS et le Directeur de l’Institut des sciences humaines et s
 Ces médailles sont une marque de reconnaissance du CNRS pour leur très grand engagement et l’excellence du travail qu’elles ont accompli depuis 2005 au CDSP et depuis 2011 dans le cadre élargi de l’Equipex DIME-SHS. Ces distinctions témoignent également plus généralement de la très grande importance du rôle des ingénieurs et techniciens dans la recherche aux côtés des chercheurs.
 
 {{< sidebar class="last" >}}
-Pour en savoir plus :
-
-- sur [Anne Cornilleau](http://cdsp.sciences-po.fr/fiche.php?idFiche=5&lang=FR), [Anne-Sophie Cousteaux](http://cdsp.sciences-po.fr/fiche.php?idFiche=19&lang=FR) et [Geneviève Michaud](http://cdsp.sciences-po.fr/fiche.php?idFiche=13&lang=FR)
-- sur le [CDSP](http://cdsp.sciences-po.fr/index.php?lang=FR)
+- [Anne Cornilleau](http://cdsp.sciences-po.fr/fiche.php?idFiche=5&lang=FR)
+- [Anne-Sophie Cousteaux](http://cdsp.sciences-po.fr/fiche.php?idFiche=19&lang=FR)
+- [Geneviève Michaud](http://cdsp.sciences-po.fr/fiche.php?idFiche=13&lang=FR)
 {{< /sidebar >}}
