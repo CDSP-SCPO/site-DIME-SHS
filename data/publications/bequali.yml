@@ -1,12 +1,14 @@
 - id: "oai:spire.sciencespo.fr:2441/7qb0rlgrcf88ga3m0bqqemr4s1"
   title: |
     Enquête sur l’enquête « Représentation du champ social, attitudes politiques et changements socio-économiques » de Jean-Marie Donégani, Guy Michelat, Michel Simon
+  url: http://spire.sciencespo.fr/hdl:/2441/7qb0rlgrcf88ga3m0bqqemr4s1
   authors:
   - Souanef, Karim
   - Cadorel, Sarah
   - Garcia, Guillaume
   date: "2015-01"
   type: report
+  publisher: beQuali
 - id: "67L4HMJ8"
   title: |
     La profession d’architecte (2004-2010) – Florent Champy
