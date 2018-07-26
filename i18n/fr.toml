@@ -28,3 +28,6 @@ other = "présentation"
 other = "Présentation de l’enquête"
 [survey_view_doi]
 other = "L’enquête sur l'enquête"
+
+[view_tool]
+other = "Consulter l'outil"

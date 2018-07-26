@@ -28,3 +28,6 @@ other = "speech"
 other = "Survey presentation"
 [survey_view_doi]
 other = "The survey about the survey"
+
+[view_tool]
+other = "View tool"

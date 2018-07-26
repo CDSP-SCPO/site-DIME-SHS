@@ -8,3 +8,12 @@
 .w-measure-wide {
   width: $measure-wide;
 }
+.w-45 {
+  width: 45%;
+}
+
+@media #{$breakpoint-medium} {
+  .w-45-m {
+    width: 45%;
+  }
+}

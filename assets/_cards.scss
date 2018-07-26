@@ -1,0 +1,46 @@
+@import 'components/links';
+
+.cards-list {
+  @extend .list;
+  @extend .flex-ns;
+  @extend .flex-wrap;
+  @extend .pa0;
+
+  .card {
+    @extend .ba;
+    @extend .b--black-30;
+    @extend .mid-gray;
+    @extend .pa3;
+    @extend .mr3;
+    @extend .mb3;
+    @extend .w-30-l;
+    @extend .w-45-m;
+
+    @extend .flex;
+    @extend .flex-column;
+
+    &:nth-child(2n) {
+      @extend .mr0-m;
+    }
+    &:nth-child(3n) {
+      @extend .mr0-l;
+    }
+
+    .card__title {
+      @extend .f4;
+      @extend .ma0;
+      @extend .mb2;
+    }
+
+    .card__footer {
+      margin-top: auto;
+      justify-self: end;
+      @extend .f6;
+
+      a {
+        @extend .toggle-u-nou;
+        @extend .link-arrow;
+      }
+    }
+  }
+}
