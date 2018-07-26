@@ -24,7 +24,8 @@ Le **Comité de pilotage** prend les décisions relatives à l’orientation str
 Le **conseil scientifique** est une instance consultative chargée de formuler des proposition d’orientations scientifiques et d’ajustements du projet. Il est composé de personnalités qui siègent en qualité d’experts indépendants et reconnus à l’international dans le domaine des méthodes en sciences sociales.
 
 {{< sidebar >}}
-Membres du conseil scientifique:<br>
+Membres du conseil scientifique:
+
 - Dominique Joye (Président du CST), University of Lausanne, Suisse;
 - Roxane Silberman, CNRS, France;
 - Janet Heaton, University of Exeter, Grande Bretagne;
