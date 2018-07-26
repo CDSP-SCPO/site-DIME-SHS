@@ -1,6 +1,6 @@
 ---
 layout: enquetes
-title: Surveys
+title: Tools
 menu: subnav
 weight: 10
 ---
