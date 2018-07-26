@@ -28,6 +28,7 @@
 
   .page__body h1,
   .article__title h2 {
+    @extend .normal;
     @extend .mid-gray;
     @extend .b--mid-gray;
     @extend .bb;

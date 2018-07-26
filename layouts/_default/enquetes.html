@@ -11,10 +11,12 @@
 
   {{ range .items }}
   <article class="bibliography-entry">
-    <h3>{{ .title }}</h3> ({{ .date }})
-    <span>{{ delimit (.auteurs | default slice) ", " " et " }}</span>
+    <article class="bibliography-entry__body">
+      <h3>{{ .title }}</h3> ({{ .date }})
+      <span class="authors">{{ delimit (.auteurs | default slice) ", " " et " }}</span>
+    </article>
 
-    <aside>
+    <aside class="bibliography-entry__metadata">
       <ul class="list">
       {{- with .lien_cdsp -}}
         <li><a href="{{ . }}" target="_blank">Présentation de l'enquête</a></li>

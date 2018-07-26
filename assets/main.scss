@@ -1,9 +1,11 @@
 @import 'variables';
+@import 'vendor/tachyons/scss/variables.scss';
 @import 'vendor/tachyons/tachyons.scss';
 @import 'typography';
 @import 'home';
 @import 'enquetes';
 @import 'articles';
+@import 'bibliography';
 @import 'header';
 @import 'toc';
 @import 'markdown_styles';
