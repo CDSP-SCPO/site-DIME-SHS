@@ -5,23 +5,34 @@
   {{ .Page.Content }}
 </div>
 
+{{- $labels := .Site.Params.publicationsLabels -}}
+
 {{ range $key, $items := .Site.Data.publications }}
 <section class="bibliography">
   <h2>{{ (index $.Site.Params.publications $key).name }}</h2>
 
-  {{ range $items }}
-  <article class="bibliography-entry">
-    <article class="bibliography-entry__body">
-      <span class="authors">{{ delimit (.authors | default slice) ", " " et " }}</span>.
-      <span class="date">{{ .date }}</span>.
-      {{ if isset . "url" }}
-      <span class="title"><a href="{{ .url }}" target="_blank">{{ trim .title " \n" }}</a></span>.
-      {{ else }}
-      <span class="title">{{ trim .title " \n" }}</span>.
+  {{- range $labels -}}
+  {{- $type := . -}}
+  {{- with (where $items "type" $type) -}}
+    <section id="{{$key}}-{{$type}}">
+      <h3>{{ humanize (i18n $type) }}</h3>
+
+      {{ range . }}
+      <article class="bibliography-entry">
+        <article class="bibliography-entry__body">
+          <span class="authors">{{ delimit (.authors | default slice) ", " " et " }}</span>.
+          <span class="date">{{ .date }}</span>.
+          {{ if isset . "url" }}
+          <span class="title"><a href="{{ .url }}" target="_blank">{{ trim .title " \n" }}</a></span>.
+          {{ else }}
+          <span class="title">{{ trim .title " \n" }}</span>.
+          {{ end }}
+        </article>
+      </article>
       {{ end }}
-    </article>
-  </article>
-  {{ end }}
+    </section>
+  {{- end -}}
+  {{- end -}}
 </section>
 {{ end }}
 

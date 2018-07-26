@@ -1,0 +1,22 @@
+[article]
+other = "article"
+[periodicalIssue]
+other = "periodical issue"
+[book]
+other = "book"
+[bookPart]
+other = "book part"
+[conferencePaper]
+other = "conference paper"
+[conferenceContribution]
+other = "conference contribution"
+[doctoralThesis]
+other = "doctoral thesis"
+[report]
+other = "report"
+[bookReview]
+other = "book review"
+[workingPaper]
+other = "working paper"
+[speech]
+other = "speech"
