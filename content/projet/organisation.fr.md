@@ -56,6 +56,7 @@ Les instruments de l’Equipex DIME-SHS sont principalement développés et anim
 {{< /sidebar >}}
 
 Au sein de ces équipes, l’expertise technique d’ingénieurs spécialisés est mobilisée dans des domaines de compétence extrêmement variés :
+
 - méthodologie d’enquêtes,
 - conception et programmation de questionnaires,
 - gestion de terrain d’enquêtes,
