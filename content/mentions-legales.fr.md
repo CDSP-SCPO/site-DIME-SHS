@@ -14,7 +14,7 @@ Fax. : 01 42 22 31 26<br>
 Contact webmaster : info ( AT ) cdsp ( DOT ) fr<br>
 
 ## Directeur de la publication
-Frédéric Mion, President of Sciences Po
+Frédéric Mion, President de Sciences Po
 
 ## Hébergement
 Ce site internet est hébergé par la Fondation Nationale des Sciences Politiques (FNSP), Sciences Po – Direction des Systèmes d’Information.<br>
