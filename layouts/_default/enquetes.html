@@ -1,0 +1,35 @@
+{{ define "content" }}
+<h1>{{ .Page.Title }}</h1>
+
+<div class="lh-copy f4">
+  {{ .Page.Content }}
+</div>
+
+{{ range .Site.Data.enquetes }}
+<section class="bibliography">
+  <h2>{{ .title }}</h2>
+
+  {{ range .items }}
+  <article class="bibliography-entry">
+    <article class="bibliography-entry__body">
+      <h3>{{ .title }}</h3> ({{ .date }})
+      <span class="authors">{{ delimit (.authors | default slice) ", " (i18n "and") }}.</span>
+    </article>
+
+    <aside class="bibliography-entry__metadata">
+      <ul>
+      {{- with .lien_cdsp -}}
+        <li><a href="{{ . }}" target="_blank">{{ i18n "survey_presentation" }}</a></li>
+      {{- end -}}
+      {{- with .lien_doi -}}
+        <li><a href="{{ . }}" target="_blank">{{ i18n "survey_view_doi" }}</a></li>
+      {{- end -}}
+      </ul>
+    </aside>
+  </article>
+  {{ end }}
+</section>
+{{ end }}
+
+
+{{ end }}
