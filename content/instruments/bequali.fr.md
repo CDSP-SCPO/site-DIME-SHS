@@ -42,7 +42,6 @@ En parallèle, beQuali poursuit ses actions afin de favoriser les usages des cor
 
 [^7]: [Types idéologiques et classe résiduelle dans l’enquête d'Étienne Schweisguth : Les Français et la politique, 1982-1988. Réanalyse à partir de deux familles de logiciels, CAQDAS et ADT](http://www.recherche- qualitative.qc.ca/revue/les-collections/hors-serie-les-actes/)
 
-[^8]:  THOMAS Anja, The ‘European Integration Paradox’ Comparing EU Practice and Discourse on the Role of Parliaments in the EU in the Assemblée nationale and the Bundestag Across Time, thèse de doctorat soutenue en décembre 2016, Sciences Po - IEP de Paris, 425 pp.
-http://spire.sciencespo.fr/hdl:/2441/5i1k2o8mn49maohtdrake9dsfv
+[^8]:  [THOMAS Anja, The ‘European Integration Paradox’ Comparing EU Practice and Discourse on the Role of Parliaments in the EU in the Assemblée nationale and the Bundestag Across Time, thèse de doctorat soutenue en décembre 2016, Sciences Po - IEP de Paris, 425 pp.](http://spire.sciencespo.fr/hdl:/2441/5i1k2o8mn49maohtdrake9dsfv)
 
 [^9]:  traitement d’archives sous format papier et électronique (inventaire, classement, anonymisation, etc.), contextualisation des enquêtes, sensibilisation de la communauté scientifique aux bonnes pratiques et aux possibilités de réutilisation des matériaux
