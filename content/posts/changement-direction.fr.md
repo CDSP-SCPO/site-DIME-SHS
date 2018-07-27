@@ -1,5 +1,5 @@
 ---
-title:  Changement de Direction / 01 septembre 2018
+title:  Changement de Direction
 date:   2017-09-01T00:00:00
 ---
 

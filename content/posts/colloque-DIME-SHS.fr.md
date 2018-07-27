@@ -1,6 +1,6 @@
 ---
 title:  colloque DIME-SHS / 28 septembre 2018
-date:   2015-02-24T00:00:00
+date:   2018-09-28T00:00:00
 ---
 
 Depuis 2011, l'Equipex DIME-SHS[^1] a innové pour mettre en place de nouveaux instruments au service de la recherche et entre aujourd'hui, à l’issue de 7 années d’exploitation, dans la dernière phase de son cycle de vie.

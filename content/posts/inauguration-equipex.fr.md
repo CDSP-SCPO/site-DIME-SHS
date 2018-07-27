@@ -1,5 +1,5 @@
 ---
-title:  Inauguration de l'Equipex / 27 janvier  2012
+title:  Inauguration de l'Equipex - 27 janvier  2012
 date:   2012-01-27T00:00:00
 ---
 
