@@ -5,11 +5,13 @@
   {{ .Page.Content }}
 </div>
 
-{{ range .Site.Data.enquetes }}
+{{- $suffix := string (delimit (slice "." .Site.Language) "") -}}
+{{- range $key, $Data := .Site.Data.enquetes -}}
+{{- if len (findRE $suffix $key) -}}
 <section class="bibliography">
-  <h2>{{ .title }}</h2>
+  <h2>{{ $Data.title }}</h2>
 
-  {{ range .items }}
+  {{ range $Data.items }}
   <article class="bibliography-entry">
     <article class="bibliography-entry__body">
       <h3>{{ .title }}</h3> ({{ .date }})
@@ -29,7 +31,8 @@
   </article>
   {{ end }}
 </section>
-{{ end }}
+{{- end -}}
+{{- end -}}
 
 
 {{ end }}
