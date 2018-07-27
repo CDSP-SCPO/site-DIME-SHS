@@ -31,7 +31,6 @@
 
 .link-arrow {
   @extend .db;
-  @extend .pv1;
   @extend .relative;
 
   &:after {

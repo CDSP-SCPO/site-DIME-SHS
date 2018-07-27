@@ -5,3 +5,6 @@ $sans-serif: arial, sans-serif;
 
 $dark-gray: $main-color;
 $mid-gray: #6F6E6E;
+
+$breakpoint-medium: 'screen and (min-width: 30em) and (max-width: 70em)' !default;
+$breakpoint-large: 'screen and (min-width: 70em)' !default;

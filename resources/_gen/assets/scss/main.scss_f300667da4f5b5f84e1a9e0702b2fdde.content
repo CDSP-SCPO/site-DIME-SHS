@@ -619,7 +619,7 @@ input[type="url"],
     height: 100%;
     z-index: 100; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .aspect-ratio-m {
     height: 0;
     position: relative; }
@@ -655,7 +655,7 @@ input[type="url"],
     height: 100%;
     z-index: 100; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .aspect-ratio-l {
     height: 0;
     position: relative; }
@@ -728,13 +728,13 @@ img {
   .contain-ns {
     background-size: contain !important; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .cover-m {
     background-size: cover !important; }
   .contain-m {
     background-size: contain !important; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .cover-l {
     background-size: cover !important; }
   .contain-l {
@@ -797,7 +797,7 @@ img {
     background-repeat: no-repeat;
     background-position: center left; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .bg-center-m {
     background-repeat: no-repeat;
     background-position: center center; }
@@ -814,7 +814,7 @@ img {
     background-repeat: no-repeat;
     background-position: center left; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .bg-center-l {
     background-repeat: no-repeat;
     background-position: center center; }
@@ -858,7 +858,7 @@ img {
   .outline-0-ns {
     outline: 0; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .outline-m {
     outline: 1px solid; }
   .outline-transparent-m {
@@ -866,7 +866,7 @@ img {
   .outline-0-m {
     outline: 0; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .outline-l {
     outline: 1px solid; }
   .outline-transparent-l {
@@ -896,7 +896,7 @@ img {
      -l  = large
 
 */
-.ba, .badges-list > ol img,
+.ba, .cards-list .card, .badges-list > ol img,
 .badges-list > ul img {
   border-style: solid;
   border-width: 1px; }
@@ -945,7 +945,7 @@ img {
     border-style: none;
     border-width: 0; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .ba-m {
     border-style: solid;
     border-width: 1px; }
@@ -965,7 +965,7 @@ img {
     border-style: none;
     border-width: 0; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .ba-l {
     border-style: solid;
     border-width: 1px; }
@@ -1096,7 +1096,7 @@ img {
 .b--black-40 {
   border-color: rgba(0, 0, 0, 0.4); }
 
-.b--black-30 {
+.b--black-30, .cards-list .card {
   border-color: rgba(0, 0, 0, 0.3); }
 
 .b--black-20 {
@@ -1286,7 +1286,7 @@ img {
     border-top-right-radius: 0;
     border-bottom-right-radius: 0; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .br0-m {
     border-radius: 0; }
   .br1-m {
@@ -1314,7 +1314,7 @@ img {
     border-top-right-radius: 0;
     border-bottom-right-radius: 0; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .br0-l {
     border-radius: 0; }
   .br1-l {
@@ -1386,7 +1386,7 @@ img {
   .b--none-ns {
     border-style: none; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .b--dotted-m {
     border-style: dotted; }
   .b--dashed-m {
@@ -1396,7 +1396,7 @@ img {
   .b--none-m {
     border-style: none; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .b--dotted-l {
     border-style: dotted; }
   .b--dashed-l {
@@ -1488,7 +1488,7 @@ img {
   .bl-0-ns {
     border-left-width: 0; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .bw0-m {
     border-width: 0; }
   .bw1-m {
@@ -1510,7 +1510,7 @@ img {
   .bl-0-m {
     border-left-width: 0; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .bw0-l {
     border-width: 0; }
   .bw1-l {
@@ -1570,7 +1570,7 @@ img {
   .shadow-5-ns {
     box-shadow: 4px 4px 8px 0px rgba(0, 0, 0, 0.2); } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .shadow-1-m {
     box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.2); }
   .shadow-2-m {
@@ -1582,7 +1582,7 @@ img {
   .shadow-5-m {
     box-shadow: 4px 4px 8px 0px rgba(0, 0, 0, 0.2); } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .shadow-1-l {
     box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.2); }
   .shadow-2-l {
@@ -1743,7 +1743,7 @@ img {
     bottom: 0;
     left: 0; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .top-0-m {
     top: 0; }
   .left-0-m {
@@ -1790,7 +1790,7 @@ img {
     bottom: 0;
     left: 0; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .top-0-l {
     top: 0; }
   .left-0-l {
@@ -1878,7 +1878,7 @@ img {
   .cn-ns {
     clear: none; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .cl-m {
     clear: left; }
   .cr-m {
@@ -1888,7 +1888,7 @@ img {
   .cn-m {
     clear: none; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .cl-l {
     clear: left; }
   .cr-l {
@@ -1931,7 +1931,7 @@ header[role="banner"] .language-picker li,
 header[role="banner"] .secondary-navigation li {
   display: inline; }
 
-.db, .link-arrow, .bibliography-entry .bibliography-entry__metadata a {
+.db, .link-arrow, .cards-list .card .card__footer a, .bibliography-entry .bibliography-entry__metadata a {
   display: block; }
 
 .dib {
@@ -1993,7 +1993,7 @@ header[role="banner"] .secondary-navigation li {
     table-layout: fixed;
     width: 100%; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .dn-m {
     display: none; }
   .di-m {
@@ -2020,7 +2020,7 @@ header[role="banner"] .secondary-navigation li {
     table-layout: fixed;
     width: 100%; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .dn-l {
     display: none; }
   .di-l {
@@ -2057,7 +2057,7 @@ header[role="banner"] .secondary-navigation li {
    -l  = large
 
 */
-.flex, .slides, .slides .slide, .slides .slide:nth-of-type(3n), .badges-list > ol,
+.flex, .slides, .slides .slide, .slides .slide:nth-of-type(3n), .cards-list .card, .badges-list > ol,
 .badges-list > ul, header[role="banner"], header[role="banner"] .main-navigation, header[role="banner"] .language-picker, .columns, body > section {
   display: flex; }
 
@@ -2076,7 +2076,7 @@ header[role="banner"] .secondary-navigation li {
 .flex-none {
   flex: none; }
 
-.flex-column, .slides, .slides .slide {
+.flex-column, .slides, .slides .slide, .cards-list .card {
   flex-direction: column; }
 
 .flex-row, .slides .slide:nth-of-type(3n) {
@@ -2282,7 +2282,7 @@ header[role="banner"] .secondary-navigation li {
   .order-last-ns {
     order: 99999; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .flex-m {
     display: flex; }
   .inline-flex-m {
@@ -2372,7 +2372,7 @@ header[role="banner"] .secondary-navigation li {
   .order-last-m {
     order: 99999; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .flex-l, .bibliography-entry {
     display: flex; }
   .inline-flex-l {
@@ -2508,7 +2508,7 @@ header[role="banner"] .secondary-navigation li {
   .fn-ns {
     float: none; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .fl-m {
     float: left;
     _display: inline; }
@@ -2518,7 +2518,7 @@ header[role="banner"] .secondary-navigation li {
   .fn-m {
     float: none; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .fl-l {
     float: left;
     _display: inline; }
@@ -2606,13 +2606,13 @@ code, .code {
   .fs-normal-ns {
     font-style: normal; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .i-m {
     font-style: italic; }
   .fs-normal-m {
     font-style: normal; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .i-l {
     font-style: italic; }
   .fs-normal-l {
@@ -2706,7 +2706,7 @@ header[role="banner"] .secondary-navigation .active, #TableOfContents .active {
   .fw9-ns {
     font-weight: 900; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .normal-m {
     font-weight: normal; }
   .b-m {
@@ -2730,7 +2730,7 @@ header[role="banner"] .secondary-navigation .active, #TableOfContents .active {
   .fw9-m {
     font-weight: 900; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .normal-l {
     font-weight: normal; }
   .b-l {
@@ -2891,7 +2891,7 @@ header[role="banner"] .secondary-navigation .active, #TableOfContents .active {
   .h-inherit-ns {
     height: inherit; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .h1-m {
     height: 1rem; }
   .h2-m {
@@ -2927,7 +2927,7 @@ header[role="banner"] .secondary-navigation .active, #TableOfContents .active {
   .h-inherit-m {
     height: inherit; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .h1-l {
     height: 1rem; }
   .h2-l {
@@ -2991,7 +2991,7 @@ header[role="banner"] .secondary-navigation .active, #TableOfContents .active {
   .tracked-mega-ns {
     letter-spacing: .25em; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .tracked-m {
     letter-spacing: .1em; }
   .tracked-tight-m {
@@ -2999,7 +2999,7 @@ header[role="banner"] .secondary-navigation .active, #TableOfContents .active {
   .tracked-mega-m {
     letter-spacing: .25em; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .tracked-l {
     letter-spacing: .1em; }
   .tracked-tight-l {
@@ -3042,7 +3042,7 @@ header[role="banner"] .secondary-navigation .active, #TableOfContents .active {
   .lh-copy-ns {
     line-height: 1.5; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .lh-solid-m {
     line-height: 1; }
   .lh-title-m {
@@ -3050,7 +3050,7 @@ header[role="banner"] .secondary-navigation .active, #TableOfContents .active {
   .lh-copy-m {
     line-height: 1.5; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .lh-solid-l {
     line-height: 1; }
   .lh-title-l {
@@ -3088,7 +3088,7 @@ header[role="banner"] .secondary-navigation .active, #TableOfContents .active {
    http://tachyons.io/docs/elements/lists/
 
 */
-.list, .badges-list > ol,
+.list, .cards-list, .badges-list > ol,
 .badges-list > ul, .bibliography-entry .bibliography-entry__metadata > ul, header[role="banner"] .main-navigation > ul,
 header[role="banner"] .language-picker > ul,
 header[role="banner"] .secondary-navigation > ul, #TableOfContents > ul, #TableOfContents > ol {
@@ -3185,7 +3185,7 @@ header[role="banner"] .secondary-navigation > ul, #TableOfContents > ul, #TableO
   .mw-none-ns {
     max-width: none; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .mw-100-m {
     max-width: 100%; }
   .mw1-m {
@@ -3209,7 +3209,7 @@ header[role="banner"] .secondary-navigation > ul, #TableOfContents > ul, #TableO
   .mw-none-m {
     max-width: none; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .mw-100-l {
     max-width: 100%; }
   .mw1-l {
@@ -3388,7 +3388,7 @@ body > section [role="main"] {
   .w-auto-ns {
     width: auto; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .w1-m {
     width: 1rem; }
   .w2-m {
@@ -3434,7 +3434,7 @@ body > section [role="main"] {
   .w-auto-m {
     width: auto; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .w1-l {
     width: 1rem; }
   .w2-l {
@@ -3553,7 +3553,7 @@ body > section [role="main"] {
   .overflow-y-auto-ns {
     overflow-y: auto; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .overflow-visible-m {
     overflow: visible; }
   .overflow-hidden-m {
@@ -3579,7 +3579,7 @@ body > section [role="main"] {
   .overflow-y-auto-m {
     overflow-y: auto; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .overflow-visible-l {
     overflow: visible; }
   .overflow-hidden-l {
@@ -3619,13 +3619,13 @@ body > section [role="main"] {
 .static {
   position: static; }
 
-.relative, .link-arrow, .bibliography-entry .bibliography-entry__metadata a, .article .article__body,
+.relative, .link-arrow, .cards-list .card .card__footer a, .bibliography-entry .bibliography-entry__metadata a, .article .article__body,
 .article .page__body,
 .page .article__body,
 .page .page__body {
   position: relative; }
 
-.absolute, .link-arrow:after, .bibliography-entry .bibliography-entry__metadata a:after, #TableOfContents .active:before, .in-sidebar, [aria-describedby] + div {
+.absolute, .link-arrow:after, .cards-list .card .card__footer a:after, .bibliography-entry .bibliography-entry__metadata a:after, #TableOfContents .active:before, .in-sidebar, [aria-describedby] + div {
   position: absolute; }
 
 .fixed {
@@ -3641,7 +3641,7 @@ body > section [role="main"] {
   .fixed-ns {
     position: fixed; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .static-m {
     position: static; }
   .relative-m {
@@ -3651,7 +3651,7 @@ body > section [role="main"] {
   .fixed-m {
     position: fixed; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .static-l {
     position: static; }
   .relative-l {
@@ -3748,7 +3748,7 @@ body > section [role="main"] {
   .rotate-315-ns {
     transform: rotate(315deg); } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .rotate-45-m {
     transform: rotate(45deg); }
   .rotate-90-m {
@@ -3764,7 +3764,7 @@ body > section [role="main"] {
   .rotate-315-m {
     transform: rotate(315deg); } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .rotate-45-l {
     transform: rotate(45deg); }
   .rotate-90-l {
@@ -3857,7 +3857,7 @@ body > section [role="main"] {
 .dark-gray, header[role="banner"] a:hover, header[role="banner"] a:focus, #TableOfContents a:hover, #TableOfContents a:focus {
   color: #4A4A4A; }
 
-.mid-gray, .article .page__body h1,
+.mid-gray, .cards-list .card, .article .page__body h1,
 .article .article__title h2,
 .page .page__body h1,
 .page .article__title h2, .bibliography > h2,
@@ -4622,7 +4622,7 @@ body > section [role="main"] {
      -l  = large
 
 */
-.pa0, .badges-list, .article .article__body ol, .article .article__body ul,
+.pa0, .cards-list, .badges-list, .article .article__body ol, .article .article__body ul,
 .article .page__body ol,
 .article .page__body ul,
 .page .article__body ol,
@@ -4639,7 +4639,7 @@ header[role="banner"] .secondary-navigation > ul {
 .pa2 {
   padding: 0.5rem; }
 
-.pa3 {
+.pa3, .cards-list .card {
   padding: 1rem; }
 
 .pa4 {
@@ -4761,7 +4761,7 @@ header[role="banner"] .secondary-navigation > ul {
   padding-top: 0;
   padding-bottom: 0; }
 
-.pv1, .link-arrow, .bibliography-entry .bibliography-entry__metadata a {
+.pv1, .bibliography-entry .bibliography-entry__metadata a {
   padding-top: 0.25rem;
   padding-bottom: 0.25rem; }
 
@@ -4821,7 +4821,7 @@ header[role="banner"] .secondary-navigation > ul {
   padding-left: 16rem;
   padding-right: 16rem; }
 
-.ma0 {
+.ma0, .cards-list .card .card__title {
   margin: 0; }
 
 .ma1 {
@@ -4902,10 +4902,10 @@ header[role="banner"] .secondary-navigation li {
 .mb1 {
   margin-bottom: 0.25rem; }
 
-.mb2 {
+.mb2, .cards-list .card .card__title {
   margin-bottom: 0.5rem; }
 
-.mb3, .badges-list > ol > li,
+.mb3, .cards-list .card, .badges-list > ol > li,
 .badges-list > ul > li {
   margin-bottom: 1rem; }
 
@@ -5275,7 +5275,7 @@ body > section [role="main"] {
     margin-left: 16rem;
     margin-right: 16rem; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .pa0-m {
     padding: 0; }
   .pa1-m {
@@ -5533,7 +5533,7 @@ body > section [role="main"] {
     margin-left: 16rem;
     margin-right: 16rem; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .pa0-l {
     padding: 0; }
   .pa1-l {
@@ -5996,7 +5996,7 @@ body > section [role="main"] {
   .nt7-ns {
     margin-top: -16rem; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .na1-m {
     margin: -0.25rem; }
   .na2-m {
@@ -6068,7 +6068,7 @@ body > section [role="main"] {
   .nt7-m {
     margin-top: -16rem; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .na1-l {
     margin: -0.25rem; }
   .na2-l {
@@ -6183,10 +6183,10 @@ body > section [role="main"] {
 .strike {
   text-decoration: line-through; }
 
-.underline, .toggle-u-nou:hover, .bibliography-entry .bibliography-entry__metadata a:hover, header[role="banner"] a:hover, #TableOfContents a:hover, .toggle-u-nou:focus, .bibliography-entry .bibliography-entry__metadata a:focus, header[role="banner"] a:focus, #TableOfContents a:focus {
+.underline, .toggle-u-nou:hover, .cards-list .card .card__footer a:hover, .bibliography-entry .bibliography-entry__metadata a:hover, header[role="banner"] a:hover, #TableOfContents a:hover, .toggle-u-nou:focus, .cards-list .card .card__footer a:focus, .bibliography-entry .bibliography-entry__metadata a:focus, header[role="banner"] a:focus, #TableOfContents a:focus {
   text-decoration: underline; }
 
-.no-underline, .toggle-u-nou, .bibliography-entry .bibliography-entry__metadata a, header[role="banner"] a, #TableOfContents a {
+.no-underline, .toggle-u-nou, .cards-list .card .card__footer a, .bibliography-entry .bibliography-entry__metadata a, header[role="banner"] a, #TableOfContents a {
   text-decoration: none; }
 
 @media screen and (min-width: 30em) {
@@ -6197,7 +6197,7 @@ body > section [role="main"] {
   .no-underline-ns {
     text-decoration: none; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .strike-m {
     text-decoration: line-through; }
   .underline-m {
@@ -6205,7 +6205,7 @@ body > section [role="main"] {
   .no-underline-m {
     text-decoration: none; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .strike-l {
     text-decoration: line-through; }
   .underline-l {
@@ -6255,7 +6255,7 @@ body > section [role="main"] {
   .tj-ns {
     text-align: justify; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .tl-m {
     text-align: left; }
   .tr-m {
@@ -6265,7 +6265,7 @@ body > section [role="main"] {
   .tj-m {
     text-align: justify; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .tl-l {
     text-align: left; }
   .tr-l {
@@ -6317,7 +6317,7 @@ body > section [role="main"] {
   .ttn-ns {
     text-transform: none; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .ttc-m {
     text-transform: capitalize; }
   .ttl-m {
@@ -6327,7 +6327,7 @@ body > section [role="main"] {
   .ttn-m {
     text-transform: none; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .ttc-l {
     text-transform: capitalize; }
   .ttl-l {
@@ -6389,13 +6389,13 @@ body > section [role="main"] {
 .page .page__body h2 {
   font-size: 1.5rem; }
 
-.f4, main h4, [role="main"] h4 {
+.f4, main h4, [role="main"] h4, .cards-list .card .card__title {
   font-size: 1.25rem; }
 
 .f5, .bibliography-entry h3, header[role="banner"] {
   font-size: 1rem; }
 
-.f6, .bibliography-entry .bibliography-entry__metadata, .in-sidebar {
+.f6, .cards-list .card .card__footer, .bibliography-entry .bibliography-entry__metadata, .in-sidebar {
   font-size: .875rem; }
 
 .f7 {
@@ -6424,7 +6424,7 @@ body > section [role="main"] {
   .f7-ns {
     font-size: .75rem; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .f-6-m,
   .f-headline-m {
     font-size: 6rem; }
@@ -6446,7 +6446,7 @@ body > section [role="main"] {
   .f7-m {
     font-size: .75rem; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .f-6-l,
   .f-headline-l {
     font-size: 6rem; }
@@ -6533,7 +6533,7 @@ body > section [role="main"] {
     overflow: hidden;
     text-overflow: ellipsis; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .measure-m {
     max-width: 30em; }
   .measure-wide-m {
@@ -6551,7 +6551,7 @@ body > section [role="main"] {
     overflow: hidden;
     text-overflow: ellipsis; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .measure-l {
     max-width: 30em; }
   .measure-wide-l {
@@ -6602,7 +6602,7 @@ body > section [role="main"] {
   .ml-auto-ns {
     margin-left: auto; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .center-m {
     margin-right: auto;
     margin-left: auto; }
@@ -6611,7 +6611,7 @@ body > section [role="main"] {
   .ml-auto-m {
     margin-left: auto; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .center-l {
     margin-right: auto;
     margin-left: auto; }
@@ -6649,7 +6649,7 @@ body > section [role="main"] {
     /* IE6, IE7 */
     clip: rect(1px, 1px, 1px, 1px); } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .clip-m {
     position: fixed !important;
     _position: absolute !important;
@@ -6657,7 +6657,7 @@ body > section [role="main"] {
     /* IE6, IE7 */
     clip: rect(1px, 1px, 1px, 1px); } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .clip-l {
     position: fixed !important;
     _position: absolute !important;
@@ -6692,7 +6692,7 @@ body > section [role="main"] {
   .pre-ns {
     white-space: pre; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .ws-normal-m {
     white-space: normal; }
   .nowrap-m {
@@ -6700,7 +6700,7 @@ body > section [role="main"] {
   .pre-m {
     white-space: pre; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .ws-normal-l {
     white-space: normal; }
   .nowrap-l {
@@ -6740,7 +6740,7 @@ body > section [role="main"] {
   .v-btm-ns {
     vertical-align: bottom; } }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media screen and (min-width: 30em) and (max-width: 70em) {
   .v-base-m {
     vertical-align: baseline; }
   .v-mid-m {
@@ -6750,7 +6750,7 @@ body > section [role="main"] {
   .v-btm-m {
     vertical-align: bottom; } }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
   .v-base-l {
     vertical-align: baseline; }
   .v-mid-l {
@@ -7028,7 +7028,7 @@ body > section [role="main"] {
 .break-word, main a, [role="main"] a {
   overflow-wrap: break-word; }
 
-.link-arrow:after, .bibliography-entry .bibliography-entry__metadata a:after {
+.link-arrow:after, .cards-list .card .card__footer a:after, .bibliography-entry .bibliography-entry__metadata a:after {
   content: "→";
   right: 0; }
 
@@ -7060,7 +7060,23 @@ body > section [role="main"] {
 .break-word, main a, [role="main"] a {
   overflow-wrap: break-word; }
 
-.link-arrow:after, .bibliography-entry .bibliography-entry__metadata a:after {
+.link-arrow:after, .cards-list .card .card__footer a:after, .bibliography-entry .bibliography-entry__metadata a:after {
+  content: "→";
+  right: 0; }
+
+.cards-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 1rem; }
+
+@supports (display: grid) {
+  .cards-list .card {
+    margin-bottom: 0 !important; } }
+
+.break-word, main a, [role="main"] a {
+  overflow-wrap: break-word; }
+
+.link-arrow:after, .cards-list .card .card__footer a:after, .bibliography-entry .bibliography-entry__metadata a:after {
   content: "→";
   right: 0; }
 
@@ -7082,6 +7098,9 @@ body > section [role="main"] {
 .page .page__body p:empty:last-child {
   display: none; }
 
+.mt-auto, .cards-list .card .card__footer {
+  margin-top: auto; }
+
 .w-measure {
   width: 30em; }
 
@@ -7091,24 +7110,36 @@ body > section [role="main"] {
 .w-measure-wide {
   width: 34em; }
 
+.w-45 {
+  width: 45%; }
+
+.w-48 {
+  width: 48%; }
+
+@media screen and (min-width: 30em) and (max-width: 70em) {
+  .w-45-m {
+    width: 45%; }
+  .w-48-m {
+    width: 48%; } }
+
 .break-word, main a, [role="main"] a {
   overflow-wrap: break-word; }
 
-.link-arrow:after, .bibliography-entry .bibliography-entry__metadata a:after {
+.link-arrow:after, .cards-list .card .card__footer a:after, .bibliography-entry .bibliography-entry__metadata a:after {
   content: "→";
   right: 0; }
 
 .break-word, main a, [role="main"] a {
   overflow-wrap: break-word; }
 
-.link-arrow:after, .bibliography-entry .bibliography-entry__metadata a:after {
+.link-arrow:after, .cards-list .card .card__footer a:after, .bibliography-entry .bibliography-entry__metadata a:after {
   content: "→";
   right: 0; }
 
 .break-word, main a, [role="main"] a {
   overflow-wrap: break-word; }
 
-.link-arrow:after, .bibliography-entry .bibliography-entry__metadata a:after {
+.link-arrow:after, .cards-list .card .card__footer a:after, .bibliography-entry .bibliography-entry__metadata a:after {
   content: "→";
   right: 0; }
 
@@ -7140,7 +7171,7 @@ header[role="banner"] {
 .break-word, main a, [role="main"] a {
   overflow-wrap: break-word; }
 
-.link-arrow:after, .bibliography-entry .bibliography-entry__metadata a:after {
+.link-arrow:after, .cards-list .card .card__footer a:after, .bibliography-entry .bibliography-entry__metadata a:after {
   content: "→";
   right: 0; }
 

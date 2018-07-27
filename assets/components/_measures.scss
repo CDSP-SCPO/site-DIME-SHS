@@ -1,3 +1,7 @@
+.mt-auto {
+  margin-top: auto;
+}
+
 .w-measure {
   width: $measure;
 }
@@ -7,4 +11,19 @@
 }
 .w-measure-wide {
   width: $measure-wide;
+}
+.w-45 {
+  width: 45%;
+}
+.w-48 {
+  width: 48%;
+}
+
+@media #{$breakpoint-medium} {
+  .w-45-m {
+    width: 45%;
+  }
+  .w-48-m {
+    width: 48%;
+  }
 }

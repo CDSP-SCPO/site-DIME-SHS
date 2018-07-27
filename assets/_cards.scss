@@ -1,0 +1,43 @@
+@import 'components/links';
+
+.cards-list {
+  @extend .list;
+  @extend .pa0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 1rem;
+
+  .card {
+    @extend .flex;
+    @extend .flex-column;
+    @extend .ba;
+    @extend .b--black-30;
+    @extend .mid-gray;
+    @extend .pa3;
+    @extend .mb3;
+
+    .card__title {
+      @extend .f4;
+      @extend .ma0;
+      @extend .mb2;
+    }
+
+    .card__footer {
+      @extend .mt-auto;
+      @extend .f6;
+
+      a {
+        @extend .toggle-u-nou;
+        @extend .link-arrow;
+      }
+    }
+  }
+}
+
+@supports (display: grid) {
+  .cards-list {
+    .card {
+      margin-bottom: 0 !important;
+    }
+  }
+}
