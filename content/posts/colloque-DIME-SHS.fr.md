@@ -1,5 +1,5 @@
 ---
-title:  colloque DIME-SHS / 28 septembre 2018
+title:  Colloque DIME-SHS - 28 septembre 2018
 date:   2018-09-28T00:00:00
 ---
 
