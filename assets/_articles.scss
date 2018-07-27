@@ -26,6 +26,16 @@
     }
   }
 
+  .article__title h2 {
+    @extend .f3;
+  }
+  .article__body h1 {
+    @extend .f4;
+  }
+  .article__body h2 {
+    @extend .f5;
+  }
+
   .page__body h1,
   .article__title h2 {
     @extend .normal;

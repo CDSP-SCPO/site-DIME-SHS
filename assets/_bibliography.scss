@@ -24,7 +24,7 @@
 
   &:not(.bibliography-entry--quiet) {
     @extend .bb;
-    @extend .b--mid-gray;
+    @extend .b--black-30;
     @extend .pb4;
     @extend .pt4;
   }

@@ -1018,7 +1018,7 @@ img {
 .article .article__title h2,
 .page .page__body h1,
 .page .article__title h2, .bibliography > h2,
-.bibliography > .bibliography-section > h3, .bibliography-entry:not(.bibliography-entry--quiet) {
+.bibliography > .bibliography-section > h3 {
   border-color: #6F6E6E; }
 
 .b--gray {
@@ -1096,7 +1096,7 @@ img {
 .b--black-40 {
   border-color: rgba(0, 0, 0, 0.4); }
 
-.b--black-30, .cards-list .card {
+.b--black-30, .cards-list .card, .bibliography-entry:not(.bibliography-entry--quiet) {
   border-color: rgba(0, 0, 0, 0.3); }
 
 .b--black-20 {
@@ -6386,13 +6386,17 @@ body > section [role="main"] {
 .f3, main h3, [role="main"] h3, .article .article__body h2,
 .article .page__body h2,
 .page .article__body h2,
-.page .page__body h2 {
+.page .page__body h2,
+.article .article__title h2,
+.page .article__title h2 {
   font-size: 1.5rem; }
 
-.f4, main h4, [role="main"] h4, .slides .slide:nth-of-type(1) p, .slides .slide:nth-of-type(3) p, .cards-list .card .card__title {
+.f4, main h4, [role="main"] h4, .slides .slide:nth-of-type(1) p, .slides .slide:nth-of-type(3) p, .cards-list .card .card__title, .article .article__body h1,
+.page .article__body h1 {
   font-size: 1.25rem; }
 
-.f5, .bibliography-entry h3, header[role="banner"] {
+.f5, .article .article__body h2,
+.page .article__body h2, .bibliography-entry h3, header[role="banner"] {
   font-size: 1rem; }
 
 .f6, .cards-list .card .card__footer, .bibliography-entry .bibliography-entry__metadata, .in-sidebar {
