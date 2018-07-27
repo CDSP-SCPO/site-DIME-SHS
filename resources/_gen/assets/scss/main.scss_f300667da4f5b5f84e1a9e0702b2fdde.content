@@ -2057,7 +2057,7 @@ header[role="banner"] .secondary-navigation li {
    -l  = large
 
 */
-.flex, .slides, .slides .slide, .slides .slide:nth-of-type(3n), .cards-list .card, .badges-list > ol,
+.flex, .slides, .slides .slide, .slides .slide:nth-of-type(3), .cards-list .card, .badges-list > ol,
 .badges-list > ul, header[role="banner"], header[role="banner"] .main-navigation, header[role="banner"] .language-picker, .columns, body > section {
   display: flex; }
 
@@ -2079,7 +2079,7 @@ header[role="banner"] .secondary-navigation li {
 .flex-column, .slides, .slides .slide, .cards-list .card {
   flex-direction: column; }
 
-.flex-row, .slides .slide:nth-of-type(3n) {
+.flex-row, .slides .slide:nth-of-type(3) {
   flex-direction: row; }
 
 .flex-wrap, .badges-list > ol,
@@ -2105,7 +2105,7 @@ header[role="banner"] .secondary-navigation li {
 .items-end {
   align-items: flex-end; }
 
-.items-center, .slides .slide:nth-of-type(3n), header[role="banner"] .main-navigation, header[role="banner"] .language-picker {
+.items-center, .slides .slide:nth-of-type(3), header[role="banner"] .main-navigation, header[role="banner"] .language-picker {
   align-items: center; }
 
 .items-baseline {
@@ -2141,7 +2141,7 @@ header[role="banner"] .secondary-navigation li {
 .justify-between {
   justify-content: space-between; }
 
-.justify-around, .slides .slide:nth-of-type(3n) {
+.justify-around, .slides .slide:nth-of-type(3) {
   justify-content: space-around; }
 
 .content-start {
@@ -2534,7 +2534,7 @@ header[role="banner"] .secondary-navigation li {
    Docs: http://tachyons.io/docs/typography/font-family/
 
 */
-.sans-serif, body {
+.sans-serif {
   font-family: -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif; }
 
 .serif {
@@ -2643,7 +2643,7 @@ code, .code {
      -l  = large
 
 */
-.normal, main h2, [role="main"] h2, main h3, [role="main"] h3, main h4, [role="main"] h4, .article .page__body h1,
+.normal, main h2, [role="main"] h2, main h3, [role="main"] h3, main h4, [role="main"] h4, .slides .slide h1, .slides .slide h2, .article .page__body h1,
 .article .article__title h2,
 .page .page__body h1,
 .page .article__title h2, .bibliography > h2,
@@ -3025,7 +3025,7 @@ header[role="banner"] .secondary-navigation .active, #TableOfContents .active {
 .page .article__title {
   line-height: 1.25; }
 
-.lh-copy, main p, main li, [role="main"] p, [role="main"] li, .article .article__body p, .article .article__body li,
+.lh-copy, main h5, main h6, [role="main"] h5, [role="main"] h6, main p, main li, [role="main"] p, [role="main"] li, .article .article__body p, .article .article__body li,
 .article .page__body p,
 .article .page__body li,
 .page .article__body p,
@@ -3293,7 +3293,7 @@ header[role="banner"] .secondary-navigation > ul, #TableOfContents > ul, #TableO
 .w-10 {
   width: 10%; }
 
-.w-20, .slides .slide:nth-of-type(3n) > section, header[role="banner"] .site-logo {
+.w-20, .slides .slide:nth-of-type(3) > section, header[role="banner"] .site-logo {
   width: 20%; }
 
 .w-25 {
@@ -4027,10 +4027,10 @@ body > section [role="main"] {
 .bg-near-black {
   background-color: #111; }
 
-.bg-dark-gray, .slides .slide:nth-of-type(2n) {
+.bg-dark-gray, .slides .slide:nth-of-type(2) {
   background-color: #4A4A4A; }
 
-.bg-mid-gray, .slides .slide:nth-of-type(3n) {
+.bg-mid-gray, .slides .slide:nth-of-type(3) {
   background-color: #6F6E6E; }
 
 .bg-gray {
@@ -5650,7 +5650,7 @@ body > section [role="main"] {
   .ph3-l {
     padding-left: 1rem;
     padding-right: 1rem; }
-  .ph4-l, .slides .slide:nth-of-type(3n) {
+  .ph4-l, .slides .slide:nth-of-type(3) {
     padding-left: 2rem;
     padding-right: 2rem; }
   .ph5-l {
@@ -6389,7 +6389,7 @@ body > section [role="main"] {
 .page .page__body h2 {
   font-size: 1.5rem; }
 
-.f4, main h4, [role="main"] h4, .cards-list .card .card__title {
+.f4, main h4, [role="main"] h4, .slides .slide:nth-of-type(1) p, .slides .slide:nth-of-type(3) p, .cards-list .card .card__title {
   font-size: 1.25rem; }
 
 .f5, .bibliography-entry h3, header[role="banner"] {
@@ -7031,6 +7031,12 @@ body > section [role="main"] {
 .link-arrow:after, .cards-list .card .card__footer a:after, .bibliography-entry .bibliography-entry__metadata a:after {
   content: "→";
   right: 0; }
+
+.arial, body {
+  font-family: arial, sans-serif; }
+
+.open-sans, main h1, main h2, main h3, main h4, main h5, main h6, [role="main"] h1, [role="main"] h2, [role="main"] h3, [role="main"] h4, [role="main"] h5, [role="main"] h6 {
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif; }
 
 .link-color, main a, [role="main"] a {
   color: #E6142D; }
