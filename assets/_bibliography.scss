@@ -36,7 +36,7 @@
   .bibliography-entry__body {
     @extend .black-60;
     @extend .measure-wide;
-    @extend .w-two-thirds-l;
+    @extend .w-60-l;
   }
 
   h3 {
@@ -52,7 +52,8 @@
 
   .bibliography-entry__metadata {
     @extend .f6;
-    @extend .flex-auto-l;
+    @extend .w-30-l;
+    @extend .ml-auto-l;
 
     > ul {
       @extend .list;
