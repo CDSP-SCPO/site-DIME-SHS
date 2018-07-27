@@ -1,5 +1,44 @@
 # Journal de bord
 
+
+## Vendredi 27 juillet 2018
+
+### Ce que j'ai fait
+
+- j'ai terminé le gabarit publications
+- j'ai fait 2-3 corrections à la marge pour les polices de caractères
+- j'ai ajouté les libellés en anglais pour les enquêtes
+
+### Ce que je compte faire demain
+
+- je t'envoie la maquette de la nouvelle home
+- achever les bugs
+- terminer les actualités
+- le footer
+- balises ouvrantes/fermantes
+
+### Ce qui me bloque ou me ralentit
+
+- la chaleur, j'étais KO aujourd'hui
+
+## Jeudi 26 juillet 2018
+
+### Ce que j'ai fait
+
+- j'ai terminé le gabarit outils
+- j'ai terminé le gabarit enquêtes
+- j'ai ajouté les analytics
+
+### Ce que je compte faire demain
+
+- je termine la table des matières du gabarit instruments
+- je fais le gabarit publications
+- je m'occupe des bugs
+
+### Ce qui me bloque ou me ralentit
+
+- il y a peut-être plus de choses à faire que de temps disponible
+
 ## Mercredi 25 juillet 2018
 
 ### Ce que j'ai fait
