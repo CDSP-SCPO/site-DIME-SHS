@@ -1,7 +1,7 @@
 ---
 title: Google Bookmarlets
 parent: dime-web
-website: '#'
+website: https://medialab.github.io/google-bookmarklets/
 weight: 20
 ---
 

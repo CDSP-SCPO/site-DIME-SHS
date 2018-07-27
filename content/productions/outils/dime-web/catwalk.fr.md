@@ -1,7 +1,7 @@
 ---
 title: Catwalk
 parent: dime-web
-website: '#'
+website: https://medialab.github.io/catwalk/
 weight: 80
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Graph Recipes
 parent: dime-web
-website: '#'
+website: http://tools.medialab.sciences-po.fr/graph-recipes/
 weight: 40
 ---
 

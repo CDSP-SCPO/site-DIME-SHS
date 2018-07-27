@@ -1,7 +1,7 @@
 ---
-title: Table to Net
+title: Table2Net
 parent: dime-web
-website: '#'
+website: http://tools.medialab.sciences-po.fr/table2net/
 weight: 30
 ---
 

@@ -5,8 +5,9 @@
   {{ .Page.Content }}
 </div>
 
-{{- $Tools := where .Site.Pages "Dir" "instruments/outils/" -}}
-{{- $Instruments := where (where .Site.Pages "Kind" "page") "Dir" "instruments/" -}}
+{{- $Page := .Page -}}
+{{- $Tools := .Pages -}}
+{{- $Instruments := (index (where .Site.Sections "Section" "instruments") 0).Pages -}}
 
 {{ range $Instruments }}
 {{- $id := .File.TranslationBaseName -}}
@@ -14,7 +15,8 @@
   <h2>{{ .Title }}</h2>
 
   <ul class="cards-list">
-  {{ range where $Tools "Params.parent" $id }}
+  {{- $folder := string (delimit (slice (trim $Page.Dir "/") $id "") "/") -}}
+  {{ range where $Tools "Dir" $folder }}
   <article class="card">
     <h3 class="card__title">{{ .Title }}</h3>
 

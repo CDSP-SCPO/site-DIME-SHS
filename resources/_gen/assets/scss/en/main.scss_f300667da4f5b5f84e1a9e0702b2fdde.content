@@ -2082,7 +2082,7 @@ header[role="banner"] .secondary-navigation li {
 .flex-row, .slides .slide:nth-of-type(3n) {
   flex-direction: row; }
 
-.flex-wrap, .cards-list, .badges-list > ol,
+.flex-wrap, .badges-list > ol,
 .badges-list > ul, header[role="banner"] {
   flex-wrap: wrap; }
 
@@ -2193,7 +2193,7 @@ header[role="banner"] .secondary-navigation li {
   order: 99999; }
 
 @media screen and (min-width: 30em) {
-  .flex-ns, .cards-list {
+  .flex-ns {
     display: flex; }
   .inline-flex-ns {
     display: inline-flex; }
@@ -3451,7 +3451,7 @@ body > section [role="main"] {
     width: 20%; }
   .w-25-l {
     width: 25%; }
-  .w-30-l, .cards-list .card {
+  .w-30-l {
     width: 30%; }
   .w-33-l {
     width: 33%; }
@@ -4878,7 +4878,7 @@ header[role="banner"] .secondary-navigation > ul {
 .mr2 {
   margin-right: 0.5rem; }
 
-.mr3, .cards-list .card, .badges-list > ol > li,
+.mr3, .badges-list > ol > li,
 .badges-list > ul > li {
   margin-right: 1rem; }
 
@@ -5436,7 +5436,7 @@ body > section [role="main"] {
     margin-left: 8rem; }
   .ml7-m {
     margin-left: 16rem; }
-  .mr0-m, .cards-list .card:nth-child(2n) {
+  .mr0-m {
     margin-right: 0; }
   .mr1-m {
     margin-right: 0.25rem; }
@@ -5694,7 +5694,7 @@ body > section [role="main"] {
     margin-left: 8rem; }
   .ml7-l {
     margin-left: 16rem; }
-  .mr0-l, .cards-list .card:nth-child(3n) {
+  .mr0-l {
     margin-right: 0; }
   .mr1-l {
     margin-right: 0.25rem; }
@@ -7064,9 +7064,14 @@ body > section [role="main"] {
   content: "→";
   right: 0; }
 
-.cards-list .card .card__footer {
-  margin-top: auto;
-  justify-self: end; }
+.cards-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 1rem; }
+
+@supports (display: grid) {
+  .cards-list .card {
+    margin-bottom: 0 !important; } }
 
 .break-word, main a, [role="main"] a {
   overflow-wrap: break-word; }
@@ -7093,6 +7098,9 @@ body > section [role="main"] {
 .page .page__body p:empty:last-child {
   display: none; }
 
+.mt-auto, .cards-list .card .card__footer {
+  margin-top: auto; }
+
 .w-measure {
   width: 30em; }
 
@@ -7111,7 +7119,7 @@ body > section [role="main"] {
 @media screen and (min-width: 30em) and (max-width: 70em) {
   .w-45-m {
     width: 45%; }
-  .w-48-m, .cards-list .card {
+  .w-48-m {
     width: 48%; } }
 
 .break-word, main a, [role="main"] a {

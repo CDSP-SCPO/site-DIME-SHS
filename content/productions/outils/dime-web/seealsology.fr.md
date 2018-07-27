@@ -1,7 +1,7 @@
 ---
 title: SeeAlsology
 parent: dime-web
-website: '#'
+website: http://tools.medialab.sciences-po.fr/seealsology/
 weight: 50
 ---
 

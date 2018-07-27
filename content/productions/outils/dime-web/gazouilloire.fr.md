@@ -1,7 +1,7 @@
 ---
 title: Gazouilloire
 parent: dime-web
-website: '#'
+website: https://github.com/medialab/gazouilloire
 weight: 70
 ---
 
