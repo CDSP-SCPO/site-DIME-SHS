@@ -22,7 +22,7 @@ Code APE: 803Z<br>
 27, rue saint Guillaume<br>
 75337 Paris cedex 07<br>
 
-##  Propriété Industrielle et Intellectuelle
+##  Industrial and intellectual property
 Except for explicitly licensed elements, all information on this web site is protected by the copyrights held by Sciences Po or their partners.
 Therefore, the information may not be reproduced, modified, republished, re-aired, translated, distributed or reused in any manner, without the written consent of Sciences Po.
 The Sciences Po site’s title, concept and form, as well as its content, such as news, descriptions, illustrations and original images and their organisation, and any software compilation, source code and other elements contained on the Sciences Po site are the property of Sciences Po.
