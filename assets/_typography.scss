@@ -1,5 +1,13 @@
 @import 'components/links';
 
+.arial {
+  font-family: arial, sans-serif;
+}
+
+.open-sans {
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
 .link-color {
   color: $secondary-color;
 }
@@ -36,6 +44,14 @@ main, [role="main"] {
 
   h1, h2, h3, h4 {
     @extend .lh-title;
+  }
+
+  h5, h6 {
+    @extend .lh-copy;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @extend .open-sans;
   }
 
   p, li {
