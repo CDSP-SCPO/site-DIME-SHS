@@ -12,18 +12,18 @@ layout: default
       <p class="measure">
         <strong>{{ enquete.title}}</strong>
         ({{ enquete.date | replace: ' ', '&nbsp;' }})
-        {{ enquete.authors | join: ', ' }}
+        {{ enquete.authors | join: ', ' (i18n "and") }}
       </p>
     </div>
     <ul class="w-25">
       {% if enquete.lien_cdsp %}
       <li><a href="{{ enquete.lien_cdsp }}">
-        Présentation de l’enquête
+        glzflzef
       </a></li>
       {% endif %}
       {% if enquete.lien_doi %}
       <li><a href="{{ enquete.lien_doi }}">
-        L’enquête sur l'enquête
+        {{ i18n "survey_view_doi" }}
       </a></li>
       {% endif %}
     </ul>

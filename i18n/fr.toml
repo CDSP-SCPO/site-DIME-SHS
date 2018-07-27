@@ -1,3 +1,6 @@
+[and]
+other = " et "
+
 [article]
 other = "article"
 [periodicalIssue]
@@ -19,4 +22,9 @@ other = "compte-rendu d'ouvrage"
 [workingPaper]
 other = "working paper"
 [speech]
-other = "présentation" 
+other = "présentation"
+
+[survey_presentation]
+other = "Présentation de l’enquête"
+[survey_view_doi]
+other = "L’enquête sur l'enquête"

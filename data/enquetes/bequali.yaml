@@ -2,13 +2,13 @@ title: Enquêtes documentées par BeQuali
 items:
 - title: Choisir son école
   date: "1999-2005"
-  auteurs:
+  authors:
   - VAN ZANTEN Agnès
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/cdsp_bequali_s1/
   lien_doi: https://doi.org/10.21410/dshs_2016/KHUK6Z
 - title: De l’Afrique à la France, d’une génération à l’autre
   date: "2006-2010"
-  auteurs:
+  authors:
   - BAROU Jacques
   - AOUICI Sabrina
   - ATTIAS-DONFUT Claudine
@@ -20,13 +20,13 @@ items:
   lien_doi: https://doi.org/10.21410/dshs_2016/V2XWWP
 - title: Des femmes en politique
   date: "1984-1985"
-  auteurs:
+  authors:
   - SINEAU Mariette
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/cdsp_bequali_sp6/
   lien_doi: https://doi.org/10.21410/dshs_2016/XPWWW9
 - title: La Formation des couples
   date: "1983-1985"
-  auteurs:
+  authors:
   - BOZON Michel
   - HERAN François
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/cdsp_bq_s2/
@@ -34,26 +34,26 @@ items:
 - title: |
     La profession d'architecte : nouvelle théorie sociologique des professions
   date: "2004-2010"
-  auteurs:
+  authors:
   - CHAMPY Florent
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/cdsp_bq_s3/
   lien_doi: https://doi.org/10.21410/dshs_2016/IWE3KI
 - title: |
     Le Parlement français et l’Union Européenne : l’Europe saisie par les rôles parlementaires
   date: "1993-2005"
-  auteurs:
+  authors:
   - ROZENBERG Olivier
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/cdsp_bequali_sp3/
   lien_doi: https://doi.org/10.21410/dshs_2016/CLSJTH
 - title: Les Français et la politique
   date: "1983"
-  auteurs:
+  authors:
   - SCHWEISGUTH Étienne
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/cdsp_bequali_sp2/
   lien_doi: https://doi.org/10.21410/dshs_2016/MB6S9N
 - title: Quand des Français, des Anglais et des Belges (francophones) parlent d’Europe
   date: "2005-2006"
-  auteurs:
+  authors:
   - DUCHESNE Sophie
   - FRAZER Elizabeth
   - GARCIA Guillaume
@@ -64,7 +64,7 @@ items:
   lien_doi: https://doi.org/10.21410/dshs_2016/QWDFMD
 - title: Représentation du champ social, attitudes politiques et changements socio-économiques
   date: "1978"
-  auteurs:
+  authors:
   - DONÉGANI Jean-Marie
   - MICHELAT Guy
   - SIMON Michel
@@ -72,53 +72,53 @@ items:
   lien_doi: https://doi.org/10.21410/dshs_2016/6TRSZ3
 - title: Avec ceux du FN. Un sociologue au Front national
   date: "1995-2017"
-  auteurs:
+  authors:
   - BIZEUL Daniel
 - title: Comparaison des ministères de l’enseignement supérieur de France et d’Allemagne
   date: "1987-1990"
-  auteurs:
+  authors:
   - MUSSELIN Christine
 - title: Dilapidation et prodigalité
   date: "1990-1995"
-  auteurs:
+  authors:
   - GOTMAN Anne
 - title: Espace et temps du travail domestique
   date: "1978-1981"
-  auteurs:
+  authors:
   - CHABAUD-RYCHTER Danielle et FOUGEYROLLAS-SCHWEBEL Dominique
 - title: La gouvernance territoriale en Europe entre convergence et capacité
   date: "2012-2014"
-  auteurs:
+  authors:
   - COLE Alistair (coord.)
   - DE VISSCHER Christian
   - HARGUINDÉGUY, PASQUIER Romain
   - STAFFORD Ian
 - title: Le réformisme assumé de la CFDT
   date: "2008-2009"
-  auteurs:
+  authors:
   - BARTHÉLEMY Martine
   - DARGENT Claude
   - REY Henri
 - title: Les conditions de vie professionnelle des femmes enceintes
   date: "1985-1988"
-  auteurs:
+  authors:
   - DEVREUX Anne-Marie
 - title: Les infirmières et leur coordination
   date: "1988-1989"
-  auteurs:
+  authors:
   - KERGOAT Danièle
 - title: Les réseaux économiques souterrains en cité de transit
   date: "1967-2014"
-  auteurs:
+  authors:
   - LAÉ Jean-François
   - MURARD Numa
 - title: L’hospitalité
   date: "1995-2001"
-  auteurs:
+  authors:
   - GOTMAN Anne
 - title: Operationalizing Programmatic Elites Research in America
   date: "2008-2012"
-  auteurs:
+  authors:
   - GENIEYS William (ccord.)
   - BEAUSSIER Anne-Laure
   - DARVICHE Saïd
@@ -130,7 +130,7 @@ items:
   - SMYRL Marc,
 - title: Panel de Caen
   date: "1995-2016"
-  auteurs:
+  authors:
   - BIDART Claire
   - DEGENNE Alain
   - LAVENU Daniel

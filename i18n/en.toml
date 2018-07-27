@@ -1,3 +1,6 @@
+[and]
+other = " and "
+
 [article]
 other = "article"
 [periodicalIssue]
@@ -20,3 +23,8 @@ other = "book review"
 other = "working paper"
 [speech]
 other = "speech"
+
+[survey_presentation]
+other = "Survey presentation"
+[survey_view_doi]
+other = "The survey about the survey"
