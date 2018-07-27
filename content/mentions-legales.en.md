@@ -1,10 +1,10 @@
 ---
-title: Mentions-legales
+title: Credits
 sort_order: 3
 ---
 
-# Crédits
-Le contenu de ce site internet est mis à disposition par :<br>
+# Credits
+The contents of this site were supplied by :<br>
 Sciences Po<br>
 27 rue Saint-Guillaume<br>
 75337 Paris Cedex 07<br>
@@ -13,20 +13,20 @@ Tel. : 01 45 49 50 50<br>
 Fax. : 01 42 22 31 26<br>
 Contact webmaster : info ( AT ) cdsp ( DOT ) fr<br>
 
-## Directeur de la publication
+## Publisher
 Frédéric Mion, President of Sciences Po
 
-## Hébergement
-Ce site internet est hébergé par la Fondation Nationale des Sciences Politiques (FNSP), Sciences Po – Direction des Systèmes d’Information.<br>
+## Hosting
+This internet site is hosted by la Fondation Nationale des Sciences Politiques (FNSP), Sciences Po – Direction des Systèmes d’Information.<br>
 Code APE: 803Z<br>
 27, rue saint Guillaume<br>
 75337 Paris cedex 07<br>
 
 ##  Propriété Industrielle et Intellectuelle
-A l’exception des éléments sous licence explicite, toutes les informations reproduites dans ce site web sont protégées par des droits de propriété intellectuelle détenus par Sciences Po ou par ses partenaires.
-Par conséquent, aucune de ces informations ne peut être reproduite, modifiée, rediffusée, traduite, exploitée commercialement ou réutilisée de quelque manière que ce soit sans l’accord préalable et écrit de Sciences Po.
-Le titre, la conception, la forme du site mais aussi son contenu, telles que les actualités, descriptions, illustrations et images originales et leur organisation, ainsi que toute compilation de logiciels, code source fondamental et autres éléments contenus sur ce site sont la propriété de Sciences Po.
+Except for explicitly licensed elements, all information on this web site is protected by the copyrights held by Sciences Po or their partners.
+Therefore, the information may not be reproduced, modified, republished, re-aired, translated, distributed or reused in any manner, without the written consent of Sciences Po.
+The Sciences Po site’s title, concept and form, as well as its content, such as news, descriptions, illustrations and original images and their organisation, and any software compilation, source code and other elements contained on the Sciences Po site are the property of Sciences Po.
 
-## Liens hypertextes
-Nos pages web proposent également des liens vers d’autres sites pour lesquels nous ne sommes responsables ni de leur intégral respect aux normes d’ordre public et bonnes mœurs, d’une part, ni de leur politique de protection des données personnelles ou d’utilisation qui en seraient faites, d’autre part.<br>
-En accédant à un autre site, par l’intermédiaire d’un lien hypertexte, vous acceptez que cet accès s’effectue à vos risques et périls. En conséquence, tout préjudice direct ou indirect résultant de votre accès à un autre site relié par un lien hypertexte ne peut engager la responsabilité de Sciences Po.
+## Hypertext Links
+Our pages also contain links to other sites for which we are in no manner responsible, neither regarding their adhesion to public order or good conduct, on the one hand, nor regarding their personal data privacy policies and use, on the other.
+By accessing an outside site, through a hypertext link, you accept that this access is carried out at your own risk. Therefore, Sciences Po will in no way be held responsible for any direct or indirect damages resulting from your access to an outside site through a hypertext link.
