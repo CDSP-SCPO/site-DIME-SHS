@@ -2,23 +2,32 @@
 @import 'components/links';
 
 .bibliography {
-  > h2 {
+  > h2,
+  > .bibliography-section > h3 {
     @extend .normal;
     @extend .mid-gray;
     @extend .b--mid-gray;
     @extend .bb;
-    @extend .bw1;
     @extend .pb3;
+  }
+
+  > h2 {
+    @extend .bw1;
   }
 }
 
 .bibliography-entry {
   @extend .lh-copy;
   @extend .flex-l;
-  @extend .pb4;
-  @extend .pt4;
-  @extend .bb;
-  @extend .b--mid-gray;
+  @extend .pb3;
+  @extend .pt3;
+
+  &:not(.bibliography-entry--quiet) {
+    @extend .bb;
+    @extend .b--mid-gray;
+    @extend .pb4;
+    @extend .pt4;
+  }
 
   h2 + & {
     @extend .pt2;
@@ -35,6 +44,10 @@
     @extend .b;
     @extend .normal;
     @extend .di;
+  }
+
+  .publisher {
+    @extend .i;
   }
 
   .bibliography-entry__metadata {

@@ -5,21 +5,41 @@
   {{ .Page.Content }}
 </div>
 
+{{- $labels := .Site.Params.publicationsLabels -}}
 
-<h1 class="f2 lh-title">Booh</h1>
+{{ range $key, $items := .Site.Data.publications }}
+<section class="bibliography">
+  <h2>{{ (index $.Site.Params.publications $key).name }}</h2>
 
-<ul class="list pl0">
-  {{ range .Site.Data.publications }}
-  <li class="flex" id="publication:{{ .id }}">
-    <div class="w-75">
-      <h3 class="f5 lh-copy measure-wide">{{ .title }} ({{ .date }})</h3>
-      <p class="f6 black-70 lh-copy measure">{{ delimit .auteurices ", " " et " }}</p>
-    </div>
+  {{- range $labels -}}
+  {{- $type := . -}}
+  {{- with (where $items "type" $type) -}}
+    <section class="bibliography-section" id="{{$key}}-{{$type}}">
+      <h3>{{ humanize (i18n $type) }}</h3>
 
-    <p class="w-25">
-      <span class="f6">+</span>
-    </p>
-  </li>
-  {{ end }}
-</ul>
+      {{ range . }}
+      <article class="bibliography-entry bibliography-entry--quiet">
+        <article class="bibliography-entry__body">
+          <span class="authors">{{ delimit (.authors | default slice) ", " " et " }}</span>.
+          <span class="date">{{ index (split .date "-") 0 }}</span>.
+          {{ if isset . "url" }}
+          <span class="title"><a href="{{ .url }}" target="_blank">{{ trim .title " \n" }}</a></span>.
+          {{ else }}
+          <span class="title">{{ trim .title " \n" }}</span>.
+          {{ end }}
+          {{ with .publisher }}
+          <span class="publisher">{{ . }}</span>.
+          {{ end }}
+          {{ with .source }}
+          <span class="source">{{ . }}</span>.
+          {{ end }}
+        </article>
+      </article>
+      {{ end }}
+    </section>
+  {{- end -}}
+  {{- end -}}
+</section>
+{{ end }}
+
 {{ end }}

@@ -1,0 +1,22 @@
+[article]
+other = "article"
+[periodicalIssue]
+other = "numéro de périodique"
+[book]
+other = "livre"
+[bookPart]
+other = "partie ou chapitre de livre"
+[conferencePaper]
+other = "communication dans des actes de colloque publiés"
+[conferenceContribution]
+other = "communication non publiée"
+[doctoralThesis]
+other = "thèse de doctorat"
+[report]
+other = "rapport"
+[bookReview]
+other = "compte-rendu d'ouvrage"
+[workingPaper]
+other = "working paper"
+[speech]
+other = "présentation" 
