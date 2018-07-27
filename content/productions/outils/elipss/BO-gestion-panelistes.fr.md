@@ -1,5 +1,5 @@
 ---
-title: Application de gestion des panélistes
+title: Back-office de gestion des panélistes
 parent: elipss
 ---
 
