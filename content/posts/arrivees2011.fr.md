@@ -4,7 +4,7 @@ date:   2011-10-01T00:00:00
 ---
 
 Pour assurer le développement de l'equipex, la coordination opérationnnelle de DIME-SHS a lancé une grande vague de recrutement.
-Au &er octobre 2011, ils sont 17 à avoir rejoint les équipes:
+Au 1er octobre 2011, ils sont 17 à avoir rejoint les équipes:
 
 # Equipe DIME Quanti
 - Kevin Boudelle, gestionnaire de panel
