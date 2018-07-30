@@ -1,3 +1,20 @@
 <footer>
+  <nav class="main-navigation">
+    <ul>
+    {{ range .Site.Menus.main }}
+    {{- $Page := .Page -}}
+    <li class="navigation-item">
+      <a href="{{ (index .Page.Pages 0).URL }}">{{ .Title | default .Page.Title }}</a>
 
+      <ul class="secondary-navigation">
+        {{- range $.Site.Menus.subnav -}}
+        {{- if eq .Page.Parent $Page -}}
+        <li><a href="{{ .Page.Permalink }}">{{ .Title }}</a></li>
+        {{- end -}}
+        {{- end -}}
+      </ul>
+    </li>
+    {{ end }}
+    </ul>
+  </nav>
 </footer>
