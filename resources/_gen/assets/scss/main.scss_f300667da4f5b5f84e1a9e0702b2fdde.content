@@ -6296,7 +6296,7 @@ body > section [role="main"] {
 .tr {
   text-align: right; }
 
-.tc {
+.tc, header[role="banner"] .site-logo {
   text-align: center; }
 
 .tj {
@@ -7244,9 +7244,12 @@ body > section [role="main"] {
   list-style-position: outside; }
 
 header[role="banner"] {
+  position: sticky;
   top: 0;
   transition: all .3s ease-in;
   z-index: 1000; }
+  header[role="banner"] .site-logo img {
+    max-height: 90px; }
   header[role="banner"] .secondary-navigation {
     background: #E6142D; }
     header[role="banner"] .secondary-navigation > ul {
