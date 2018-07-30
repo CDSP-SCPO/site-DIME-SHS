@@ -31,7 +31,7 @@ L’accompagnement de projets de recherche recouvre des réalités différentes 
 
 Un Comité Scientifique et Technique (CST) spécifique à Dime Web assure le suivi de la sélection des projets et l’orientation de l’instrument, sur la base d’une réunion physique annuelle et d’échanges numériques. À partir de 2014, la sélection et le soutien des petits projets nécessitant une plus forte réactivité sans requérir de coûteux développements (au contraire des plus gros projets) ont été délégués à l’équipe opérationnelle et le CST a endossé un rôle de supervision annuelle.
 
-![Schéma de fonctionnement de Dime Web](static/img/instruments/schema_dimeweb.svg)
+![Schéma de fonctionnement de Dime Web](/img/instruments/schema_dimeweb.svg)
 
 {{< badges-list >}}
 - ![](https://www.fillmurray.com/150/150)
