@@ -78,4 +78,4 @@ La contribution massive et constante des personnels permanents du CDSP –employ
 
 En complément, des apports additionnels à la subvention PIA émanant de partenaires du consortium DIME-SHS (EHESS, INED) ou d’autres organismes ayant souhaité soutenir l’Equipex (USPC, INPES, Ministère de la Culture, etc.) ont permis tout au long du projet de financer des mois de travail supplémentaires en appui au fonctionnement des instruments.
 
-[^1]: (l’accord de consortium pour la réalisation du projet d’équipex](docs/DIME-SHS_ACCORDCONSORTIUM.pdf)
+[^1]: [Accord de consortium de l’équipex](docs/DIME-SHS_ACCORDCONSORTIUM.pdf)
