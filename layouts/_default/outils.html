@@ -1,37 +1,39 @@
 {{ define "content" }}
-<h1>{{ .Page.Title }}</h1>
+<div class="page">
+  <header class="page__title">
+    <h1>{{ .Page.Title }}</h1>
+  </header>
 
-<div class="lh-copy f4">
-  {{ .Page.Content }}
-</div>
+  <div class="page__body">
+    {{ .Page.Content }}
 
-{{- $Page := .Page -}}
-{{- $Tools := .Pages -}}
-{{- $Instruments := (index (where .Site.Sections "Section" "instruments") 0).Pages -}}
+  {{- $Page := .Page -}}
+  {{- $Tools := .Pages -}}
+  {{- $Instruments := (index (where .Site.Sections "Section" "instruments") 0).Pages -}}
 
-{{ range $Instruments.Reverse }}
-{{- $id := .File.TranslationBaseName -}}
-<section>
-  <h2>{{ .Title }}</h2>
+  {{ range $Instruments.Reverse }}
+  {{- $id := .File.TranslationBaseName -}}
+  <section>
+    <h2 class="f2">{{ .Title }}</h2>
 
-  <ul class="cards-list">
-  {{- $folder := string (delimit (slice (trim $Page.Dir "/") $id "") "/") -}}
-  {{ range where $Tools "Dir" $folder }}
-  <article class="card">
-    <h3 class="card__title">{{ .Title }}</h3>
+    <ul class="cards-list">
+    {{- $folder := string (delimit (slice (trim $Page.Dir "/") $id "") "/") -}}
+    {{ range where $Tools "Dir" $folder }}
+    <article class="card">
+      <h3 class="card__title">{{ .Title }}</h3>
 
-    <div class="card__body">{{ .Content }}</div>
+      <div class="card__body">{{ .Content }}</div>
 
-    {{ with .Params.website }}
-    <footer class="card__footer">
-      <a href="{{ . }}" class="website" target="_blank">{{ i18n "view_tool" }}</a>
-    </footer>
+      {{ with .Params.website }}
+      <footer class="card__footer">
+        <a href="{{ . }}" class="website" target="_blank">{{ i18n "view_tool" }}</a>
+      </footer>
+      {{ end }}
+    </article>
     {{ end }}
-  </article>
+    </ul>
+  </section>
   {{ end }}
-  </ul>
-</section>
-{{ end }}
-
+</div>
 
 {{ end }}
