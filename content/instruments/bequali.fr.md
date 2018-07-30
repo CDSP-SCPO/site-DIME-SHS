@@ -23,6 +23,8 @@ Les enquêtes qui composent le catalogue sont sélectionnées selon différents 
 L’équipe beQuali traite les matériaux d’enquêtes sélectionnées et assure leur mise en ligne sur [le site beQuali](http://bequali.fr/fr/contacs/) et leur référencement sur la plateforme de téléchargement [Quetelet Progedo Diffusion](http://quetelet.progedo.fr/commander-des-donnees/).<br>
 BeQuali s’inscrit également dans une démarche de préservation des données de la recherche et prévoir un système d’archivage des enquêtes mises à disposition au Centre informatique nationale de l’Enseignement supérieur ([CINES](https://www.cines.fr/)).
 
+![Schéma de fonctionnement de beQuali](static/img/instruments/schema_bequali.svg)
+
 # Apports
 Il existe un intérêt fort de la communauté académique pour la mise à disposition de matériaux d’enquêtes qualitatives. La mise à disposition des corpus beQuali valorise ainsi le travail des chercheurs producteurs et permet à d’autres de les réutiliser afin de produire notamment des comparaisons ou de nouvelles interprétations (réanalyse, comparaison, etc.). De plus, l’intérêt du partage de ces matériaux en termes d’enseignement des méthodes qualitatives est considérable.
 
