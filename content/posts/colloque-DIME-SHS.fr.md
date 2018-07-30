@@ -13,13 +13,14 @@ Le 28 septembre 2018, le colloque DIME-SHS "Des instruments pour la recherche en
 ## 9h30 - 10h00 / Conférence d'introduction
 Réplication, réutilisation et croisement des corpus : défis et possibilités de DIME-SHS
 - (Nicolas Sauger, Responsable Scientifique de DIME-SHS et Directeur du CDSP)
+
 {{< sidebar class="last" >}}
 [Formulaire d'inscription](https://framaforms.org/colloque-dime-shs-des-instruments-au-service-de-la-recherche-en-sciences-sociales-1529765747)
 En savoir plus:
 [Site de l'instrument Elipss](http://quanti.dime-shs.sciences-po.fr/fr/)
 [Site de l'instrument beQuali](http://bequali.fr/fr/)
-[Site de l'instrument DIME-Web](http://dimeweb.dime-shs.sciences-po.fr/)
-{{< /sidebar class="last" >}}
+[Site de l'instrument Dime Web](http://dimeweb.dime-shs.sciences-po.fr/)
+{{< /sidebar >}}
 
 ## 10h00 - 10h45 / Co-produire des données pour la recherche avec ELIPSS
 Panel National Mobilité quotidienne : premiers résultats d’une enquête longitudinale - vague 1
