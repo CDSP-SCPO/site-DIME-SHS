@@ -4,7 +4,7 @@ date:   2015-09-22T00:00:00
 ---
 
 {{< sidebar >}}
-![](img/actualites/Cristal-medaille.jpg)
+![](/img/actualites/Cristal-medaille.jpg)
 {{< /sidebar >}}
 
 Le Président du CNRS et le Directeur de l’Institut des sciences humaines et sociales du CNRS viennent d’attribuer la [médaille de cristal 2015](http://www.cnrs.fr/fr/recherche/prix/cristal.htm), respectivement, à Anne Cornilleau et  Anne-Sophie Cousteaux – coordinatrices de l’équipe quantitative du CDSP – et à Geneviève Michaud – coordinatrice de l’équipe informatique du CDSP.
