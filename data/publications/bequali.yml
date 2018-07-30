@@ -1,47 +1,97 @@
-- id: "oai:spire.sciencespo.fr:2441/7qb0rlgrcf88ga3m0bqqemr4s1"
-  title: |
-    Enquête sur l’enquête « Représentation du champ social, attitudes politiques et changements socio-économiques » de Jean-Marie Donégani, Guy Michelat, Michel Simon
-  url: http://spire.sciencespo.fr/hdl:/2441/7qb0rlgrcf88ga3m0bqqemr4s1
+- id: HQFYNCIP
+  title: >-
+    Inventaire et collecte des données qualitatives : comment les chercheurs (se
+    dé-)font (de) leurs enquêtes ?
   authors:
-  - Souanef, Karim
-  - Cadorel, Sarah
-  - Garcia, Guillaume
-  date: "2015-01"
-  type: report
-  publisher: beQuali
-- id: "67L4HMJ8"
-  title: |
-    La profession d’architecte (2004-2010) – Florent Champy
+    - >-
+      Rioufreyt, Thibaut, 
+    - >-
+      Bachelot, Carole, 
+    - >-
+      Guaspare, Catherine, 
+  date: 12-13 décembre 2014
+  url: ""
+  type: conferenceContribution
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: >-
+    Expérimenter l’analyse  secondaire des enquêtes qualitatives : premier bilan
+  category: bequali
+- id: 3VVSP9ZG
+  title: Genre et « Formation du couple », réanalyser une enquête  canonique
   authors:
-  - Corminboeuf, Bernard
-  date: "2017-06-19"
+    - >-
+      Descoutures, Virginie, 
+  date: 12-13 décembre 2014
+  url: ""
+  type: conferenceContribution
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: >-
+    Expérimenter l'analyse secondaire des enquêtes qualitatives : premier bilan
+  category: bequali
+- id: BWDWMLJB
+  title: >-
+    De l’Afrique à la France : une enquête ethnographique
+  authors:
+    - Corminboeuf, Bernard
+  date: 2017-06-19
+  url: http://archipolis.hypotheses.org/528
   type: blogPost
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: ArchiPolis
+  category: bequali
+- id: 67L4HMJ8
+  title: La profession d’architecte (2004-2010) – Florent Champy
+  authors:
+    - Corminboeuf, Bernard
+  date: 2017-06-19
   url: http://archipolis.hypotheses.org/524
-- id: "TFQ4JY54"
-  title: |
-    Types idéologiques et classe résiduelle dans l'enquête d'Etienne Schweisguth : les Français et la politique, 1982-1988. Réanalyse à partir de deux familles de logiciels, CAQDAS et ADT
+  type: blogPost
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: ArchiPolis
+  category: bequali
+- id: 84SNI7TF
+  title: >-
+    The "European integration paradox" : comparing EU practice and discourse on
+    the role of parliaments in the EU in the Assemblée nationale and the
+    Bundestag across time
   authors:
-  - Abrial, Stéphanie
-  - Brugidou, Mathieu
-  - Salomon, Annie-Claude
-  date: "2017"
-  type: article
-- id: "84SNI7TF"
-  title: |
-    The "European integration paradox" : comparing EU practice and discourse on the role of parliaments in the EU in the Assemblée nationale and the Bundestag across time
-  authors:
-  - Thomas, Anja
-  - Lequesne, Christian
-  - Wessels, Wolfgang
-  date: "2016-12"
+    - Thomas, Anja
+  date: 2016-12
+  url: http://www.theses.fr/2016IEPP0039
   type: doctoralThesis
-- id: oai:spire.sciencespo.fr:2441/7qb0rlgrcf88ga3m0bqqemr4s1
-  url: http://spire.sciencespo.fr/hdl:/2441/5s5k3gjspk923q2vbggs3pu1q6
-  title: |
-    Présentation de la banque d’enquêtes qualitatives beQuali
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: Paris
+  category: bequali
+- id: TFQ4JY54
+  title: >-
+    Types idéologiques et classe résiduelle dans l'enquête d'Etienne Schweisguth
+    : les Français et la politique, 1982-1988. Réanalyse à partir de deux
+    familles de logiciels, CAQDAS et ADT
   authors:
-  - Cadorel, Sarah
-  - Guillaume Garcia
-  date: "2017-02"
-  type: speech
-  source: Séminaire ouvert des ingénieurs en SHS de Strasbourg, MISHA, Strasbourg, FR, 2017-02-02
+    - Abrial, Stéphanie
+    - Brugidou, Mathieu
+    - Salomon, Annie-Claude
+  date: "2017"
+  url: www.recherche-qualitative.qc.ca/documents/files/revue/hors_serie/HS-21/rq-hs21-abrial-et-al.pdf
+  type: article
+  issue: "21"
+  pages: 29-53
+  publication: La réanalyse des enquêtes qualitatives à l'épreuve de l'expérimentation
+  volume: Hors-série "Les Actes"
+  source: null
+  category: bequali

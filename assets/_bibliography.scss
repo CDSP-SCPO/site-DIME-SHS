@@ -46,7 +46,8 @@
     @extend .di;
   }
 
-  .publisher {
+  .publisher,
+  .publication {
     @extend .i;
   }
 
