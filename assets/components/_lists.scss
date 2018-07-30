@@ -8,6 +8,10 @@
   list-style-position: inside;
 }
 
+.list-outside{
+  list-style-position: outside;
+}
+
 .badges-list {
   @extend .pa0;
   @extend .mv4;

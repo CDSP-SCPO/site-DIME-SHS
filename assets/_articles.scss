@@ -53,9 +53,15 @@
       @extend .list-position-inside;
     }
 
-    p, li {
-      @extend .measure-wide;
+    p, li, video, iframe {
+      @extend .measure-wide-l;
+      @extend .measure-m;
       @extend .lh-copy;
+      @extend .mw-100;
+    }
+
+    p, > ul > li {
+      @extend .w-60-ns;
     }
 
     p:empty:last-child {
