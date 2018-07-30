@@ -57,11 +57,11 @@ main, [role="main"] {
   p, li {
     @extend .lh-copy;
   }
+}
 
-  a {
-    @include link-state('link-color', 'link-color-active');
-    @extend .break-word;
-  }
+a {
+  @include link-state('link-color', 'link-color-active');
+  @extend .break-word;
 }
 
 .measure-narrow-title {

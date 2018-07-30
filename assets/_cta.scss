@@ -1,0 +1,18 @@
+@import 'components/links';
+
+.cta-list {
+  @extend .list;
+  @extend .pa0;
+
+  a {
+    @extend .f3;
+    @include link-state('dark-gray', 'mid-gray');
+    @extend .no-underline;
+
+    @extend .db;
+    @extend .b--dark-gray;
+    @extend .bb;
+    @extend .bw1;
+    @extend .pv3;
+  }
+}

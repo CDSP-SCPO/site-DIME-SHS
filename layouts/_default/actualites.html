@@ -1,0 +1,12 @@
+{{ define "content" }}
+<h1>{{ .Page.Title }}</h1>
+
+<div class="lh-copy f4">
+  {{ .Page.Content }}
+</div>
+
+{{- range where (where .Site.Pages "Kind" "page") "Section" "posts" -}}
+{{ partial "contents/post.html" . }}
+{{- end -}}
+
+{{ end }}
