@@ -3,7 +3,7 @@ title:  Recrutement des équipes
 date:   2011-10-01T00:00:00
 ---
 {{< sidebar>}}
-![Equipe DIME-SHS](img/actualites/equipe-01.jpg)
+![Equipe DIME-SHS](/img/actualites/equipe-01.jpg)
 {{< /sidebar >}}
 
 Pour assurer le développement de l'equipex, la coordination opérationnnelle de DIME-SHS a lancé une grande vague de recrutement.

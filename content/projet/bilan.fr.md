@@ -6,7 +6,7 @@ weight: 40
 # Repères
 ## Dates clés
 
-{{< longdesc src="img/frise-chronologique-DIME.png" alt="Frise chronologique" >}}
+{{< longdesc src="/img/frise-chronologique-DIME.png" alt="Frise chronologique" >}}
 1. PREMIÈRES BRIQUES
   - 2011 : acceptation du projet
   - 2012 : inauguration de l’Equipex
@@ -27,7 +27,7 @@ weight: 40
 Zoom sur une année et répartition
 
 ## Personnel par expertises
-![Repartition des personnels par compétences](img/reperes/competences.svg)
+![Repartition des personnels par compétences](/img/reperes/competences.svg)
 
 # Evaluation de l’équipement
 

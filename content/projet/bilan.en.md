@@ -7,7 +7,7 @@ weight: 40
 *A METTRE A JOUR AVEC LA TRADUCTION*
 ## Dates clés
 
-{{< longdesc src="img/frise-chronologique-DIME.png" alt="Frise chronologique" >}}
+{{< longdesc src="/img/frise-chronologique-DIME.png" alt="Frise chronologique" >}}
 1. PREMIÈRES BRIQUES
   - 2011 : acceptation du projet
   - 2012 : inauguration de l’Equipex
