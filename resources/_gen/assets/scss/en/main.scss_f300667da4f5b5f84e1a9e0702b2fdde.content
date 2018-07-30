@@ -910,8 +910,13 @@ img {
   border-right-width: 1px; }
 
 .bb, .article .page__body h1,
+.article .page__body .f2, .article .page__body main h2, main .article .page__body h2, .article .page__body [role="main"] h2, [role="main"] .article .page__body h2, .article .page__body .article__title, .article .page__body .article__body h1, .article .article__body .page__body h1,
+.article .page .page__body h1, .page .article .page__body h1,
 .article .article__title h2,
 .page .page__body h1,
+.page .page__body .f2, .page .page__body main h2, main .page .page__body h2, .page .page__body [role="main"] h2, [role="main"] .page .page__body h2,
+.page .page__body .article__title,
+.page .page__body .article__body h1, .page .article__body .page__body h1,
 .page .article__title h2, .bibliography > h2,
 .bibliography > .bibliography-section > h3, .bibliography-entry:not(.bibliography-entry--quiet), .cta-list a {
   border-bottom-style: solid;
@@ -1015,8 +1020,13 @@ img {
 
 .b--mid-gray, .badges-list > ol img,
 .badges-list > ul img, .article .page__body h1,
+.article .page__body .f2, .article .page__body main h2, main .article .page__body h2, .article .page__body [role="main"] h2, [role="main"] .article .page__body h2, .article .page__body .article__title, .article .page__body .article__body h1, .article .article__body .page__body h1,
+.article .page .page__body h1, .page .article .page__body h1,
 .article .article__title h2,
 .page .page__body h1,
+.page .page__body .f2, .page .page__body main h2, main .page .page__body h2, .page .page__body [role="main"] h2, [role="main"] .page .page__body h2,
+.page .page__body .article__title,
+.page .page__body .article__body h1, .page .article__body .page__body h1,
 .page .article__title h2, .bibliography > h2,
 .bibliography > .bibliography-section > h3 {
   border-color: #6F6E6E; }
@@ -1436,8 +1446,13 @@ img {
 
 .bw1, .badges-list > ol img,
 .badges-list > ul img, .article .page__body h1,
+.article .page__body .f2, .article .page__body main h2, main .article .page__body h2, .article .page__body [role="main"] h2, [role="main"] .article .page__body h2, .article .page__body .article__title, .article .page__body .article__body h1, .article .article__body .page__body h1,
+.article .page .page__body h1, .page .article .page__body h1,
 .article .article__title h2,
 .page .page__body h1,
+.page .page__body .f2, .page .page__body main h2, main .page .page__body h2, .page .page__body [role="main"] h2, [role="main"] .page .page__body h2,
+.page .page__body .article__title,
+.page .page__body .article__body h1, .page .article__body .page__body h1,
 .page .article__title h2, .bibliography > h2, .cta-list a {
   border-width: .125rem; }
 
@@ -2644,8 +2659,13 @@ code, .code {
 
 */
 .normal, main h2, [role="main"] h2, main h3, [role="main"] h3, main h4, [role="main"] h4, .slides .slide h1, .slides .slide h2, .article .page__body h1,
+.article .page__body .f2, .article .page__body main h2, main .article .page__body h2, .article .page__body [role="main"] h2, [role="main"] .article .page__body h2, .article .page__body .article__title, .article .page__body .article__body h1, .article .article__body .page__body h1,
+.article .page .page__body h1, .page .article .page__body h1,
 .article .article__title h2,
 .page .page__body h1,
+.page .page__body .f2, .page .page__body main h2, main .page .page__body h2, .page .page__body [role="main"] h2, [role="main"] .page .page__body h2,
+.page .page__body .article__title,
+.page .page__body .article__body h1, .page .article__body .page__body h1,
 .page .article__title h2, .bibliography > h2,
 .bibliography > .bibliography-section > h3, .bibliography-entry h3 {
   font-weight: normal; }
@@ -3858,8 +3878,13 @@ body > section [role="main"] {
   color: #4A4A4A; }
 
 .mid-gray, .cards-list .card, .article .page__body h1,
+.article .page__body .f2, .article .page__body main h2, main .article .page__body h2, .article .page__body [role="main"] h2, [role="main"] .article .page__body h2, .article .page__body .article__title, .article .page__body .article__body h1, .article .article__body .page__body h1,
+.article .page .page__body h1, .page .article .page__body h1,
 .article .article__title h2,
 .page .page__body h1,
+.page .page__body .f2, .page .page__body main h2, main .page .page__body h2, .page .page__body [role="main"] h2, [role="main"] .page .page__body h2,
+.page .page__body .article__title,
+.page .page__body .article__body h1, .page .article__body .page__body h1,
 .page .article__title h2, .bibliography > h2,
 .bibliography > .bibliography-section > h3, header[role="banner"] a, #TableOfContents a, .cta-list a:hover, .cta-list a:focus, .in-sidebar {
   color: #6F6E6E; }
@@ -4715,8 +4740,13 @@ header[role="banner"] .secondary-navigation > ul, .cta-list {
   padding-bottom: 0.5rem; }
 
 .pb3, .article .page__body h1,
+.article .page__body .f2, .article .page__body main h2, main .article .page__body h2, .article .page__body [role="main"] h2, [role="main"] .article .page__body h2, .article .page__body .article__title, .article .page__body .article__body h1, .article .article__body .page__body h1,
+.article .page .page__body h1, .page .article .page__body h1,
 .article .article__title h2,
 .page .page__body h1,
+.page .page__body .f2, .page .page__body main h2, main .page .page__body h2, .page .page__body [role="main"] h2, [role="main"] .page .page__body h2,
+.page .page__body .article__title,
+.page .page__body .article__body h1, .page .article__body .page__body h1,
 .page .article__title h2, .bibliography > h2,
 .bibliography > .bibliography-section > h3, .bibliography-entry {
   padding-bottom: 1rem; }
@@ -6484,10 +6514,7 @@ body > section [role="main"] {
 
 */
 /* Measure is limited to ~66 characters */
-.measure, .article .article__body h2,
-.article .page__body h2,
-.page .article__body h2,
-.page .page__body h2 {
+.measure {
   max-width: 30em; }
 
 /* Measure is limited to ~80 characters */
