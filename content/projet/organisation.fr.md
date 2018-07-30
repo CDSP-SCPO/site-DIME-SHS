@@ -6,7 +6,7 @@ weight: 20
 
 # Gouvernance
 Coordonné par Sciences Po, l’Equipex DIME-SHS est animé par Nicolas Sauger en qualité de Responsable scientifique et technique depuis septembre 2017. Il prend la suite de Laurent Lesnard qui a initié le projet en 2011.<br>
-La gouvernance de DIME-SHS est spécifiée dans [l’accord de consortium pour la réalisation du projet d’équipex](docs/DIME-SHS_ACCORDCONSORTIUM.pdf); elle est organisée autour de trois instances.
+La gouvernance de DIME-SHS est spécifiée dans [l’accord de consortium pour la réalisation du projet d’équipex[^1]]; elle est organisée autour de trois instances.
 
 Le **Comité de coordination** assure le suivi opérationnel transversal des activités des trois instruments. Il réunit:
 - les responsables de chaque instrument,
@@ -71,7 +71,11 @@ Au sein de ces équipes, l’expertise technique d’ingénieurs spécialisés e
 - design web,
 - construction et maintenance d’une infrastructure informatique.
 
-A la diversité des compétences nécessaires au déploiement des instruments, s’ajoute la diversité des statuts, des employeurs et des canaux de financement des personnels.<br>
+A la diversité des compétences nécessaires au déploiement des instruments, s’ajoute la diversité des statuts, des employeurs et des canaux de financement des personnels.
+
 Ainsi, depuis le début du projet fin 2011, près de 40 ingénieurs financés par la subvention ANR ont contribué à la mise en œuvre et au pilotage des instruments, soit l’équivalent temps plein travaillé de 12 personnes en moyenne par an.<br>
-La contribution massive et constante des personnels permanents du CDSP –employés du CNRS, de la FNSP ou du MESR – représente également un apport en moyens humains essentiel à la réussite du projet, notamment en ce qui concerne la coordination de DIME-SHS (responsable scientifique, responsables d’instrument, chef de projet « infrastructure et développement informatique »).<br>
+La contribution massive et constante des personnels permanents du CDSP –employés du CNRS, de la FNSP ou du MESR – représente également un apport en moyens humains essentiel à la réussite du projet, notamment en ce qui concerne la coordination de DIME-SHS (responsable scientifique, responsables d’instrument, chef de projet « infrastructure et développement informatique »).
+
 En complément, des apports additionnels à la subvention PIA émanant de partenaires du consortium DIME-SHS (EHESS, INED) ou d’autres organismes ayant souhaité soutenir l’Equipex (USPC, INPES, Ministère de la Culture, etc.) ont permis tout au long du projet de financer des mois de travail supplémentaires en appui au fonctionnement des instruments.
+
+[^1](l’accord de consortium pour la réalisation du projet d’équipex](docs/DIME-SHS_ACCORDCONSORTIUM.pdf)
