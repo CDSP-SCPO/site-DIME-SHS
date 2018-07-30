@@ -27,7 +27,7 @@ weight: 40
 Zoom sur une année et répartition
 
 ## Personnel par expertises
-![Repartition des personnels par compétences](img/reperes/competences.svg)
+![Repartition des personnels par compétences](static/img/reperes/competences.svg)
 
 # Evaluation de l’équipement
 
