@@ -16,7 +16,8 @@ DIME-SHS se positionne comme une expérimentation d’infrastructure de recherch
 Les principes de fonctionnement de DIME-SHS adhèrent étroitement aux valeurs de la science ouverte et des standards FAIR. DIME-SHS entend contribuer à l’amélioration des standards en termes de méthodes, visant l’excellence scientifique. DIME-SHS incarne également le pluralisme en termes de méthodes et d’approches en rapprochant des traditions parfois éloignées.<br>
 Les principales missions de DIME-SHS sont ainsi de :
 
-1. concevoir des outils expérimentaux pour la production de données de recherche;<br> structurer des plates-formes pour faciliter l’accès et l’exploration des données de nature diverses;
+1. concevoir des outils expérimentaux pour la production de données de recherche;
+1. structurer des plates-formes pour faciliter l’accès et l’exploration des données de nature diverses;
 1. nourrir la réflexion sur les méthodes en recherche multi-corpus et impulser de nouvelles pratiques en prenant appui sur les outils numériques;
 1. accompagner l’ouverture des données et leur utilisation secondaire pour renforcer la transparence des démarches de recherches en sciences sociales.
 {: .columns .columns-3 }
