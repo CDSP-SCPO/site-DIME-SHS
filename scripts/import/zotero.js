@@ -49,7 +49,7 @@ const importer = (source, {publicationsMapping, publications, publicationsLabels
           publication,
           volume,
           source: getSource(item.data),
-          category,
+          category: category || DEFAULT_CATEGORY,
         };
       });
 
