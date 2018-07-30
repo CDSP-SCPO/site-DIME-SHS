@@ -1,6 +1,11 @@
 [and]
 other = " et "
 
+[news]
+other = "Actualités"
+[read_all_news]
+other = "Voir toutes les actualités"
+
 [article]
 other = "article"
 [periodicalIssue]

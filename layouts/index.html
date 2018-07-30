@@ -10,12 +10,19 @@
   </aside>
 
   <section role="main">
-    <h1>Actualités</h1>
+    <h1>{{ i18n "news" }}</h1>
 
     {{- range first 5 (where .Pages "Section" "posts") -}}
     {{ partial "contents/post.html" . }}
     {{- end -}}
-</section>
+
+    <footer>
+      {{- $News := .Site.GetPage "/actualites" -}}
+      <ul class="cta-list">
+        <li><a href="{{ $News.Permalink | absURL }}">{{ i18n "read_all_news" }}</a></li>
+      </ul>
+    </footer>
+  </section>
 
   <aside class="sidenotes" role="aside">
     {{ block "sidenotes" . }}{{ end }}
