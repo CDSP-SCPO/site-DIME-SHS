@@ -27,9 +27,7 @@ weight: 40
 Zoom sur une année et répartition
 
 ## Personnel par expertises
-développement web (3), archive(2), documentation (4), production de données (5), gestion de panel (2), coordination Equipex (2)
-
-Répartition projets déposés / sélectionnés
+[](static/img/reperes/competences.svg)
 
 # Evaluation de l’équipement
 
