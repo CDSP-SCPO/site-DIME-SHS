@@ -9,7 +9,7 @@
 {{- $Tools := .Pages -}}
 {{- $Instruments := (index (where .Site.Sections "Section" "instruments") 0).Pages -}}
 
-{{ range $Instruments }}
+{{ range $Instruments.Reverse. }}
 {{- $id := .File.TranslationBaseName -}}
 <section>
   <h2>{{ .Title }}</h2>
