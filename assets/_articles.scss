@@ -22,7 +22,6 @@
       @extend .bw0;
       @extend .pb0;
       @extend .mt4;
-      @extend .measure;
     }
   }
 
@@ -37,6 +36,7 @@
   }
 
   .page__body h1,
+  .page__body .f2,
   .article__title h2 {
     @extend .normal;
     @extend .mid-gray;
