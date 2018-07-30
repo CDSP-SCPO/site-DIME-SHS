@@ -21,12 +21,6 @@
   @extend .f6;
   @extend .mid-gray;
 
-  &:last-child,
-  &.last-item,
-  &.last {
-    bottom: 0;
-  }
-
   .footnote-return {
     display: none;
   }

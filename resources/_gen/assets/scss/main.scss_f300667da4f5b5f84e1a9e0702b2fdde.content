@@ -4718,7 +4718,7 @@ header[role="banner"] .secondary-navigation > ul, .cta-list {
 .article .article__title h2,
 .page .page__body h1,
 .page .article__title h2, .bibliography > h2,
-.bibliography > .bibliography-section > h3, .bibliography-entry, .cta-list a {
+.bibliography > .bibliography-section > h3, .bibliography-entry {
   padding-bottom: 1rem; }
 
 .pb4, .bibliography-entry:not(.bibliography-entry--quiet) {
@@ -4769,7 +4769,7 @@ header[role="banner"] .secondary-navigation > ul, .cta-list {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem; }
 
-.pv3 {
+.pv3, .cta-list a {
   padding-top: 1rem;
   padding-bottom: 1rem; }
 
@@ -7209,9 +7209,6 @@ header[role="banner"] {
 .footnotes ol {
   margin-top: 1.5em;
   padding-left: 0; }
-
-.in-sidebar:last-child, .in-sidebar.last-item, .in-sidebar.last {
-  bottom: 0; }
 
 .in-sidebar .footnote-return {
   display: none; }
