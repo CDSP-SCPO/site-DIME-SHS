@@ -1,7 +1,6 @@
 ---
 title: beQuali
 weight: 20
-menu: subnav
 options:
 - toc
 ---

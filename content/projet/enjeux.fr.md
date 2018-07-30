@@ -1,6 +1,8 @@
 ---
 title: Enjeux
-menu: subnav
+menu:
+  main:
+    parent: Projet
 weight: 10
 ---
 

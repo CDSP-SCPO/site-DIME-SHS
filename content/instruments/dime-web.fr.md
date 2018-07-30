@@ -1,7 +1,9 @@
 ---
 title: Dime Web
 weight: 30
-menu: subnav
+menu:
+  main:
+    parent: Instruments
 options:
 - toc
 ---

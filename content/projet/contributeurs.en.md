@@ -1,6 +1,8 @@
 ---
 title: Contributors
-menu: subnav
+menu:
+  main:
+    parent: Project
 weight: 30
 ---
 *A METTRE A JOUR AVEC LA TRADUCTION*

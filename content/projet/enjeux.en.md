@@ -1,6 +1,8 @@
 ---
 title: Stakes
-menu: subnav
+menu:
+  main:
+    parent: Project
 weight: 10
 ---
 *A METTRE 0 JOUR AVEC LA TRADUCTION*

@@ -1,6 +1,8 @@
 ---
 title: Organization
-menu: subnav
+menu:
+  main:
+    parent: Project
 weight: 20
 ---
 *A METTRE 0 JOUR AVEC LA TRADUCTION*

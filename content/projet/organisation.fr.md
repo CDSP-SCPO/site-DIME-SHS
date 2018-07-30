@@ -1,6 +1,8 @@
 ---
 title: Organisation
-menu: subnav
+menu:
+  main:
+    parent: Projet
 weight: 20
 ---
 

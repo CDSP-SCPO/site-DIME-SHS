@@ -8,26 +8,27 @@
     <ul>
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
-    {{- $isActive := (or ($currentPage.IsMenuCurrent "main" .) (eq .Page $currentPage.Parent)) -}}
-    {{ if $isActive }}{{ $activeMenu.Set "active" .Page }}{{ end }}
+    {{- $isActive := or ($currentPage.HasMenuCurrent "main" .) ($currentPage.IsMenuCurrent "main" .) -}}
+    {{ if $isActive }}{{ $activeMenu.Set "active" . }}{{ end }}
     <li class="navigation-item{{ if $isActive }} navigation-item--active active{{end}}">
-      <a href="{{ (index .Page.Pages 0).URL }}">{{ .Title | default .Page.Title }}</a>
+      <a href="{{ (index .Children 0).URL }}">{{ .Title | default .Page.Title }}</a>
     </li>
     {{ end }}
     </ul>
   </nav>
 
+  {{- with ($activeMenu.Get "active") -}}
+  {{- $CurrentMenu := . -}}
   <nav class="secondary-navigation">
     <ul>
-    {{ range .Site.Menus.subnav }}
-    {{- if eq ($activeMenu.Get "active") .Page.Parent -}}
-    {{- $isActive := ($currentPage.IsMenuCurrent "subnav" .) -}}
-    <li class="navigation-item{{ if $isActive }} navigation-item--active active{{end}}">
-      <a href="{{ .URL }}">{{ .Title | default .Page.Title }}</a>
-    </li>
-    {{ end }}{{ end }}
+      {{ range .Children }}
+      <li class="navigation-item{{ if $currentPage.IsMenuCurrent "main" . }} navigation-item--active active{{end}}">
+        <a href="{{ .URL }}">{{ .Title | default .Page.Title }}</a>
+      </li>
+      {{ end }}
     </ul>
   </nav>
+  {{- end -}}
 
   <aside class="language-picker">
     <ul>

@@ -1,6 +1,8 @@
 ---
 layout: enquetes
 title: Surveys
-menu: subnav
+menu:
+  main:
+    parent: Productions
 weight: 10
 ---
