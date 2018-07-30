@@ -25,10 +25,13 @@ enableRobotsTXT = true
     "speech",
   ]
 
-  [publicationsMapping]
+  [params.publicationsMapping]
     journalArticle = "article"
     thesis = "doctoralThesis"
-    "conference publication" = "conferenceContribution"
+    "conference publication" = "conferencePaper"
+    presentation = "conferenceContribution"
+    manuscript = "workingPaper"
+    bookSection = "bookPart"
 
   [params.publications.dime-web]
     name = "DIME SHS Web"
