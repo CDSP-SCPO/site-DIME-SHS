@@ -1,3 +1,7 @@
+@import 'components/positions';
+@import 'components/lists';
+@import 'components/links';
+
 .columns {
   @extend .flex;
   justify-content: space-between;
@@ -15,11 +19,31 @@
 }
 
 .in-sidebar {
-  @extend .absolute;
-  @extend .right-0;
-  @extend .w-30;
+  @extend .dn;
+  @extend .db-ns;
+  @extend .absolute-ns;
+  left: 70%;
+  @extend .w-30-ns;
   @extend .f6;
   @extend .mid-gray;
+
+  &.in-sidebar--from-content {
+    @extend .db;
+  }
+
+  > ul,
+  > ol,
+  .article__body & > ul,
+  .article__body & > ol {
+    @extend .list-outside;
+    @extend .pl3;
+  }
+
+  a {
+    @extend .link-arrow;
+    @extend .pv1;
+    @extend .toggle-u-nou;
+  }
 
   .footnote-return {
     display: none;
