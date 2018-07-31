@@ -4,7 +4,6 @@ menu: subnav
 weight: 40
 ---
 # Repères
-## Dates clés
 
 {{< longdesc src="/img/reperes/shema_reperes.svg" alt="Frise chronologique" >}}
 1. PREMIÈRES BRIQUES
@@ -23,7 +22,7 @@ weight: 40
   - 2018 : kits d'enseignement beQuali
 {{< /longdesc >}}
 
-![Repartition des personnels par compétences](/img/reperes/competences.svg | width=100)
+![Repartition des personnels par compétences](/img/reperes/competences.svg){width="250px"}
 
 # Evaluation de l’équipement
 
