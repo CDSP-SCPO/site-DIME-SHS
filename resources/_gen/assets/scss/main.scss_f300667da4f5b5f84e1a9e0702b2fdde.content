@@ -1245,7 +1245,7 @@ img {
 .br4 {
   border-radius: 1rem; }
 
-.br-100, .badges-list > ol img,
+.br-100, .slides__nav a, .badges-list > ol img,
 .badges-list > ul img {
   border-radius: 100%; }
 
@@ -1678,7 +1678,7 @@ img {
 .bottom-2 {
   bottom: 2rem; }
 
-.left-2 {
+.left-2, .slides__nav {
   left: 2rem; }
 
 .top--1 {
@@ -1946,7 +1946,7 @@ header[role="banner"] .language-picker li,
 header[role="banner"] .secondary-navigation li {
   display: inline; }
 
-.db, .link-arrow, .cards-list .card .card__footer a, .bibliography-entry .bibliography-entry__metadata a, .in-sidebar a, .site-footer .navigation-item__headline, .cta-list a, .in-sidebar.in-sidebar--from-content {
+.db, .link-arrow, .cards-list .card .card__footer a, .bibliography-entry .bibliography-entry__metadata a, .in-sidebar a, .slides__nav a, .site-footer .navigation-item__headline, .cta-list a, .in-sidebar.in-sidebar--from-content {
   display: block; }
 
 .dib {
@@ -3115,7 +3115,7 @@ header[role="banner"] .secondary-navigation .active, #TableOfContents .active {
    http://tachyons.io/docs/elements/lists/
 
 */
-.list, .cards-list, .badges-list > ol,
+.list, .slides__nav > ul, .cards-list, .badges-list > ol,
 .badges-list > ul, .bibliography-entry .bibliography-entry__metadata > ul, header[role="banner"] .main-navigation > ul,
 header[role="banner"] .language-picker > ul,
 header[role="banner"] .secondary-navigation > ul, .site-footer .main-navigation > ul, .site-footer .navigation-item > ul, #TableOfContents > ul, #TableOfContents > ol, .cta-list {
@@ -3670,7 +3670,7 @@ body > section [role="main"] {
 .page .page__body, .site-footer .navigation-item {
   position: relative; }
 
-.absolute, .link-arrow:after, .cards-list .card .card__footer a:after, .bibliography-entry .bibliography-entry__metadata a:after, .in-sidebar a:after, .site-footer .navigation-item.navigation-item--section:before, #TableOfContents .active:before, [aria-describedby] + div {
+.absolute, .link-arrow:after, .cards-list .card .card__footer a:after, .bibliography-entry .bibliography-entry__metadata a:after, .in-sidebar a:after, .slides__nav, .site-footer .navigation-item.navigation-item--section:before, #TableOfContents .active:before, [aria-describedby] + div {
   position: absolute; }
 
 .fixed {
@@ -3712,7 +3712,7 @@ body > section [role="main"] {
     Docs: http://tachyons.io/docs/themes/opacity/
 
 */
-.o-100 {
+.o-100, .slides__nav .active a {
   opacity: 1; }
 
 .o-90 {
@@ -3721,7 +3721,7 @@ body > section [role="main"] {
 .o-80 {
   opacity: .8; }
 
-.o-70 {
+.o-70, .slides__nav a {
   opacity: .7; }
 
 .o-60 {
@@ -3929,7 +3929,7 @@ body > section [role="main"] {
 .light-gray, header[role="banner"] .secondary-navigation a {
   color: #eee; }
 
-.near-white, .slides .slide, header[role="banner"] .secondary-navigation {
+.near-white, .slides .slide:nth-of-type(1), .slides .slide:nth-of-type(2), .slides .slide:nth-of-type(3), header[role="banner"] .secondary-navigation {
   color: #f4f4f4; }
 
 .white, header[role="banner"] .secondary-navigation a:hover, header[role="banner"] .secondary-navigation a:focus {
@@ -4098,7 +4098,7 @@ body > section [role="main"] {
 .bg-light-gray {
   background-color: #eee; }
 
-.bg-near-white, body {
+.bg-near-white, .slides__nav a, body {
   background-color: #f4f4f4; }
 
 .bg-white, header[role="banner"], .site-footer {
@@ -4960,7 +4960,7 @@ header[role="banner"] .secondary-navigation li {
 .mb1 {
   margin-bottom: 0.25rem; }
 
-.mb2, .cards-list .card .card__title, .site-footer .secondary-navigation--spaced > li, .site-footer .navigation-item__headline {
+.mb2, .slides__nav li, .cards-list .card .card__title, .site-footer .secondary-navigation--spaced > li, .site-footer .navigation-item__headline {
   margin-bottom: 0.5rem; }
 
 .mb3, .cards-list .card, .badges-list > ol > li,
@@ -7134,14 +7134,29 @@ body > section [role="main"] {
 .measure-narrow-title, .slides .slide h1, .slides .slide h2 {
   max-width: 15em; }
 
-.slides p:empty:first-of-type {
-  display: none; }
+.slides__nav {
+  top: 50%; }
+  .slides__nav a {
+    font-size: 0;
+    height: 8px;
+    width: 8px; }
 
-.slides .slide {
-  padding-left: 20%;
-  padding-right: 20%; }
-  .slides .slide:nth-of-type(1) {
-    background: #E6142D; }
+.slides {
+  height: 100vh;
+  scroll-behavior: smooth;
+  scroll-snap-type: mandatory;
+  scroll-snap-points-y: repeat(100%);
+  overflow-y: auto;
+  scroll-snap-destination: 50% 0; }
+  .slides p:empty:first-of-type {
+    display: none; }
+  .slides .slide {
+    padding-left: 20%;
+    padding-right: 20%; }
+    .slides .slide.slide--auto-height {
+      min-height: auto; }
+    .slides .slide:nth-of-type(1) {
+      background: #E6142D; }
 
 .break-word, a {
   overflow-wrap: break-word; }

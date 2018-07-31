@@ -1,31 +1,34 @@
 {{ define "main" }}
 
 <main class="slides">
-{{ .Page.Content }}
+  <nav class="slides__nav"><ul></ul></nav>
+
+  {{ .Page.Content }}
+
+  <section class="slide slide--auto-height" data-section="{{ .Page.Kind }}">
+    <aside class="table-of-contents" role="aside">
+      {{ block "toc" . }}{{ end }}
+    </aside>
+
+    <section role="main">
+      <h1>{{ i18n "news" }}</h1>
+
+      {{- range first 5 (where .Pages "Section" "posts") -}}
+      {{ partial "contents/post.html" . }}
+      {{- end -}}
+
+      <footer>
+        {{- $News := .Site.GetPage "/actualites" -}}
+        <ul class="cta-list">
+          <li><a href="{{ $News.Permalink | absURL }}">{{ i18n "read_all_news" }}</a></li>
+        </ul>
+      </footer>
+    </section>
+
+    <aside class="sidenotes" role="aside">
+      {{ block "sidenotes" . }}{{ end }}
+    </aside>
+  </section>
 </main>
 
-<section data-section="{{ .Page.Kind }}">
-  <aside class="table-of-contents" role="aside">
-    {{ block "toc" . }}{{ end }}
-  </aside>
-
-  <section role="main">
-    <h1>{{ i18n "news" }}</h1>
-
-    {{- range first 5 (where .Pages "Section" "posts") -}}
-    {{ partial "contents/post.html" . }}
-    {{- end -}}
-
-    <footer>
-      {{- $News := .Site.GetPage "/actualites" -}}
-      <ul class="cta-list">
-        <li><a href="{{ $News.Permalink | absURL }}">{{ i18n "read_all_news" }}</a></li>
-      </ul>
-    </footer>
-  </section>
-
-  <aside class="sidenotes" role="aside">
-    {{ block "sidenotes" . }}{{ end }}
-  </aside>
-</section>
 {{ end }}
