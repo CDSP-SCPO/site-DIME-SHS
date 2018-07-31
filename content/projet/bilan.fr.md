@@ -6,7 +6,7 @@ weight: 40
 # Repères
 ## Dates clés
 
-{{< longdesc src="/img/frise-chronologique-DIME.png" alt="Frise chronologique" >}}
+{{< longdesc src="/img/reperes/shema_reperes.svg" alt="Frise chronologique" >}}
 1. PREMIÈRES BRIQUES
   - 2011 : acceptation du projet
   - 2012 : inauguration de l’Equipex
@@ -23,11 +23,7 @@ weight: 40
   - 2018 : kits d'enseignement beQuali
 {{< /longdesc >}}
 
-## Budget
-Zoom sur une année et répartition
-
-## Personnel par expertises
-![Repartition des personnels par compétences](/img/reperes/competences.svg)
+![Repartition des personnels par compétences](/img/reperes/competences.svg =250x)
 
 # Evaluation de l’équipement
 
