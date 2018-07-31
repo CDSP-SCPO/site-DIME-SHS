@@ -1,6 +1,6 @@
 ---
 title: Credits
-sort_order: 3
+menu: footer
 ---
 
 # Credits

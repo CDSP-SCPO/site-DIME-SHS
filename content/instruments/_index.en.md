@@ -1,5 +1,5 @@
 ---
 title: Instruments
-menu: main
+menu: ["main", "footer"]
 weight: 20
 ---

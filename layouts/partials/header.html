@@ -11,7 +11,7 @@
     {{- $isActive := or ($currentPage.HasMenuCurrent "main" .) ($currentPage.IsMenuCurrent "main" .) -}}
     {{ if $isActive }}{{ $activeMenu.Set "active" . }}{{ end }}
     <li class="navigation-item{{ if $isActive }} navigation-item--active active{{end}}">
-      <a href="{{ (index .Children 0).URL }}">{{ .Title | default .Page.Title }}</a>
+      <a href="{{ (index .Children 0).URL }}">{{ .Title }}</a>
     </li>
     {{ end }}
     </ul>
@@ -23,7 +23,7 @@
     <ul>
       {{ range .Children }}
       <li class="navigation-item{{ if $currentPage.IsMenuCurrent "main" . }} navigation-item--active active{{end}}">
-        <a href="{{ .URL }}">{{ .Title | default .Page.Title }}</a>
+        <a href="{{ .URL }}">{{ .Title }}</a>
       </li>
       {{ end }}
     </ul>

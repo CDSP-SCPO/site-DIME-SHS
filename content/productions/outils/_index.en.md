@@ -2,6 +2,8 @@
 title: Tools
 layout: outils
 translationKey: "outils"
-menu: subnav
+menu:
+  main:
+    parent: Productions
 weight: 10
 ---
