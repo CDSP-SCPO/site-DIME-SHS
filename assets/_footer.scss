@@ -1,0 +1,64 @@
+@import 'components/links';
+
+.site-footer {
+  @extend .bg-white;
+  @extend .pv4;
+  @extend .f6;
+
+  .main-navigation > ul {
+    @extend .list;
+    @extend .flex;
+    @extend .justify-center;
+    @extend .ma0;
+  }
+
+  .secondary-navigation--spaced > li {
+    @extend .mb2;
+  }
+
+  .navigation-item {
+    @extend .mr4;
+    @extend .w-third;
+    @extend .w-10-m;
+    @extend .w-10-l;
+    @extend .relative;
+
+    &.navigation-item--section {
+      @extend .pl3;
+      @extend .ml4;
+
+      &:before {
+        content: "";
+        @extend .absolute;
+        @extend .h-100;
+        @extend .bl;
+        @extend .b--mid-gray;
+        @extend .left-0;
+      }
+    }
+
+    &:last-child {
+      @extend .mr0;
+    }
+
+    a {
+      @extend .no-break-word;
+      @include link-state('mid-gray', 'dark-gray');
+      @extend .toggle-u-nou;
+    }
+
+    > ul {
+      @extend .list;
+      @extend .ph0;
+    }
+  }
+
+  .navigation-item__headline {
+    @extend .db;
+    @extend .mb4;
+  }
+
+  img {
+    max-width: 100px;
+  }
+}
