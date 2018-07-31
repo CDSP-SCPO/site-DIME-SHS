@@ -23,7 +23,7 @@ weight: 40
   - 2018 : kits d'enseignement beQuali
 {{< /longdesc >}}
 
-![Repartition des personnels par compétences](/img/reperes/competences.svg =250x)
+![Repartition des personnels par compétences](/img/reperes/competences.svg | width=100)
 
 # Evaluation de l’équipement
 
