@@ -34,33 +34,6 @@
   source: >-
     Expérimenter l'analyse secondaire des enquêtes qualitatives : premier bilan
   category: bequali
-- id: BWDWMLJB
-  title: >-
-    De l’Afrique à la France : une enquête ethnographique
-  authors:
-    - Corminboeuf, Bernard
-  date: 2017-06-19
-  url: http://archipolis.hypotheses.org/528
-  type: blogPost
-  issue: null
-  pages: null
-  publication: null
-  volume: null
-  source: ArchiPolis
-  category: bequali
-- id: 67L4HMJ8
-  title: La profession d’architecte (2004-2010) – Florent Champy
-  authors:
-    - Corminboeuf, Bernard
-  date: 2017-06-19
-  url: http://archipolis.hypotheses.org/524
-  type: blogPost
-  issue: null
-  pages: null
-  publication: null
-  volume: null
-  source: ArchiPolis
-  category: bequali
 - id: 84SNI7TF
   title: >-
     The "European integration paradox" : comparing EU practice and discourse on
@@ -94,6 +67,65 @@
   publication: La réanalyse des enquêtes qualitatives à l'épreuve de l'expérimentation
   volume: Hors-série "Les Actes"
   source: null
+  category: bequali
+- id: Q4X3PZ4R
+  title: >-
+    Des banques d'enquêtes qualitatives en sciences sociales : panorama Europe
+    Etats-Unis
+  authors:
+    - Guaspare, Catherine
+  date: "2017"
+  url: http://www.recherche-qualitative.qc.ca/documents/files/revue/hors_serie/HS-21/rq-hs21-c-guaspare.pdf
+  type: article
+  issue: "21"
+  pages: 143-163
+  publication: La réanalyse des enquêtes qualitatives à l'épreuve de l'expérimentation
+  volume: Hors-série "Les Actes"
+  source: null
+  category: bequali
+- id: oai:spire.sciencespo.fr:2441/3v2s7jooug9cv9vp3rnbapc1p2
+  title: >-
+    Valoriser les données d’enquêtes qualitatives en sciences sociales : le cas
+    français de la banque d’enquête beQuali:Les données et les sciences de
+    l’information
+  authors:
+    - Bendjaballah, Selma
+    - Garcia, Guillaume
+    - Cadorel, Sarah
+    - Groshens, Emilie
+    - Fromont, Emilie
+    - Juillard, Emeline
+  date: 2017-10
+  url: http://spire.sciencespo.fr/hdl:/2441/3v2s7jooug9cv9vp3rnbapc1p2
+  type: article
+  source: Documentation et bibliothèques, 63(4), 73-85 (2017-10)
+  publication: null
+  category: bequali
+- id: oai:spire.sciencespo.fr:2441/hmctcebk9aua8uaha9lr2mv7
+  title: Présentation des services du CDSP et de beQuali
+  authors:
+    - Danciu, Alina
+    - Fromont, Emilie
+    - Garcia, Guillaume
+  date: 2017
+  url: http://spire.sciencespo.fr/hdl:/2441/hmctcebk9aua8uaha9lr2mv7
+  type: speech
+  source: CEPEL, Université de Montpellier, FR, 2017-05-05
+  publication: null
+  category: bequali
+- id: oai:spire.sciencespo.fr:2441/nsveq529u9un8lenee93koa41
+  title: >-
+    Enjeux de l'archivage et de la diffusion des enquêtes qualitatives : un
+    retour d'expérience de beQuali
+  authors:
+    - Fromont, Emilie
+    - Garcia, Guillaume
+  date: 2017-10
+  url: http://spire.sciencespo.fr/hdl:/2441/nsveq529u9un8lenee93koa41
+  type: speech
+  source: Journée d'étude "Diffusion et mutualisation de données qualitatives à
+    caractère personnel en SHS", CITERES, Tours, FR, 2017-10-11
+  publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/6g0tjj5n5n8oor8qmf6jq6he8l
   title: Enquête sur l’enquête « Choisir son école »
@@ -183,24 +215,6 @@
     (CRESPPA), Université Paris 8, FR, 2016-05-19/2016-05-19
   publication: null
   category: bequali
-- id: oai:spire.sciencespo.fr:2441/3v2s7jooug9cv9vp3rnbapc1p2
-  title: >-
-    Valoriser les données d’enquêtes qualitatives en sciences sociales : le cas
-    français de la banque d’enquête beQuali:Les données et les sciences de
-    l’information
-  authors:
-    - Bendjaballah, Selma
-    - Garcia, Guillaume
-    - Cadorel, Sarah
-    - Groshens, Emilie
-    - Fromont, Emilie
-    - Juillard, Emeline
-  date: 2017-10
-  url: http://spire.sciencespo.fr/hdl:/2441/3v2s7jooug9cv9vp3rnbapc1p2
-  type: article
-  source: Documentation et bibliothèques, 63(4), 73-85 (2017-10)
-  publication: null
-  category: bequali
 - id: oai:spire.sciencespo.fr:2441/78l8j4kvt49t79fjurto6olfnl
   title: La réutilisation d'enquêtes qualitatives en sciences sociales. Une 'non
     méthode' aux enjeux méthodologiques forts
@@ -249,18 +263,6 @@
     7, IEP d'Aix-en-Provence, FR, 2015-06-22/2015-06-22
   publication: null
   category: bequali
-- id: oai:spire.sciencespo.fr:2441/hmctcebk9aua8uaha9lr2mv7
-  title: Présentation des services du CDSP et de beQuali
-  authors:
-    - Danciu, Alina
-    - Fromont, Emilie
-    - Garcia, Guillaume
-  date: 2017
-  url: http://spire.sciencespo.fr/hdl:/2441/hmctcebk9aua8uaha9lr2mv7
-  type: speech
-  source: CEPEL, Université de Montpellier, FR, 2017-05-05
-  publication: null
-  category: bequali
 - id: oai:spire.sciencespo.fr:2441/42laen0t6t9r7qsmu6th72sb65
   title: >-
     Montrer et documenter l'analyse d'un terrain d'enquête en SHS : originalité
@@ -287,20 +289,6 @@
   type: speech
   source: Journée nationale d’étude "Partage des données de la recherche" du réseau
     des Urfist, Paris, FR, 2016-09-29/2016-09-29
-  publication: null
-  category: bequali
-- id: oai:spire.sciencespo.fr:2441/nsveq529u9un8lenee93koa41
-  title: >-
-    Enjeux de l'archivage et de la diffusion des enquêtes qualitatives : un
-    retour d'expérience de beQuali
-  authors:
-    - Fromont, Emilie
-    - Garcia, Guillaume
-  date: 2017-10
-  url: http://spire.sciencespo.fr/hdl:/2441/nsveq529u9un8lenee93koa41
-  type: speech
-  source: Journée d'étude "Diffusion et mutualisation de données qualitatives à
-    caractère personnel en SHS", CITERES, Tours, FR, 2017-10-11
   publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/2pp44pdaje9l3q5rb0uaekduak

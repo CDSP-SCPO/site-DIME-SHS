@@ -1,3 +1,19 @@
+- id: GHVGYHYH
+  title: La singularité territoriale générée par le déploiement de la marque Parc
+    naturel régional - Analyse comparative de cartographie de réseaux d’acteurs
+    via le web
+  authors:
+    - Cayla, Nathalie
+    - Peyrache-Gadeau, Véronique
+  date: 2017-07-12
+  url: https://labexitem.hypotheses.org/452
+  type: workingPaper
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: Working paper paru sur un carnet Hypothèses
+  category: dime-web
 - id: A7S7BE2I
   title: >-
     The AfD’s Facebook Wall: A new Hub for Right-Wing Mobilisation in Germany?
@@ -94,22 +110,6 @@
   publication: null
   volume: ""
   source: Collège international des sciences du territoire (CIST)
-  category: dime-web
-- id: GHVGYHYH
-  title: La singularité territoriale générée par le déploiement de la marque Parc
-    naturel régional - Analyse comparative de cartographie de réseaux d’acteurs
-    via le web
-  authors:
-    - Cayla, Nathalie
-    - Peyrache-Gadeau, Véronique
-  date: 2017-07-12
-  url: https://labexitem.hypotheses.org/452
-  type: blogPost
-  issue: null
-  pages: null
-  publication: null
-  volume: null
-  source: Les carnets du LabEx ITEM
   category: dime-web
 - id: 5R7GVMR7
   title: Vers l'interopérabilité des données hétérogènes liées au patrimoine
@@ -400,23 +400,6 @@
   source: null
   publication: International Public Policy Association
   category: dime-web
-- id: oai:spire.sciencespo.fr:2441/2lf2ojj5po9i9a6g9o05ulen2j
-  title: >-
-    RICardo Project : Exploring XIX Century International Trade
-  authors:
-    - Girard, Paul
-    - Dedinger, Beatrice
-    - Ricci, Donato
-    - Ooghe, Benjamin
-    - Jacomy, Mathieu
-    - Plique, Guillaume
-    - Tible, Grégory
-  date: 2016-07-16
-  url: http://medialab.github.io/ricardo/#/
-  type: conferencePaper
-  source: Digital Humanities, Cracovie, PL, 2016-07-11/2016-07-16
-  publication: Alliance of Digital Humanities Organizations
-  category: dime-web
 - id: oai:spire.sciencespo.fr:2441/3dciauig4s8g0rl470bucqrf33
   title: Zoomer n’est pas explorer:Spatialiser les graphes, catégoriser et
     (dé)construire les réseaux
@@ -437,7 +420,7 @@
     - Crépel, Maxime
   date: 2017-05
   url: http://tools.medialab.sciences-po.fr/privacy/
-  type: web site
+  type: datascape
   source: http://tools.medialab.sciences-po.fr/privacy/
   publication: null
   category: dime-web
