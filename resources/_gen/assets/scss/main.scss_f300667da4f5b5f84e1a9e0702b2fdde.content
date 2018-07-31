@@ -6568,10 +6568,7 @@ body > section [role="main"] {
   text-overflow: ellipsis; }
 
 @media screen and (min-width: 30em) {
-  .measure-ns, .article .article__body h2,
-  .article .page__body h2,
-  .page .article__body h2,
-  .page .page__body h2 {
+  .measure-ns {
     max-width: 30em; }
   .measure-wide-ns {
     max-width: 34em; }
@@ -7268,7 +7265,7 @@ header[role="banner"] {
 
 .table-of-contents {
   position: sticky;
-  top: 0; }
+  top: 7em; }
 
 #TableOfContents .active:before {
   content: "·"; }
