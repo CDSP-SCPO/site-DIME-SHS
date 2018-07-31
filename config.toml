@@ -31,17 +31,17 @@ enableRobotsTXT = true
     "conference publication" = "conferenceContribution"
 
   [params.publications.dime-web]
-    name = "DIME SHS Web"
+    name = "Dime Web"
     weight = 10
     collections = { zotero = "7PZVF5PD", spire = "SCIENCESPO:DIME-SHS-DIME-Web" }
 
   [params.publications.elipss]
-    name = "DIME SHS Quanti"
+    name = "ELIPSS"
     weight = 20
     collections = { zotero = "EKTQQHP7", spire = "SCIENCESPO:DIME-SHS-Elipss" }
 
   [params.publications.bequali]
-    name = "DIME SHS Quali"
+    name = "beQuali"
     weight = 30
     collections = { zotero = "WB7VJJ7Q", spire = "SCIENCESPO:DIME-SHS-beQuali" }
 
