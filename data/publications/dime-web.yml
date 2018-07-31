@@ -183,18 +183,36 @@
   volume: ""
   source: null
   category: dime-web
-- id: oai:spire.sciencespo.fr:2441/71ng63ruee9cmo9ve3uj73v63j
-  title: La mesure de l’opinion dans la “démocratie furtive”:les indicateurs de
-    confiance dans les choix scientifiques et technologiques
+- id: oai:spire.sciencespo.fr:2441/c1v77s3738liak7b26r3jt1af
+  title: Données, infrastructures et méthodes d’enquêtes en sciences humaines et
+    sociales. Bilan et perspectives scientifiques 2014:Rapport pour le conseil
+    scientifique de l'Equipex DIME-SHS (ANR-10-EQPX-19-01)
   authors:
-    - Tournay, Virginie
+    - Cornilleau, Anne
+    - Cousteaux, Anne-Sophie
+    - Garcia, Guillaume
     - Jacomy, Mathieu
-    - Cautrès, Bruno
-  date: 2016-11
-  url: http://www.cevipof.com/fr/le-barometre-de-la-confiance-politique-du-cevipof/methodologie/
+    - Lesnard, Laurent
+  date: 2014-05
+  url: http://spire.sciencespo.fr/hdl:/2441/c1v77s3738liak7b26r3jt1af
   type: report
   source: null
-  publication: Centre de recherches politiques de Sciences Po
+  publication: null
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/44hho00kqr9m78unl9ge63dsfh
+  title: EQUIPEX DIME-SHS  (2011-2016):Scientific Report - Convention
+    ANR-10-EQPX-19-01
+  authors:
+    - Cornilleau, Anne
+    - Cousteaux, Anne-Sophie
+    - Garcia, Guillaume
+    - Jacomy, Mathieu
+    - Lesnard, Laurent
+  date: 2017-04
+  url: http://spire.sciencespo.fr/hdl:/2441/44hho00kqr9m78unl9ge63dsfh
+  type: report
+  source: null
+  publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/2qstn4hntb9899i33dp4dn3hrs
   title: Visual Network Exploration for Data Journalists
@@ -329,6 +347,19 @@
     Amsterdam University Press
   publication: Amsterdam University Press
   category: dime-web
+- id: oai:spire.sciencespo.fr:2441/71ng63ruee9cmo9ve3uj73v63j
+  title: La mesure de l’opinion dans la “démocratie furtive”:les indicateurs de
+    confiance dans les choix scientifiques et technologiques
+  authors:
+    - Tournay, Virginie
+    - Jacomy, Mathieu
+    - Cautrès, Bruno
+  date: 2016-11
+  url: http://www.cevipof.com/fr/le-barometre-de-la-confiance-politique-du-cevipof/methodologie/
+  type: report
+  source: null
+  publication: Centre de recherches politiques de Sciences Po
+  category: dime-web
 - id: oai:spire.sciencespo.fr:2441/2solvroumm9kgpsu49vb8pphju
   title: Explorer associations et transformations à travers des datascapes
   authors:
@@ -386,22 +417,6 @@
   source: Digital Humanities, Cracovie, PL, 2016-07-11/2016-07-16
   publication: Alliance of Digital Humanities Organizations
   category: dime-web
-- id: oai:spire.sciencespo.fr:2441/c1v77s3738liak7b26r3jt1af
-  title: Données, infrastructures et méthodes d’enquêtes en sciences humaines et
-    sociales. Bilan et perspectives scientifiques 2014:Rapport pour le conseil
-    scientifique de l'Equipex DIME-SHS (ANR-10-EQPX-19-01)
-  authors:
-    - Cornilleau, Anne
-    - Cousteaux, Anne-Sophie
-    - Garcia, Guillaume
-    - Jacomy, Mathieu
-    - Lesnard, Laurent
-  date: 2014-05
-  url: http://spire.sciencespo.fr/hdl:/2441/c1v77s3738liak7b26r3jt1af
-  type: report
-  source: null
-  publication: null
-  category: dime-web
 - id: oai:spire.sciencespo.fr:2441/3dciauig4s8g0rl470bucqrf33
   title: Zoomer n’est pas explorer:Spatialiser les graphes, catégoriser et
     (dé)construire les réseaux
@@ -414,21 +429,6 @@
   type: article
   source: Réseaux, 1(195), 131-161 (2016)
   publication: Éditions La Découverte
-  category: dime-web
-- id: oai:spire.sciencespo.fr:2441/44hho00kqr9m78unl9ge63dsfh
-  title: EQUIPEX DIME-SHS  (2011-2016):Scientific Report - Convention
-    ANR-10-EQPX-19-01
-  authors:
-    - Cornilleau, Anne
-    - Cousteaux, Anne-Sophie
-    - Garcia, Guillaume
-    - Jacomy, Mathieu
-    - Lesnard, Laurent
-  date: 2017-04
-  url: http://spire.sciencespo.fr/hdl:/2441/44hho00kqr9m78unl9ge63dsfh
-  type: report
-  source: null
-  publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/1qqmaeajb1859a1epf11o0bohp
   title: Datascape Privacy Web Corpus

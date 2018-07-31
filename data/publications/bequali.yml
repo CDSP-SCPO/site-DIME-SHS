@@ -163,7 +163,8 @@
   title: >-
     Enquête sur l'enquête « De l’Afrique à la France : deux générations
     d’immigrés africains (2006-2010) » de Jacques Barou
-  authors: Bendjaballah, Selma
+  authors:
+    - Bendjaballah, Selma
   date: 2017-06
   url: http://bequali.fr/media/surveys_unzip/unziped_cdsp_bq_s5/cdsp_bq_s5/ESE/cdsp_bq_s5_ese_rapport.pdf
   type: report
@@ -222,7 +223,8 @@
     Ce que l’analyse secondaire apporte à la socio-histoire des idées
     politiques. Retour d’enquête sur deux revues de parti : La Revue socialiste
     et La Nouvelle Critique
-  authors: Rioufreyt, Thibaut
+  authors:
+    - Rioufreyt, Thibaut
   date: 2014-12
   url: http://spire.sciencespo.fr/hdl:/2441/2gctglt2qj87ir70u6bfhdi260
   type: speech
@@ -263,7 +265,8 @@
   title: >-
     Montrer et documenter l'analyse d'un terrain d'enquête en SHS : originalité
     de la banque d'enquêtes qualitatives beQuali
-  authors: Juillard, Emeline
+  authors:
+    - Juillard, Emeline
   date: 2017-11
   url: http://spire.sciencespo.fr/hdl:/2441/42laen0t6t9r7qsmu6th72sb65
   type: speech
@@ -277,7 +280,8 @@
   title: Présentation de la banque d’enquêtes qualitatives beQuali:Table-ronde sur
     les services, les compétences et les formations, Journée nationale d’étude
     "Partage des données de la recherche"
-  authors: Juillard, Emeline
+  authors:
+    - Juillard, Emeline
   date: 2016-09-29
   url: https://www.youtube.com/watch?v=PHHjf-g5pTY
   type: speech
@@ -339,7 +343,8 @@
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/1pf8bfqprc9is9mqkgjv9bqkg4
   title: Enquête sur l’enquête « La profession d’architecte » de Florent Champy
-  authors: Souanef, Karim
+  authors:
+    - Souanef, Karim
   date: 2017-05
   url: http://bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bq_s3/
   type: report
@@ -348,7 +353,8 @@
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/3hsavn88h489pav9uhboenng3b
   title: Enquête sur l’enquête « Des femmes en politique » de Mariette Sineau
-  authors: Garcia, Guillaume
+  authors:
+    - Garcia, Guillaume
   date: 2016-01
   url: http://bequali.fr/fr/les-enquetes/lenquete-en-bref/cdsp_bequali_sp6/
   type: report
@@ -423,7 +429,8 @@
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/3k9lmfvmq8b29j3l7gk0fi894
   title: Enquête sur l’enquête « Les français et la politique » de Etienne Schweisguth
-  authors: Garcia, Guillaume
+  authors:
+    - Garcia, Guillaume
   date: 2013-01
   url: http://bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bequali_sp2/
   type: report
@@ -447,7 +454,8 @@
 - id: oai:spire.sciencespo.fr:2441/6pan0flqm19eho0j7cjuiec2cu
   title: Enquête sur l’enquête « L’Europe saisie par les rôles parlementaires » de
     Olivier Rozenberg
-  authors: Garcia, Guillaume
+  authors:
+    - Garcia, Guillaume
   date: 2013-01
   url: http://bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bequali_sp3/
   type: report
@@ -459,7 +467,8 @@
     (francophones) parlent d’Europe » de Sophie Duchesne (coord.), Elizabeth
     Frazer, André-Paul Frognier, Guillaume Garcia, Florence Haegel, Virginie Van
     Ingelgom
-  authors: Garcia, Guillaume
+  authors:
+    - Garcia, Guillaume
   date: 2013-01
   url: http://bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bequali_sp1/
   type: report
@@ -469,7 +478,8 @@
 - id: oai:spire.sciencespo.fr:2441/2gg0t4t9bc9me9orfe0d0of22f
   title: Bequali, un dispositif pour partager et réutiliser des enquêtes qualitatives
     en sociologie et science politique
-  authors: Garcia, Guillaume
+  authors:
+    - Garcia, Guillaume
   date: 2015-06
   url: http://spire.sciencespo.fr/hdl:/2441/2gg0t4t9bc9me9orfe0d0of22f
   type: speech
@@ -483,7 +493,8 @@
     Archiving and reusing qualitative studies in social sciences: what
     documentation and metadata scheme do we need? The case of the French
     Qualitative Data Bank (beQuali)
-  authors: Garcia, Guillaume
+  authors:
+    - Garcia, Guillaume
   date: 2012-06
   url: http://spire.sciencespo.fr/hdl:/2441/76ocakag0q9s1ou042jlm1skdj
   type: speech

@@ -30,4 +30,5 @@ parse(stream)
     });
 
     return Promise.all(writes);
-  });
+  })
+  .catch(error => console.error(error.message));

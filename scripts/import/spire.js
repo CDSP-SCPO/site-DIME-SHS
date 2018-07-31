@@ -41,7 +41,7 @@ const importer = (source, {publicationsMapping, publications, publicationsLabels
         return {
           id,
           title,
-          authors,
+          authors: Array.isArray(authors) ? authors : [authors],
           date: Array.isArray(date) ? date.join(', ') : date,
           url,
           type,

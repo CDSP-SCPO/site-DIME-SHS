@@ -211,7 +211,8 @@
 - id: oai:spire.sciencespo.fr:2441/1lvf69g9h28a3q87459hq5j75u
   title: New methods for inquiring general population mobility. The example of an
     on-line questionnaire enhanced by interactive maps
-  authors: Duwez, Emmanuelle
+  authors:
+    - Duwez, Emmanuelle
   date: 2017-09
   url: http://spire.sciencespo.fr/hdl:/2441/1lvf69g9h28a3q87459hq5j75u
   type: speech
