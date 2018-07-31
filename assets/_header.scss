@@ -2,7 +2,7 @@
 @import "components/lists";
 
 header[role="banner"] {
-  // position: sticky;
+  position: sticky;
   top: 0;
   transition: all .3s ease-in;
   z-index: 1000;
@@ -20,6 +20,11 @@ header[role="banner"] {
   .site-logo {
     @extend .w-20;
     @extend .order-1;
+    @extend .tc;
+
+    img {
+      max-height: 90px;
+    }
   }
 
   .main-navigation {
