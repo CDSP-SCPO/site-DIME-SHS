@@ -18,17 +18,24 @@
       <h3>{{ humanize (i18n $type) }}</h3>
 
       {{ range . }}
+      {{- $Publication := . -}}
       <article class="bibliography-entry bibliography-entry--quiet">
         <article class="bibliography-entry__body">
           <span class="authors">{{ delimit (.authors | default slice) ", " " et " }}</span>.
-          <span class="date">{{ index (split .date "-") 0 }}</span>.
+          <span class="date">{{ string .date }}</span>.
           {{ if isset . "url" }}
           <span class="title"><a href="{{ .url }}" target="_blank">{{ trim .title " \n" }}</a></span>.
           {{ else }}
           <span class="title">{{ trim .title " \n" }}</span>.
           {{ end }}
-          {{ with .publisher }}
-          <span class="publisher">{{ . }}</span>.
+          {{ with .publication }}
+          <span class="publication">{{ . }}</span>
+          {{- with $Publication.issue }}
+            {{.}}
+            {{- with $Publication.volume }}
+              ({{.}})
+            {{- end -}}: {{ end }}
+          {{- with $Publication.pages -}}{{.}}{{ end }}.
           {{ end }}
           {{ with .source }}
           <span class="source">{{ . }}</span>.

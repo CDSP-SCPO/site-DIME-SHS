@@ -18,6 +18,7 @@ enableRobotsTXT = true
     "bookPart",
     "conferencePaper",
     "conferenceContribution",
+    "datascape",
     "doctoralThesis",
     "report",
     "bookReview",
@@ -25,10 +26,16 @@ enableRobotsTXT = true
     "speech",
   ]
 
-  [publicationsMapping]
+  [params.publicationsMapping]
     journalArticle = "article"
     thesis = "doctoralThesis"
-    "conference publication" = "conferenceContribution"
+    "conference publication" = "conferencePaper"
+    "conference poster" = "conferenceContribution"
+    presentation = "conferenceContribution"
+    manuscript = "workingPaper"
+    bookSection = "bookPart"
+    "web site" = "datascape"
+    "blogPost" = "datascape"
 
   [params.publications.dime-web]
     name = "Dime Web"

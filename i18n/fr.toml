@@ -23,6 +23,8 @@ other = "partie ou chapitre de livre"
 other = "communication dans des actes de colloque publiés"
 [conferenceContribution]
 other = "communication non publiée"
+[datascape]
+other = "datascape"
 [doctoralThesis]
 other = "thèse de doctorat"
 [report]

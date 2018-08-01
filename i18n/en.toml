@@ -23,6 +23,8 @@ other = "book part"
 other = "conference paper"
 [conferenceContribution]
 other = "conference contribution"
+[datascape]
+other = "datascape"
 [doctoralThesis]
 other = "doctoral thesis"
 [report]
