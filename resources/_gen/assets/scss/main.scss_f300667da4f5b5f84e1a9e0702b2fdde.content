@@ -926,7 +926,7 @@ img {
   border-left-style: solid;
   border-left-width: 1px; }
 
-.bn {
+.bn, .open-close {
   border-style: none;
   border-width: 0; }
 
@@ -1648,7 +1648,7 @@ img {
 .top-0 {
   top: 0; }
 
-.right-0 {
+.right-0, .open-close {
   right: 0; }
 
 .bottom-0 {
@@ -3667,10 +3667,10 @@ body > section [role="main"] {
 .relative, .link-arrow, .cards-list .card .card__footer a, .bibliography-entry .bibliography-entry__metadata a, .in-sidebar a, .slides, .article .article__body,
 .article .page__body,
 .page .article__body,
-.page .page__body, .site-footer .navigation-item {
+.page .page__body, .clickable, .bibliography > h2, .site-footer .navigation-item, .cta-list a {
   position: relative; }
 
-.absolute, .link-arrow:after, .cards-list .card .card__footer a:after, .bibliography-entry .bibliography-entry__metadata a:after, .in-sidebar a:after, .site-footer .navigation-item.navigation-item--section:before, #TableOfContents .active:before, [aria-describedby] + div {
+.absolute, .link-arrow:after, .cards-list .card .card__footer a:after, .bibliography-entry .bibliography-entry__metadata a:after, .in-sidebar a:after, .open-close, .site-footer .navigation-item.navigation-item--section:before, #TableOfContents .active:before, [aria-describedby] + div {
   position: absolute; }
 
 .fixed {
@@ -4104,7 +4104,7 @@ body > section [role="main"] {
 .bg-white, header[role="banner"], .site-footer {
   background-color: #fff; }
 
-.bg-transparent {
+.bg-transparent, .open-close {
   background-color: transparent; }
 
 .bg-dark-red {
@@ -7205,6 +7205,50 @@ body > section [role="main"] {
 .page .article__body p:empty:last-child,
 .page .page__body p:empty:last-child {
   display: none; }
+
+.open-close {
+  box-sizing: border-box;
+  transition: transform 0.3s;
+  width: 18px;
+  height: 18px;
+  transform: rotate(180deg);
+  top: 50%;
+  margin-top: -9px; }
+  .closed .open-close {
+    transform: rotate(0deg); }
+  .open-close::before {
+    content: '';
+    display: block;
+    width: 0px;
+    height: 0px;
+    border-bottom: solid 2px #4A4A4A;
+    position: absolute;
+    bottom: 8px;
+    transform: rotate(90deg);
+    transition: width 0.3s; }
+  .closed .open-close::before {
+    content: '';
+    display: block;
+    width: 18px;
+    height: 0px;
+    border-bottom: solid 2px #4A4A4A;
+    position: absolute;
+    bottom: 8px;
+    transform: rotate(90deg); }
+  .open-close::after {
+    content: '';
+    display: block;
+    width: 18px;
+    height: 0px;
+    border-bottom: solid 2px #4A4A4A;
+    position: absolute;
+    bottom: 8px; }
+
+.clickable {
+  cursor: pointer; }
+
+.collapsed {
+  display: none !important; }
 
 .mt-auto, .cards-list .card .card__footer {
   margin-top: auto; }

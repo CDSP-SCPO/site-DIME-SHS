@@ -20,7 +20,7 @@
       <footer>
         {{- $News := .Site.GetPage "/actualites" -}}
         <ul class="cta-list">
-          <li><a href="{{ $News.Permalink | absURL }}">{{ i18n "read_all_news" }}</a></li>
+          <li class="closed"><a href="{{ $News.Permalink | absURL }}">{{ i18n "read_all_news" }} <span class="open-close"></span></a></li>
         </ul>
       </footer>
     </section>

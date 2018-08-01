@@ -1,38 +1,11 @@
 import menuspy from './vendor/menuspy.js';
+import toggleHeadlines from './toggle-headlines.js';
 
 const $ = (selector) => document.querySelector(selector);
 const $$ = (selector, root=document) => Array.from(root.querySelectorAll(selector));
 
 const toc = document.getElementById('TableOfContents');
 new menuspy(toc, {enableLocationHash: false});
-
-const slidesContainer = $('.slides');
-if (slidesContainer) {
-  const nav = $('.slides__nav > ul');
-
-  $$('.slide', slidesContainer).forEach((slide, i) => {
-    if (!slide.getAttribute('id')) {
-      slide.setAttribute('id', `slide:${i+1}`)
-    }
-
-    const id = slide.getAttribute('id');
-    const li = document.createElement('li');
-    li.innerHTML = `<a href="#${id}">${String(i+1)}</a>`;
-
-    if (i === 0) {
-      li.classList.add('active');
-    }
-
-    nav.appendChild(li);
-  });
-
-  new menuspy(nav, {
-    enableLocationHash: false,
-    // refElement: slidesContainer,
-    threshold: 75,
-    hashTimeout: 300,
-  });
-}
 
 // footnotes -> sidenotes
 $$('.footnotes').forEach(footnotes => {
@@ -83,4 +56,13 @@ window.addEventListener('load', () => {
       sidenote.classList.add('moved');
     }
   });
+
+  // toggle state
+  if(document.body.classList.contains('toggable-headlines')) {
+    toggleHeadlines($$('.article__title'), (el) => el.classList.contains('article__title'));
+    toggleHeadlines($$('.page__body h1'), (el) => el.nodeName === 'H1');
+    toggleHeadlines($$('.page__body .f2'), (el) => el.classList.contains('f2'));
+    toggleHeadlines($$('.bibliography h2'), (el) => el.nodeName === 'H2');
+    toggleHeadlines($$('.bibliography h3'), (el) => el.nodeName === 'H3');
+  }
 });

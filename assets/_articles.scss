@@ -1,4 +1,5 @@
 @import 'components/lists';
+@import 'components/plus-minus';
 
 .article,
 .page {
@@ -68,4 +69,23 @@
       display: none;
     }
   }
+}
+
+.open-close {
+  @include plusMinus(18px, 2px, $dark-gray);
+  @extend .absolute;
+  @extend .right-0;
+  @extend .bn;
+  @extend .bg-transparent;
+  top: 50%;
+  margin-top: -9px;
+}
+
+.clickable {
+  @extend .relative;
+  cursor: pointer;
+}
+
+.collapsed {
+  display: none !important;
 }

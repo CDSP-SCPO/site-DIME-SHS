@@ -8,6 +8,7 @@
     @extend .f3;
     @include link-state('dark-gray', 'mid-gray');
     @extend .no-underline;
+    @extend .relative;
 
     @extend .db;
     @extend .b--dark-gray;

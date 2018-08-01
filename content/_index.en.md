@@ -5,6 +5,9 @@ menu:
     identifier: home
     title: Home
     weight: 1
+options:
+- toggable-headlines
+- toggable-headlines--closed
 ---
 {{< home-slide >}}
 # DIME-SHS
