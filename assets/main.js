@@ -63,5 +63,6 @@ window.addEventListener('load', () => {
     toggleHeadlines($$('.page__body h1'), (el) => el.nodeName === 'H1');
     toggleHeadlines($$('.page__body .f2'), (el) => el.classList.contains('f2'));
     toggleHeadlines($$('.bibliography h2'), (el) => el.nodeName === 'H2');
+    toggleHeadlines($$('.bibliography h3'), (el) => el.nodeName === 'H3');
   }
 });

@@ -7,8 +7,8 @@
   <title>{{ .Page.Title }} • {{ .Site.Title }}</title>
   {{- $css := resources.Get "main.scss" | toCSS -}}
   {{- $main := resources.Get "main.js" -}}
-  {{- (resources.Get "vendor/menuspy.js").Permalink -}}
-  {{- (resources.Get "toggle-headlines.js").Permalink -}}
+  {{- $Foo := (resources.Get "vendor/menuspy.js").Permalink -}}
+  {{- $Foo := (resources.Get "toggle-headlines.js").Permalink -}}
   {{- template "_internal/opengraph.html" . -}}
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
   <link href="{{ $css.RelPermalink | relURL }}" rel="stylesheet" >

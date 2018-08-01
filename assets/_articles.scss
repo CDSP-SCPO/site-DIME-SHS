@@ -87,5 +87,5 @@
 }
 
 .collapsed {
-  @extend .dn;
+  display: none !important;
 }
