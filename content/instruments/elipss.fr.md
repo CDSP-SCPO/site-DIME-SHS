@@ -40,8 +40,14 @@ La richesse de ces données permet de mener des analyses poussées des dynamique
 Au-delà même des connaissances produites sur la société française, les nombreux terrains d’enquêtes réalisés avec ELIPSS offrent la possibilité d’interroger la constitution même de ce savoir et les conditions dans lesquelles il est produit. En effet, l’administration de questionnaires au panel via internet au moyen d’une tablette tactile mise à disposition des répondants permet à la fois d’innover méthodologiquement, en faisant émerger et en expérimentant de nouvelles manières de construire des questions et des questionnaires en population générale et de comparer les données ainsi produites avec celles obtenues au moyen d’autres techniques d’administration d’enquête, en France et dans d’autres pays.
 
 # Perspectives
-Le dispositif ELIPSS repose sur des expertises variées : design d’enquêtes  par Internet, suivi de panel, ou encore protection de la confidentialité des répondants.<br>
+Le dispositif ELIPSS repose sur des expertises variées :
+
+- design d’enquêtes par Internet,
+- suivi de panel,
+- ou encore protection de la confidentialité des répondants.
+
 Il s’agit aujourd’hui de mettre à profit ces différentes expertises pour accompagner de nouveaux projets pour la recherche.
+
 La poursuite du dispositif doit également mettre l’accent sur le développement de travaux méthodologiques pour continuer à améliorer les méthodes d’enquêtes par questionnaire.
 
 [^0]: Un panel est un ensemble d’individus qui, dans le cadre d’une étude spécifique, sera interrogé à plusieurs reprises et dont il est possible de suivre l’évolution des opinions et comportements. Le baromètre, même s’il est répété dans le temps, interrogera des personnes différentes à chaque administration.
