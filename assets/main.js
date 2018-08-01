@@ -28,7 +28,7 @@ if (slidesContainer) {
 
   new menuspy(nav, {
     enableLocationHash: false,
-    refElement: slidesContainer,
+    // refElement: slidesContainer,
     threshold: 75,
     hashTimeout: 300,
   });

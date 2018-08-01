@@ -1,5 +1,7 @@
 .slides__nav {
-  @extend .absolute;
+  @extend .dn;
+  @extend .db-ns;
+  @extend .fixed-ns;
   @extend .left-2;
   top: 50%;
 
@@ -31,12 +33,13 @@
   @extend .flex;
   @extend .flex-column;
   @extend .items-start;
-  height: 100vh;
+  @extend .relative;
   scroll-behavior: smooth;
-  scroll-snap-type: mandatory;
-  scroll-snap-points-y: repeat(100%);
-  overflow-y: auto;
-  scroll-snap-destination: 50% 0;
+  // height: 100vh;
+  // scroll-snap-type: mandatory;
+  // scroll-snap-points-y: repeat(100%);
+  // overflow-y: auto;
+  // scroll-snap-destination: 50% 0;
 
   p:empty:first-of-type {
     display: none;

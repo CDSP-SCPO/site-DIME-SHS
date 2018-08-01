@@ -1938,7 +1938,7 @@ img {
      -l  = large
 
 */
-.dn, .in-sidebar, body > section > aside {
+.dn, .slides__nav, .in-sidebar, body > section > aside {
   display: none; }
 
 .di, .bibliography-entry h3, header[role="banner"] .main-navigation li,
@@ -1986,7 +1986,7 @@ header[role="banner"] .secondary-navigation li {
     display: none; }
   .di-ns {
     display: inline; }
-  .db-ns, .in-sidebar {
+  .db-ns, .slides__nav, .in-sidebar {
     display: block; }
   .dib-ns {
     display: inline-block; }
@@ -3664,13 +3664,13 @@ body > section [role="main"] {
 .static {
   position: static; }
 
-.relative, .link-arrow, .cards-list .card .card__footer a, .bibliography-entry .bibliography-entry__metadata a, .in-sidebar a, .article .article__body,
+.relative, .link-arrow, .cards-list .card .card__footer a, .bibliography-entry .bibliography-entry__metadata a, .in-sidebar a, .slides, .article .article__body,
 .article .page__body,
 .page .article__body,
 .page .page__body, .site-footer .navigation-item {
   position: relative; }
 
-.absolute, .link-arrow:after, .cards-list .card .card__footer a:after, .bibliography-entry .bibliography-entry__metadata a:after, .in-sidebar a:after, .slides__nav, .site-footer .navigation-item.navigation-item--section:before, #TableOfContents .active:before, [aria-describedby] + div {
+.absolute, .link-arrow:after, .cards-list .card .card__footer a:after, .bibliography-entry .bibliography-entry__metadata a:after, .in-sidebar a:after, .site-footer .navigation-item.navigation-item--section:before, #TableOfContents .active:before, [aria-describedby] + div {
   position: absolute; }
 
 .fixed {
@@ -3683,7 +3683,7 @@ body > section [role="main"] {
     position: relative; }
   .absolute-ns, .in-sidebar {
     position: absolute; }
-  .fixed-ns {
+  .fixed-ns, .slides__nav {
     position: fixed; } }
 
 @media screen and (min-width: 30em) and (max-width: 70em) {
@@ -7142,12 +7142,7 @@ body > section [role="main"] {
     width: 8px; }
 
 .slides {
-  height: 100vh;
-  scroll-behavior: smooth;
-  scroll-snap-type: mandatory;
-  scroll-snap-points-y: repeat(100%);
-  overflow-y: auto;
-  scroll-snap-destination: 50% 0; }
+  scroll-behavior: smooth; }
   .slides p:empty:first-of-type {
     display: none; }
   .slides .slide {
