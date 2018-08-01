@@ -2659,7 +2659,7 @@ code, .code {
      -l  = large
 
 */
-.normal, main h2, [role="main"] h2, main h3, [role="main"] h3, main h4, [role="main"] h4, .slides .slide h1, .slides .slide h2, .article .page__body h1,
+.normal, main h2, [role="main"] h2, main h3, [role="main"] h3, main h4, [role="main"] h4, .slides .slide:not(.slide--auto-height) h1, .slides .slide:not(.slide--auto-height) h2, .article .page__body h1,
 .article .page__body .f2, .article .page__body main h2, main .article .page__body h2, .article .page__body [role="main"] h2, [role="main"] .article .page__body h2, .article .page__body .article__title, .article .page__body .article__body h1, .article .article__body .page__body h1,
 .article .page .page__body h1, .page .article .page__body h1,
 .article .article__title h2,
@@ -3408,12 +3408,13 @@ body > section [role="main"] {
     width: 40%; }
   .w-50-ns {
     width: 50%; }
-  .w-60-ns, .article .article__body p, .article .article__body > ul > li,
-  .article .page__body p,
+  .w-60-ns, .article .article__body > p,
+  .article .article__body > ul > li,
+  .article .page__body > p,
   .article .page__body > ul > li,
-  .page .article__body p,
+  .page .article__body > p,
   .page .article__body > ul > li,
-  .page .page__body p,
+  .page .page__body > p,
   .page .page__body > ul > li {
     width: 60%; }
   .w-70-ns {
@@ -6546,7 +6547,7 @@ body > section [role="main"] {
   max-width: 30em; }
 
 /* Measure is limited to ~80 characters */
-.measure-wide, .slides .slide p, .bibliography-entry .bibliography-entry__body {
+.measure-wide, .slides .slide:not(.slide--auto-height) p, .bibliography-entry .bibliography-entry__body {
   max-width: 34em; }
 
 /* Measure is limited to ~45 characters */
@@ -7131,7 +7132,7 @@ body > section [role="main"] {
 .b--link-color-active {
   border-color: #fa001e; }
 
-.measure-narrow-title, .slides .slide h1, .slides .slide h2 {
+.measure-narrow-title, .slides .slide:not(.slide--auto-height) h1, .slides .slide:not(.slide--auto-height) h2 {
   max-width: 15em; }
 
 .slides__nav {

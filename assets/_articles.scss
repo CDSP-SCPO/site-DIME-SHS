@@ -61,7 +61,8 @@
       @extend .mw-100;
     }
 
-    p, > ul > li {
+    > p,
+    > ul > li {
       @extend .w-60-ns;
     }
 

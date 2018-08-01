@@ -59,13 +59,15 @@
       min-height: auto;
     }
 
-    p {
-      @extend .measure-wide;
-    }
+    &:not(.slide--auto-height) {
+      p {
+        @extend .measure-wide;
+      }
 
-    h1, h2 {
-      @extend .measure-narrow-title;
-      @extend .normal;
+      h1, h2 {
+        @extend .measure-narrow-title;
+        @extend .normal;
+      }
     }
 
     &:nth-of-type(1) {
