@@ -5,8 +5,8 @@
     <li class="navigation-item">
       {{- $Scratch := newScratch -}}
       {{- $Scratch.Set "url" .URL -}}
-      {{- if and (.HasChildren) (index .Children 0) (isset (index .Children 0) "Section") -}}
-      {{- $Scratch.Set "url" (index .Children 0).URL -}}">
+      {{- if and (.HasChildren) (ne .Page nil) (.Page.Section) -}}
+      {{- $Scratch.Set "url" (index .Children 0).URL -}}
       {{ end }}
       <a href="{{ $Scratch.Get "url" }}" class="navigation-item__headline">
         {{ .Title }}
