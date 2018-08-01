@@ -21,8 +21,8 @@ var utils = {
     };
   },
 
-  scrollTop: function scrollTop() {
-    return window.pageYOffset || document.documentElement.scrollTop;
+  scrollTop: function scrollTop(el) {
+    return el ? el.scrollTop : window.pageYOffset || document.documentElement.scrollTop;
   },
 
   addClass: function addClass(el, className) {
@@ -76,7 +76,8 @@ var MenuSpy = function MenuSpy(element, options) {
     threshold        : 15,
     enableLocationHash : true,
     hashTimeout      : 600,
-    callback         : null
+    callback         : null,
+    refElement       : null,
   };
 
   this.element = typeof element === 'string' ? document.querySelector(element) : element;
@@ -98,7 +99,7 @@ var MenuSpy = function MenuSpy(element, options) {
   }, this.options.hashTimeout);
 
   this.cacheItems();
-  this.scrollFn();
+  this.scrollFn(this.options.refElement);
 };
 
 MenuSpy.prototype.assignValues = function assignValues () {
@@ -166,15 +167,14 @@ MenuSpy.prototype.activateItem = function activateItem (inViewElm) {
   }
 };
 
-MenuSpy.prototype.scrollFn = function scrollFn () {
-  var st = utils.scrollTop();
-
+MenuSpy.prototype.scrollFn = function scrollFn (refElement) {
+  var st = utils.scrollTop(refElement);
   if (this.currScrollTop !== st) {
     this.currScrollTop = st;
     this.tick();
   }
 
-  this.raf = window.requestAnimationFrame(this.scrollFn.bind(this));
+  this.raf = window.requestAnimationFrame(this.scrollFn.bind(this, refElement));
 };
 
 MenuSpy.prototype.destroy = function destroy () {
