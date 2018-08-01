@@ -1,0 +1,95 @@
+@import 'components/links';
+
+.site-footer {
+  @extend .bg-white;
+  @extend .mid-gray;
+  @extend .pv4;
+  @extend .ph4;
+  @extend .f7;
+
+  .main-navigation > ul {
+    @extend .list;
+    @extend .flex;
+    @extend .flex-wrap;
+    @extend .flex-nowrap-ns;
+    @extend .justify-between;
+    @extend .justify-center-ns;
+    @extend .ma0;
+    @extend .pa0;
+  }
+
+  .secondary-navigation--spaced > li {
+    @extend .mb2;
+  }
+
+  .navigation-item {
+    @extend .mr2;
+    @extend .mr4-m;
+    @extend .mr5-l;
+    @extend .w-30;
+    @extend .w-auto-ns;
+    @extend .relative;
+    @extend .lh-copy;
+
+    @media screen and (max-width: 30em) {
+      &:nth-child(1) {
+        order: 1;
+      }
+      &:nth-child(2) {
+        order: 4;
+      }
+      &:nth-child(3) {
+        order: 2;
+      }
+      &:nth-child(4) {
+        order: 5;
+      }
+      &:nth-child(5) {
+        order: 3;
+      }
+      &:nth-child(6) {
+        order: 6;
+      }
+    }
+
+    &.navigation-item--section {
+      @extend .pl4-ns;
+      @extend .ml4-l;
+
+      &:before {
+        content: "";
+        @extend .absolute;
+        @extend .h-100;
+        @extend .bl-ns;
+        @extend .b--mid-gray;
+        @extend .left-0;
+      }
+    }
+
+    &:last-child {
+      @extend .mr0-ns;
+    }
+
+    a {
+      @extend .no-break-word;
+      @include link-state('mid-gray', 'dark-gray');
+      @extend .toggle-u-nou;
+    }
+
+    > ul {
+      @extend .list;
+      @extend .ph0;
+    }
+  }
+
+  .navigation-item__headline {
+    @extend .db;
+    @extend .mb2;
+    @extend .mb3-ns;
+  }
+
+  img {
+    @extend .w4;
+    @extend .mw-100;
+  }
+}

@@ -28,6 +28,9 @@
 .break-word {
   overflow-wrap: break-word;
 }
+.no-break-word {
+  overflow-wrap: unset;
+}
 
 .link-arrow {
   @extend .db;

@@ -1,5 +1,5 @@
 ---
 title: Productions
 weight: 30
-menu: main
+menu: ["main", "footer"]
 ---

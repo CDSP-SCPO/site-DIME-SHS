@@ -1,7 +1,9 @@
 ---
 title: beQuali
 weight: 20
-menu: subnav
+menu:
+  main:
+    parent: Instruments
 options:
 - toc
 ---

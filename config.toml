@@ -62,3 +62,15 @@ enableRobotsTXT = true
     languageName = "English"
     languageCode = "EN"
     weight = 2
+
+[[languages.fr.menu.footer]]
+parent = "home"
+title = "Introduction"
+url = "/#introduction"
+weight = 10
+
+[[languages.en.menu.footer]]
+parent = "home"
+title = "Introduction"
+url = "/en/#introduction"
+weight = 10

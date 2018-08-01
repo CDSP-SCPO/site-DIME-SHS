@@ -6,6 +6,11 @@ other = "News"
 [read_all_news]
 other = "Browse all news"
 
+[contact_us]
+other = "Contact Us"
+[anr_footer]
+other = "Contenu ANR"
+
 [article]
 other = "article"
 [periodicalIssue]

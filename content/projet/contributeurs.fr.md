@@ -1,6 +1,8 @@
 ---
 title: Contributeurs
-menu: subnav
+menu:
+  main:
+    parent: Projet
 weight: 30
 ---
 

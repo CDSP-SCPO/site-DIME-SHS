@@ -1,7 +1,9 @@
 ---
 title: ELIPSS
 weight: 10
-menu: subnav
+menu:
+  main:
+    parent: Instruments
 options:
 - toc
 ---

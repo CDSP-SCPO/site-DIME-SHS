@@ -1,8 +1,11 @@
 ---
 title: Bilan
-menu: subnav
+menu:
+  main:
+    parent: Projet
 weight: 40
 ---
+
 # Repères
 
 {{< longdesc src="/img/reperes/shema_reperes.svg" alt="Frise chronologique" >}}

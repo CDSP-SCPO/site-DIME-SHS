@@ -1,6 +1,8 @@
 ---
 title: Credits
-sort_order: 3
+menu:
+  footer:
+    parent: home
 ---
 
 # Credits

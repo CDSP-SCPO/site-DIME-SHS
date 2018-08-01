@@ -1,12 +1,17 @@
 ---
 title: DIME-SHS
+menu:
+  footer:
+    identifier: home
+    title: Accueil
+    weight: 1
 ---
 {{< home-slide >}}
 # DIME-SHS
 Des instruments innovants pour produire et ré-utiliser des données de recherche en sciences humaines et sociales
 
 {{< /home-slide >}}
-{{< home-slide >}}
+{{< home-slide id="introduction">}}
 
 # Des outils pour les Sciences Sociales
 L’Equipex DIME-SHS (Données Infrastructures et Méthodes d'Enquête en Sciences Humaines et Sociales) propose aux chercheurs des dispositifs pour produire ou réutiliser des données et corpus de recherche en sciences humaines et sociales.<br>

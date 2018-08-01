@@ -1,3 +1,47 @@
-<footer>
+<footer class="site-footer">
+  <nav class="main-navigation">
+    <ul>
+    {{ range .Site.Menus.footer }}
+    <li class="navigation-item">
+      {{- $Scratch := newScratch -}}
+      {{- $Scratch.Set "url" .URL -}}
+      {{- if and (.HasChildren) (index .Children 0) (isset (index .Children 0) "Section") -}}
+      {{- $Scratch.Set "url" (index .Children 0).URL -}}">
+      {{ end }}
+      <a href="{{ $Scratch.Get "url" }}" class="navigation-item__headline">
+        {{ .Title }}
+      </a>
 
+      {{- if .HasChildren -}}
+      <ul class="secondary-navigation">
+        {{- range .Children -}}
+        <li><a href="{{ .URL }}">{{ .Title }}</a></li>
+        {{- end -}}
+      </ul>
+      {{- end -}}
+    </li>
+    {{ end }}
+    <li class="navigation-item navigation-item--section">
+      <span class="navigation-item__headline">{{ i18n "contact_us" }}</span>
+
+      <ul class="secondary-navigation secondary-navigation--spaced">
+        <li>
+          DIME-SHS<br>
+          84, rue de Grenelle<br>
+          75007 Paris
+        </li>
+        <li>
+          <a href="tel:+33145497277">01 45 49 72 77</a>
+        </li>
+      </ul>
+    </li>
+    <li class="navigation-item navigation-item--section">
+      <!-- <span class="navigation-item__headline">{{ i18n "anr_footer" }}</span> -->
+
+      <a href="http://www.agence-nationale-recherche.fr/investissements-d-avenir/" target="_blank">
+        <img src="/img/co-financeurs/CGI.png" alt="Programme Investissements d'Avenir">
+      </a>
+    </li>
+    </ul>
+  </nav>
 </footer>

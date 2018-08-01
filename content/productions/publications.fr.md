@@ -1,6 +1,8 @@
 ---
 title: Publications
 layout: publications
-menu: subnav
+menu:
+  main:
+    parent: Productions
 weight: 30
 ---

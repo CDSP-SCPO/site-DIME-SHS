@@ -1,6 +1,8 @@
 ---
 title: Report
-menu: subnav
+menu:
+  main:
+    parent: Project
 weight: 40
 ---
 # Landmarks
