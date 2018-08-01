@@ -3667,8 +3667,7 @@ body > section [role="main"] {
 .relative, .link-arrow, .cards-list .card .card__footer a, .bibliography-entry .bibliography-entry__metadata a, .in-sidebar a, .slides, .article .article__body,
 .article .page__body,
 .page .article__body,
-.page .page__body, .article .clickable,
-.page .clickable, .site-footer .navigation-item, .cta-list a {
+.page .page__body, .clickable, .bibliography > h2, .site-footer .navigation-item, .cta-list a {
   position: relative; }
 
 .absolute, .link-arrow:after, .cards-list .card .card__footer a:after, .bibliography-entry .bibliography-entry__metadata a:after, .in-sidebar a:after, .open-close, .site-footer .navigation-item.navigation-item--section:before, #TableOfContents .active:before, [aria-describedby] + div {
@@ -7201,16 +7200,6 @@ body > section [role="main"] {
 .article__body .in-sidebar > ol {
   list-style-position: outside; }
 
-.article .article__title.closed ~ :not(.article__title),
-.page .article__title.closed ~ :not(.article__title) {
-  visibility: hidden;
-  position: absolute;
-  z-index: -10; }
-
-.article .clickable,
-.page .clickable {
-  cursor: pointer; }
-
 .article .article__body p:empty:last-child,
 .article .page__body p:empty:last-child,
 .page .article__body p:empty:last-child,
@@ -7254,6 +7243,14 @@ body > section [role="main"] {
     border-bottom: solid 2px #4A4A4A;
     position: absolute;
     bottom: 8px; }
+
+.clickable {
+  cursor: pointer; }
+
+.collapsed {
+  visibility: hidden;
+  position: absolute;
+  z-index: -10; }
 
 .mt-auto, .cards-list .card .card__footer {
   margin-top: auto; }

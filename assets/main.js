@@ -36,23 +36,55 @@ if (slidesContainer) {
 
 // toggle state
 if(document.body.classList.contains('toggable-headlines')) {
-  const headlines = $$('.article__title');
-  const defaultState = document.body.classList.contains('toggable-headlines--closed') ? 'closed' : 'opened';
+  const getSiblings = function (elem, untilFn) {
+  	const siblings = [];
+  	let nextSibling = elem.nextElementSibling;
 
-  headlines.forEach(headline => {
-    headline.classList.add(defaultState);
-    headline.classList.add('clickable');
+  	while (nextSibling && untilFn(nextSibling) === false) {
+  		siblings.push(nextSibling);
+      nextSibling = nextSibling.nextElementSibling;
+  	}
 
-    headline.addEventListener('click', (event) => {
-      headline.classList.toggle('closed');
-      headline.classList.toggle('opened');
+    return siblings;
+  };
+
+  const toggleHeadlines = (headlines, untilFn) => {
+    const defaultState = document.body.classList.contains('toggable-headlines--closed') ? 'closed' : 'opened';
+    const toggleSiblings = (headline) => {
+      const nextItems = getSiblings(headline, untilFn);
+      console.log(nextItems);
+      nextItems.forEach(s => s.classList.toggle('collapsed'));
+
+    };
+
+    headlines.forEach(headline => {
+      headline.classList.add(defaultState);
+      headline.classList.add('clickable');
+
+      headline.addEventListener('click', (event) => {
+        headline.classList.toggle('closed');
+        headline.classList.toggle('opened');
+
+        toggleSiblings(headline);
+      });
+
+      const icon = document.createElement('span');
+      icon.classList.add('open-close');
+      icon.setAttribute('aria-role', 'button');
+      headline.appendChild(icon);
+
+      if (defaultState === 'closed') {
+        toggleSiblings(headline);
+      }
     });
+  };
 
-    const icon = document.createElement('span');
-    icon.classList.add('open-close');
-    icon.setAttribute('aria-role', 'button');
-    headline.appendChild(icon);
-  });
+  const headlines = $$('.article__title, .page__body h1, .page__body .f2');
+
+  toggleHeadlines($$('.article__title'), (el) => el.classList.contains('article__title'));
+  toggleHeadlines($$('.page__body h1'), (el) => el.nodeName === 'H1');
+  toggleHeadlines($$('.page__body .f2'), (el) => el.classList.contains('f2'));
+  toggleHeadlines($$('.bibliography h2'), (el) => el.nodeName === 'H2');
 }
 
 // footnotes -> sidenotes

@@ -47,17 +47,6 @@
     @extend .pb3;
   }
 
-  .article__title.closed ~ :not(.article__title) {
-    visibility: hidden;
-    position: absolute;
-    z-index: -10;
-  }
-
-  .clickable {
-    @extend .relative;
-    cursor: pointer;
-  }
-
   .article__body,
   .page__body {
     ol, ul {
@@ -90,4 +79,15 @@
   @extend .bg-transparent;
   top: 50%;
   margin-top: -9px;
+}
+
+.clickable {
+  @extend .relative;
+  cursor: pointer;
+}
+
+.collapsed {
+  visibility: hidden;
+  position: absolute;
+  z-index: -10;
 }
