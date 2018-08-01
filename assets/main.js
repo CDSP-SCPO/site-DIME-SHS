@@ -7,6 +7,40 @@ const $$ = (selector, root=document) => Array.from(root.querySelectorAll(selecto
 const toc = document.getElementById('TableOfContents');
 new menuspy(toc, {enableLocationHash: false});
 
+// scroll if anchor is targeted in a sticky context
+window.addEventListener('hashchange', (event) => {
+  const header = $('.site-header');
+
+  // element is sticky if it's at the top but far from the document top
+  if (header.offsetTop && header.clientTop === 0) {
+    window.scrollBy(0, header.offsetHeight * -1);
+  }
+});
+
+const slidesContainer = $('.slides');
+if (slidesContainer) {
+  const nav = $('.slides__nav > ul');
+  $$('.slide', slidesContainer).forEach((slide, i) => {
+    if (!slide.getAttribute('id')) {
+      slide.setAttribute('id', `slide:${i+1}`)
+    }
+    const id = slide.getAttribute('id');
+    const li = document.createElement('li');
+    li.innerHTML = `<a href="#${id}">${String(i+1)}</a>`;
+    if (i === 0) {
+      li.classList.add('active');
+    }
+    nav.appendChild(li);
+  });
+  new menuspy(nav, {
+    enableLocationHash: false,
+    // refElement: slidesContainer,
+    threshold: 75,
+    hashTimeout: 300,
+  });
+}
+
+
 // footnotes -> sidenotes
 $$('.footnotes').forEach(footnotes => {
   footnotes.setAttribute('hidden', true);
