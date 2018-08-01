@@ -1,6 +1,8 @@
 ---
 title: Mentions légales
-menu: footer
+menu:
+  footer:
+    parent: home
 ---
 
 # Crédits

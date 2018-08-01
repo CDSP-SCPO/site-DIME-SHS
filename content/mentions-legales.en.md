@@ -1,6 +1,8 @@
 ---
 title: Credits
-menu: footer
+menu:
+  footer:
+    parent: home
 ---
 
 # Credits

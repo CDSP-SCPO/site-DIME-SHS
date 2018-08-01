@@ -6,7 +6,6 @@
   @extend .pv4;
   @extend .ph4;
   @extend .f7;
-  @extend .f6-ns;
 
   .main-navigation > ul {
     @extend .list;
@@ -14,7 +13,7 @@
     @extend .flex-wrap;
     @extend .flex-nowrap-ns;
     @extend .justify-between;
-    @extend .justify-center-l;
+    @extend .justify-center-ns;
     @extend .ma0;
     @extend .pa0;
   }
@@ -25,10 +24,10 @@
 
   .navigation-item {
     @extend .mr2;
-    @extend .mr4-l;
+    @extend .mr4-m;
+    @extend .mr5-l;
     @extend .w-30;
-    @extend .w-20-m;
-    @extend .w-10-l;
+    @extend .w-auto-ns;
     @extend .relative;
     @extend .lh-copy;
 
@@ -46,19 +45,15 @@
         order: 5;
       }
       &:nth-child(5) {
-        order: 7;
-        width: 100%;
-      }
-      &:nth-child(6) {
         order: 3;
       }
-      &:nth-child(7) {
+      &:nth-child(6) {
         order: 6;
       }
     }
 
     &.navigation-item--section {
-      @extend .pl3-ns;
+      @extend .pl4-ns;
       @extend .ml4-l;
 
       &:before {
@@ -90,10 +85,11 @@
   .navigation-item__headline {
     @extend .db;
     @extend .mb2;
-    @extend .mb4-ns;
+    @extend .mb3-ns;
   }
 
   img {
+    @extend .w4;
     @extend .mw-100;
   }
 }
