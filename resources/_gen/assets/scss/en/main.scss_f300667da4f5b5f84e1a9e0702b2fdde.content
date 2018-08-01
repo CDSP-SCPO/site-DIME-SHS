@@ -7250,6 +7250,7 @@ body > section [role="main"] {
 .collapsed {
   visibility: hidden;
   position: absolute !important;
+  top: 0;
   z-index: -10; }
 
 .mt-auto, .cards-list .card .card__footer {
