@@ -7219,7 +7219,7 @@ body > section [role="main"] {
   .open-close::before {
     content: '';
     display: block;
-    width: 18px;
+    width: 0px;
     height: 0px;
     border-bottom: solid 2px #4A4A4A;
     position: absolute;
@@ -7229,7 +7229,7 @@ body > section [role="main"] {
   .closed .open-close::before {
     content: '';
     display: block;
-    width: 0px;
+    width: 18px;
     height: 0px;
     border-bottom: solid 2px #4A4A4A;
     position: absolute;
@@ -7249,7 +7249,7 @@ body > section [role="main"] {
 
 .collapsed {
   visibility: hidden;
-  position: absolute;
+  position: absolute !important;
   z-index: -10; }
 
 .mt-auto, .cards-list .card .card__footer {

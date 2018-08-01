@@ -14,7 +14,7 @@
   &::before {
     content: '';
     display: block;
-    width: $width;
+    width: 0px;
     height:0px;
     border-bottom: solid $lineWidth $color;
     position: absolute;
@@ -25,7 +25,7 @@
   .closed &::before {
     content: '';
     display: block;
-    width: 0px;
+    width: $width;
     height:0px;
     border-bottom: solid $lineWidth $color;
     position: absolute;

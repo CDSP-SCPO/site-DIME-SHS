@@ -88,6 +88,6 @@
 
 .collapsed {
   visibility: hidden;
-  position: absolute;
+  position: absolute !important;
   z-index: -10;
 }
