@@ -12,29 +12,29 @@ other = "Nous contacter"
 other = "Contenu ANR"
 
 [article]
-other = "article"
+other = "articles"
 [periodicalIssue]
 other = "numéro de périodique"
 [book]
-other = "livre"
+other = "livres"
 [bookPart]
-other = "partie ou chapitre de livre"
+other = "parties ou chapitres de livre"
 [conferencePaper]
-other = "communication dans des actes de colloque publiés"
+other = "communications dans des actes de colloque publiés"
 [conferenceContribution]
-other = "communication non publiée"
+other = "communications non publiées"
 [datascape]
-other = "datascape"
+other = "datascapes"
 [doctoralThesis]
-other = "thèse de doctorat"
+other = "thèses de doctorat"
 [report]
-other = "rapport"
+other = "rapports"
 [bookReview]
-other = "compte-rendu d'ouvrage"
+other = "comptes-rendus d'ouvrage"
 [workingPaper]
-other = "working paper"
+other = "working papers"
 [speech]
-other = "présentation"
+other = "présentations"
 
 [survey_presentation]
 other = "Présentation de l’enquête"
