@@ -1,5 +1,9 @@
 /*! MenuSpy v1.3.0 (Jan 31 2018) - http://leocs.me/menuspy/ - Copyright (c) 2018 Leonardo Santos; MIT License */
-'use strict';
+(function (global, factory) {
+	typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
+	typeof define === 'function' && define.amd ? define(factory) :
+	(global.MenuSpy = factory());
+}(this, (function () { 'use strict';
 
 var utils = {
   extend: function extend(a, b) {
@@ -21,8 +25,8 @@ var utils = {
     };
   },
 
-  scrollTop: function scrollTop(el) {
-    return el ? el.scrollTop : window.pageYOffset || document.documentElement.scrollTop;
+  scrollTop: function scrollTop() {
+    return window.pageYOffset || document.documentElement.scrollTop;
   },
 
   addClass: function addClass(el, className) {
@@ -76,8 +80,7 @@ var MenuSpy = function MenuSpy(element, options) {
     threshold        : 15,
     enableLocationHash : true,
     hashTimeout      : 600,
-    callback         : null,
-    refElement       : null,
+    callback         : null
   };
 
   this.element = typeof element === 'string' ? document.querySelector(element) : element;
@@ -99,7 +102,7 @@ var MenuSpy = function MenuSpy(element, options) {
   }, this.options.hashTimeout);
 
   this.cacheItems();
-  this.scrollFn(this.options.refElement);
+  this.scrollFn();
 };
 
 MenuSpy.prototype.assignValues = function assignValues () {
@@ -167,14 +170,15 @@ MenuSpy.prototype.activateItem = function activateItem (inViewElm) {
   }
 };
 
-MenuSpy.prototype.scrollFn = function scrollFn (refElement) {
-  var st = utils.scrollTop(refElement);
+MenuSpy.prototype.scrollFn = function scrollFn () {
+  var st = utils.scrollTop();
+
   if (this.currScrollTop !== st) {
     this.currScrollTop = st;
     this.tick();
   }
 
-  this.raf = window.requestAnimationFrame(this.scrollFn.bind(this, refElement));
+  this.raf = window.requestAnimationFrame(this.scrollFn.bind(this));
 };
 
 MenuSpy.prototype.destroy = function destroy () {
@@ -185,4 +189,6 @@ MenuSpy.prototype.destroy = function destroy () {
   window.removeEventListener('resize', this.debouncedAssignValuesFn);
 };
 
-export default MenuSpy;
+return MenuSpy;
+
+})));
