@@ -37,9 +37,10 @@ enableRobotsTXT = true
     "web site" = "datascape"
     "blogPost" = "datascape"
 
-  [params.publications.other]
-      name = "DIME-SHS"
-      weight = 10
+  [params.publications.dime-web]
+    name = "Dime Web"
+    weight = 10
+    collections = { zotero = "7PZVF5PD", spire = "SCIENCESPO:DIME-SHS-DIME-Web" }
 
   [params.publications.elipss]
     name = "ELIPSS"
@@ -51,10 +52,9 @@ enableRobotsTXT = true
     weight = 30
     collections = { zotero = "WB7VJJ7Q", spire = "SCIENCESPO:DIME-SHS-beQuali" }
 
-  [params.publications.dime-web]
-      name = "Dime Web"
-      weight = 40
-      collections = { zotero = "7PZVF5PD", spire = "SCIENCESPO:DIME-SHS-DIME-Web" }
+  [params.publications.other]
+    name = "Autre"
+    weight = 40
 
 [blackfriday]
   hrefTargetBlank = true
