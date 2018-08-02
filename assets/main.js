@@ -100,6 +100,7 @@ var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
       var newNode = document.createElement('div');
       newNode.classList.add('in-sidebar');
       newNode.classList.add('in-sidebar--from-footnote');
+      newNode.dataset.footnoteNumber = i+1;
       newNode.style.top = target.offsetTop + 'px';
 
       newNode.innerHTML = el.parentElement.innerHTML;
