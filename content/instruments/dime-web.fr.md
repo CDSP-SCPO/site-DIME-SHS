@@ -10,6 +10,12 @@ options:
 
 L’instrument Dime Web est une équipe de un à trois ingénieurs accompagnant des projets de recherche en Sciences Humaines et Sociales dans le développement et l’emploi de méthodes numériques afin d’exploiter le web comme terrain d’enquêtes. Cela permet notamment de collecter, d’enrichir, de nettoyer, de visualiser et d’analyser des données à partir des traces numériques accessibles sur Internet.
 
+{{< sidebar >}}
+![](/img/instruments/logos_instruments-DimeWeb.svg)
+
+[Consulter de site de Dime Web](http://dimeweb.dime-shs.sciences-po.fr/)
+{{< /sidebar >}}
+
 # Objectifs
 Dime Web vise à équiper le monde des Sciences Humaines et Sociales pour exploiter les traces numériques laissées sur le web. L’instrument s’adresse à différents publics et avec différents types d'approches et différentes temporalités : conseil dans le choix et l’usage de méthodes numériques, identification de sources disponibles sur la toile, développement intégral d’outils génériques libres et open source largement réutilisables, formations pédagogiques ou académiques, appui méthodologique, soutien ponctuel l’espace d’un atelier d’une après-midi, accompagnement tout au long d’un projet de recherche sur plusieurs années...
 

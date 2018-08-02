@@ -8,14 +8,20 @@ options:
 - toc
 ---
 
-L’instrument DIME-Quanti, au travers de son panel[^0] ELIPSS (Étude Longitudinale par Internet Pour les Sciences Sociales) est un dispositif de production d’enquêtes par questionnaire destiné à la communauté scientifique.
+L’instrument DIME-Quanti, au travers de son panel ELIPSS (Étude Longitudinale par Internet Pour les Sciences Sociales) est un dispositif de production d’enquêtes par questionnaire destiné à la communauté scientifique.
 Il repose sur un échantillon aléatoire de la population résidant en France métropolitaine dont
 les membres ont été équipés d’une tablette tactile connectée à Internet pour
 répondre à des enquêtes mensuelles.
 
+{{< sidebar >}}
+![](/img/instruments/logos_instruments-ELIPSS.svg)
+
+[Consulter de site de Dime Web](http://quanti.dime-shs.sciences-po.fr/fr/)
+{{< /sidebar >}}
+
 # Objectifs
 DIME-Quanti vise à doter la communauté scientifique de moyens de production de données à partir des standards méthodologiques les plus élevés.<br>
-Grâce au tirage aléatoire de l’échantillon ELIPSS, les enquêtes académiques sélectionnées peuvent atteindre les critères de qualité statistique de référence. La dimension longitudinale de l’instrument est également un axe fort du dispositif puisqu’il existe très peu de données de panel de grande envergure pour la recherche en sciences sociales.<br>
+Grâce au tirage aléatoire de l’échantillon ELIPSS, les enquêtes académiques sélectionnées peuvent atteindre les critères de qualité statistique de référence. La dimension longitudinale de l’instrument est également un axe fort du dispositif puisqu’il existe très peu de données de panel[^0] de grande envergure pour la recherche en sciences sociales.<br>
 Un objectif secondaire du dispositif DIME-Quanti est le développement de la recherche méthodologique notamment grâce à l’accompagnement de projets innovants et d’expérimentations sur le design d’enquêtes.<br>
 Enfin, la documentation et la diffusion des données produites par l’instrument vise à favoriser leur réutilisation et participe ainsi à la cumulativité de la recherche.
 
