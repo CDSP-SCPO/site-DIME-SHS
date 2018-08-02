@@ -17,12 +17,14 @@
     h1 {
       @extend .f2;
       @extend .mt4;
+      @extend .lh-title;
     }
     h2 {
       @extend .f3;
       @extend .bw0;
       @extend .pb0;
       @extend .mt4;
+      @extend .lh-title;
     }
   }
 
@@ -31,9 +33,13 @@
   }
   .article__body h1 {
     @extend .f4;
+    @extend .measure-wide;
+    @extend .lh-title;
   }
   .article__body h2 {
     @extend .f5;
+    @extend .measure-wide;
+    @extend .lh-title;
   }
 
   .page__body h1,
