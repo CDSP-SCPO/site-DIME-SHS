@@ -3927,10 +3927,10 @@ body > section [role="main"] {
 .moon-gray {
   color: #ccc; }
 
-.light-gray, header[role="banner"] .secondary-navigation a {
+.light-gray, .slides .slide:not(.slide--auto-height) a:hover, .slides .slide:not(.slide--auto-height) a:focus, header[role="banner"] .secondary-navigation a {
   color: #eee; }
 
-.near-white, .slides .slide:nth-of-type(1), .slides .slide:nth-of-type(2), .slides .slide:nth-of-type(3), header[role="banner"] .secondary-navigation {
+.near-white, .slides .slide:not(.slide--auto-height) a, .slides .slide:nth-of-type(1), .slides .slide:nth-of-type(2), .slides .slide:nth-of-type(3), header[role="banner"] .secondary-navigation {
   color: #f4f4f4; }
 
 .white, header[role="banner"] .secondary-navigation a:hover, header[role="banner"] .secondary-navigation a:focus {
@@ -6242,10 +6242,10 @@ body > section [role="main"] {
 .strike {
   text-decoration: line-through; }
 
-.underline, .toggle-u-nou:hover, .cards-list .card .card__footer a:hover, .bibliography-entry .bibliography-entry__metadata a:hover, header[role="banner"] a:hover, .site-footer .navigation-item a:hover, #TableOfContents a:hover, .in-sidebar a:hover, .toggle-u-nou:focus, .cards-list .card .card__footer a:focus, .bibliography-entry .bibliography-entry__metadata a:focus, header[role="banner"] a:focus, .site-footer .navigation-item a:focus, #TableOfContents a:focus, .in-sidebar a:focus {
+.underline, .toggle-u-nou:hover, .cards-list .card .card__footer a:hover, .bibliography-entry .bibliography-entry__metadata a:hover, header[role="banner"] a:hover, .site-footer .navigation-item a:hover, #TableOfContents a:hover, .in-sidebar a:hover, .toggle-u-nou:focus, .cards-list .card .card__footer a:focus, .bibliography-entry .bibliography-entry__metadata a:focus, header[role="banner"] a:focus, .site-footer .navigation-item a:focus, #TableOfContents a:focus, .in-sidebar a:focus, .slides .slide:not(.slide--auto-height) a {
   text-decoration: underline; }
 
-.no-underline, .toggle-u-nou, .cards-list .card .card__footer a, .bibliography-entry .bibliography-entry__metadata a, header[role="banner"] a, .site-footer .navigation-item a, #TableOfContents a, .in-sidebar a, .cta-list a {
+.no-underline, .toggle-u-nou, .cards-list .card .card__footer a, .bibliography-entry .bibliography-entry__metadata a, header[role="banner"] a, .site-footer .navigation-item a, #TableOfContents a, .in-sidebar a, .slides .slide:not(.slide--auto-height) a:hover, .slides .slide:not(.slide--auto-height) a:focus, .cta-list a {
   text-decoration: none; }
 
 @media screen and (min-width: 49em) {
@@ -7134,6 +7134,16 @@ body > section [role="main"] {
 
 .measure-narrow-title {
   max-width: 15em; }
+
+.break-word, a {
+  overflow-wrap: break-word; }
+
+.no-break-word, .site-footer .navigation-item a {
+  overflow-wrap: unset; }
+
+.link-arrow:after, .cards-list .card .card__footer a:after, .bibliography-entry .bibliography-entry__metadata a:after, .in-sidebar a:after {
+  content: "→";
+  right: 0; }
 
 .slides__nav {
   top: 50%; }
