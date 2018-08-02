@@ -41,8 +41,7 @@ Signal supplémentaire de l'excellence scientifique du projet et de son potentie
   <h1>beQuali</h1>
 
   <p>une banque d’enquêtes qualitatives qui permet d’explorer en ligne des matériaux bruts issus d’enquêtes de recherche et une documentation restituant le contexte de leur production.
-  
-  [Découvrir beQuali](content/instruments/bequali.fr.md)
+  <a href="../content/instruments/bequali.fr.md">Découvrir beQuali</a>
   </p>
 </section>
 
