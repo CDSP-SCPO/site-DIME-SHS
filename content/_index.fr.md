@@ -30,20 +30,28 @@ Signal supplémentaire de l'excellence scientifique du projet et de son potentie
 <section>
   <h1>ELIPSS</h1>
 
-  <p>un panel internet composé de 3000 personnes représentatives de la population française, invitées à répondre chaque mois à des enquêtes académiques diffusées sur tablettes mobiles.</p>
+  <p>un panel internet composé de 3000 personnes représentatives de la population française, invitées à répondre chaque mois à des enquêtes académiques diffusées sur tablettes mobiles.
+
+[Découvrir ELIPSS](content/instruments/elipss.fr.md)
+  </p>
 
 </section>
 
 <section>
   <h1>beQuali</h1>
 
-  <p>une banque d’enquêtes qualitatives qui permet d’explorer en ligne des matériaux bruts issus d’enquêtes de recherche et une documentation restituant le contexte de leur production.</p>
+  <p>une banque d’enquêtes qualitatives qui permet d’explorer en ligne des matériaux bruts issus d’enquêtes de recherche et une documentation restituant le contexte de leur production.
+  
+  [Découvrir beQuali](content/instruments/bequali.fr.md)
+  </p>
 </section>
 
 <section>
   <h1>Dime Web</h1>
 
-  <p>un ensemble de méthodes numériques et d’outils informatiques pour accompagner les chercheurs dans l’utilisation du web comme terrain d’enquête.</p>
+  <p>un ensemble de méthodes numériques et d’outils informatiques pour accompagner les chercheurs dans l’utilisation du web comme terrain d’enquête.
+
+  [Découvrir Dime Web](content/instruments/dime-web.fr.md)</p>
 </section>
 
 {{< /home-slide >}}
