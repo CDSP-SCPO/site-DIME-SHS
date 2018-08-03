@@ -90,6 +90,7 @@
 
 .clickable {
   @extend .relative;
+  @extend .pl4;
   cursor: pointer;
 }
 

@@ -4725,7 +4725,7 @@ header[role="banner"] .secondary-navigation > ul, .site-footer .main-navigation 
 .article__body .in-sidebar > ol {
   padding-left: 1rem; }
 
-.pl4 {
+.pl4, .clickable {
   padding-left: 2rem; }
 
 .pl5 {
