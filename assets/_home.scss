@@ -6,9 +6,12 @@
   @extend .fixed-ns;
   @extend .left-2;
   top: 50%;
+  mix-blend-mode: difference;
 
   > ul {
     @extend .list;
+    @extend .pl3;
+    @extend .pl4-l;
   }
 
   li {
@@ -21,8 +24,8 @@
 
   a {
     @extend .br-100;
-    @extend .bg-near-white;
-    @extend .o-70;
+    @extend .bg-mid-gray;
+    @extend .o-60;
     @extend .db;
     font-size: 0;
 
