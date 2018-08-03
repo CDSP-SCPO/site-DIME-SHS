@@ -1,6 +1,7 @@
 'use strict';
 
 // scroll if anchor is targeted in a sticky context
+
 window.addEventListener('hashchange', function (event) {
   var header = $('.site-header');
 
@@ -69,11 +70,11 @@ var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
     var nav = $('.slides__nav > ul');
     $$('.slide', slidesContainer).forEach(function (slide, i) {
       if (!slide.getAttribute('id')) {
-        slide.setAttribute('id', `slide:${i + 1}`);
+        slide.setAttribute('id', 'slide:' + (i + 1));
       }
       var id = slide.getAttribute('id');
       var li = document.createElement('li');
-      li.innerHTML = `<a href="#${id}">${String(i + 1)}</a>`;
+      li.innerHTML = '<a href="#' + id + '">' + String(i + 1) + '</a>';
       if (i === 0) {
         li.classList.add('active');
       }
@@ -99,7 +100,7 @@ var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
       var newNode = document.createElement('div');
       newNode.classList.add('in-sidebar');
       newNode.classList.add('in-sidebar--from-footnote');
-      newNode.style.top = `${target.offsetTop}px`;
+      newNode.style.top = target.offsetTop + 'px';
 
       newNode.innerHTML = el.parentElement.innerHTML;
       target.insertAdjacentElement('afterend', newNode);
@@ -112,12 +113,11 @@ var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
     $$('.in-sidebar--from-content').forEach(function (sidenote) {
       var previousElementSibling = sidenote.previousElementSibling;
 
-
       if (!previousElementSibling) {
         return;
       }
 
-      sidenote.style.top = `${previousElementSibling.offsetTop}px`;
+      sidenote.style.top = previousElementSibling.offsetTop + 'px';
     });
 
     // realign
@@ -133,7 +133,7 @@ var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
       var prevEnd = previousAlike.offsetTop + previousAlike.offsetHeight;
 
       if (yStart <= prevEnd) {
-        sidenote.style.transform = `translateY(${prevEnd - yStart}px)`;
+        sidenote.style.transform = 'translateY(' + (prevEnd - yStart) + 'px)';
         sidenote.classList.add('moved');
       }
     });
