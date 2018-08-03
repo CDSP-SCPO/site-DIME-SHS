@@ -3043,7 +3043,12 @@ header[role="banner"] .secondary-navigation .active, #TableOfContents .active {
   line-height: 1; }
 
 .lh-title, main h1, main h2, main h3, main h4, [role="main"] h1, [role="main"] h2, [role="main"] h3, [role="main"] h4, .article .article__title,
-.page .article__title {
+.page .article__title, .article .article__body h1, .article .page__body h1,
+.page .article__body h1,
+.page .page__body h1, .article .article__body h2,
+.article .page__body h2,
+.page .article__body h2,
+.page .page__body h2 {
   line-height: 1.25; }
 
 .lh-copy, main h5, main h6, [role="main"] h5, [role="main"] h6, main p, main li, [role="main"] p, [role="main"] li, .article .article__body p, .article .article__body li, .article .article__body video, .article .article__body iframe,
@@ -6547,7 +6552,9 @@ body > section [role="main"] {
   max-width: 30em; }
 
 /* Measure is limited to ~80 characters */
-.measure-wide, .slides .slide:not(.slide--auto-height) p, .bibliography-entry .bibliography-entry__body {
+.measure-wide, .slides .slide:not(.slide--auto-height) p, .article .article__body h1,
+.page .article__body h1, .article .article__body h2,
+.page .article__body h2, .bibliography-entry .bibliography-entry__body {
   max-width: 34em; }
 
 /* Measure is limited to ~45 characters */
