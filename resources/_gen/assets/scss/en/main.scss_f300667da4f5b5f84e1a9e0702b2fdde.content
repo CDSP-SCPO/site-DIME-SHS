@@ -901,7 +901,7 @@ img {
   border-style: solid;
   border-width: 1px; }
 
-.bt {
+.bt, .footnotes hr {
   border-top-style: solid;
   border-top-width: 1px; }
 
@@ -917,8 +917,11 @@ img {
 .page .page__body .f2, .page .page__body main h2, main .page .page__body h2, .page .page__body [role="main"] h2, [role="main"] .page .page__body h2,
 .page .page__body .article__title,
 .page .page__body .article__body h1, .page .article__body .page__body h1,
-.page .article__title h2, .bibliography > h2,
-.bibliography > .bibliography-section > h3, .bibliography-entry:not(.bibliography-entry--quiet), .cta-list a {
+.page .article__title h2, .article .article__body sup.footnote-ref a,
+.article .page__body sup.footnote-ref a,
+.page .article__body sup.footnote-ref a,
+.page .page__body sup.footnote-ref a, .bibliography > h2,
+.bibliography > .bibliography-section > h3, .bibliography-entry:not(.bibliography-entry--quiet), .cta-list a, .in-sidebar[data-footnote-number]:before {
   border-bottom-style: solid;
   border-bottom-width: 1px; }
 
@@ -1028,7 +1031,7 @@ img {
 .page .page__body .article__title,
 .page .page__body .article__body h1, .page .article__body .page__body h1,
 .page .article__title h2, .bibliography > h2,
-.bibliography > .bibliography-section > h3, .site-footer .navigation-item.navigation-item--section:before {
+.bibliography > .bibliography-section > h3, .site-footer .navigation-item.navigation-item--section:before, .footnotes hr {
   border-color: #6F6E6E; }
 
 .b--gray {
@@ -1124,8 +1127,11 @@ img {
 .b--black-0125 {
   border-color: rgba(0, 0, 0, 0.0125); }
 
-.b--dark-red {
-  border-color: #e7040f; }
+.b--dark-red, .article .article__body sup.footnote-ref a,
+.article .page__body sup.footnote-ref a,
+.page .article__body sup.footnote-ref a,
+.page .page__body sup.footnote-ref a, .in-sidebar[data-footnote-number]:before {
+  border-color: #E6142D; }
 
 .b--red {
   border-color: #ff4136; }
@@ -1472,13 +1478,13 @@ img {
 .bt-0 {
   border-top-width: 0; }
 
-.br-0 {
+.br-0, .footnotes hr {
   border-right-width: 0; }
 
-.bb-0 {
+.bb-0, .footnotes hr {
   border-bottom-width: 0; }
 
-.bl-0 {
+.bl-0, .footnotes hr {
   border-left-width: 0; }
 
 @media screen and (min-width: 49em) {
@@ -1690,7 +1696,7 @@ img {
 .bottom--1 {
   bottom: -1rem; }
 
-.left--1 {
+.left--1, .in-sidebar[data-footnote-number]:before {
   left: -1rem; }
 
 .top--2 {
@@ -3676,7 +3682,7 @@ body > section [role="main"] {
 .page .page__body, .clickable, .bibliography > h2, .site-footer .navigation-item, .cta-list a {
   position: relative; }
 
-.absolute, .link-arrow:after, .cards-list .card .card__footer a:after, .bibliography-entry .bibliography-entry__metadata a:after, .in-sidebar a:after, .open-close, .site-footer .navigation-item.navigation-item--section:before, #TableOfContents .active:before, [aria-describedby] + div {
+.absolute, .link-arrow:after, .cards-list .card .card__footer a:after, .bibliography-entry .bibliography-entry__metadata a:after, .in-sidebar a:after, .open-close, .site-footer .navigation-item.navigation-item--section:before, #TableOfContents .active:before, .in-sidebar[data-footnote-number]:before, [aria-describedby] + div {
   position: absolute; }
 
 .fixed {
@@ -3942,7 +3948,7 @@ body > section [role="main"] {
   color: #fff; }
 
 .dark-red {
-  color: #e7040f; }
+  color: #E6142D; }
 
 .red {
   color: #ff4136; }
@@ -4114,7 +4120,7 @@ body > section [role="main"] {
   background-color: transparent; }
 
 .bg-dark-red {
-  background-color: #e7040f; }
+  background-color: #E6142D; }
 
 .bg-red {
   background-color: #ff4136; }
@@ -4441,7 +4447,7 @@ body > section [role="main"] {
 
 .hover-dark-red:hover,
 .hover-dark-red:focus {
-  color: #e7040f; }
+  color: #E6142D; }
 
 .hover-red:hover,
 .hover-red:focus {
@@ -4541,7 +4547,7 @@ body > section [role="main"] {
 
 .hover-bg-dark-red:hover,
 .hover-bg-dark-red:focus {
-  background-color: #e7040f; }
+  background-color: #E6142D; }
 
 .hover-bg-red:hover,
 .hover-bg-red:focus {
@@ -4767,7 +4773,10 @@ header[role="banner"] .secondary-navigation > ul, .site-footer .main-navigation 
 .page .page__body h2 {
   padding-bottom: 0; }
 
-.pb1 {
+.pb1, .article .article__body sup.footnote-ref a,
+.article .page__body sup.footnote-ref a,
+.page .article__body sup.footnote-ref a,
+.page .page__body sup.footnote-ref a {
   padding-bottom: 0.25rem; }
 
 .pb2 {
@@ -5032,7 +5041,7 @@ header[role="banner"] .secondary-navigation li {
   margin-top: 1rem;
   margin-bottom: 1rem; }
 
-.mv4, .badges-list {
+.mv4, .badges-list, .footnotes hr {
   margin-top: 2rem;
   margin-bottom: 2rem; }
 
@@ -5052,7 +5061,10 @@ header[role="banner"] .secondary-navigation li {
   margin-left: 0;
   margin-right: 0; }
 
-.mh1 {
+.mh1, .article .article__body sup.footnote-ref a,
+.article .page__body sup.footnote-ref a,
+.page .article__body sup.footnote-ref a,
+.page .page__body sup.footnote-ref a {
   margin-left: 0.25rem;
   margin-right: 0.25rem; }
 
@@ -6250,7 +6262,10 @@ body > section [role="main"] {
 .underline, .toggle-u-nou:hover, .cards-list .card .card__footer a:hover, .bibliography-entry .bibliography-entry__metadata a:hover, header[role="banner"] a:hover, .site-footer .navigation-item a:hover, #TableOfContents a:hover, .in-sidebar a:hover, .toggle-u-nou:focus, .cards-list .card .card__footer a:focus, .bibliography-entry .bibliography-entry__metadata a:focus, header[role="banner"] a:focus, .site-footer .navigation-item a:focus, #TableOfContents a:focus, .in-sidebar a:focus, .slides .slide:not(.slide--auto-height) a {
   text-decoration: underline; }
 
-.no-underline, .toggle-u-nou, .cards-list .card .card__footer a, .bibliography-entry .bibliography-entry__metadata a, header[role="banner"] a, .site-footer .navigation-item a, #TableOfContents a, .in-sidebar a, .slides .slide:not(.slide--auto-height) a:hover, .slides .slide:not(.slide--auto-height) a:focus, .cta-list a {
+.no-underline, .toggle-u-nou, .cards-list .card .card__footer a, .bibliography-entry .bibliography-entry__metadata a, header[role="banner"] a, .site-footer .navigation-item a, #TableOfContents a, .in-sidebar a, .slides .slide:not(.slide--auto-height) a:hover, .slides .slide:not(.slide--auto-height) a:focus, .article .article__body sup.footnote-ref a,
+.article .page__body sup.footnote-ref a,
+.page .article__body sup.footnote-ref a,
+.page .page__body sup.footnote-ref a, .cta-list a {
   text-decoration: none; }
 
 @media screen and (min-width: 49em) {
@@ -7126,7 +7141,7 @@ body > section [role="main"] {
 .open-sans, main h1, main h2, main h3, main h4, main h5, main h6, [role="main"] h1, [role="main"] h2, [role="main"] h3, [role="main"] h4, [role="main"] h5, [role="main"] h6 {
   font-family: 'Open Sans', 'Helvetica Neue', sans-serif; }
 
-.link-color, a {
+.link-color, a, .in-sidebar[data-footnote-number]:before {
   color: #E6142D; }
 
 .link-color-active, a:hover, a:focus {
@@ -7441,6 +7456,8 @@ header[role="banner"] {
 
 .in-sidebar {
   left: 70%; }
+  .in-sidebar[data-footnote-number]:before {
+    content: attr(data-footnote-number) "."; }
 
 [aria-describedby] + div {
   left: -500em; }

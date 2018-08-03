@@ -14,6 +14,15 @@
 }
 
 .footnotes {
+  hr {
+    @extend .bt;
+    @extend .bb-0;
+    @extend .bl-0;
+    @extend .br-0;
+    @extend .b--mid-gray;
+    @extend .mv4;
+  }
+
   &.in-sidebar-too {
     @extend .dn-ns;
   }
@@ -36,6 +45,15 @@
   @extend .w-30-ns;
   @extend .f6;
   @extend .mid-gray;
+
+  &[data-footnote-number]:before {
+    content: attr(data-footnote-number) ".";
+    @extend .link-color;
+    @extend .absolute;
+    @extend .left--1;
+    @extend .bb;
+    @extend .b--dark-red;
+  }
 
   &.in-sidebar--from-content {
     @extend .db;
