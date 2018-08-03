@@ -90,11 +90,9 @@ var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
 
   // footnotes -> sidenotes
   $$('.footnotes').forEach(function (footnotes) {
-    footnotes.setAttribute('hidden', true);
-
     var notes = $$('.footnote-return');
 
-    notes.forEach(function (el) {
+    notes.forEach(function (el, i) {
       var id = el.hash.slice(1);
       var target = document.getElementById(id);
       var newNode = document.createElement('div');
@@ -106,6 +104,8 @@ var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
       newNode.innerHTML = el.parentElement.innerHTML;
       target.insertAdjacentElement('afterend', newNode);
     });
+
+    footnotes.classList.add('in-sidebar-too');
   });
 
   // because we'd like to wait for images to load before calculating stuff

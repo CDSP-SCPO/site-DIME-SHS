@@ -4,18 +4,28 @@
 
 .columns {
   @extend .flex;
-  justify-content: space-between;
-  list-style-position: inside;
-  padding-left: 0;
+  @extend .justify-between;
+  @extend .list-position-inside;
+  @extend .pl0;
 
   > li {
-    padding-right: 1em;
+    @extend .pr3;
   }
 }
 
-.footnotes ol {
-  margin-top: 1.5em;
-  padding-left: 0;
+.footnotes {
+  &.in-sidebar-too {
+    @extend .dn-ns;
+  }
+
+  ol {
+    @extend .mt3;
+    @extend .pa0;
+
+    > li {
+      @extend .mb2;
+    }
+  }
 }
 
 .in-sidebar {
@@ -46,7 +56,7 @@
   }
 
   .footnote-return {
-    display: none;
+    @extend .dn;
   }
 }
 
