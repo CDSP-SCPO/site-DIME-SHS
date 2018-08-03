@@ -1,6 +1,8 @@
+'use strict';
+
 // scroll if anchor is targeted in a sticky context
-window.addEventListener('hashchange', (event) => {
-  const header = $('.site-header');
+window.addEventListener('hashchange', function (event) {
+  var header = $('.site-header');
 
   // element is sticky if it's at the top but far from the document top
   if (header.offsetTop && header.clientTop === 0) {
@@ -8,9 +10,9 @@ window.addEventListener('hashchange', (event) => {
   }
 });
 
-const getSiblings = function (elem, untilFn) {
-  const siblings = [];
-  let nextSibling = elem.nextElementSibling;
+var getSiblings = function getSiblings(elem, untilFn) {
+  var siblings = [];
+  var nextSibling = elem.nextElementSibling;
 
   while (nextSibling && untilFn(nextSibling) === false) {
     siblings.push(nextSibling);
@@ -20,24 +22,26 @@ const getSiblings = function (elem, untilFn) {
   return siblings;
 };
 
-const toggleHeadlines = (headlines, untilFn) => {
-  const defaultState = document.body.classList.contains('toggable-headlines--closed') ? 'closed' : 'opened';
-  const toggleSiblings = (headline) => {
-    const nextItems = getSiblings(headline, untilFn);
-    nextItems.forEach(s => s.classList.toggle('collapsed'));
+var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
+  var defaultState = document.body.classList.contains('toggable-headlines--closed') ? 'closed' : 'opened';
+  var toggleSiblings = function toggleSiblings(headline) {
+    var nextItems = getSiblings(headline, untilFn);
+    nextItems.forEach(function (s) {
+      return s.classList.toggle('collapsed');
+    });
   };
 
-  headlines.forEach(headline => {
+  headlines.forEach(function (headline) {
     headline.classList.add(defaultState);
     headline.classList.add('clickable');
 
-    headline.addEventListener('click', (event) => {
+    headline.addEventListener('click', function (event) {
       headline.classList.toggle('closed');
       headline.classList.toggle('opened');
       toggleSiblings(headline);
     });
 
-    const icon = document.createElement('span');
+    var icon = document.createElement('span');
     icon.classList.add('open-close');
     icon.setAttribute('aria-role', 'button');
     headline.appendChild(icon);
@@ -48,24 +52,28 @@ const toggleHeadlines = (headlines, untilFn) => {
   });
 };
 
-(function(){
-  const $ = (selector) => document.querySelector(selector);
-  const $$ = (selector, root=document) => Array.from(root.querySelectorAll(selector));
+(function () {
+  var $ = function $(selector) {
+    return document.querySelector(selector);
+  };
+  var $$ = function $$(selector) {
+    var root = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : document;
+    return Array.from(root.querySelectorAll(selector));
+  };
 
-  const toc = document.getElementById('TableOfContents');
-  new MenuSpy(toc, {enableLocationHash: false});
+  var toc = document.getElementById('TableOfContents');
+  new MenuSpy(toc, { enableLocationHash: false });
 
-
-  const slidesContainer = $('.slides');
+  var slidesContainer = $('.slides');
   if (slidesContainer) {
-    const nav = $('.slides__nav > ul');
-    $$('.slide', slidesContainer).forEach((slide, i) => {
+    var nav = $('.slides__nav > ul');
+    $$('.slide', slidesContainer).forEach(function (slide, i) {
       if (!slide.getAttribute('id')) {
-        slide.setAttribute('id', `slide:${i+1}`)
+        slide.setAttribute('id', `slide:${i + 1}`);
       }
-      const id = slide.getAttribute('id');
-      const li = document.createElement('li');
-      li.innerHTML = `<a href="#${id}">${String(i+1)}</a>`;
+      var id = slide.getAttribute('id');
+      var li = document.createElement('li');
+      li.innerHTML = `<a href="#${id}">${String(i + 1)}</a>`;
       if (i === 0) {
         li.classList.add('active');
       }
@@ -75,21 +83,20 @@ const toggleHeadlines = (headlines, untilFn) => {
       enableLocationHash: false,
       // refElement: slidesContainer,
       threshold: 75,
-      hashTimeout: 300,
+      hashTimeout: 300
     });
   }
 
-
   // footnotes -> sidenotes
-  $$('.footnotes').forEach(footnotes => {
+  $$('.footnotes').forEach(function (footnotes) {
     footnotes.setAttribute('hidden', true);
 
-    const notes = $$('.footnote-return');
+    var notes = $$('.footnote-return');
 
-    notes.forEach((el) => {
-      const id = el.hash.slice(1);
-      const target = document.getElementById(id);
-      const newNode = document.createElement('div');
+    notes.forEach(function (el) {
+      var id = el.hash.slice(1);
+      var target = document.getElementById(id);
+      var newNode = document.createElement('div');
       newNode.classList.add('in-sidebar');
       newNode.classList.add('in-sidebar--from-footnote');
       newNode.style.top = `${target.offsetTop}px`;
@@ -100,10 +107,11 @@ const toggleHeadlines = (headlines, untilFn) => {
   });
 
   // because we'd like to wait for images to load before calculating stuff
-  window.addEventListener('load', () => {
+  window.addEventListener('load', function () {
     // content-notes -> sidenotes
-    $$('.in-sidebar--from-content').forEach(sidenote => {
-      const {previousElementSibling} = sidenote;
+    $$('.in-sidebar--from-content').forEach(function (sidenote) {
+      var previousElementSibling = sidenote.previousElementSibling;
+
 
       if (!previousElementSibling) {
         return;
@@ -113,16 +121,16 @@ const toggleHeadlines = (headlines, untilFn) => {
     });
 
     // realign
-    $$('.in-sidebar').forEach((sidenote, i, all) => {
-      const previousAlike = all[i-1];
+    $$('.in-sidebar').forEach(function (sidenote, i, all) {
+      var previousAlike = all[i - 1];
 
       if (i === 0 || !sidenote.parentElement.contains(previousAlike)) {
         return;
       }
 
       // move after if overlap
-      const yStart = sidenote.offsetTop;
-      const prevEnd = previousAlike.offsetTop + previousAlike.offsetHeight;
+      var yStart = sidenote.offsetTop;
+      var prevEnd = previousAlike.offsetTop + previousAlike.offsetHeight;
 
       if (yStart <= prevEnd) {
         sidenote.style.transform = `translateY(${prevEnd - yStart}px)`;
@@ -131,12 +139,22 @@ const toggleHeadlines = (headlines, untilFn) => {
     });
 
     // toggle state
-    if(document.body.classList.contains('toggable-headlines')) {
-      toggleHeadlines($$('.article__title'), (el) => el.classList.contains('article__title'));
-      toggleHeadlines($$('.page__body h1'), (el) => el.nodeName === 'H1');
-      toggleHeadlines($$('.page__body .f2'), (el) => el.classList.contains('f2'));
-      toggleHeadlines($$('.bibliography h2'), (el) => el.nodeName === 'H2');
-      toggleHeadlines($$('.bibliography-section h3'), (el) => el.nodeName === 'H3');
+    if (document.body.classList.contains('toggable-headlines')) {
+      toggleHeadlines($$('.article__title'), function (el) {
+        return el.classList.contains('article__title');
+      });
+      toggleHeadlines($$('.page__body h1'), function (el) {
+        return el.nodeName === 'H1';
+      });
+      toggleHeadlines($$('.page__body .f2'), function (el) {
+        return el.classList.contains('f2');
+      });
+      toggleHeadlines($$('.bibliography h2'), function (el) {
+        return el.nodeName === 'H2';
+      });
+      toggleHeadlines($$('.bibliography-section h3'), function (el) {
+        return el.nodeName === 'H3';
+      });
     }
   });
 })();
