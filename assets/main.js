@@ -59,7 +59,7 @@ var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
   };
   var $$ = function $$(selector) {
     var root = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : document;
-    return Array.from(root.querySelectorAll(selector));
+    return [].slice.apply(root.querySelectorAll(selector));
   };
 
   var toc = document.getElementById('TableOfContents');
