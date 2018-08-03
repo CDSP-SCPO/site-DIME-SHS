@@ -4776,7 +4776,7 @@ header[role="banner"] .secondary-navigation > ul, .site-footer .main-navigation 
 .pb1, .article .article__body sup.footnote-ref a,
 .article .page__body sup.footnote-ref a,
 .page .article__body sup.footnote-ref a,
-.page .page__body sup.footnote-ref a {
+.page .page__body sup.footnote-ref a, .in-sidebar a {
   padding-bottom: 0.25rem; }
 
 .pb2 {
@@ -4834,7 +4834,7 @@ header[role="banner"] .secondary-navigation > ul, .site-footer .main-navigation 
   padding-top: 0;
   padding-bottom: 0; }
 
-.pv1, .bibliography-entry .bibliography-entry__metadata a, .in-sidebar a {
+.pv1, .bibliography-entry .bibliography-entry__metadata a {
   padding-top: 0.25rem;
   padding-bottom: 0.25rem; }
 
