@@ -1,39 +1,47 @@
-export const getSiblings = function (elem, untilFn) {
-  const siblings = [];
-  let nextSibling = elem.nextElementSibling;
+'use strict';
 
-  while (nextSibling && untilFn(nextSibling) === false) {
-    siblings.push(nextSibling);
-    nextSibling = nextSibling.nextElementSibling;
-  }
+(function () {
+  var getSiblings = function getSiblings(elem, untilFn) {
+    var siblings = [];
+    var nextSibling = elem.nextElementSibling;
 
-  return siblings;
-};
+    while (nextSibling && untilFn(nextSibling) === false) {
+      siblings.push(nextSibling);
+      nextSibling = nextSibling.nextElementSibling;
+    }
 
-export default (headlines, untilFn) => {
-  const defaultState = document.body.classList.contains('toggable-headlines--closed') ? 'closed' : 'opened';
-  const toggleSiblings = (headline) => {
-    const nextItems = getSiblings(headline, untilFn);
-    nextItems.forEach(s => s.classList.toggle('collapsed'));
+    return siblings;
   };
 
-  headlines.forEach(headline => {
-    headline.classList.add(defaultState);
-    headline.classList.add('clickable');
+  var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
+    var defaultState = document.body.classList.contains('toggable-headlines--closed') ? 'closed' : 'opened';
+    var toggleSiblings = function toggleSiblings(headline) {
+      var nextItems = getSiblings(headline, untilFn);
+      nextItems.forEach(function (s) {
+        return s.classList.toggle('collapsed');
+      });
+    };
 
-    headline.addEventListener('click', (event) => {
-      headline.classList.toggle('closed');
-      headline.classList.toggle('opened');
-      toggleSiblings(headline);
+    headlines.forEach(function (headline) {
+      headline.classList.add(defaultState);
+      headline.classList.add('clickable');
+
+      headline.addEventListener('click', function (event) {
+        headline.classList.toggle('closed');
+        headline.classList.toggle('opened');
+        toggleSiblings(headline);
+      });
+
+      var icon = document.createElement('span');
+      icon.classList.add('open-close');
+      icon.setAttribute('aria-role', 'button');
+      headline.appendChild(icon);
+
+      if (defaultState === 'closed') {
+        toggleSiblings(headline);
+      }
     });
+  };
 
-    const icon = document.createElement('span');
-    icon.classList.add('open-close');
-    icon.setAttribute('aria-role', 'button');
-    headline.appendChild(icon);
-
-    if (defaultState === 'closed') {
-      toggleSiblings(headline);
-    }
-  });
-};
+  window.toggleHeadlines = toggleHeadlines;
+})();

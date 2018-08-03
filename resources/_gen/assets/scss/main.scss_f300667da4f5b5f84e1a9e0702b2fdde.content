@@ -4746,7 +4746,7 @@ header[role="banner"] .secondary-navigation > ul, .site-footer .main-navigation 
 .pr2 {
   padding-right: 0.5rem; }
 
-.pr3 {
+.pr3, .clickable :first-child {
   padding-right: 1rem; }
 
 .pr4 {

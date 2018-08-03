@@ -91,6 +91,10 @@
 .clickable {
   @extend .relative;
   cursor: pointer;
+
+  :first-child {
+    @extend .pr3;
+  }
 }
 
 .collapsed {
