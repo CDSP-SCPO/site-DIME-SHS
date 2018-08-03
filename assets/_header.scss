@@ -52,7 +52,8 @@ header[role="banner"] {
   }
 
   .language-picker {
-    @extend .w-30;
+    @extend .flex-auto;
+    @extend .justify-end;
     @extend .order-3;
 
     @extend .flex;
@@ -69,7 +70,7 @@ header[role="banner"] {
 
     li {
       @extend .di;
-      @extend .mr4;
+      @extend .mr3;
     }
 
     .active {

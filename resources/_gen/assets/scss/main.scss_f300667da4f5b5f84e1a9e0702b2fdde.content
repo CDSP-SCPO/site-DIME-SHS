@@ -2085,7 +2085,7 @@ header[role="banner"] .secondary-navigation li {
 
 /* 1. Fix for Chrome 44 bug.
  * https://code.google.com/p/chromium/issues/detail?id=506893 */
-.flex-auto, .sidenotes-wrapper > div {
+.flex-auto, header[role="banner"] .language-picker, .sidenotes-wrapper > div {
   flex: 1 1 auto;
   min-width: 0;
   /* 1 */
@@ -2151,7 +2151,7 @@ header[role="banner"] .secondary-navigation li {
 .justify-start {
   justify-content: flex-start; }
 
-.justify-end {
+.justify-end, header[role="banner"] .language-picker {
   justify-content: flex-end; }
 
 .justify-center, .slides .slide {
@@ -3347,7 +3347,7 @@ header[role="banner"] .secondary-navigation > ul, .site-footer .main-navigation 
 .w-25 {
   width: 25%; }
 
-.w-30, header[role="banner"] .language-picker, .site-footer .navigation-item {
+.w-30, .site-footer .navigation-item {
   width: 30%; }
 
 .w-33 {
@@ -4945,12 +4945,12 @@ header[role="banner"] .secondary-navigation > ul, .site-footer .main-navigation 
   margin-right: 0.5rem; }
 
 .mr3, .badges-list > ol > li,
-.badges-list > ul > li {
-  margin-right: 1rem; }
-
-.mr4, .slides .slide:nth-of-type(3) > section:not(:last-child), header[role="banner"] .main-navigation li,
+.badges-list > ul > li, header[role="banner"] .main-navigation li,
 header[role="banner"] .language-picker li,
 header[role="banner"] .secondary-navigation li {
+  margin-right: 1rem; }
+
+.mr4, .slides .slide:nth-of-type(3) > section:not(:last-child) {
   margin-right: 2rem; }
 
 .mr5 {
