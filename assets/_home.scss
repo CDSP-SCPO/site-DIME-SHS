@@ -1,3 +1,5 @@
+@import 'components/links';
+
 .slides__nav {
   @extend .dn;
   @extend .db-ns;
@@ -67,6 +69,11 @@
 
       h1, h2 {
         @extend .normal;
+      }
+
+      a {
+        @include link-state('near-white', 'light-gray');
+        @include link-state('underline', 'no-underline');
       }
     }
 
