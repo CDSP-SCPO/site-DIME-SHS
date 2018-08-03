@@ -90,8 +90,11 @@
 
 .clickable {
   @extend .relative;
-  @extend .pl4;
   cursor: pointer;
+
+  :first-child {
+    @extend .pr3;
+  }
 }
 
 .collapsed {

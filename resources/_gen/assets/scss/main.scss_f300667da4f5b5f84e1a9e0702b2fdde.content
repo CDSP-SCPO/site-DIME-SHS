@@ -4725,7 +4725,7 @@ header[role="banner"] .secondary-navigation > ul, .site-footer .main-navigation 
 .article__body .in-sidebar > ol {
   padding-left: 1rem; }
 
-.pl4, .clickable {
+.pl4 {
   padding-left: 2rem; }
 
 .pl5 {
@@ -4746,7 +4746,7 @@ header[role="banner"] .secondary-navigation > ul, .site-footer .main-navigation 
 .pr2 {
   padding-right: 0.5rem; }
 
-.pr3 {
+.pr3, .clickable :first-child {
   padding-right: 1rem; }
 
 .pr4 {
