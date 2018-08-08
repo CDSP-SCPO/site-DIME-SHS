@@ -1,9 +1,10 @@
 @import "components/links";
 @import "components/lists";
+@import "components/positions";
 
 header[role="banner"] {
-  position: sticky;
-  top: 0;
+  @extend .sticky;
+  @extend .top-0;
   transition: all .3s ease-in;
   z-index: 1000;
 
