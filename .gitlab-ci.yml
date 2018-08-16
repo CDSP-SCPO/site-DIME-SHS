@@ -1,0 +1,23 @@
+image: ubuntu
+
+before_script:
+  - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client -y )'
+  - eval $(ssh-agent -s)
+  - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
+  - mkdir -p ~/.ssh
+  - chmod 700 ~/.ssh
+  - ssh-keyscan hendrix.dime-shs.sciences-po.fr >> ~/.ssh/known_hosts
+  - chmod 644 ~/.ssh/known_hosts
+
+stages:
+ - deploy
+
+deploy_prod:
+  stage: deploy
+  script:
+   - ssh -t gitlab-ci@$PROD_SERVER "cd $DOCUMENT_ROOT && git pull origin prod"
+  environment:
+    name: prod
+    url: http://www.sciencespo.fr/dime-shs/
+  only:
+   - prod
