@@ -10,12 +10,12 @@ options:
 - toggable-headlines--closed
 ---
 {{< home-slide >}}
-# DIME-SHS
+#DIME-SHS
 Innovative tools for the production and reuse of social science research data
 
 {{< /home-slide >}}
 {{< home-slide id="introduction">}}
-# Tools for the Social Sciences
+#Tools for the Social Sciences
 
 The DIME-SHS EquipEx (Excellence Facility for Survey Data Infrastructures and Methods in the Humanities and Social Sciences) offers researchers tools for the production or reuse of social science data and research materials.
 Structured around 3 instruments specific to different types of resources and methods, the objective of DIME-SHS is to collect, enhance and disseminate qualitative surveys ([beQuali]({{< ref "instruments/bequali.en.md" >}})), quantitative datasets ([ELIPSS]({{< ref "instruments/elipss.en.md" >}}), and web-based research materials ([Dime Web]({{< ref "instruments/dime-web.en.md" >}})).
@@ -28,17 +28,23 @@ A further indication of the project’s scientific excellence and its potential 
 {{< home-slide >}}
 <section>
   <h1>ELIPSS</h1>
-<p>an online panel consisting of 3000 people representative of the French population, who are invited to respond to monthly academic surveys disseminated using a tablet app.</p>
+<p>an online panel consisting of 3000 people representative of the French population, who are invited to respond to monthly academic surveys disseminated using a tablet app.
+<a href="/instruments/elipss.en.md">Discover ELIPSS</a>
+</p>
 </section>
 
 <section>
   <h1>beQuali</h1>
-<p>an archive of qualitative surveys in which academics can explore raw research survey materials and further documentation that describes the context of their production.</p>
+<p>an archive of qualitative surveys in which academics can explore raw research survey materials and further documentation that describes the context of their production.
+<a href="/instruments/bequali.en.md">Discover beQuali</a>
+</p>
 </section>
 
 <section>
   <h1>Dime Web</h1>
-  <p>a set of digital methods and IT tools to help researchers in their use of the web as a research resource.</p>
+  <p>a set of digital methods and IT tools to help researchers in their use of the web as a research resource.
+  <a href="/instruments/dime-web.en.md">Discover Dime Web</a>
+  </p>
 </section>
 
 {{< /home-slide >}}

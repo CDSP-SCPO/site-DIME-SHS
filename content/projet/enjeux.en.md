@@ -1,5 +1,5 @@
 ---
-title: Stakes
+title: About
 menu:
   main:
     parent: Project

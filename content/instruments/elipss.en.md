@@ -10,6 +10,12 @@ options:
 
 The DIME-QUANTI instrument, through its ELIPSS (Longitudinal Online Social Science Survey) panel, is a project that produces questionnaire-based surveys for the scientific community. It is based on a random sample of the population resident in Metropolitan France, whose members have been supplied with an Internet connected touchscreen tablet on which to answer monthly surveys.
 
+{{< sidebar >}}
+![](/img/instruments/logos_instruments-ELIPSS.svg)
+
+[Browse ELIPSS website](http://quanti.dime-shs.sciences-po.fr/fr/)
+{{< /sidebar >}}
+
 # Objectives
 The purpose of Dime Quanti is to give the scientific community the means to produce data to the highest methodological standards.<br>
 Because the Elipss sample is randomly drawn, the academic surveys selected can achieve the benchmark criteria of statistical quality. In addition, the longitudinal nature of the survey is a strong feature, since there exist very few large-scale panel data for social science research.<br>

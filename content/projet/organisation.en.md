@@ -1,5 +1,5 @@
 ---
-title: Organization
+title: Organisation
 menu:
   main:
     parent: Project

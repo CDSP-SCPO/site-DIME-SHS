@@ -1,12 +1,12 @@
 ---
-title: Report
+title: History
 menu:
   main:
     parent: Project
 weight: 40
 ---
 # Landmarks
-## Landmarks
+## Chronology
 
 {{< longdesc src="/img/frise-chronologique-DIME.png" alt="Frise chronologique" >}}
 1. FIRST FOUNDATIONS
