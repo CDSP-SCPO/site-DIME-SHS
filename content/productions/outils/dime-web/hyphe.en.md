@@ -5,4 +5,4 @@ website: http://hyphe.medialab.sciences-po.fr/
 weight: 10
 ---
 
-Crawler web et interface d’accompagnement à la création de corpus web permettant de cartographier la présence sur le web et les liens hypertextes entre les acteurs d’un sujet.
+Web crawler and support interface for the creation of web corpora used to map web presence and hypertext links between web entities around a particular subject.

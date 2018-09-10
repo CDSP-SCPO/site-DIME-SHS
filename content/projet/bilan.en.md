@@ -6,51 +6,49 @@ menu:
 weight: 40
 ---
 # Landmarks
-*A METTRE A JOUR AVEC LA TRADUCTION*
-## Dates clés
+## Landmarks
 
 {{< longdesc src="/img/frise-chronologique-DIME.png" alt="Frise chronologique" >}}
-1. PREMIÈRES BRIQUES
-  - 2011 : acceptation du projet
-  - 2012 : inauguration de l’Equipex
-  - 2012 : constitution du premier échantillon ELIPSS (1500 panelistes)
-1. DÉVELOPPEMENT
-  - 2013 : première enquête ELIPSS
-  - 2013 : lancement de Hyphe 0.0
-  - 2015 : nouveau portail beQuali
-  - 2016 : élargissement du panel ELIPSS (3500 individus)
-1. FONCTIONNEMENT
-  - 2017: Evaluation à mi-parcours
+1. FIRST FOUNDATIONS
+  - 2011 : acceptance of the project
+  - 2012 : inauguration of the equipex
+  - 2012 : establishment of the first Elipss sample (1500 panellists)
+1. DEVELOPMENT
+  - 2013 : first Elipss survey
+  - 2013 : launch of Hyphe 0.0
+  - 2015 : new beQuali portal
+  - 2016 : expansion of the Elipss panel (3500 individuals)
+1. OPERATION
+  - 2017: Mid-term evaluation
   - 2018: Hyphe 1.0
-  - 2018: Colloque
-  - 2018 : kits d'enseignement beQuali
+  - 2018: Symposium
+  - 2018: beQuali teaching kits
 {{< /longdesc >}}
 
-## Budget
-Zoom sur une année et répartition
+## Staff per speciality
+web development (3), archive (2), documentation (4), data production (5), panel management (2), equipex coordination.
 
-## Personnel par expertises
-développement web (3), archive(2), documentation (4), production de données (5), gestion de panel (2), coordination Equipex (2)
+##Distribution
+120 projects deposited/92 selected
 
-Répartition projets déposés / sélectionnés
+# Evaluation of the facility
 
-# Equipex Evalation
-
-Dans le cadre de son processus de suivi, l’Agence Nationale de la Recherche, opérateur de l’équipement, a fait réaliser en 2017 -après 6 années de fonctionnement- une analyse détaillée des pratiques et résultats du projet en s’appuyant sur un jury international indépendant[^1]. Le rapport fait état d’une évaluation globalement positive des instruments, notamment au vu des objectifs fixés en grande partie atteints. Le rapport note : _“One is impressed by the achievements of each of the three components of the DIME project”_. Il conclut également _“Overall, the three components of the DIME-SHS project are well on the way of reaching the initial targets of the project. The evaluation of each of these three components of the project is positive.”_
+DAs part of its monitoring role, in 2017 – after 6 years of operation – the National Research Agency, which oversees the facility, commissioned a detailed analysis of the practices and results of the project by an independent international jury. The report delivers a broadly positive assessment of the instruments, in particular their success in meeting most of their targets. The report notes : _“One is impressed by the achievements of each of the three components of the DIME project”_. It also concludes _“Overall, the three components of the DIME-SHS project are well on the way of reaching the initial targets of the project. The evaluation of each of these three components of the project is positive.”_
 
 {{< sidebar >}}
 [Rapport d'activité 2014](/docs/DIME-SHS-BilanPerspectives2014.pdf)<br>
 [Rapport d'activité 2011-2016](/docs/DIME-SHS-ScientificReport2016.pdf)
 {{< /sidebar >}}
 
-Le rapport souligne néanmoins un risque majeur qui tient à l’arrêt de la source principale du financement fin 2019 et précise que la pérennisation de l’équipement suppose que _“the main source of sustainability remains institutional support”_. En effet, puisqu’il semble difficile d’envisager une source de financement principale autre qu’institutionnelle, l’arrêt de ces crédits pourrait être un frein à la continuité des services offerts par DIME-SHS.
+The report nevertheless stresses a major risk, the termination of the main source of funding at the end of 2019, and specifies that the continuance of the project requires that _“the main source of sustainability remains institutional support”_ for the future. Indeed, since it is difficult to imagine a main source of funding other than institutional, the end of these subsidies could threaten the continuity of the services provided by DIME-SHS.
 
-Le rapport s’attache également à proposer des pistes de développement et d’amélioration pour la dernière phase de l’équipement. Le rapport souligne notamment:
-- la nécessaire diversification des sources de financement,
-- le renforcement du rayonnement scientifique de l’infrastructure construite,
-- ou encore l’accentuation de l’ancrage international.
-Les deux faiblesses principales pointées par le jury d’évaluation restent néanmoins le sous-dimensionnement de l’équipe par rapport à ses objectifs et l’absence de synergies suffisantes entre les différents instruments de l’équipement.
 
-Ces recommandations du jury international ont permis une réévaluation des objectifs et des actions prioritaires à mener par l’Equipex pendant la dernière phase de ses travaux (2018-2019). Cette réflexion a conduit à la formulation d’un [plan d’action](/docs/CDSP2018-EquipEx-PlanAction-final.pdf) pour ces deux années. Ce plan d’action précise les objectifs opérationnels de réalisation visés (nombre d’enquêtes, développement d’applications,...) mais également les opérations à mener pour contribuer à mieux asseoir DIME-SHS dans le paysage de la recherche nationale et européenne.
+The report also proposes avenues for development and improvement in the final phase of the project. In particular, it emphasises:
+-	The need to diversify funding sources,
+-	The need to reinforce the scientific impact of the infrastructure,
+-	The need to strengthen the project’s international presence.
+The two main weaknesses identified by the evaluation jury, however, are the inadequate size of the team relative to its objectives, and the lack of sufficient synergies between the different components of the project.
+
+These recommendations by the international jury resulted in a reassessment of the objectives and priorities of the EquipEx for the final phase of its activities (2018-2019), with the formulation of a [two-year action plan](/docs/CDSP2018-EquipEx-PlanAction-final.pdf) for this period. It specifies the operational targets (number of surveys, development of applications,…) but also the operations required to enhance the grounding of the DIME-SHS project in the national and European research landscape.
 
 [^1]: [Synthèse de l'évaluation de DIME-SHS dans le programme d’évaluation globale des Equipex](http://www.agence-nationale-recherche.fr/fileadmin/documents/2017/ANR-IA-Rapport-EQUIPEX-2016.pdf)

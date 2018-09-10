@@ -5,20 +5,22 @@ menu:
     parent: Project
 weight: 10
 ---
-*A METTRE 0 JOUR AVEC LA TRADUCTION*
-# State of art
-Les progrès des technologies digitales offrent des opportunités immenses pour les SHS. Elles permettent aujourd’hui non seulement de capter une multitude d’informations liées au développement d’Internet et des réseaux sociaux, mais elles nous amènent également à pouvoir refonder les questionnements et les instruments classiques de nos disciplines. Ces nouvelles technologies ouvrent aussi la possibilité d’une pratique scientifique changée par les principes d’ouverture et de facilitation de l’accès aux données. Cela s’est traduit tant par la croissance de l’enjeu de la réplicabilité dans les SHS que par l'augmentation exponentielle de la quantité de données disponibles et leur caractère de plus en plus cumulatif.<br>
-Construire des dispositifs permettant d’exploiter ces nouvelles possibilités requiert des investissements considérables. Grâce aux appels successifs de la communauté scientifique, notamment avec les rapports Silberman[^1] en 1999 et Cribier[^2] en 2003, différentes initiatives ont contribué à construire ces plateformes technologiques pour les SHS françaises.<br>
-Sélectionné en janvier 2011 dans le cadre de l’appel à projets des Équipements d’Excellence de l’Agence nationale de la recherche, DIME-SHS s’inscrit dans cette dynamique en associant dans un même équipement des technologie permettant la capture de données sur Internet, la collecte de données auprès d’échantillons représentatifs via Internet ainsi que la mise à disposition de données notamment qualitatives pour l’ensemble de la communauté. DIME-SHS est ainsi venu compléter le paysage des infrastructures intégrées aux pratiques de la communauté académique en proposant des services dédiés à la production, la diffusion et la ré-exploitation de données en sciences humaines et sociales
+# Background
+Advances in digital technologies offer huge opportunities for the humanities and social sciences. Today, they not only enable us to capture a mass of information linked with the development of the Internet and social media, but they also give us the chance to recast the traditional questions and instruments of our disciplines. These new technologies also open up the possibility for the practice of science to be transformed by the principles of openness and by easier access to data. This has led both to an accentuation of the issue of replicability in the social sciences and to an exponential increase in the quantity and cumulative character of available data.<br>
+Developing systems able to take advantage of these new possibilities requires considerable investment. Thanks to successive calls from the scientific community, in particular with the Silberman Report[^1] in 1999 and the Cribier Report[^2] in 2003, a number of initiatives contributed to the construction of these social science technology platforms in France.<br>
+Selected in January 2011 in the National Research Agency’s call for Excellence Facilities projects, DIME-SHS reflects this dynamic, a single facility that brings together technologies for capturing online data, for collecting data from representative samples online, and for making data – particularly qualitative data – available to the whole scientific community. In this capacity, DIME-SHS joins the landscape of infrastructures aligned with the practices of the academic community by providing services dedicated to the production, dissemination and reuse of social science data.
 
-# Purpose and principles
-DIME-SHS se positionne comme une expérimentation d’infrastructure de recherche innovante dans le domaine des SHS. Sa mission principale est de concevoir et de développer une panoplie d’outils, construits à partir des nouvelles technologies, visant à la production, la diffusion et la ré-utilisation de données. Son périmètre englobe les principaux types de données - qualitatives, textuelles et quantitatives - de sources variées - entretiens et notes d’observation, enquêtes d’opinion ou données issues du web.<br>
-Les principes de fonctionnement de DIME-SHS adhèrent étroitement aux valeurs de la science ouverte et des standards FAIR. DIME-SHS entend contribuer à l’amélioration des standards en termes de méthodes, visant l’excellence scientifique. DIME-SHS incarne également le pluralisme en termes de méthodes et d’approches en rapprochant des traditions parfois éloignées.<br>
-Les principales missions de DIME-SHS sont ainsi de :
 
-1. concevoir des outils expérimentaux pour la production de données de recherche;<br> structurer des plates-formes pour faciliter l’accès et l’exploration des données de nature diverses;
-1. nourrir la réflexion sur les méthodes en recherche multi-corpus et impulser de nouvelles pratiques en prenant appui sur les outils numériques;
-1. accompagner l’ouverture des données et leur utilisation secondaire pour renforcer la transparence des démarches de recherches en sciences sociales.
+# Missions and principles
+DIME-SHS is an experimental facility for innovative research in the humanities and social sciences. Its primary role is to design and develop a battery of tools, built on new technologies, for the production, dissemination and reuse of data. Its activity encompasses the principal types of social science data – qualitative, textual and quantitative – and the main data sources – interviews and observation notes, opinion surveys or accumulated web data.<br>
+DIME-SHS adheres closely in its operational principles to the values of open science and FAIR standards. DIME-SHS is committed to the improvement of standards, in particular methodological standards, with a focus on scientific excellence. DIME-SHS also embodies methodological pluralism, combining approaches sometimes drawn from widely separated traditions.<br>
+
+The main missions of DIME-SHS are thus to… :
+1. Design experimental tools for the production of research data;
+1. Structure platforms to facilitate data access and exploration;
+1. Contribute to thinking about multi-corpus research methods and promote new practices supported by digital tools;
+1. Foster open data and secondary data use in order to make social science research methods more transparent.
+
 {: .columns .columns-3 }
 
 [^1]: [rapport Silberman, 1999](http://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/004000935.pdf)

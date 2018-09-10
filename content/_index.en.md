@@ -18,7 +18,7 @@ Innovative tools for the production and reuse of social science research data
 # Tools for the Social Sciences
 
 The DIME-SHS EquipEx (Excellence Facility for Survey Data Infrastructures and Methods in the Humanities and Social Sciences) offers researchers tools for the production or reuse of social science data and research materials.
-Structured around 3 instruments specific to different types of resources and methods, the objective of DIME-SHS is to collect, enhance and disseminate qualitative surveys ([beQuali]({{< ref "instruments/bequali.en.md" >}})), quantitative datasets ([ELIPSS]({{< ref "instruments/elipss.en.md" >}}), and web-based research materials ([DIME-Web]({{< ref "instruments/dime-web.en.md" >}})).
+Structured around 3 instruments specific to different types of resources and methods, the objective of DIME-SHS is to collect, enhance and disseminate qualitative surveys ([beQuali]({{< ref "instruments/bequali.en.md" >}})), quantitative datasets ([ELIPSS]({{< ref "instruments/elipss.en.md" >}}), and web-based research materials ([Dime Web]({{< ref "instruments/dime-web.en.md" >}})).
 
 Selected under France’s Investments for the Future Programmes dedicated to Excellence Facilities, the DIME-SHS scientific project was recognised by the National Research Agency for its methodological rigour and awarded funding of €10 million to cover its activities from 2011 to 2019 (ANR-10-EQPX-19-01).
 
