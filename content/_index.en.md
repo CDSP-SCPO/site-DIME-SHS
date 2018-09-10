@@ -28,21 +28,21 @@ A further indication of the project’s scientific excellence and its potential 
 {{< home-slide >}}
 <section>
   <h1>ELIPSS</h1>
-<p>an online panel consisting of 3000 people representative of the French population, who are invited to respond to monthly academic surveys disseminated using a tablet app.
+<p>an online panel consisting of 3000 people representative of the French population, who are invited to respond to monthly academic surveys disseminated using a tablet app.<br>
 <a href="/instruments/elipss.en.md">Discover ELIPSS</a>
 </p>
 </section>
 
 <section>
   <h1>beQuali</h1>
-<p>an archive of qualitative surveys in which academics can explore raw research survey materials and further documentation that describes the context of their production.
+<p>an archive of qualitative surveys in which academics can explore raw research survey materials and further documentation that describes the context of their production.<br>
 <a href="/instruments/bequali.en.md">Discover beQuali</a>
 </p>
 </section>
 
 <section>
   <h1>Dime Web</h1>
-  <p>a set of digital methods and IT tools to help researchers in their use of the web as a research resource.
+  <p>a set of digital methods and IT tools to help researchers in their use of the web as a research resource.<br>
   <a href="/instruments/dime-web.en.md">Discover Dime Web</a>
   </p>
 </section>
