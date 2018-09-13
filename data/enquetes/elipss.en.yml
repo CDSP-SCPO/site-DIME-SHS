@@ -1,13 +1,13 @@
 title: ELIPSS' Coproduced Surveys
 items:
-- title: Attitudes à l'égard des formes conjugales alternative
+- title: Attitudes towards Alternative Partnership Arrangements
   date: 2014
   authors:
   - Laurent Lesnard
   - équipe ATAPA
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2014.06.atapa/
-- title: Catégorisations et connaissances ordinaires de la société - Jeu des métiers
+- title: Lay perceptions of social groups (occupation game)
   date: 2014
   authors:
   - Etienne Penissat
@@ -15,7 +15,7 @@ items:
   - équipe CORDI
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2014.08.cordi/
-- title: Catégorisations et connaissances ordinaires de la société - Jeu des portraits
+- title: Lay perceptions of social groups (portraits game)
   date: 2014
   authors:
   - Etienne Penissat
@@ -23,24 +23,24 @@ items:
   - équipe CORDI
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2014.11.cordi/
-- title: Comportements alimentaires et traits psychologiques
+- title: Food behaviors and psychological traits
   date: 2018
   authors:
   - Antoine Nebout
   - équipe ELIPSS
-- title: Culture financière et comportements patrimoniaux en France
+- title: Financial literacy and wealth behaviours in France
   date: 2017
   authors:
   - Luc Arrondel
   - équipe ELIPSS
-- title: "Cultures et pratiques ludiques en France : le cas des jeux de société"
+- title: Game Cultures and Play Practices in France: a survey of board games
   date: 2017
   authors:
   - Vincent Berry
   - Samuel Coavoux
   - Hovig Ter Minassian
   - équipe ELIPSS
-- title: Dynamiques de mobilisation - vague 1
+- title: Electoral choices and political values (1st wave)
   date: septembre 2013
   authors:
   - Florent Gougou
@@ -48,7 +48,7 @@ items:
   - équipe Dynamob
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2013.09.dynamob/
-- title: Dynamiques de mobilisation - vague 2
+- title: Electoral choices and political values (2nd wave)
   date: décembre 2013
   authors:
   - Florent Gougou
@@ -56,7 +56,7 @@ items:
   - équipe Dynamob
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2013.12.dynamob/
-- title: Dynamiques de mobilisation - vague 3
+- title: Electoral choices and political values (3rd wave)
   date: mars 2014
   authors:
   - Florent Gougou
@@ -64,7 +64,7 @@ items:
   - équipe Dynamob
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2014.03.dynamob/
-- title: Dynamiques de mobilisation - vague 4
+- title: Electoral choices and political values (4th wave)
   date: avril 2014
   authors:
   - Florent Gougou
@@ -72,7 +72,7 @@ items:
   - équipe Dynamob
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2014.04.dynamob/
-- title: Dynamiques de mobilisation - vague 5
+- title: Electoral choices and political values (5th wave)
   date: mai 2014
   authors:
   - Florent Gougou
@@ -80,7 +80,7 @@ items:
   - équipe Dynamob
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2014.05.dynamob/
-- title: Dynamiques de mobilisation - vague 6
+- title: Electoral choices and political values (6th wave)
   date: juin 2014
   authors:
   - Florent Gougou
@@ -88,7 +88,7 @@ items:
   - équipe Dynamob
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2014.06.dynamob/
-- title: Dynamiques de mobilisation - vague 7
+- title: Electoral choices and political values (7th wave)
   date: décembre 2014
   authors:
   - Florent Gougou
@@ -96,7 +96,7 @@ items:
   - équipe Dynamob
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2014.12.dynamob/
-- title: Dynamiques de mobilisation - vague 8
+- title: Electoral choices and political values (8th wave)
   date: mars 2015
   authors:
   - Florent Gougou
@@ -104,7 +104,7 @@ items:
   - équipe Dynamob
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2015.03.dynamob/
-- title: Dynamiques de mobilisation - vague 9
+- title: Electoral choices and political values (9th wave)
   date: avril 2015
   authors:
   - Florent Gougou
@@ -112,7 +112,7 @@ items:
   - équipe Dynamob
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2015.04.dynamob/
-- title: Dynamiques de mobilisation - vague 10
+- title: Electoral choices and political values (10th wave)
   date: juin 2015
   authors:
   - Florent Gougou
@@ -120,7 +120,7 @@ items:
   - équipe Dynamob
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2015.06.dynamob/
-- title: Dynamiques de mobilisation - vague 11
+- title: Electoral choices and political values (11th wave)
   date: novembre 2015
   authors:
   - Florent Gougou
@@ -128,7 +128,7 @@ items:
   - équipe Dynamob
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2015.11.dynamob/
-- title: Dynamiques de mobilisation - vague 12
+- title: Electoral choices and political values (12th wave)
   date: décembre 2015
   authors:
   - Florent Gougou
@@ -136,7 +136,7 @@ items:
   - équipe Dynamob
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2015.12.dynamob/
-- title: Dynamiques de mobilisation - vague 13
+- title: Electoral choices and political values (13th wave)
   date: septembre 2016
   authors:
   - Florent Gougou
@@ -144,7 +144,7 @@ items:
   - équipe Dynamob
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2016.09.dynamob/
-- title: Dynamiques de mobilisation - vague 14
+- title: Electoral choices and political values (14th wave)
   date: décembre 2016
   authors:
   - Florent Gougou
@@ -152,7 +152,7 @@ items:
   - équipe Dynamob
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2016.12.dynamob/
-- title: Dynamiques de mobilisation - vague 15
+- title: Electoral choices and political values (15th wave)
   date: mars 2017
   authors:
   - Florent Gougou
@@ -160,7 +160,7 @@ items:
   - équipe Dynamob
   - équipe ELIPSS
   lien_cdsp : https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2017.03.dynamob/
-- title: Dynamiques de mobilisation - vague 16
+- title: Electoral choices and political values (16th wave)
   date: mai 2017
   authors:
   - Florent Gougou
@@ -168,46 +168,46 @@ items:
   - équipe Dynamob
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2017.05.dynamob/
-- title: Dynamiques de mobilisation - vague 17
+- title: Electoral choices and political values (17th wave)
   date: juin 2017
   authors:
   - Florent Gougou
   - Vincent Tiberj
   - équipe Dynamob
   - équipe ELIPSS
-- title: Dynamiques de mobilisation - vague 18
+- title: Electoral choices and political values (18th wave)
   date: décembre 2017
   authors:
   - Florent Gougou
   - Vincent Tiberj
   - équipe Dynamob
   - équipe ELIPSS
-- title: Enquête annuelle - vague 1
+- title: 2013 ELIPSS annual survey
   date: 2013
   authors:
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2013.04.ea/
-- title: Enquête annuelle - vague 2
+- title: 2014 ELIPSS annual survey
   date: 2014
   authors:
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2014.03.ea/
-- title: Enquête annuelle - vague 3
+- title: 2015 ELIPSS annual survey
   date: 2015
   authors:
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2015.03.ea/
-- title: Enquête annuelle - vague 4
+- title: 2016 ELIPSS annual survey
   date: 2016
   authors:
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2016.04.ea/
-- title: Enquête annuelle - vague 5
+- title: 2017 ELIPSS annual survey
   date: 2017
   authors:
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2017.03.ea/
-- title: Enquête annuelle - vague 6
+- title: 2018 ELIPSS annual survey
   date: 2018
   authors:
   - équipe ELIPSS
@@ -235,7 +235,7 @@ items:
   - Mickaël Dupré
   - Emilie Ferreira
   - équipe ELIPSS
-- title: Expérimentations concernant le design des questions dans différents pays
+- title: Cross-National Replication of Question Design Experiments
   date: 2014
   authors:
   - Henning Silber
@@ -244,7 +244,7 @@ items:
   - Annelies Blom
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2014.04.msqd/
-- title: Fécondité, contraception, dysfonctions sexuelles
+- title: Fertility, contraception, sexual dysfunctions
   date: 2013
   authors:
   - Stéphane Legleye
@@ -253,7 +253,7 @@ items:
   - équipe FECOND
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2013.07.fecond/
-- title: Goûts, morales, groupes sociaux
+- title: Taste, morals, social groups
   date: 2014
   authors:
   - Rémy Caveng
@@ -265,12 +265,12 @@ items:
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2014.10.mrct/
 - title: Hiérarchisation, délimitation et identification des échelles territoriales
   date: 2017
-- title: "Les rapports des citoyens à la justice : expériences et représentations"
+- title: Citizens’ relationship with the justice system: experiences and representations
   date: 2018
   authors:
   - Cécile Vigour
   - équipe ELIPSS
-- title: Les relations entre générations au prisme des normes de solidarité et de justice sociale
+- title: Conception of the norms related to family solidarity between generations
   date: 2014
   authors:
   - Marie-Clémence Le Pape
@@ -279,14 +279,14 @@ items:
   - Marie Duru-Bellat
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2014.02.soligene/
-- title: Livraisons des colis et mobilités des e-consommateurs
+- title: 	Parcel delivries and e-shopper mobilities
   date: 2016
   authors:
   - Anne Aguiléra
   - Leslie Belton-Chevallier
   - Nora Mareï
   - équipe ELIPSS
-- title: Mobilités et rapport à l'espace dans le cycle de vie
+- title: Mobilities and spatial experiences over the life course
   date: 2016
   authors:
   - ttore Recchi
@@ -302,62 +302,62 @@ items:
   authors:
   - Thomas Buhler
   - Philippe Signoret
-- title: Pratiques culturelles, médias et technologies de l'information - vague 1
+- title: Cultural practices, media and information technologies (1st wave)
   date: 2013
   authors:
   - Philippe Coulangeon
   - Olivier Donnat
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2013.06.pmti/
-- title: Pratiques culturelles, médias et technologies de l'information - vague 2
+- title: Cultural practices, media and information technologies (2nd wave)
   date: 2015
   authors:
   - Philippe Coulangeon
   - Olivier Donnat
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2015.07.pmti/
-- title: Pratiques de Visite des Français - musées et expositions
+- title: French visiting practices (museums and exhibitions)
   date: 2018
   authors:
   - Loup Wolff
   - équipe PVF
   - équipe ELIPSS
-- title: Pratiques et représentations face à l'État - vague 1
+- title: Attitudes and representations towards the state (1st wave)
   date: 2016
   authors:
   - Alexis Spire
   - équipe PREFACE
   - équipe ELIPSS
-- title: Pratiques et représentations face à l'État - vague 2
+- title: Attitudes and representations towards the state (2nd wave)
   date: 2017
   authors:
   - Alexis Spire
   - équipe PREFACE
   - équipe ELIPSS
-- title: Pratiques numériques - vague 1
+- title: Digital practices in 2013
   date: 2013
   authors:
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2012.12.pn/
-- title: Pratiques numériques - vague 2
+- title: Digital practices in 2014
   date: 2014
   authors:
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2014.05.pn/
-- title: Pratiques numériques - vague 3
+- title: Digital practices in 2015
   date: 2015
   authors:
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2015.05.pn/
-- title: Pratiques numériques - vague 4
+- title: Digital practices in 2016
   date: 2016
   authors:
   - équipe ELIPSS
-- title: Pratiques numériques - vague 5
+- title: Digital practices in 2017
   date: 2017
   authors:
   - équipe ELIPSS
-- title: Pratiques numériques - vague 6
+- title: Digital practices in 2018
   date: 2018
   authors:
   - équipe ELIPSS
@@ -394,7 +394,7 @@ items:
   - Catherine Clarisse
   - équipe SHAMA
   - équipe ELIPSS
-- title: Santé, travail et environnement. Enquête sur les expositions aux poussières inorganiques - vague 1
+- title: The sanitary impact of exposure to inorganic particles (1st wave)
   date: 2013
   authors:
   - Catherine Cavalin
@@ -403,7 +403,7 @@ items:
   - équipe SILICOSIS
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2013.12.elipssilice/
-- title: Santé, travail et environnement. Enquête sur les expositions aux poussières inorganiques - vague 2
+- title: The sanitary impact of exposure to inorganic particles (2nd wave)
   date: 2016
   authors:
   - Catherine Cavalin
@@ -419,25 +419,25 @@ items:
   - Anne Salles
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2013.11.familles/
-- title: "Sociologie des séries télévisées : goûts, dispositifs et modalités de la pratique"
+- title: Sociology of TV series: tastes, devices and forms of practice
   date: 2017
   authors:
   - Hervé Glevarec
   - Clément Combes
   - équipe ELIPSS
-- title: Stratégies résidentielles et choix de localisation en France
+- title: Residential strategies and location choice in France
   date: 2015
   authors:
   - Mirna Safi
   - équipe ELIPSS
-- title: Styles de vie et environnement
+- title: Lifestyles and Environment
   date: 2017
   authors:
   - Claude Grasland
   - Clarisse Didelon-Loiseau
   - équipe GLOCALMAP
   - équipe ELIPSS
-- title: Tarification sociale de l'eau
+- title: Water social tariff
   date: 2016
   authors:
   - Olivier Beaumais
