@@ -4,18 +4,37 @@
 
 .columns {
   @extend .flex;
-  justify-content: space-between;
-  list-style-position: inside;
-  padding-left: 0;
+  @extend .justify-between;
+  @extend .list-position-inside;
+  @extend .pl0;
 
   > li {
-    padding-right: 1em;
+    @extend .pr3;
   }
 }
 
-.footnotes ol {
-  margin-top: 1.5em;
-  padding-left: 0;
+.footnotes {
+  hr {
+    @extend .bt;
+    @extend .bb-0;
+    @extend .bl-0;
+    @extend .br-0;
+    @extend .b--mid-gray;
+    @extend .mv4;
+  }
+
+  &.in-sidebar-too {
+    @extend .dn-ns;
+  }
+
+  ol {
+    @extend .mt3;
+    @extend .pa0;
+
+    > li {
+      @extend .mb2;
+    }
+  }
 }
 
 .in-sidebar {
@@ -26,6 +45,15 @@
   @extend .w-30-ns;
   @extend .f6;
   @extend .mid-gray;
+
+  &[data-footnote-number]:before {
+    content: attr(data-footnote-number) ".";
+    @extend .link-color;
+    @extend .absolute;
+    @extend .left--1;
+    @extend .bb;
+    @extend .b--dark-red;
+  }
 
   &.in-sidebar--from-content {
     @extend .db;
@@ -41,12 +69,12 @@
 
   a {
     @extend .link-arrow;
-    @extend .pv1;
+    @extend .pb1;
     @extend .toggle-u-nou;
   }
 
   .footnote-return {
-    display: none;
+    @extend .dn;
   }
 }
 

@@ -67,6 +67,14 @@
       @extend .mw-100;
     }
 
+    sup.footnote-ref a {
+      @extend .no-underline;
+      @extend .mh1;
+      @extend .pb1;
+      @extend .bb;
+      @extend .b--dark-red;
+    }
+
     > p,
     > ul > li {
       @extend .w-60-ns;

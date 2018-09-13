@@ -11,7 +11,7 @@ window.addEventListener('hashchange', function (event) {
   }
 });
 
-var getSiblings = function getSiblings(elem, untilFn) {
+var getSiblingsUntil = function getSiblingsUntil(untilFn, elem) {
   var siblings = [];
   var nextSibling = elem.nextElementSibling;
 
@@ -23,10 +23,28 @@ var getSiblings = function getSiblings(elem, untilFn) {
   return siblings;
 };
 
+var getSibling = function getSibling(condition, elem) {
+  var nextSibling = elem.nextElementSibling;
+
+  while (nextSibling) {
+    if (condition(nextSibling) === true) {
+      return nextSibling;
+    }
+
+    nextSibling = nextSibling.nextElementSibling;
+  }
+
+  return null;
+};
+
+var isHeadline = function isHeadline(elem) {
+  return ['H1', 'H2', 'H3', 'H4', 'H5', 'H6'].indexOf(elem.nodeName) !== -1;
+}
+
 var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
   var defaultState = document.body.classList.contains('toggable-headlines--closed') ? 'closed' : 'opened';
   var toggleSiblings = function toggleSiblings(headline) {
-    var nextItems = getSiblings(headline, untilFn);
+    var nextItems = getSiblingsUntil(untilFn, headline);
     nextItems.forEach(function (s) {
       return s.classList.toggle('collapsed');
     });
@@ -90,21 +108,23 @@ var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
 
   // footnotes -> sidenotes
   $$('.footnotes').forEach(function (footnotes) {
-    footnotes.setAttribute('hidden', true);
-
     var notes = $$('.footnote-return');
 
-    notes.forEach(function (el) {
+    notes.forEach(function (el, i) {
       var id = el.hash.slice(1);
       var target = document.getElementById(id);
       var newNode = document.createElement('div');
       newNode.classList.add('in-sidebar');
       newNode.classList.add('in-sidebar--from-footnote');
+      newNode.dataset.footnoteNumber = i+1;
       newNode.style.top = target.offsetTop + 'px';
 
       newNode.innerHTML = el.parentElement.innerHTML;
+      // target.parentElement.insertAdjacentElement('afterend', newNode);
       target.insertAdjacentElement('afterend', newNode);
     });
+
+    footnotes.classList.add('in-sidebar-too');
   });
 
   // because we'd like to wait for images to load before calculating stuff
@@ -120,7 +140,25 @@ var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
       sidenote.style.top = previousElementSibling.offsetTop + 'px';
     });
 
-    // realign
+    // contraint all elements within the container
+    $$('.page__body .in-sidebar').reverse().forEach(function (sidenote) {
+      var nextSibling = getSibling(function(element) {
+        return isHeadline(element) || element.classList.contains('in-sidebar');
+      }, sidenote);
+      var maxOffset = nextSibling ? nextSibling.offsetTop : sidenote.parentElement.offsetHeight;
+
+      // move after if overlap
+      var yStart = sidenote.offsetTop;
+      var yHeight = yStart + sidenote.offsetHeight;
+
+      if (yHeight > maxOffset) {
+        var yCorrection = maxOffset - yHeight;
+        sidenote.style.marginTop = yCorrection+ 'px';
+        sidenote.classList.add('adjusted');
+      }
+    });
+
+    // move an element after another one
     $$('.in-sidebar').forEach(function (sidenote, i, all) {
       var previousAlike = all[i - 1];
 
@@ -133,6 +171,7 @@ var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
       var prevEnd = previousAlike.offsetTop + previousAlike.offsetHeight;
 
       if (yStart <= prevEnd) {
+        var prevStart = parseInt(sidenote.style.top, 10);
         sidenote.style.transform = 'translateY(' + (prevEnd - yStart) + 'px)';
         sidenote.classList.add('moved');
       }
