@@ -9,7 +9,7 @@ options:
 - toggable-headlines
 - toggable-headlines--closed
 ---
-{{< home-slide >}}
+{{< home-slide id="baseline" >}}
 # DIME-SHS
 Des instruments innovants pour produire et ré-utiliser des données de recherche en sciences humaines et sociales
 
@@ -25,7 +25,7 @@ Sélectionné dans le cadre des Programmes d’investissements d’Avenir dédi�
 Signal supplémentaire de l'excellence scientifique du projet et de son potentiel d'attractivité pour la communauté académique, l'Equipex DIME-SHS obtient dès juin 2010 [le label de l'Université Paris Sorbonne Cité](/docs/2010_Label USPC_DIME-SHS.pdf), sur décision de son Conseil d'orientation scientifique et pédagogique.
 
 {{< /home-slide >}}
-{{< home-slide >}}
+{{< home-slide id="instruments" >}}
 
 <section>
   <h1>ELIPSS</h1>
