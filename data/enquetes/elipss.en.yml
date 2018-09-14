@@ -211,7 +211,7 @@ items:
   date: 2018
   authors:
   - équipe ELIPSS
-- title: Enquête sur les valeurs, l'environnement et l'énergie - vague 1
+- title: Attitudes towards environment and Schwartz values (1st wave)
   date: 2013
   authors:
   - Béatrice Hammer
@@ -220,7 +220,7 @@ items:
   - équipe EVALENE
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2013.10.evalene/
-- title: Enquête sur les valeurs, l'environnement et l'énergie - vague 2
+- title: ttitudes towards environment (2nd wave)
   date: 2015
   authors:
   - Béatrice Hammer
@@ -228,7 +228,7 @@ items:
   - Monique Wach
   - équipe EVALENE
   - équipe ELIPSS
-- title: Étude des facteurs de gaspillage selon le modèle du comportement planifié
+- title: 	Study of planned behavior model's indicators of wastefulness
   date: 2016
   authors:
   - Gaëlle Boulbry
@@ -361,7 +361,7 @@ items:
   date: 2018
   authors:
   - équipe ELIPSS
-- title: Quelques questions sur l'Europe
+- title: International panel comparison study (GESIS Panel, GIP, LISS, ELIPSS)
   date: 2014
   authors:
   - GIP Panel
@@ -370,7 +370,7 @@ items:
   - équipe ELIPSS
   - Herman Schmitt
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2014.05.pe01/
-- title: Quelques questions sur l’Europe
+- title: 2015 European panels comparison study
   date: 2015
   authors:
   - Elias Naumann
@@ -379,7 +379,7 @@ items:
   - GESIS Panel
   - LISS Panel
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2015.05.pe02/
-- title: Quelques questions sur l’Europe
+- title: Quelques questions sur l’Europe / International panel comparison study 2017
   date: 2017
   authors:
   - GIP Panel
@@ -387,7 +387,7 @@ items:
   - LISS Panel
   - équipe ELIPSS
   - Herman Schmitt
-- title: Santé Habitation Alimentation Médecine Architecture
+- title: Santé Habitation Alimentation Médecine Architecture / Relations between eating behaviour and home environnement
   date: 2016
   authors:
   - François Pattou
