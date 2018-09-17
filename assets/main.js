@@ -89,10 +89,11 @@ var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
       });
     }
 
-    // footnotes -> sidenotes
-    $$('.footnotes').forEach(function (footnotes) {
-      footnotes.setAttribute('hidden', true);
+    // footnotes, sidenotes -> sidebar
+    createSidenotesWrapper($$('.page__body h1'));
 
+
+    $$('.footnotes').forEach(function (footnotes) {
       var notes = $$('.footnote-return');
 
       notes.forEach(function (el) {
@@ -104,43 +105,11 @@ var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
         newNode.style.top = target.offsetTop + 'px';
 
         newNode.innerHTML = el.parentElement.innerHTML;
-        target.insertAdjacentElement('afterend', newNode);
+        // target.insertAdjacentElement('afterend', newNode);
       });
     });
-  });
 
-  // because we'd like to wait for images to load before calculating stuff
-  window.addEventListener('load', function () {
-    // content-notes -> sidenotes
-    $$('.in-sidebar--from-content').forEach(function (sidenote) {
-      var previousElementSibling = sidenote.previousElementSibling;
-
-      if (!previousElementSibling) {
-        return;
-      }
-
-      sidenote.style.top = previousElementSibling.offsetTop + 'px';
-    });
-
-    // realign
-    $$('.in-sidebar').forEach(function (sidenote, i, all) {
-      var previousAlike = all[i - 1];
-
-      if (i === 0 || !sidenote.parentElement.contains(previousAlike)) {
-        return;
-      }
-
-      // move after if overlap
-      var yStart = sidenote.offsetTop;
-      var prevEnd = previousAlike.offsetTop + previousAlike.offsetHeight;
-
-      if (yStart <= prevEnd) {
-        sidenote.style.transform = 'translateY(' + (prevEnd - yStart) + 'px)';
-        sidenote.classList.add('moved');
-      }
-    });
-
-    // toggle state
+    // togglable headlines
     if (document.body.classList.contains('toggable-headlines')) {
       toggleHeadlines($$('.article__title'), function (el) {
         return el.classList.contains('article__title');

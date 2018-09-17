@@ -19,17 +19,8 @@
 }
 
 .in-sidebar {
-  @extend .dn;
-  @extend .db-ns;
-  @extend .absolute-ns;
-  left: 70%;
-  @extend .w-30-ns;
   @extend .f6;
   @extend .mid-gray;
-
-  &.in-sidebar--from-content {
-    @extend .db;
-  }
 
   > ul,
   > ol,
