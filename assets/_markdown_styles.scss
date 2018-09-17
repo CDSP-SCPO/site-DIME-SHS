@@ -18,6 +18,44 @@
   padding-left: 0;
 }
 
+.sidenotes-wrapper {
+  @extend .flex;
+
+  > div {
+    @extend .w-two-thirds-ns;
+  }
+
+  .sidenotes {
+    @extend .dn;
+    @extend .db-ns;
+    @extend .w-third-ns;
+
+    @extend .f6;
+    @extend .mid-gray;
+
+    .sidenote > ul,
+    .sidenote > ol {
+      @extend .list-outside;
+      @extend .pl3;
+    }
+
+    a {
+      @extend .link-arrow;
+      @extend .pv1;
+      @extend .toggle-u-nou;
+    }
+
+    .footnote-return {
+      display: none;
+    }
+  }
+}
+
+.in--sidenotes,
+.footnotes {
+  @extend .dn-ns;
+}
+
 .in-sidebar {
   @extend .f6;
   @extend .mid-gray;

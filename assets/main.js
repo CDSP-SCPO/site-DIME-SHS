@@ -65,7 +65,7 @@ var createSidenotesWrapper = function createSidenotesWrapper(target, delimiters)
 
   var wrapBefore = function wrapBefore(lastElement) {
     var wrapper = document.createElement('section');
-    wrapper.classList.add('with--sidenotes');
+    wrapper.classList.add('sidenotes-wrapper');
 
     var content = document.createElement('div');
     group.forEach(function(el) {
@@ -109,6 +109,34 @@ var createSidenotesWrapper = function createSidenotesWrapper(target, delimiters)
   target.parentNode.replaceChild(clonedTarget, target);
 };
 
+var balanceNotes = function balanceNotes (sections, getElements) {
+  sections.forEach(function(section){
+    var aside = section.querySelector('.sidenotes');
+
+    getElements(section).forEach(function(note){
+      var firstChild = note.firstChild;
+
+      // footnote
+      if (firstChild.tagName === 'A' && firstChild.hash.match(/^#fn:/)) {
+        var id = firstChild.hash.slice(1);
+        var target = document.getElementById(id);
+        var refnote = document.createElement('div');
+        refnote.dataset.refnote = id.split(':')[1];
+        refnote.dataset.note = '#fnref:' + refnote.dataset.refnote;
+        refnote.innerHTML = target.innerHTML;
+
+        aside.appendChild(refnote);
+        note.classList.add('in--sidenotes');
+      }
+      // sidenote
+      else {
+        aside.appendChild(note.cloneNode(true));
+        note.classList.add('in--sidenotes');
+      }
+    });
+  });
+};
+
 (function () {
   var $ = function $(selector) {
     return document.querySelector(selector);
@@ -148,21 +176,8 @@ var createSidenotesWrapper = function createSidenotesWrapper(target, delimiters)
     // footnotes, sidenotes -> sidebar
     createSidenotesWrapper($('.page__body'), $$('.page__body h1'));
 
-
-    $$('.footnotes').forEach(function (footnotes) {
-      var notes = $$('.footnote-return');
-
-      notes.forEach(function (el) {
-        var id = el.hash.slice(1);
-        var target = document.getElementById(id);
-        var newNode = document.createElement('div');
-        newNode.classList.add('in-sidebar');
-        newNode.classList.add('in-sidebar--from-footnote');
-        newNode.style.top = target.offsetTop + 'px';
-
-        newNode.innerHTML = el.parentElement.innerHTML;
-        // target.insertAdjacentElement('afterend', newNode);
-      });
+    balanceNotes($$('.sidenotes-wrapper'), function(section) {
+      return $$('.sidenote, .footnote-ref', section);
     });
 
     // togglable headlines
