@@ -11,6 +11,10 @@ window.addEventListener('hashchange', function (event) {
   }
 });
 
+var fromArray = function fromArray(collection) {
+  return [].slice.apply(collection);
+};
+
 var getSiblings = function getSiblings(elem, untilFn) {
   var siblings = [];
   var nextSibling = elem.nextElementSibling;
@@ -53,13 +57,65 @@ var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
   });
 };
 
+var createSidenotesWrapper = function createSidenotesWrapper(target, delimiters) {
+  var group = [];
+  var children = fromArray(target.children);
+  var childrenCount = children.length;
+  var frag = document.createDocumentFragment();
+
+  var wrapBefore = function wrapBefore(lastElement) {
+    var wrapper = document.createElement('section');
+    wrapper.classList.add('with--sidenotes');
+
+    var content = document.createElement('div');
+    group.forEach(function(el) {
+      content.appendChild(el.cloneNode(true));
+    });
+
+    var aside = document.createElement('aside');
+    aside.classList.add('sidenotes');
+
+    wrapper.appendChild(content);
+    wrapper.appendChild(aside);
+    frag.appendChild(wrapper);
+
+    if (lastElement) {
+      frag.appendChild(lastElement.cloneNode(true));
+    }
+  };
+
+  children.forEach(function(child, i){
+    // is a delimiter
+    // we wrap, append, append delimiter and clear the group
+    if (delimiters.find(el => el === child)) {
+      wrapBefore(child);
+
+      group = [];
+    }
+
+    // otherwise, we stack the element in the current group
+    else {
+      group.push(child);
+
+      if (i+1 === childrenCount) {
+        wrapBefore();
+      }
+    }
+  });
+
+  var clonedTarget = target.cloneNode(false);
+  clonedTarget.appendChild(frag);
+
+  target.parentNode.replaceChild(clonedTarget, target);
+};
+
 (function () {
   var $ = function $(selector) {
     return document.querySelector(selector);
   };
   var $$ = function $$(selector) {
     var root = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : document;
-    return [].slice.apply(root.querySelectorAll(selector));
+    return fromArray(root.querySelectorAll(selector));
   };
 
   document.addEventListener('DOMContentLoaded', function() {
@@ -90,7 +146,7 @@ var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
     }
 
     // footnotes, sidenotes -> sidebar
-    createSidenotesWrapper($$('.page__body h1'));
+    createSidenotesWrapper($('.page__body'), $$('.page__body h1'));
 
 
     $$('.footnotes').forEach(function (footnotes) {
