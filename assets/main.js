@@ -62,48 +62,50 @@ var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
     return [].slice.apply(root.querySelectorAll(selector));
   };
 
-  var toc = document.getElementById('TableOfContents');
-  new MenuSpy(toc, { enableLocationHash: false });
+  document.addEventListener('DOMContentLoaded', function() {
+    var toc = document.getElementById('TableOfContents');
+    new MenuSpy(toc, { enableLocationHash: false });
 
-  var slidesContainer = $('.slides');
-  if (slidesContainer) {
-    var nav = $('.slides__nav > ul');
-    $$('.slide', slidesContainer).forEach(function (slide, i) {
-      if (!slide.getAttribute('id')) {
-        slide.setAttribute('id', 'slide:' + (i + 1));
-      }
-      var id = slide.getAttribute('id');
-      var li = document.createElement('li');
-      li.innerHTML = '<a href="#' + id + '">' + String(i + 1) + '</a>';
-      if (i === 0) {
-        li.classList.add('active');
-      }
-      nav.appendChild(li);
-    });
-    new MenuSpy(nav, {
-      enableLocationHash: false,
-      // refElement: slidesContainer,
-      threshold: 75,
-      hashTimeout: 300
-    });
-  }
+    var slidesContainer = $('.slides');
+    if (slidesContainer) {
+      var nav = $('.slides__nav > ul');
+      $$('.slide', slidesContainer).forEach(function (slide, i) {
+        if (!slide.getAttribute('id')) {
+          slide.setAttribute('id', 'slide:' + (i + 1));
+        }
+        var id = slide.getAttribute('id');
+        var li = document.createElement('li');
+        li.innerHTML = '<a href="#' + id + '">' + String(i + 1) + '</a>';
+        if (i === 0) {
+          li.classList.add('active');
+        }
+        nav.appendChild(li);
+      });
+      new MenuSpy(nav, {
+        enableLocationHash: false,
+        // refElement: slidesContainer,
+        threshold: 75,
+        hashTimeout: 300
+      });
+    }
 
-  // footnotes -> sidenotes
-  $$('.footnotes').forEach(function (footnotes) {
-    footnotes.setAttribute('hidden', true);
+    // footnotes -> sidenotes
+    $$('.footnotes').forEach(function (footnotes) {
+      footnotes.setAttribute('hidden', true);
 
-    var notes = $$('.footnote-return');
+      var notes = $$('.footnote-return');
 
-    notes.forEach(function (el) {
-      var id = el.hash.slice(1);
-      var target = document.getElementById(id);
-      var newNode = document.createElement('div');
-      newNode.classList.add('in-sidebar');
-      newNode.classList.add('in-sidebar--from-footnote');
-      newNode.style.top = target.offsetTop + 'px';
+      notes.forEach(function (el) {
+        var id = el.hash.slice(1);
+        var target = document.getElementById(id);
+        var newNode = document.createElement('div');
+        newNode.classList.add('in-sidebar');
+        newNode.classList.add('in-sidebar--from-footnote');
+        newNode.style.top = target.offsetTop + 'px';
 
-      newNode.innerHTML = el.parentElement.innerHTML;
-      target.insertAdjacentElement('afterend', newNode);
+        newNode.innerHTML = el.parentElement.innerHTML;
+        target.insertAdjacentElement('afterend', newNode);
+      });
     });
   });
 
