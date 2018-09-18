@@ -40,7 +40,7 @@ Signal supplémentaire de l'excellence scientifique du projet et de son potentie
   <h1>beQuali</h1>
 
   <p>une banque d’enquêtes qualitatives qui permet d’explorer en ligne des matériaux bruts issus d’enquêtes de recherche et une documentation restituant le contexte de leur production.</br>
-  <a href="/instruments/bequali.fr.md">Découvrir beQuali</a>
+  [Découvrir bequali](/instruments/bequali.fr.md)
   </p>
 </section>
 
@@ -48,7 +48,7 @@ Signal supplémentaire de l'excellence scientifique du projet et de son potentie
   <h1>Dime Web</h1>
 
   <p>un ensemble de méthodes numériques et d’outils informatiques pour accompagner les chercheurs dans l’utilisation du web comme terrain d’enquête.</br>
-  <a href="/instruments/dime-web.fr.md">Découvrir Dime Web</a>
+  [Découvrir DIME-Web](instruments/dime-web.fr.md)
   </p>
 
 </section>
