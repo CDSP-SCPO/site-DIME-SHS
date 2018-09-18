@@ -11,7 +11,8 @@ Coordonné par Sciences Po, l’Equipex DIME-SHS est animé par Nicolas Sauger e
 La gouvernance de DIME-SHS est spécifiée dans l’accord de consortium pour la réalisation du projet d’équipex[^1]; elle est organisée autour de trois instances.
 
 Le **Comité de coordination** assure le suivi opérationnel transversal des activités des trois instruments. Il réunit:
-- les responsables de chaque instrument,
+
+ les responsables de chaque instrument,
 - la responsable technique et informatique de DIME-SHS,
 - la responsable administrative,
 - le responsable scientifique et technique.
@@ -19,6 +20,7 @@ Le **Comité de coordination** assure le suivi opérationnel transversal des act
 Ses membres sont invités permanents du Comité de pilotage.
 
 Le **Comité de pilotage** prend les décisions relatives à l’orientation stratégique et scientifique du projet. Il est composé de:
+
 - d’un représentant de chaque partenaire du consortium,
 - du responsable scientifique et technique (Président du Comité de pilotage),
 - des autres membres du comité de coordination.
