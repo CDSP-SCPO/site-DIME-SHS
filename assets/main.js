@@ -125,8 +125,9 @@ var balanceNotes = function balanceNotes (sections, getElements) {
         var id = firstChild.hash.slice(1);
         var target = document.getElementById(id);
         var refnote = document.createElement('div');
-        refnote.dataset.refnote = id.split(':')[1];
-        refnote.dataset.note = '#fnref:' + refnote.dataset.refnote;
+        refnote.classList.add('sidenote');
+        refnote.dataset.refnote = firstChild.innerText;
+        refnote.dataset.note = '#fnref:' + id.split(':')[1];
         refnote.innerHTML = target.innerHTML;
 
         aside.appendChild(refnote);
