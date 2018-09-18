@@ -58,6 +58,10 @@ var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
 };
 
 var createSidenotesWrapper = function createSidenotesWrapper(target, delimiters) {
+  if (!target || (target.classList && target.classList.contains('no-sidebar'))) {
+    return null;
+  }
+
   var group = [];
   var children = fromArray(target.children);
   var childrenCount = children.length;
