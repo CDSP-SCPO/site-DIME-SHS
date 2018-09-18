@@ -58,7 +58,7 @@ var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
 };
 
 var createSidenotesWrapper = function createSidenotesWrapper(target, delimiters) {
-  if (!target || (target.classList && target.classList.contains('no-sidebar'))) {
+  if (!target || target.classList && target.classList.contains('no-sidebar')) {
     return null;
   }
 
@@ -72,7 +72,7 @@ var createSidenotesWrapper = function createSidenotesWrapper(target, delimiters)
     wrapper.classList.add('sidenotes-wrapper');
 
     var content = document.createElement('div');
-    group.forEach(function(el) {
+    group.forEach(function (el) {
       content.appendChild(el.cloneNode(true));
     });
 
@@ -88,10 +88,12 @@ var createSidenotesWrapper = function createSidenotesWrapper(target, delimiters)
     }
   };
 
-  children.forEach(function(child, i){
+  children.forEach(function (child, i) {
     // is a delimiter
     // we wrap, append, append delimiter and clear the group
-    if (delimiters.find(el => el === child)) {
+    if (delimiters.find(function (el) {
+      return el === child;
+    })) {
       wrapBefore(child);
 
       group = [];
@@ -99,12 +101,12 @@ var createSidenotesWrapper = function createSidenotesWrapper(target, delimiters)
 
     // otherwise, we stack the element in the current group
     else {
-      group.push(child);
+        group.push(child);
 
-      if (i+1 === childrenCount) {
-        wrapBefore();
+        if (i + 1 === childrenCount) {
+          wrapBefore();
+        }
       }
-    }
   });
 
   var clonedTarget = target.cloneNode(false);
@@ -113,11 +115,11 @@ var createSidenotesWrapper = function createSidenotesWrapper(target, delimiters)
   target.parentNode.replaceChild(clonedTarget, target);
 };
 
-var balanceNotes = function balanceNotes (sections, getElements) {
-  sections.forEach(function(section){
+var balanceNotes = function balanceNotes(sections, getElements) {
+  sections.forEach(function (section) {
     var aside = section.querySelector('.sidenotes');
 
-    getElements(section).forEach(function(note){
+    getElements(section).forEach(function (note) {
       var firstChild = note.firstChild;
 
       // footnote
@@ -135,9 +137,9 @@ var balanceNotes = function balanceNotes (sections, getElements) {
       }
       // sidenote
       else {
-        aside.appendChild(note.cloneNode(true));
-        note.classList.add('in--sidenotes');
-      }
+          aside.appendChild(note.cloneNode(true));
+          note.classList.add('in--sidenotes');
+        }
     });
   });
 };
@@ -151,7 +153,7 @@ var balanceNotes = function balanceNotes (sections, getElements) {
     return fromArray(root.querySelectorAll(selector));
   };
 
-  document.addEventListener('DOMContentLoaded', function() {
+  document.addEventListener('DOMContentLoaded', function () {
     var toc = document.getElementById('TableOfContents');
     new MenuSpy(toc, { enableLocationHash: false });
 
@@ -181,16 +183,12 @@ var balanceNotes = function balanceNotes (sections, getElements) {
     // footnotes, sidenotes -> sidebar
     createSidenotesWrapper($('.page__body'), $$('.page__body h1'));
 
-    $$('.article__body').forEach(function(article){
+    $$('.article__body').forEach(function (article) {
       console.log(article);
       createSidenotesWrapper(article, []);
     });
-    // toggleHeadlines($$('.page__body .f2'), function (el) {
-    //   return el.classList.contains('f2');
-    // });
 
-
-    balanceNotes($$('.sidenotes-wrapper'), function(section) {
+    balanceNotes($$('.sidenotes-wrapper'), function (section) {
       return $$('.sidenote, .footnote-ref', section);
     });
 
