@@ -8,8 +8,8 @@ weight: 30
 
 # Partenaires
 Le consortium DIME-SHS est porté par Sciences Po et réunit des partenaires de la recherche et de l’enseignement supérieur dans des disciplines variées (sociologie, démographie, sciences économiques, science politique) :
-1. Grandes écoles : [Sciences Po](http://sciencespo.fr/fr), [le Groupe des Ecoles Nationales d’Economie et de Statistique (GENES)](http://www.groupe-genes.fr/) et [Télécom ParisTech](https://www.telecom-paristech.fr/)
 
+1. Grandes écoles : [Sciences Po](http://sciencespo.fr/fr), [le Groupe des Ecoles Nationales d’Economie et de Statistique (GENES)](http://www.groupe-genes.fr/) et [Télécom ParisTech](https://www.telecom-paristech.fr/)
 1. Institut de recherche : [Institut national d’études démographiques (INED)](https://www.ined.fr/)
 1. Université : [Université Paris Descartes](https://www.univ-paris5.fr/)
 1. Recherche privée : [EDF R&D](https://www.edf.fr/groupe-edf/qui-sommes-nous/activites/recherche-et-developpement)
