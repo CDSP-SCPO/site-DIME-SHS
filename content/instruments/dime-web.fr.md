@@ -13,7 +13,7 @@ L’instrument Dime Web est une équipe de un à trois ingénieurs accompagnant 
 {{< sidebar >}}
 ![](/img/instruments/logos_instruments-DimeWeb.svg)
 
-[Consulter de site de Dime Web](http://dimeweb.dime-shs.sciences-po.fr/)
+[Consulter le site de Dime Web](http://dimeweb.dime-shs.sciences-po.fr/)
 {{< /sidebar >}}
 
 # Objectifs

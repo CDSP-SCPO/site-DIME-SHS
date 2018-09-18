@@ -16,7 +16,7 @@ répondre à des enquêtes mensuelles.
 {{< sidebar >}}
 ![](/img/instruments/logos_instruments-ELIPSS.svg)
 
-[Consulter de site ELIPSS](http://quanti.dime-shs.sciences-po.fr/fr/)
+[Consulter le site ELIPSS](http://quanti.dime-shs.sciences-po.fr/fr/)
 {{< /sidebar >}}
 
 # Objectifs

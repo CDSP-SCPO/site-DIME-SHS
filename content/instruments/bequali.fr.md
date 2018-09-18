@@ -13,7 +13,7 @@ L’instrument beQuali / DIME-Quali est une banque d’enquêtes qualitatives en
 {{< sidebar >}}
 ![](/img/instruments/logos_instruments-beQuali.svg)
 
-[Consulter de site de beQuali](http://bequali.fr)
+[Consulter le site de beQuali](http://bequali.fr)
 {{< /sidebar >}}
 
 # Objectifs
