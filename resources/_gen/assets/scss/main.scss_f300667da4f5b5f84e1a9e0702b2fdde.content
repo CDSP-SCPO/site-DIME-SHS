@@ -4827,7 +4827,7 @@ header[role="banner"] .secondary-navigation > ul, .site-footer .main-navigation 
   padding-top: 0;
   padding-bottom: 0; }
 
-.pv1, .bibliography-entry .bibliography-entry__metadata a, .sidenotes-wrapper .sidenotes a {
+.pv1, .bibliography-entry .bibliography-entry__metadata a {
   padding-top: 0.25rem;
   padding-bottom: 0.25rem; }
 
