@@ -1982,7 +1982,7 @@ header[role="banner"] .secondary-navigation li {
   width: 100%; }
 
 @media screen and (min-width: 49em) {
-  .dn-ns, .in--sidenotes,
+  .dn-ns, .sidenote.in--sidenotes,
   .footnotes {
     display: none; }
   .di-ns {

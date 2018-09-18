@@ -180,6 +180,15 @@ var balanceNotes = function balanceNotes (sections, getElements) {
     // footnotes, sidenotes -> sidebar
     createSidenotesWrapper($('.page__body'), $$('.page__body h1'));
 
+    $$('.article__body').forEach(function(article){
+      console.log(article);
+      createSidenotesWrapper(article, []);
+    });
+    // toggleHeadlines($$('.page__body .f2'), function (el) {
+    //   return el.classList.contains('f2');
+    // });
+
+
     balanceNotes($$('.sidenotes-wrapper'), function(section) {
       return $$('.sidenote, .footnote-ref', section);
     });
