@@ -47,7 +47,8 @@ Signal supplémentaire de l'excellence scientifique du projet et de son potentie
 <section>
   <h1>Dime Web</h1>
 
-  <p>un ensemble de méthodes numériques et d’outils informatiques pour accompagner les chercheurs dans l’utilisation du web comme terrain d’enquête.</br>
+  <p>un ensemble de méthodes numériques et d’outils informatiques pour offrir un accompagnement aux chercheurs dans l’utilisation du web comme terrain d’enquête.</br>
+
   <a href="instruments/dime-web/">Découvrir Dime Web</a>
   </p>
 
