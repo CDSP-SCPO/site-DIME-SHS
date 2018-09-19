@@ -39,6 +39,7 @@ Dans le cadre de son processus de suivi, l’Agence Nationale de la Recherche, o
 Le rapport souligne néanmoins un risque majeur qui tient à l’arrêt de la source principale du financement fin 2019 et précise que la pérennisation de l’équipement suppose que _“the main source of sustainability remains institutional support”_. En effet, puisqu’il semble difficile d’envisager une source de financement principale autre qu’institutionnelle, l’arrêt de ces crédits pourrait être un frein à la continuité des services offerts par DIME-SHS.
 
 Le rapport s’attache également à proposer des pistes de développement et d’amélioration pour la dernière phase de l’équipement. Le rapport souligne notamment:
+
 - la nécessaire diversification des sources de financement,
 - le renforcement du rayonnement scientifique de l’infrastructure construite,
 - ou encore l’accentuation de l’ancrage international.

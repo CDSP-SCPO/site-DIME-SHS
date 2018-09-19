@@ -1,4 +1,4 @@
-title: Enquêtes documentées par BeQuali
+title: Enquêtes documentées par beQuali
 items:
 - title: Choisir son école
   date: "1999-2005"
@@ -78,6 +78,9 @@ items:
   date: "1987-1990"
   authors:
   - MUSSELIN Christine
+  - FRIEDBERG Erhard
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/cdsp_bequali_sp4/
+  lien_doi: https://doi.org/10.21410/dshs_2016/p9kv-f227
 - title: Dilapidation et prodigalité
   date: "1990-1995"
   authors:

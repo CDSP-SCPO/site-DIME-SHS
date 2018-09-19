@@ -18,7 +18,7 @@ Le consortium DIME-SHS est porté par Sciences Po et réunit des partenaires de 
 # Contributeurs
 Les ressources complémentaires à la subvention des investissement d’avenir comprennent les cofinancements de partenaires du consortium, les subventions de recherche émanant d’organismes tiers et les recettes perçues au titre de la valorisation des instruments.
 
-1. Institut de recherche : CNRS, [Institut national d’études démographiques (INED)](https://www.ined.fr/)
+1. Instituts de recherche : [Centre National de la Recherche Scientifique (CNRS)](https://www.cnrs.fr/), [Institut national d’études démographiques (INED)](https://www.ined.fr/)
 1. Universités : [EHESS](https://www.ehess.fr/), [Université de Tours (anciennement Université François Rabelais)](https://www.univ-tours.fr/), [Université Paris Diderot](https://www.univ-paris-diderot.fr/), [Université Rennes 2](https://www.univ-rennes2.fr/)
 1. Comue : [Université Sorbonne Paris Cité](http://www.sorbonne-paris-cite.fr/)
 1. Recherche privée : [AXA Research Fund](https://www.axa-research.org/fr)
