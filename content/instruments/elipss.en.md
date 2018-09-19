@@ -8,7 +8,7 @@ options:
 - toc
 ---
 
-The DIME-QUANTI instrument, through its ELIPSS (Longitudinal Online Social Science Survey) panel, is a project that produces questionnaire-based surveys for the scientific community. It is based on a random sample of the population resident in Metropolitan France, whose members have been supplied with an Internet connected touchscreen tablet on which to answer monthly surveys.
+The DIME-QUANTI instrument, through its ELIPSS (Longitudinal Online Social Science Survey) panel, is a project that produces questionnaire-based surveys for the scientific community. It is based on a random sample (3000 individual) of the population resident in Metropolitan France, whose members have been supplied with an Internet connected touchscreen tablet on which to answer monthly surveys.
 
 {{< sidebar >}}
 ![](/img/instruments/logos_instruments-ELIPSS.svg)
