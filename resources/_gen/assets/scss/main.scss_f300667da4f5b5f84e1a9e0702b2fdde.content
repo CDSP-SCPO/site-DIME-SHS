@@ -2085,7 +2085,7 @@ header[role="banner"] .secondary-navigation li {
 
 /* 1. Fix for Chrome 44 bug.
  * https://code.google.com/p/chromium/issues/detail?id=506893 */
-.flex-auto {
+.flex-auto, .sidenotes-wrapper > div {
   flex: 1 1 auto;
   min-width: 0;
   /* 1 */
@@ -2157,7 +2157,7 @@ header[role="banner"] .secondary-navigation li {
 .justify-center, .slides .slide {
   justify-content: center; }
 
-.justify-between, .site-footer .main-navigation > ul {
+.justify-between, .site-footer .main-navigation > ul, .sidenotes-wrapper > div {
   justify-content: space-between; }
 
 .justify-around {
@@ -3438,7 +3438,7 @@ body > section [role="main"] {
     width: 100%; }
   .w-third-ns, .sidenotes-wrapper .sidenotes {
     width: 33.33333333%; }
-  .w-two-thirds-ns, .sidenotes-wrapper > div {
+  .w-two-thirds-ns {
     width: 66.66666667%; }
   .w-auto-ns, .site-footer .navigation-item {
     width: auto; } }
@@ -5236,7 +5236,7 @@ body > section [role="main"] {
     margin-left: 0.5rem; }
   .ml3-ns {
     margin-left: 1rem; }
-  .ml4-ns {
+  .ml4-ns, .sidenotes-wrapper .sidenotes {
     margin-left: 2rem; }
   .ml5-ns {
     margin-left: 4rem; }

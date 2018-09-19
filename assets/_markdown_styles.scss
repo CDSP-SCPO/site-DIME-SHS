@@ -26,13 +26,15 @@
   @extend .flex;
 
   > div {
-    @extend .w-two-thirds-ns;
+    @extend .flex-auto;
+    @extend .justify-between;
   }
 
   .sidenotes {
     @extend .dn;
     @extend .db-ns;
     @extend .w-third-ns;
+    @extend .ml4-ns;
     @extend .pt3;
 
     @extend .f6;
