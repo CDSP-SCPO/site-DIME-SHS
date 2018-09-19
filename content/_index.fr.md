@@ -16,7 +16,7 @@ Des instruments innovants pour produire et réutiliser des données de recherche
 {{< /home-slide >}}
 {{< home-slide id="introduction">}}
 
-# Des outils pour les Sciences Sociales
+# Des instruments pour les Sciences Sociales
 L’Equipex DIME-SHS (Données Infrastructures et Méthodes d'Enquête en Sciences Humaines et Sociales) propose aux chercheurs des dispositifs pour produire ou réutiliser des données et corpus de recherche en sciences humaines et sociales.<br>
 Structuré autour de 3 instruments propres à différents types de ressources et de méthodes, DIME-SHS vise à collecter, enrichir et diffuser des enquêtes qualitatives ([beQuali]({{< ref "instruments/bequali.fr.md" >}})), des jeux de données quantitatives ([ELIPSS]({{< ref "instruments/elipss.fr.md" >}})) et des corpus web ([DIME-Web]({{< ref "instruments/dime-web.fr.md" >}})).
 
@@ -30,7 +30,7 @@ Signal supplémentaire de l'excellence scientifique du projet et de son potentie
 <section>
   <h1>ELIPSS</h1>
 
-  <p>un panel internet composé de 3000 personnes représentatives de la population française, invitées à répondre chaque mois à des enquêtes académiques diffusées sur tablettes mobiles</br>
+  <p>un panel Internet composé de 3000 personnes représentatives de la population française, invitées à répondre chaque mois à des enquêtes académiques diffusées sur tablettes mobiles</br>
   <a href="instruments/elipss/">Découvrir ELIPSS</a>
   </p>
 

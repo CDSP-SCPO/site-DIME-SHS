@@ -7,7 +7,7 @@ menu:
 
 # Crédits
 
-Le contenu de ce site internet est mis à disposition par :<br>
+Le contenu de ce site Internet est mis à disposition par :<br>
 Sciences Po<br>
 27 rue Saint-Guillaume<br>
 75337 Paris Cedex 07<br>
@@ -22,7 +22,7 @@ Frédéric Mion, administrateur de la Fondation nationale des sciences politique
 
 ## Hébergement
 
-Ce site internet est hébergé par la Fondation Nationale des Sciences Politiques (FNSP), Sciences Po – Direction des Systèmes d’Information.<br>
+Ce site Internet est hébergé par la Fondation Nationale des Sciences Politiques (FNSP), Sciences Po – Direction des Systèmes d’Information.<br>
 Code APE: 803Z<br>
 27, rue saint Guillaume<br>
 75337 Paris cedex 07<br>

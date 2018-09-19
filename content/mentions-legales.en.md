@@ -19,7 +19,7 @@ Contact webmaster : info ( AT ) cdsp ( DOT ) fr<br>
 Frédéric Mion, President of Sciences Po
 
 ## Hosting
-This internet site is hosted by la Fondation Nationale des Sciences Politiques (FNSP), Sciences Po – Direction des Systèmes d’Information.<br>
+This Internet site is hosted by la Fondation Nationale des Sciences Politiques (FNSP), Sciences Po – Direction des Systèmes d’Information.<br>
 Code APE: 803Z<br>
 27, rue saint Guillaume<br>
 75337 Paris cedex 07<br>
