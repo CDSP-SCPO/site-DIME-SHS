@@ -13,7 +13,7 @@ The DIME-QUANTI instrument, through its ELIPSS (Longitudinal Online Social Scien
 {{< sidebar >}}
 ![](/img/instruments/logos_instruments-ELIPSS.svg)
 
-[Browse ELIPSS website](http://quanti.dime-shs.sciences-po.fr/fr/)
+[Browse ELIPSS website](http://quanti.dime-shs.sciences-po.fr/en/)
 {{< /sidebar >}}
 
 # Objectives
