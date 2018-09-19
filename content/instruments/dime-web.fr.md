@@ -41,17 +41,6 @@ Un Comité Scientifique et Technique (CST) spécifique à Dime Web assure le sui
 
 ![Schéma de fonctionnement de Dime Web](/img/instruments/schema_dimeweb.svg)
 
-{{< badges-list >}}
-- ![](https://www.fillmurray.com/150/150)
-- [![](https://www.fillmurray.com/150/150)](#lien)
-- [![](https://www.fillmurray.com/150/150)](#lien)
-- [![](https://www.fillmurray.com/150/150)](#lien)
-- [![](https://www.fillmurray.com/150/150)](#lien)
-- [![](https://www.fillmurray.com/150/150)](#lien)
-- [![](https://www.fillmurray.com/150/150)](#lien)
-- [![](https://www.fillmurray.com/150/150)](#lien)
-{{< /badges-list >}}
-
 # Apports
 L’instrument Web a depuis 2011 débouché sur la création de plusieurs outils numériques dédiés aux sciences sociales, le soutien direct d’une vingtaine de projets par de l’accompagnement et de la formation, et le soutien indirect d’une vaste gamme d’utilisateurs des outils en France et à l’international, dans les mondes académiques et pédagogiques, mais également journalistiques et associatifs. Les travaux de l’instrument ont également contribué à la recherche théorique sur les algorithmes de visualisation et la spatialisation de réseaux.
 

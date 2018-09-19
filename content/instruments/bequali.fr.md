@@ -21,7 +21,7 @@ Destiné à doter la France d’une banque d’enquêtes qualitatives en science
 
 Dans cette lignée, beQuali vise à capitaliser sur les données qualitatives déjà existantes et souvent sous-analysées, pour permettre leurs utilisations secondaires comme la ré-analyse, les comparaisons ou l’utilisation pour l’enseignement. La sauvegarde et la mise à disposition des enquêtes qualitatives en sciences sociales revêtent également une dimension de transparence qui permet de renforcer la scientificité de la démarche qualitative.
 
-La documentation des enquêtes a posteriori et le développement d’outils d’exploration sont au coeur du projet pour favoriser la compréhension de ces matériaux d’enquêtes et améliorer notamment les conditions de formation à la recherche à partir de données réelles et éprouvées.
+La documentation des enquêtes a posteriori et le développement d’outils d’exploration sont au cœur du projet pour favoriser la compréhension de ces matériaux d’enquêtes et améliorer notamment les conditions de formation à la recherche à partir de données réelles et éprouvées.
 
 # Positionnement
 BeQuali s’inscrit dans le paysage international des banques d’enquêtes qualitatives à destination de la communauté scientifique. Même si beQuali n’est pas comparable au [UK Data archive](http://www.data-archive.ac.uk/) ou au [Henry A. Murray research archive](https://murray.harvard.edu/) d’Harvard (en termes de nombre d’enquêtes mises à disposition ou d’effectif humain), l’instrument a les mêmes ambitions de mise à disposition de données à destination des chercheurs à des fins de réexploitation et de préservation de ces matériaux.
@@ -60,8 +60,8 @@ En parallèle, beQuali poursuit ses actions afin de favoriser les usages des cor
 [^2]: [rapport Silberman, 1999](http://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/004000935.pdf)
 [^3]: [Rapport Cribier et Feller, 2003](http://www.cmtra.org/avec/lib/elfinder-2.0-rc1/files/NOS%20ACTIONS/Publications/Dossiers%20documentaires/Archives%20sonores/techniques%20de%20documentation/CRIBIER_2003_Projet%20de%20conservation%20des%20donn%C3%A9es%20qualitatives%20des%20sciences%20sociales%20recueillies%20en%20France%20aupr%C3%A8s%20de%20la%20soci%C3%A9t%C3%A9%20civile.pdf)
 
-[^7]: [Types idéologiques et classe résiduelle dans l’enquête d'Étienne Schweisguth : Les Français et la politique, 1982-1988. Réanalyse à partir de deux familles de logiciels, CAQDAS et ADT](http://www.recherche- qualitative.qc.ca/revue/les-collections/hors-serie-les-actes/)
+[^7]: [Types idéologiques et classe résiduelle dans l’enquête d'Étienne Schweisguth : Les Français et la politique, 1982-1988. Réanalyse à partir de deux familles de logiciels, CAQDAS et ADT](http://www.recherche-qualitative.qc.ca/revue/les-collections/hors-serie-les-actes/)
 
-[^8]:  [THOMAS Anja, The ‘European Integration Paradox’ Comparing EU Practice and Discourse on the Role of Parliaments in the EU in the Assemblée nationale and the Bundestag Across Time, thèse de doctorat soutenue en décembre 2016, Sciences Po - IEP de Paris, 425 pp.](http://spire.sciencespo.fr/hdl:/2441/5i1k2o8mn49maohtdrake9dsfv)
+[^8]: [THOMAS Anja, The ‘European Integration Paradox’ Comparing EU Practice and Discourse on the Role of Parliaments in the EU in the Assemblée nationale and the Bundestag Across Time, thèse de doctorat soutenue en décembre 2016, Sciences Po - IEP de Paris, 425 pp.](http://spire.sciencespo.fr/hdl:/2441/5i1k2o8mn49maohtdrake9dsfv)
 
-[^9]:  traitement d’archives sous format papier et électronique (inventaire, classement, anonymisation, etc.), contextualisation des enquêtes, sensibilisation de la communauté scientifique aux bonnes pratiques et aux possibilités de réutilisation des matériaux
+[^9]: [traitement d’archives sous format papier et électronique (inventaire, classement, anonymisation, etc.), contextualisation des enquêtes, sensibilisation de la communauté scientifique aux bonnes pratiques et aux possibilités de réutilisation des matériaux

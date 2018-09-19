@@ -25,18 +25,19 @@ The **Steering Committee** decides on the strategic and scientific orientations 
  The **Scientific Council** is a consultative body tasked with formulating proposals for project’s scientific orientations and adjustments. It is made up of individuals who sit as independent experts with an international reputation in the field of social science methods.
 
 {{< sidebar >}}
-Members of the Scientific Council:<br>
-- Dominique Joye (Président du CST), University of Lausanne, Suisse;
-- Roxane Silberman, CNRS, France;
-- Janet Heaton, University of Exeter, Grande Bretagne;
-- Peter Lynn, University of Essex, Grande Bretagne;
-- Bertrand Müller, CNRS, France;
-- Marcel Das, CentERdata, Pays-Bas;
-- Valérie Beaudouin, Telecom Paristech, France;
-- Emiliano Grossman, Sciences Po, France;
-- Zeynep Pehlivan, INA, France;
-- Arja Kuula, Finish Social Sciences Data Archive, Finlande;
-- Anders Munk, Aalborg University, Danemark;
+Members of the Scientific Council:
+
+- Dominique Joye (Président du CST), University of Lausanne, Suisse ;
+- Roxane Silberman, CNRS, France ;
+- Janet Heaton, University of Exeter, Grande Bretagne ;
+- Peter Lynn, University of Essex, Grande Bretagne ;
+- Bertrand Müller, CNRS, France ;
+- Marcel Das, CentERdata, Pays-Bas ;
+- Valérie Beaudouin, Telecom Paristech, France ;
+- Emiliano Grossman, Sciences Po, France ;
+- Zeynep Pehlivan, INA, France ;
+- Arja Kuula, Finish Social Sciences Data Archive, Finlande ;
+- Anders Munk, Aalborg University, Danemark.
 {{< /sidebar >}}
 
 Each of the instruments has its own **scientific and technical committee (STC)**. The role of these committees is to support developments and to discuss scientific and technical choices relating to the instrument. Independent structures, they are made up of experts in qualitative, quantitative or web methods, representing a wide range of social science disciplines.
@@ -71,6 +72,8 @@ Within these teams, the technical expertise of specialist engineers is employed 
 - IT infrastructure construction and maintenance.
 
 In addition to the diversity of skills needed to run the programmes, there is diversity in the status of personnel, in employers and in the staff funding channels.
-Since the start of the project at the end of 2011, almost 40 engineers funded by ANR subsidy have contributed to the implementation and management of the instruments, i.e. the equivalent of an average 12 full-time staff per year. <br>
-The massive and continuing contribution by permanent CDSP staff – employees of CNRS, FNSP or MESR – also represents an input in human resources that is essential to the success of the project, and in particular for the coordination of DIME-SHS (scientific director, instrument directors, project manager for “infrastructure and IT development”).<br>
+Since the start of the project at the end of 2011, almost 40 engineers funded by ANR subsidy have contributed to the implementation and management of the instruments, i.e. the equivalent of an average 12 full-time staff per year.
+
+The massive and continuing contribution by permanent CDSP staff – employees of CNRS, FNSP or MESR – also represents an input in human resources that is essential to the success of the project, and in particular for the coordination of DIME-SHS (scientific director, instrument directors, project manager for “infrastructure and IT development”).
+
 In addition to this, contributions further to the PIA subsidy by partners in the DIME-SHS Consortium (EHESS, INED) or other organisations interested in supporting the EquipEx (USPC, INPES, Ministry of Culture, etc.) made it possible to finance months of additional work throughout the project to keep the instruments in operation.

@@ -11,7 +11,7 @@ weight: 40
 {{< longdesc src="/img/frise-chronologique-DIME.png" alt="Frise chronologique" >}}
 1. FIRST FOUNDATIONS
   - 2011 : acceptance of the project
-  - 2012 : inauguration of the equipex
+  - 2012 : inauguration of the Equipex
   - 2012 : establishment of the first Elipss sample (1500 panellists)
 1. DEVELOPMENT
   - 2013 : first Elipss survey
@@ -26,7 +26,7 @@ weight: 40
 {{< /longdesc >}}
 
 ## Staff per speciality
-web development (3), archive (2), documentation (4), data production (5), panel management (2), equipex coordination.
+web development (3), archive (2), documentation (4), data production (5), panel management (2), Equipex coordination.
 
 ##Distribution
 120 projects deposited/92 selected

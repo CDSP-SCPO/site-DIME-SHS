@@ -15,7 +15,7 @@ Le consortium DIME-SHS est porté par Sciences Po et réunit des partenaires de 
 1. Recherche privée : [EDF R&D](https://www.edf.fr/groupe-edf/qui-sommes-nous/activites/recherche-et-developpement)
 1. Infrastructure de recherche : [TGIR PROGEDO](www.progedo.fr).
 
-# Contributeurs
+# Co-financeurs
 Les ressources complémentaires à la subvention des investissement d’avenir comprennent les cofinancements de partenaires du consortium, les subventions de recherche émanant d’organismes tiers et les recettes perçues au titre de la valorisation des instruments.
 
 1. Instituts de recherche : [Centre National de la Recherche Scientifique (CNRS)](https://www.cnrs.fr/), [Institut national d’études démographiques (INED)](https://www.ined.fr/)

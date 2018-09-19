@@ -63,7 +63,7 @@ Le colloque DIME-SHS "Des instruments pour la recherche en sciences sociales" vi
 - les étudiant.e.s souhaitant poursuivre en cursus recherche,
 - les doctorant.e.s intéressés par les méthodes d’analyse de données,
 - les porteurs de projets transverses,
-- responsables de formations à l’utilisation de données
+- responsables de formations à l’utilisation de données.
 
 
 # Informations pratiques
