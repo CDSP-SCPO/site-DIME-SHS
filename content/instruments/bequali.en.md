@@ -11,7 +11,7 @@ options:
 The beQuali/DIME-QUALI instrument is an archive of qualitative social science surveys available to the research and teaching community. The catalogue offers raw data, collected using qualitative methods (observations, interviews, focus groups, etc.), as well as additional analytical and contextual material on the research process, intended to facilitate the handling of the archive.
 
 {{< sidebar >}}
-![](/img/instruments/logos_instruments-beQuali.svg)
+![](/img/instruments/logos_instruments-beQuali2.svg)
 
 [Browse beQuali website](http://bequali.fr)
 {{< /sidebar >}}
