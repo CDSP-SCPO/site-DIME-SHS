@@ -30,7 +30,7 @@ Le **conseil scientifique** est une instance consultative chargée de formuler d
 {{< sidebar >}}
 Membres du conseil scientifique :
 
-- Dominique Joye (Président du CST), University of Lausanne, Suisse ;
+- Dominique Joye (Président), University of Lausanne, Suisse ;
 - Roxane Silberman, CNRS, France ;
 - Janet Heaton, University of Exeter, Grande Bretagne ;
 - Peter Lynn, University of Essex, Grande Bretagne ;

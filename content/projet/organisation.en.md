@@ -27,7 +27,7 @@ The **Steering Committee** decides on the strategic and scientific orientations 
 {{< sidebar >}}
 Members of the Scientific Council:
 
-- Dominique Joye (Président du CST), University of Lausanne, Suisse ;
+- Dominique Joye (President), University of Lausanne, Suisse ;
 - Roxane Silberman, CNRS, France ;
 - Janet Heaton, University of Exeter, Grande Bretagne ;
 - Peter Lynn, University of Essex, Grande Bretagne ;
