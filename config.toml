@@ -53,7 +53,7 @@ enableRobotsTXT = true
     collections = { zotero = "WB7VJJ7Q", spire = "SCIENCESPO:DIME-SHS-beQuali" }
 
   [params.publications.other]
-    name = "Autre"
+    name = "Publications transverses"
     weight = 40
 
 [blackfriday]
