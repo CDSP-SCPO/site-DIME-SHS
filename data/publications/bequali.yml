@@ -71,7 +71,7 @@
 - id: Q4X3PZ4R
   title: >-
     Des banques d'enquêtes qualitatives en sciences sociales : panorama Europe
-    États-Unis
+    Etats-Unis
   authors:
     - Guaspare, Catherine
   date: "2017"
@@ -82,6 +82,32 @@
   publication: La réanalyse des enquêtes qualitatives à l'épreuve de l'expérimentation
   volume: Hors-série "Les Actes"
   source: null
+  category: bequali
+- id: oai:spire.sciencespo.fr:2441/6g0tjj5n5n8oor8qmf6jq6he8l
+  title: Enquête sur l’enquête « Choisir son école »
+  authors:
+    - Garcia, Guillaume
+    - Van Zanten, Agnès
+  date: 2016-01
+  url: http://bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bequali_s1/
+  type: report
+  source: null
+  publication: beQuali
+  category: bequali
+- id: oai:spire.sciencespo.fr:2441/5glt27v74e8gp9tt2118b3chsk
+  title: L'enquête qualitative comme objet archivistique:Le cas du partenariat
+    Archipolis-BeQuali
+  authors:
+    - Cadorel, Sarah
+    - Gaultier-Voituriez, Odile
+    - Groshens, Emilie
+  date: 2016-03
+  url: http://spire.sciencespo.fr/hdl:/2441/5glt27v74e8gp9tt2118b3chsk
+  type: speech
+  source: Association des archivistes français, Forum des archivistes, Meta/morphose,
+    les archives bouillon de culture numérique, Troyes, FR,
+    2016-03-30/2016-04-01
+  publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/3v2s7jooug9cv9vp3rnbapc1p2
   title: >-
@@ -126,17 +152,6 @@
   source: Journée d'étude "Diffusion et mutualisation de données qualitatives à
     caractère personnel en SHS", CITERES, Tours, FR, 2017-10-11
   publication: null
-  category: bequali
-- id: oai:spire.sciencespo.fr:2441/6g0tjj5n5n8oor8qmf6jq6he8l
-  title: Enquête sur l’enquête « Choisir son école »
-  authors:
-    - Garcia, Guillaume
-    - Van Zanten, Agnès
-  date: 2016-01
-  url: http://bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bequali_s1/
-  type: report
-  source: null
-  publication: beQuali
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/2e0rq8803g8js99fv8eblti06g
   title: L'enquête ESFIA 'De l'Afrique à la France, d'une génération à l'autre' dans
@@ -520,21 +535,6 @@
     "Projets de gestion des données de la recherche : retours d'expériences" -
     Journée d’études  organisée par le secteur Recherche de l'ADBS et InVISU,
     Paris, INHA, 2 rue Vivienne, 75002 Paris, FR, 2015-01-16/2015-01-16
-  publication: null
-  category: bequali
-- id: oai:spire.sciencespo.fr:2441/5glt27v74e8gp9tt2118b3chsk
-  title: L'enquête qualitative comme objet archivistique:Le cas du partenariat
-    Archipolis-BeQuali
-  authors:
-    - Cadorel, Sarah
-    - Gaultier-Voituriez, Odile
-    - Groshens, Emilie
-  date: 2016-03
-  url: http://spire.sciencespo.fr/hdl:/2441/5glt27v74e8gp9tt2118b3chsk
-  type: speech
-  source: Association des archivistes français, Forum des archivistes, Meta/morphose,
-    les archives bouillon de culture numérique, Troyes, FR,
-    2016-03-30/2016-04-01
   publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/7n44mitjqu918a1nhp0ul6u8bg
