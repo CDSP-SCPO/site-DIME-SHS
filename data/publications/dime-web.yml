@@ -1,64 +1,70 @@
-- id: GHVGYHYH
-  title: La singularité territoriale générée par le déploiement de la marque Parc
-    naturel régional - Analyse comparative de cartographie de réseaux d’acteurs
-    via le web
-  authors:
-    - Cayla, Nathalie
-    - Peyrache-Gadeau, Véronique
-  date: 2017-07-12
-  url: https://labexitem.hypotheses.org/452
-  type: workingPaper
-  issue: null
-  pages: null
-  publication: null
-  volume: null
-  source: Working paper paru sur un carnet Hypothèses
-  category: dime-web
-- id: A7S7BE2I
+- id: XQHL9B8C
   title: >-
-    The AfD’s Facebook Wall: A new Hub for Right-Wing Mobilisation in Germany?
+    Big Data Measures of Well-Being: Evidence from a Google Well-Being Index in
+    the US
   authors:
-    - Arzheimer, Kai
+    - Algan, Yann
+    - Beasley, Elizabeth
+    - Guyot, Florian
+    - Higad, Kazuhito
+    - Murtin, Fabrice
+    - Senik, Claudia
   date: "2015"
-  url: http://www.kai-arzheimer.com/german-right-wing-Internet.pdf.pagespeed.ce.qOZT-2Lw3l.pdf
-  type: conferenceContribution
-  issue: null
-  pages: null
-  publication: null
-  volume: null
-  source: American Political Science Association Conference
+  url: https://core.ac.uk/display/80771218
+  type: article
+  issue: ""
+  pages: ""
+  publication: ""
+  volume: ""
+  source: null
   category: dime-web
-- id: W8GX9PSQ
+- id: VAF53LS3
+  title: Humanités numériques et analyse des controverses au regard des SIC. Retour
+    sur une expérience pédagogique
+  authors:
+    - Bigot, Jean-Edouard
+    - Julliard, Virginie
+    - Mabi, Clément
+  date: 2016/01/01
+  url: http://journals.openedition.org/rfsic/1783
+  type: article
+  issue: "8"
+  pages: ""
+  publication: Revue française des sciences de l’information et de la communication
+  volume: ""
+  source: null
+  category: dime-web
+- id: 5R7GVMR7
+  title: Vers l'interopérabilité des données hétérogènes liées au patrimoine
+    industriel textile
+  authors:
+    - Kergosien, Eric
+    - Jacquemin, Bernard
+    - Severo, Marta
+    - Chaudiron, Stéphane
+  date: 2015-11-18
+  url: http://hal.univ-lille3.fr/hal-01281716
+  type: conferencePaper
+  issue: null
+  pages: 145-158
+  publication: null
+  volume: ""
+  source: Europia
+  category: dime-web
+- id: YVPJ5WGK
   title: >-
     Mapping Wind Energy Controversies Online: Introduction to Methods and
     Datasets
   authors:
-    - Munk, Anders
-  date: 2014-11-01
-  url: http://www.academia.edu/11976139/Mapping_Wind_Energy_Controversies_Online_Introduction_to_Methods_and_Datasets
-  type: workingPaper
-  issue: null
-  pages: null
-  publication: null
-  volume: null
-  source: SSRN Scholarly Paper
-  category: dime-web
-- id: 3DIBYB48
-  title: >-
-    L’EMI en partage : essai de cartographie des acteurs
-  authors:
-    - Schneider, Élisabeth
-    - Serres, Alexandre
-    - Stalder, Angèle
-  date: 2015-10-09
-  url: https://archivesic.ccsd.cnrs.fr/sic_01217549/document
-  type: conferencePaper
+    - Munk, Anders Kristian
+  date: 2014/11/01
+  url: https://papers.ssrn.com/abstract=2595287
+  type: report
   issue: null
   pages: ""
   publication: null
-  volume: ""
-  source: 10e Congrès des Enseignants Documentalistes de l'Education Nationale
-    "Enseigner-apprendre l'information-documentation"
+  volume: null
+  source: Rochester, NY
   category: dime-web
 - id: WMBY5H84
   title: >-
@@ -77,22 +83,22 @@
     Journée d'étude GRCDI-ESPE de Caen et Rouen, « L’EMI en questions : enjeux,
     prescriptions, contenus, apprentissages »
   category: dime-web
-- id: VQP36VGJ
+- id: 3DIBYB48
   title: >-
-    Dépasser la liste : quand la bibliothèque entre dans la danse des corpus web
+    L’EMI en partage : essai de cartographie des acteurs
   authors:
-    - Pedroja, Cynthia
-    - L'Hôte, Anne
-    - Chapoy, Elise
-    - Levain, Elisabeth
-  date: 2016-07
-  url: https://hal.archives-ouvertes.fr/hal-01386536
+    - Schneider, Élisabeth
+    - Serres, Alexandre
+    - Stalder, Angèle
+  date: 2015-10-09
+  url: https://archivesic.ccsd.cnrs.fr/sic_01217549/document
   type: conferencePaper
   issue: null
-  pages: 646-648
+  pages: ""
   publication: null
   volume: ""
-  source: Jagiellonian University & Pedagogical University
+  source: 10e Congrès des Enseignants Documentalistes de l'Education Nationale
+    "Enseigner-apprendre l'information-documentation"
   category: dime-web
 - id: Y5IH4549
   title: >-
@@ -111,53 +117,85 @@
   volume: ""
   source: Collège international des sciences du territoire (CIST)
   category: dime-web
-- id: 5R7GVMR7
-  title: Vers l'interopérabilité des données hétérogènes liées au patrimoine
-    industriel textile
-  authors:
-    - Kergosien, Eric
-    - Jacquemin, Bernard
-    - Severo, Marta
-    - Chaudiron, Stéphane
-  date: 2015-11
-  url: http://hal.univ-lille3.fr/hal-01281716
-  type: conferencePaper
-  issue: null
-  pages: 145-158
-  publication: null
-  volume: ""
-  source: Europia
-  category: dime-web
-- id: LEMVQN5B
+- id: E34WKHBC
   title: Digital Methods for Cross-platform Analysis
   authors:
+    - Burgess, Jean
+    - Marwick, Alice
+    - Poell, Thomas
     - Rogers, Richard
-  date: 2017-07-01
-  url: https://www.researchgate.net/publication/314100273_Digital_Methods_for_Cross-platform_Analysis
+  date: "2017"
+  url: http://sk.sagepub.com/reference/the-sage-handbook-of-social-media//i851.xml
   type: bookPart
   issue: null
-  pages: 91-110
+  pages: 91-108
   publication: null
   volume: ""
   source: SAGE Publications Ltd
   category: dime-web
-- id: XIWBDYBS
-  title: L’usage de Twitter par les maires d’Île-de-France
+- id: 6AX4CGVJ
+  title: La singularité territoriale générée par le déploiement de la marque Parc
+    naturel régional - Analyse comparative de cartographie de réseaux d’acteurs
+    via le web
   authors:
-    - Douay, Nicolas
-    - Reys, Aurélien
-    - Robin, Sabrina
-  date: "2015"
-  url: http://journals.openedition.org/netcom
-  type: article
-  issue: 29-3/4
-  pages: 275-296
-  publication: NETCOM
+    - Cayla, Nathalie
+    - Peyrache-Gadeau, Véronique
+  date: 2017-07-12
+  url: https://labexitem.hypotheses.org/452
+  type: conferencePaper
+  issue: null
+  pages: ""
+  publication: null
   volume: ""
   source: null
   category: dime-web
-- id: J5AF7AJT
-  title: Nous et les autres
+- id: 4Q37XPLN
+  title: Mining with Hyphe
+  authors:
+    - Ojala, Mace
+  date: 2017-01-05
+  url: https://ethos.itu.dk/2017/01/05/mining-with-hyphe-reflections-on-publicethos-13/
+  type: datascape
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: ETHOS Lab
+  category: dime-web
+- id: UA7A9CU3
+  title: Les​ ​réseaux​ ​d'influence​ ​sur​ ​le​ ​Web dans​ ​le​ ​domaine​ ​des​
+    ​produits​ ​laitiers
+  authors:
+    - de Carvalho Pereira, Débora
+  date: 2017-10-15
+  url: https://f-origin.hypotheses.org/wp-content/blogs.dir/3105/files/2017/10/Rapport-REPASTOL-PEREIRA-2017.compressed.pdf
+  type: report
+  issue: null
+  pages: "131"
+  publication: null
+  volume: null
+  source: null
+  category: dime-web
+- id: VQP36VGJ
+  title: >-
+    Dépasser la liste : quand la bibliothèque entre dans la danse des corpus web
+  authors:
+    - Pedroja, Cynthia
+    - L'Hôte, Anne
+    - Chapoy, Elise
+    - Levain, Elisabeth
+  date: 2016-07
+  url: https://hal.archives-ouvertes.fr/hal-01386536
+  type: conferencePaper
+  issue: null
+  pages: 646-648
+  publication: null
+  volume: ""
+  source: Jagiellonian University & Pedagogical University
+  category: dime-web
+- id: IHQTEBAI
+  title: Nous et les autres. L’altérité sur les sites web des extrêmes droites en
+    France
   authors:
     - Froio, Caterina
   date: 2017-06-19
@@ -169,13 +207,13 @@
   volume: ""
   source: null
   category: dime-web
-- id: AQJBGEIB
+- id: GB8HZL45
   title: >-
     ‪#Theoriedugenre : comment débat-on du genre sur Twitter ?‪
   authors:
     - Julliard, Virginie
   date: "2016"
-  url: https://www.cairn.info/revue-questions-de-communication-2016-2-p-135.htm
+  url: https://www.cairn.info/article.php?ID_ARTICLE=QDC_030_0135
   type: article
   issue: "30"
   pages: 135-157
@@ -183,169 +221,33 @@
   volume: ""
   source: null
   category: dime-web
-- id: oai:spire.sciencespo.fr:2441/c1v77s3738liak7b26r3jt1af
-  title: Données, infrastructures et méthodes d’enquêtes en sciences humaines et
-    sociales. Bilan et perspectives scientifiques 2014:Rapport pour le conseil
-    scientifique de l'Equipex DIME-SHS (ANR-10-EQPX-19-01)
+- id: FVU8FFFB
+  title: Entre informatique et sémiotique
   authors:
-    - Cornilleau, Anne
-    - Cousteaux, Anne-Sophie
-    - Garcia, Guillaume
-    - Jacomy, Mathieu
-    - Lesnard, Laurent
-  date: 2014-05
-  url: http://spire.sciencespo.fr/hdl:/2441/c1v77s3738liak7b26r3jt1af
-  type: report
+    - Bottini, Thomas
+    - Julliard, Virginie
+  date: 2017-08-22
+  url: https://www.cairn.info/revue-reseaux-2017-4-page-35.htm
+  type: article
+  issue: "204"
+  pages: 35-69
+  publication: Réseaux
+  volume: ""
   source: null
-  publication: null
   category: dime-web
-- id: oai:spire.sciencespo.fr:2441/44hho00kqr9m78unl9ge63dsfh
-  title: EQUIPEX DIME-SHS  (2011-2016):Scientific Report - Convention
-    ANR-10-EQPX-19-01
-  authors:
-    - Cornilleau, Anne
-    - Cousteaux, Anne-Sophie
-    - Garcia, Guillaume
-    - Jacomy, Mathieu
-    - Lesnard, Laurent
-  date: 2017-04
-  url: http://spire.sciencespo.fr/hdl:/2441/44hho00kqr9m78unl9ge63dsfh
-  type: report
-  source: null
-  publication: null
-  category: dime-web
-- id: oai:spire.sciencespo.fr:2441/2qstn4hntb9899i33dp4dn3hrs
-  title: Visual Network Exploration for Data Journalists
-  authors:
-    - Venturini, Tommaso
-    - Jacomy, Mathieu
-    - Bounegru, Liliana
-    - Gray, Jonathan
-  date: 2018-08
-  url: http://spire.sciencespo.fr/hdl:/2441/2qstn4hntb9899i33dp4dn3hrs
-  type: bookPart
-  source: >-
-    The Routledge Handbook to Developments in Digital Journalism Studies,
-    Abingdon: Routledge
-  publication: Routledge
-  category: dime-web
-- id: oai:spire.sciencespo.fr:2441/58bmf6rqp96hros64meac1fts
-  title: ForceAtlas2, a continuous graph layout algorithm for handy network
-    visualization designed for the Gephi software
-  authors:
-    - Jacomy, Mathieu
-    - Venturini, Tommaso
-    - Heymann, Sébastien
-    - Bastian, Mathieu
-  date: 2014, 2006
-  url: http://spire.sciencespo.fr/hdl:/2441/58bmf6rqp96hros64meac1fts
-  type: article
-  source: PLos ONE, 9(6), 1-18 (2014)
-  publication: Public Library of Science
-  category: dime-web
-- id: oai:spire.sciencespo.fr:2441/1698ddv85d9ffo13hjld5iudlo
+- id: A7S7BE2I
   title: >-
-    Visual Network Analysis: the Example of the Rio+20 Online Debate
+    The AfD’s Facebook Wall: A new Hub for Right-Wing Mobilisation in Germany?
   authors:
-    - Venturini, Tommaso
-    - Jacomy, Mathieu
-    - Pereira, Debora
-  date: 2015
-  url: http://www.medialab.sciences-po.fr/wp-content/uploads/2015/06/VisualNetwork_Paper-10.pdf
-  type: report
-  source: null
+    - Arzheimer, Kai
+  date: 2015-09-03
+  url: https://convention2.allacademic.com/one/apsa/apsa15/index.php?cmd=Online+Program+View+Paper&selected_paper_id=997634&PHPSESSID=vnpdminlo8d0kvs0u7aprbk8e0
+  type: conferencePaper
+  issue: null
+  pages: "21"
   publication: null
-  category: dime-web
-- id: oai:spire.sciencespo.fr:2441/6urkuh5hb58h9oobtv1nlit9uo
-  title: Narrating Networks:Exploring the affordances of networks as storytelling
-    devices in journalism
-  authors:
-    - Bounegru, Liliana
-    - Venturini, Tommaso
-    - Gray, Jonathan
-    - Jacomy, Mathieu
-  date: 2016-06-20
-  url: http://spire.sciencespo.fr/hdl:/2441/6urkuh5hb58h9oobtv1nlit9uo
-  type: article
-  source: Digital Journalism (2016-06-20)
-  publication: null
-  category: dime-web
-- id: oai:spire.sciencespo.fr:2441/q9ro3ttpd9dbr4mml3st7996s
-  title: >-
-    Hors champs: la multipositionnalité par l'analyse des réseaux
-  authors:
-    - Venturini, Tommaso
-    - Jacomy, Mathieu
-    - Baneyx, Audrey
-    - Girard, Paul
-  date: 2016-05, 1983
-  url: http://spire.sciencespo.fr/hdl:/2441/q9ro3ttpd9dbr4mml3st7996s
-  type: article
-  source: Réseaux, (199) (2016-05)
-  publication: Éditions La Découverte
-  category: dime-web
-- id: oai:spire.sciencespo.fr:2441/6v5vvm7ncu9hcbjumqg47u2jq8
-  title: Detecting global bridges in networks
-  authors:
-    - Jensen, Pablo
-    - Morini, Matteo
-    - Karsai, Márton
-    - Venturini, Tommaso
-    - Vespigniani, Alessandro
-    - Jacomy, Mathieu
-    - Cointet, Jean-Philippe
-    - Mercklé, Pierre
-    - Fleury, Eric
-  date: 2015-09
-  url: http://spire.sciencespo.fr/hdl:/2441/6v5vvm7ncu9hcbjumqg47u2jq8
-  type: article
-  source: Journal of Complex Networks (2015-09)
-  publication: null
-  category: dime-web
-- id: oai:spire.sciencespo.fr:2441/7jgmr11pjd939b8r7iobgqs53u
-  title: Actor-Network VS Network Analysis VS Digital Networks Are We Talking About
-    the Same Networks?
-  authors:
-    - Venturini, Tommaso
-    - Munk, Anders Kristian
-    - Jacomy, Mathieu
-  date: 2016-01
-  url: http://spire.sciencespo.fr/hdl:/2441/7jgmr11pjd939b8r7iobgqs53u
-  type: bookPart
-  source: >-
-    DigitalSTS: A Handbook and Fieldguide: Inconnu
-  publication: Inconnu
-  category: dime-web
-- id: oai:spire.sciencespo.fr:2441/6obemb2hsj9pboj9bbvc7sftne
-  title: Hyphe, a Curation-Oriented Approach to Web Crawling for the Social Sciences
-  authors:
-    - Jacomy, Mathieu
-    - Girard, Paul
-    - Ooghe, Benjamin
-    - Venturini, Tommaso
-  date: 2016-05, 2016-05-20
-  url: http://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13051/12797
-  type: conferenceContribution
-  source: International AAAI Conference on Web and Social Media, Köln, DE,
-    2016-05-18/2016-05-20
-  publication: Association for the Advancement of Artificial Intelligence
-  category: dime-web
-- id: oai:spire.sciencespo.fr:2441/3r6kitktvv8fkp8lssnr3qmis6
-  title: >-
-    How to Tell Stories with Networks: Exploring the Narrative Affordances of
-    Graphs with the Iliad
-  authors:
-    - Venturini, Tommaso
-    - Bounegru, Liliana
-    - Jacomy, Mathieu
-    - Gray, Jonathan
-  date: 2017-02-25
-  url: http://spire.sciencespo.fr/hdl:/2441/3r6kitktvv8fkp8lssnr3qmis6
-  type: bookPart
-  source: >-
-    Datafied Society: Social Research in the Age of Big Data., (pp. 155-170):
-    Amsterdam University Press
-  publication: Amsterdam University Press
+  volume: ""
+  source: American Political Science Association Conference
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/71ng63ruee9cmo9ve3uj73v63j
   title: La mesure de l’opinion dans la “démocratie furtive”:les indicateurs de
@@ -374,16 +276,168 @@
     sciences sociales, Paris, FR, 2017-03-16/2017-03-17
   publication: null
   category: dime-web
-- id: oai:spire.sciencespo.fr:2441/7f9hrbs0hm9sqalnmbofvqp0r2
-  title: L’usage de Twitter par les maires d’Île-de-France
+- id: oai:spire.sciencespo.fr:2441/79inqmg4cf89gomdgi0f9ff77h
+  title: Double Dating Data:Textes de l'exposition
   authors:
-    - Douay, Nicolas
-    - Reys, Nicolas
-    - Robin, Sabrina, Géographie-Cités
-  date: 2015-07
-  url: https://journals.openedition.org/netcom/2089
+    - Jacomy, Mathieu
+    - Pedroja, Cynthia
+    - Ansart, Thomas
+    - Baneyx, Audrey
+    - Martin, Benoit
+    - Mitrano, Patrice
+    - Munk, Anders Kristian
+    - Ooghe, Benjamin
+    - Venturini, Tommaso
+  date: 2015-10
+  url: https://medialab.github.io/double-dating-data/
+  type: datascape
+  source: https://medialab.github.io/double-dating-data/
+  publication: null
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/6v5vvm7ncu9hcbjumqg47u2jq8
+  title: Detecting global bridges in networks
+  authors:
+    - Jensen, Pablo
+    - Morini, Matteo
+    - Karsai, Márton
+    - Venturini, Tommaso
+    - Vespigniani, Alessandro
+    - Jacomy, Mathieu
+    - Cointet, Jean-Philippe
+    - Mercklé, Pierre
+    - Fleury, Eric
+  date: 2015-09
+  url: http://spire.sciencespo.fr/hdl:/2441/6v5vvm7ncu9hcbjumqg47u2jq8
   type: article
-  source: Netcom – Réseaux, communication et territoires, 29(3/4), 275-296 (2015-07)
+  source: Journal of Complex Networks (2015-09)
+  publication: null
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/q9ro3ttpd9dbr4mml3st7996s
+  title: >-
+    Hors champs: la multipositionnalité par l'analyse des réseaux
+  authors:
+    - Venturini, Tommaso
+    - Jacomy, Mathieu
+    - Baneyx, Audrey
+    - Girard, Paul
+  date: 2016-05, 1983
+  url: http://spire.sciencespo.fr/hdl:/2441/q9ro3ttpd9dbr4mml3st7996s
+  type: article
+  source: Réseaux, (199) (2016-05)
+  publication: Éditions La Découverte
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/58bmf6rqp96hros64meac1fts
+  title: ForceAtlas2, a continuous graph layout algorithm for handy network
+    visualization designed for the Gephi software
+  authors:
+    - Jacomy, Mathieu
+    - Venturini, Tommaso
+    - Heymann, Sébastien
+    - Bastian, Mathieu
+  date: 2014, 2006
+  url: http://spire.sciencespo.fr/hdl:/2441/58bmf6rqp96hros64meac1fts
+  type: article
+  source: PLos ONE, 9(6), 1-18 (2014)
+  publication: Public Library of Science
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/1698ddv85d9ffo13hjld5iudlo
+  title: >-
+    Visual Network Analysis: the Example of the Rio+20 Online Debate
+  authors:
+    - Venturini, Tommaso
+    - Jacomy, Mathieu
+    - Pereira, Debora
+  date: 2015
+  url: http://www.medialab.sciences-po.fr/wp-content/uploads/2015/06/VisualNetwork_Paper-10.pdf
+  type: report
+  source: null
+  publication: null
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/2qstn4hntb9899i33dp4dn3hrs
+  title: Visual Network Exploration for Data Journalists
+  authors:
+    - Venturini, Tommaso
+    - Jacomy, Mathieu
+    - Bounegru, Liliana
+    - Gray, Jonathan
+  date: 2018-08
+  url: http://spire.sciencespo.fr/hdl:/2441/2qstn4hntb9899i33dp4dn3hrs
+  type: bookPart
+  source: >-
+    The Routledge Handbook to Developments in Digital Journalism Studies,
+    Abingdon: Routledge
+  publication: Routledge
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/6obemb2hsj9pboj9bbvc7sftne
+  title: Hyphe, a Curation-Oriented Approach to Web Crawling for the Social Sciences
+  authors:
+    - Jacomy, Mathieu
+    - Girard, Paul
+    - Ooghe, Benjamin
+    - Venturini, Tommaso
+  date: 2016-05, 2016-05-20
+  url: http://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13051/12797
+  type: conferenceContribution
+  source: International AAAI Conference on Web and Social Media, Köln, DE,
+    2016-05-18/2016-05-20
+  publication: Association for the Advancement of Artificial Intelligence
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/6urkuh5hb58h9oobtv1nlit9uo
+  title: Narrating Networks:Exploring the affordances of networks as storytelling
+    devices in journalism
+  authors:
+    - Bounegru, Liliana
+    - Venturini, Tommaso
+    - Gray, Jonathan
+    - Jacomy, Mathieu
+  date: 2016-06-20
+  url: http://spire.sciencespo.fr/hdl:/2441/6urkuh5hb58h9oobtv1nlit9uo
+  type: article
+  source: Digital Journalism (2016-06-20)
+  publication: null
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/7jgmr11pjd939b8r7iobgqs53u
+  title: Actor-Network VS Network Analysis VS Digital Networks Are We Talking About
+    the Same Networks?
+  authors:
+    - Venturini, Tommaso
+    - Munk, Anders Kristian
+    - Jacomy, Mathieu
+  date: 2016-01
+  url: http://spire.sciencespo.fr/hdl:/2441/7jgmr11pjd939b8r7iobgqs53u
+  type: bookPart
+  source: >-
+    DigitalSTS: A Handbook and Fieldguide: Inconnu
+  publication: Inconnu
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/3r6kitktvv8fkp8lssnr3qmis6
+  title: >-
+    How to Tell Stories with Networks: Exploring the Narrative Affordances of
+    Graphs with the Iliad
+  authors:
+    - Venturini, Tommaso
+    - Bounegru, Liliana
+    - Jacomy, Mathieu
+    - Gray, Jonathan
+  date: 2017-02-25
+  url: http://spire.sciencespo.fr/hdl:/2441/3r6kitktvv8fkp8lssnr3qmis6
+  type: bookPart
+  source: >-
+    Datafied Society: Social Research in the Age of Big Data., (pp. 155-170):
+    Amsterdam University Press
+  publication: Amsterdam University Press
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/6m937ip5p99bro7c1l1hho5voc
+  title: >-
+    The Formation of Digital Networks in Controversial Areas of Biotechnology:
+    Discussing the notion of public opinion through web-based big-data analysis
+  authors:
+    - Tournay, Virginie
+    - Jacomy, Mathieu
+  date: 2016-03
+  url: http://spire.sciencespo.fr/hdl:/2441/6m937ip5p99bro7c1l1hho5voc
+  type: speech
+  source: null
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/10ctml1egq89ro59upjajbj74n
@@ -400,54 +454,158 @@
   source: null
   publication: International Public Policy Association
   category: dime-web
-- id: oai:spire.sciencespo.fr:2441/3dciauig4s8g0rl470bucqrf33
-  title: Zoomer n’est pas explorer:Spatialiser les graphes, catégoriser et
-    (dé)construire les réseaux
-  authors:
-    - Crépel, Maxime
-    - Jacomy, Mathieu
-    - Boullier, Dominique
-  date: 2016, 1983
-  url: http://spire.sciencespo.fr/hdl:/2441/3dciauig4s8g0rl470bucqrf33
-  type: article
-  source: Réseaux, 1(195), 131-161 (2016)
-  publication: Éditions La Découverte
-  category: dime-web
 - id: oai:spire.sciencespo.fr:2441/1qqmaeajb1859a1epf11o0bohp
   title: Datascape Privacy Web Corpus
   authors:
     - Jacomy, Mathieu
     - Crépel, Maxime
+    - Ooghe, Benjamin
   date: 2017-05
   url: http://tools.medialab.sciences-po.fr/privacy/
   type: datascape
   source: http://tools.medialab.sciences-po.fr/privacy/
   publication: null
   category: dime-web
-- id: oai:spire.sciencespo.fr:2441/2ap5ocbu0b96m8ogel9f93clo0
-  title: >-
-    Datascape Privacy : méthode d'exploration visuelle d'un large corpus de
-    données web
+- id: oai:spire.sciencespo.fr:2441/12v3sdf4c28i8rhifpb9svotim
+  title: Comment utiliser le World Wide Web comme terrain d'enquête ?:DHNord 2016
   authors:
-    - Crépel, Maxime
-    - Jacomy, Mathieu
-  date: 2017-06, 2017-07
-  url: http://spire.sciencespo.fr/hdl:/2441/2ap5ocbu0b96m8ogel9f93clo0
-  type: conferencePaper
-  source: Big Data Mining and Visualization; Big Data Mining and Visualization, Lille,
-    FR, 2017-06-26/2017-06-27
-  publication: GROUPES DE TRAVAIL EGC ET AFIHM
-  category: dime-web
-- id: oai:spire.sciencespo.fr:2441/6m937ip5p99bro7c1l1hho5voc
-  title: >-
-    The Formation of Digital Networks in Controversial Areas of Biotechnology:
-    Discussing the notion of public opinion through web-based big-data analysis
-  authors:
-    - Tournay, Virginie
-    - Jacomy, Mathieu
-  date: 2016-03
-  url: http://spire.sciencespo.fr/hdl:/2441/6m937ip5p99bro7c1l1hho5voc
+    - Ooghe, Benjamin
+  date: 2016-11-23
+  url: https://dlis.hypotheses.org/831
   type: speech
+  source: null
+  publication: null
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/4q6osdlj0291krv8b6c9rlr59s
+  title: >-
+    médialab Tools : de petits outils simples et complexes au service de la
+    DataScience:ANF MATE-SHS 2016 - Collecter et produire des données pour la
+    recherche en SHS
+  authors:
+    - Ooghe, Benjamin
+  date: 2016-11-16
+  url: https://anf-mate2016.sciencesconf.org/data/MATE_SHS_2016_Ooghe_TabanouB.pdf
+  type: speech
+  source: null
+  publication: null
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/3l7f294lcc85d80bk3rrsgnav3
+  title: Comment utiliser le World Wide Web comme terrain d'enquête ?:ANF MATE-SHS
+    2016 - Collecter et produire des données pour la recherche en SHS
+  authors:
+    - Ooghe, Benjamin
+    - Girard, Paul
+  date: 2016-11-15
+  url: https://anf-mate2016.sciencesconf.org/data/MATE_SHS_2016_Ooghe_B.pdf
+  type: speech
+  source: null
+  publication: null
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/15bh4udemm8439nhc008loqhn3
+  title: >-
+    Outils &amp; méthodes pour créer, traiter et analyser des corpus web:INA
+    DLWeb - Saison 6 atelier 3 : Qu’est ce qu’un corpus web ?
+  authors:
+    - Ooghe, Benjamin
+  date: 2015-04-17
+  url: https://web90.hypotheses.org/1335
+  type: speech
+  source: null
+  publication: null
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/13spb3bujg8rlrlaj9j2t7ccvl
+  title: >-
+    Présentation du médialab et description des corpus web:INA DLWeb - Saison 5
+    atelier 5 : Web archivé et archives scientifiques
+  authors:
+    - Girard, Paul
+    - Ooghe, Benjamin
+  date: 2014-06-13
+  url: http://atelier-dlweb.fr/blog/?p=1254
+  type: speech
+  source: null
+  publication: null
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/230upj29ts8o39oavidln6jeu0
+  title: >-
+    L'archivage piloté par la recherche : l'exemple du médialab:Master II ENSSIB
+    - Archivage
+  authors:
+    - Ooghe, Benjamin
+  date: 2014-01-13
+  url: http://spire.sciencespo.fr/hdl:/2441/230upj29ts8o39oavidln6jeu0
+  type: speech
+  source: null
+  publication: null
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/4qm6nenofj8ampag9ag8ms8bu2
+  title: Plongée au cœur du Web:Sans algorithmes mathématiques, Google, Facebook ou
+    Amazon n'auraient pu émerger. Les scientifiques restent très actifs pour
+    proposer des outils plus performants et découvrir les "lois des réseaux".
+  authors:
+    - Girard, Paul
+  date: 2012-02-03, 1944
+  url: https://www.lemonde.fr/planete/article/2012/02/03/reseaux-la-quete-des-lois-du-web_1638035_3244.html
+  type: article
+  source: Le  (2012-02-03)
+  publication: null
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/1l85je5mf39d1904g1iqrfrftm
+  title: >-
+    Hyphe et Dime Web:OTMedia Workshop 2013 : Big Data for Media Analysis
+  authors:
+    - Jacomy, Mathieu
+    - Ooghe, Benjamin
+  date: 2013-12-05
+  url: http://www.otmedia.fr/wp-content/uploads/2013/10/OT-Media-International-Conference-Big-Data-for-Media-Analysis.pdf
+  type: speech
+  source: null
+  publication: null
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/50pcas4psk963o61vui7tvdprr
+  title: >-
+    hyphe : Utiliser le Web comme terrain d'enquête:Ateliers DATA SHS - MESHS
+    Lille
+  authors:
+    - Ooghe, Benjamin
+    - Crépel, Maxime
+  date: 2017-12-15
+  url: https://www.meshs.fr/page/lesjourne171004111447
+  type: speech
+  source: null
+  publication: null
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/3aa6g5tifn9tc856n9g7svklvo
+  title: Hyphe - Utiliser le Web comme terrain d'enquête:École d'été LEMEL 2018 -
+    Analyse du discours médiatique
+  authors:
+    - Ooghe, Benjamin
+  date: 2018-06-21
+  url: https://lemel.hypotheses.org/156
+  type: speech
+  source: null
+  publication: null
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/i9ukevcvl8akqk5l42i6tc237
+  title: >-
+    Voir des communautés web : retour sur les enquêtes web d’étudiants en
+    sociologie:Congrès 2017 de l'Association Française de Sociologie
+  authors:
+    - Jacomy, Mathieu
+  date: 2017-07-05
+  url: http://osc.cnrs.fr/RT20/2017/local/documents/S5_Jacomy.pdf
+  type: speech
+  source: null
+  publication: null
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/64dg5450086mrm77un6vp36r7
+  title: >-
+    Explorer les internets avec Hyphe:METSEM #06
+  authors:
+    - Jacomy, Mathieu
+  date: 2017-09-04
+  url: https://metsem.hypotheses.org/111
+  type: videorecording
   source: null
   publication: null
   category: dime-web
@@ -463,5 +621,44 @@
   url: https://fosdem.org/2018/schedule/event/multi_level_graph_index/
   type: speech
   source: null
+  publication: null
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/3dciauig4s8g0rl470bucqrf33
+  title: Zoomer n’est pas explorer:Spatialiser les graphes, catégoriser et
+    (dé)construire les réseaux
+  authors:
+    - Crépel, Maxime
+    - Jacomy, Mathieu
+    - Boullier, Dominique
+  date: 2016, 1983
+  url: http://spire.sciencespo.fr/hdl:/2441/3dciauig4s8g0rl470bucqrf33
+  type: article
+  source: Réseaux, 1(195), 131-161 (2016)
+  publication: Éditions La Découverte
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/2ap5ocbu0b96m8ogel9f93clo0
+  title: >-
+    Datascape Privacy : méthode d'exploration visuelle d'un large corpus de
+    données web
+  authors:
+    - Crépel, Maxime
+    - Jacomy, Mathieu
+  date: 2017-06, 2017-07
+  url: http://spire.sciencespo.fr/hdl:/2441/2ap5ocbu0b96m8ogel9f93clo0
+  type: conferencePaper
+  source: Big Data Mining and Visualization; Big Data Mining and Visualization, Lille,
+    FR, 2017-06-26/2017-06-27
+  publication: GROUPES DE TRAVAIL EGC ET AFIHM
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/7f9hrbs0hm9sqalnmbofvqp0r2
+  title: L’usage de Twitter par les maires d’Île-de-France
+  authors:
+    - Douay, Nicolas
+    - Reys, Nicolas
+    - Robin, Sabrina, Géographie-Cités
+  date: 2015-07
+  url: https://journals.openedition.org/netcom/2089
+  type: article
+  source: Netcom – Réseaux, communication et territoires, 29(3/4), 275-296 (2015-07)
   publication: null
   category: dime-web

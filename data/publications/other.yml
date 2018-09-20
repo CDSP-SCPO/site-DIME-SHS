@@ -15,3 +15,45 @@
   source: null
   publication: null
   category: other
+- id: oai:spire.sciencespo.fr:2441/c1v77s3738liak7b26r3jt1af
+  title: Données, infrastructures et méthodes d’enquêtes en sciences humaines et
+    sociales. Bilan et perspectives scientifiques 2014:Rapport pour le conseil
+    scientifique de l'Equipex DIME-SHS (ANR-10-EQPX-19-01)
+  authors:
+    - Cornilleau, Anne
+    - Cousteaux, Anne-Sophie
+    - Garcia, Guillaume
+    - Jacomy, Mathieu
+    - Lesnard, Laurent
+  date: 2014-05
+  url: http://spire.sciencespo.fr/hdl:/2441/c1v77s3738liak7b26r3jt1af
+  type: report
+  source: null
+  publication: null
+  category: other
+- id: oai:spire.sciencespo.fr:2441/44hho00kqr9m78unl9ge63dsfh
+  title: EQUIPEX DIME-SHS  (2011-2016):Scientific Report - Convention
+    ANR-10-EQPX-19-01
+  authors:
+    - Cornilleau, Anne
+    - Cousteaux, Anne-Sophie
+    - Garcia, Guillaume
+    - Jacomy, Mathieu
+    - Lesnard, Laurent
+  date: 2017-04
+  url: http://spire.sciencespo.fr/hdl:/2441/44hho00kqr9m78unl9ge63dsfh
+  type: report
+  source: null
+  publication: null
+  category: other
+- id: oai:spire.sciencespo.fr:2441/1pj2kuhiad81vohsgpivi5i46l
+  title: Mise en place de l’infrastructure système du projet DIME-SHS:Rapport de
+    période en entreprise
+  authors:
+    - Richard, Jérémy
+  date: 2013-03
+  url: http://spire.sciencespo.fr/hdl:/2441/1pj2kuhiad81vohsgpivi5i46l
+  type: report
+  source: null
+  publication: null
+  category: other
