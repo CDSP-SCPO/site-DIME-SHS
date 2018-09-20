@@ -1,5 +1,5 @@
 ---
-title:  Changement de Direction
+title:  Changement de Responsable Scientifique
 date:   2017-09-01T00:00:00
 ---
 
