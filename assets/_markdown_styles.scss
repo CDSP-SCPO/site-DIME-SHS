@@ -2,6 +2,10 @@
 @import 'components/lists';
 @import 'components/links';
 
+.footnote-ref {
+  @extend .ph1;
+}
+
 .columns {
   @extend .flex;
   justify-content: space-between;
@@ -18,36 +22,62 @@
   padding-left: 0;
 }
 
-.in-sidebar {
-  @extend .dn;
-  @extend .db-ns;
-  @extend .absolute-ns;
-  left: 70%;
-  @extend .w-30-ns;
-  @extend .f6;
-  @extend .mid-gray;
+.sidenotes-wrapper {
+  @extend .flex;
 
-  &.in-sidebar--from-content {
-    @extend .db;
+  > div {
+    @extend .flex-auto;
+    @extend .justify-between;
   }
 
-  > ul,
-  > ol,
-  .article__body & > ul,
-  .article__body & > ol {
-    @extend .list-outside;
-    @extend .pl3;
-  }
+  .sidenotes {
+    @extend .dn;
+    @extend .db-ns;
+    @extend .w-third-ns;
+    @extend .ml4-ns;
+    @extend .pt3;
 
-  a {
-    @extend .link-arrow;
-    @extend .pv1;
-    @extend .toggle-u-nou;
-  }
+    @extend .f6;
+    @extend .mid-gray;
 
-  .footnote-return {
-    display: none;
+    .sidenote {
+      @extend .lh-title;
+      @extend .mb3;
+      @extend .relative;
+
+      &[data-refnote]:before {
+        @extend sup;
+        content: attr(data-refnote);
+        @extend .absolute;
+        @extend .lh-title;
+        @extend .left--1;
+        @extend .top-0;
+
+        @extend .dark-red;
+        @extend .underline;
+      }
+    }
+
+    .sidenote > ul,
+    .sidenote > ol {
+      @extend .list-outside;
+      @extend .pl3;
+    }
+
+    a {
+      @extend .link-arrow;
+      @extend .toggle-u-nou;
+    }
+
+    .footnote-return {
+      display: none;
+    }
   }
+}
+
+.sidenote.in--sidenotes,
+.footnotes {
+  @extend .dn-ns;
 }
 
 [aria-describedby] + div {
