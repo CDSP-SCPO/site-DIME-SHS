@@ -3,9 +3,9 @@
 // scroll if anchor is targeted in a sticky context
 
 window.addEventListener('hashchange', function (event) {
-  var header = $('.site-header');
+  var header = document.querySelector('.site-header');
 
-  // element is sticky if it's at the top but far from the document top
+  // element is sticky if it's at the top but far from the document top`
   if (header.offsetTop && header.clientTop === 0) {
     window.scrollBy(0, header.offsetHeight * -1);
   }
