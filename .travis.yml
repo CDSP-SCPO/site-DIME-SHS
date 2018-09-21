@@ -4,12 +4,12 @@ language: cpp
 env:
 - TARGET_BRANCH=gh-pages
   HUGO_FLAVOUR=hugo
-  HUGO_VERSION="0.45"
+  HUGO_VERSION="0.48"
   BASE_URL=https://dime-shs.sciencespo.fr/
   MATOMO_SITE_ID=10
 - TARGET_BRANCH=prod
   HUGO_FLAVOUR=hugo
-  HUGO_VERSION="0.45"
+  HUGO_VERSION="0.48"
   BASE_URL=https://www.sciencespo.fr/dime-shs/
   MATOMO_SITE_ID=-1
 

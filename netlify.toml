@@ -3,7 +3,7 @@
   publish = "public"
 
   [build.environment]
-  HUGO_VERSION = "0.45"
+  HUGO_VERSION = "0.48"
 
   [context.deploy-preview]
   command = "hugo --i18n-warnings --baseURL $DEPLOY_PRIME_URL"
