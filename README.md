@@ -1,4 +1,4 @@
-# DIME-SHS
+# DIME-SHS [![Build Status](https://travis-ci.com/CDSP-SCPO/site-DIME-SHS.svg?branch=master)](https://travis-ci.com/CDSP-SCPO/site-DIME-SHS)
 
 
 ## ✍️ Contribuer des contenus
@@ -128,21 +128,18 @@ Configuration du fichier [`config.toml`](config.toml) :
 ### Travis CI
 
 - Quand des commits arrivent sur `master`, le site est…
-  1. … généré avec l'URL `https://cdsp-scpo.github.io/site-DIME-SHS/`
-  1. … Piwik est configué avec
-  1. … déployé sur GitHub Pages (branche `gh-pages`)
-- Quand des commits arrivent sur `prod`, le site est…
-  1. … généré avec l'URL `https://www.sciencespo.fr/dime-shs/`.
-  1. … Piwik **n'est pas configuré**
+  1. … généré avec l'URL `https://dime-shs.sciencespo.fr`.
+  1. … est configué avec un `siteId` Piwik égal à 10.
+  1. … déployé sur GitHub Pages (branche `gh-pages`).
 
 ### Netlify
 
 - Quand des commits arrivent sur `master`, le site est…
   1. … déployé sur https://wizardly-hoover-3f212f.netlify.com
   1. … le _build_ apparaît sur https://app.netlify.com/sites/wizardly-hoover-3f212f/deploys
-- Quand des commits arrivent sur une _branche_, le site est…
-  1. … une URL de prévisualisation est communiquée dans la pull request associée
-  1. … le _build_ apparaît sur https://app.netlify.com/sites/wizardly-hoover-3f212f/deploys
+- Quand des commits arrivent sur une _branche_ autre que `master`, le site est…
+  1. … accessible via une URL de prévisualisation (voir le cartouche `successful checks` / `deploy/netlify ` sur la _pull request_ GitHub).
+  1. … le _build_ apparaît sur https://app.netlify.com/sites/wizardly-hoover-3f212f/deploys.
 
 La configuration principale se fait depuis le [tableau de bord Netlify][].
 D'autres comportements sont paramétrés dans le fichier [`netflify.toml`](netlify.toml).
