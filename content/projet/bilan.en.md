@@ -50,6 +50,6 @@ The report also proposes avenues for development and improvement in the final ph
 -	The need to strengthen the project’s international presence.
 The two main weaknesses identified by the evaluation jury, however, are the inadequate size of the team relative to its objectives, and the lack of sufficient synergies between the different components of the project.
 
-These recommendations by the international jury resulted in a reassessment of the objectives and priorities of the EquipEx for the final phase of its activities (2018-2019), with the formulation of a [two-year action plan](/docs/CDSP2018-EquipEx-PlanAction-final.pdf)(french only) for this period. It specifies the operational targets (number of surveys, development of applications,…) but also the operations required to enhance the grounding of the DIME-SHS project in the national and European research landscape.
+These recommendations by the international jury resulted in a reassessment of the objectives and priorities of the EquipEx for the final phase of its activities (2018-2019), with the formulation of a two-year action plan[^1] for this period. It specifies the operational targets (number of surveys, development of applications,…) but also the operations required to enhance the grounding of the DIME-SHS project in the national and European research landscape.
 
-[^1]: [Equipex evaluation programme 2017 (french only) ](http://www.agence-nationale-recherche.fr/fileadmin/documents/2017/ANR-IA-Rapport-EQUIPEX-2016.pdf)
+[^1]: [DIME-SHS two-year action plan (french only)](/docs/CDSP2018-EquipEx-PlanAction-final.pdf)
