@@ -44,6 +44,7 @@ The report nevertheless stresses a major risk, the termination of the main sourc
 
 
 The report also proposes avenues for development and improvement in the final phase of the project. In particular, it emphasises:
+
 -	The need to diversify funding sources,
 -	The need to reinforce the scientific impact of the infrastructure,
 -	The need to strengthen the project’s international presence.
