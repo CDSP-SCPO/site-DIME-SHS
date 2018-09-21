@@ -1,7 +1,7 @@
 # DIME-SHS
 
 
-## Contribuer des contenus
+## ✍️ Contribuer des contenus
 
 Les contenus existent en deux langues : français (par défaut), anglais.
 Tous les fichiers qui finissent par `.fr.xxx` ou `.en.xxx` sont spécifiques à cette langue.
@@ -40,7 +40,7 @@ Les éléments d'interface sont traduits à deux endroits :
 - tout le reste : répertoire [`./i18n`](i18n).
 
 
-## Développer en local
+## 🛠 Développer en local
 
 - **Générateur** : `Hugo@>=0.48` dans sa version dite _Extended_ (elle prend en charge le [langage Sass][])
 - **CSS** : [Tachyons][] (approche _mobile-first_ et fonctionnelle)
@@ -95,7 +95,7 @@ Voir aussi [site-DIME-SHS#48](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/48
 
 > **tl;dr** Hugo Extended nécessite une version récente de GLIBC tandis que Netlify embarque une version liée à Ubuntu 14.04.
 
-## Scripts
+## 📦 Scripts
 
 ### Importer les publications depuis Spire et Zotero
 
@@ -123,7 +123,7 @@ Configuration du fichier [`config.toml`](config.toml) :
 - _Mapping_ des types de publications (`params.publicationsMapping`), sous la forme `"ancienne catégorie" = "nouvelle catégorie"`.
 - Catégories (`params.publications.*`) : libellé, ordre et identifiants des sous-collections Zotero et Spire.
 
-## Automatisation
+## 🤖 Automatisation
 
 ### Travis CI
 
@@ -146,6 +146,10 @@ Configuration du fichier [`config.toml`](config.toml) :
 
 La configuration principale se fait depuis le [tableau de bord Netlify][].
 D'autres comportements sont paramétrés dans le fichier [`netflify.toml`](netlify.toml).
+
+## 📖 [JOURNAL.md](JOURNAL.md)
+
+Ce qu'on a vécu ensemble, au jour le jour.
 
 [Hugo]: https://gohugo.io
 [Node.js]: https://nodejs.org
