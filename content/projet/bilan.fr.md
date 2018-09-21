@@ -7,8 +7,6 @@ weight: 40
 ---
 
 # Repères
-
-<img src="/img/reperes/shema_reperes.svg" width="100%">
 {{< longdesc src="/img/reperes/shema_reperes.svg" alt="Frise chronologique" >}}
 1. PREMIÈRES BRIQUES
   - 2011 : acceptation du projet
@@ -26,7 +24,8 @@ weight: 40
   - 2018 : kits d'enseignement beQuali
 {{< /longdesc >}}
 
-![Repartition des personnels par compétences](/img/reperes/competences.svg)
+# Famille de métier
+![Repartition des personnels par compétences](/img/reperes/shema_bilan.svg)
 
 # Évaluation de l’équipement
 
