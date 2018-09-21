@@ -8,7 +8,7 @@ weight: 40
 
 # Repères
 
-![Zozor](/img/reperes/shema_reperes.svg)
+<img src="/img/reperes/shema_reperes.svg" width="100%">
 {{< longdesc src="/img/reperes/shema_reperes.svg" alt="Frise chronologique" >}}
 1. PREMIÈRES BRIQUES
   - 2011 : acceptation du projet
