@@ -53,4 +53,4 @@ Ces recommandations du jury international ont permis une réévaluation des obje
 {{< /sidebar >}}
 
 # Famille de métier
-![Repartition des personnels par compétences](/img/reperes/shema_bilan.svg)
+![Repartition des personnels par compétences](/img/reperes/schema_bilan.svg)
