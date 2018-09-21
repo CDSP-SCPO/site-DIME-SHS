@@ -3,6 +3,42 @@
 
 ## Contribuer des contenus
 
+Les contenus existent en deux langues : français (par défaut), anglais.
+Tous les fichiers qui finissent par `.fr.xxx` ou `.en.xxx` sont spécifiques à cette langue.
+
+- **Articles** : [`content/posts`](content/posts)
+- **Enquêtes** : [`data/enquetes`](data/enquetes)
+- **Instruments** : [`content/instruments`](content/instruments)
+- **Mentions légales** : [`content/mentions-legales.*.md`](content)
+- **Outils** : [`content/productions/outils`](content/productions/outils)
+- **Productions** : [`content/productions`](content/productions)
+- **Publications** : Spire et Zotero (voir la section « [Scripts](#scripts) »)
+
+### Options d'affichage
+
+Le champ `options` d'un fichier Markdown contrôle des comportements d'affichage des contenus.
+
+```markdown
+---
+title: Quelque chose
+options:
+- toggable-headlines
+---
+```
+
+| Option                        | À quoi ça sert ?
+| ---                           | ---
+| `toggable-headlines`          | Les titres ouvrent ou replient leur section correspondante.
+| `toggable-headlines--closed`  | Les sections cliquables sont fermées par défaut.
+| `toc`                         | Une table des matières est construite à partir des titres de la page, et est affichée dans la colonne de gauche.
+
+### Traduction de l'interface
+
+Les éléments d'interface sont traduits à deux endroits :
+
+- footer : clés `[languages.*.menu.footer]` dans le fichier [`config.toml`](config.toml).
+- tout le reste : répertoire [`./i18n`](i18n).
+
 
 ## Développer en local
 
