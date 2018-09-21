@@ -3,13 +3,17 @@
 // scroll if anchor is targeted in a sticky context
 
 window.addEventListener('hashchange', function (event) {
-  var header = $('.site-header');
+  var header = document.querySelector('.site-header');
 
-  // element is sticky if it's at the top but far from the document top
+  // element is sticky if it's at the top but far from the document top`
   if (header.offsetTop && header.clientTop === 0) {
     window.scrollBy(0, header.offsetHeight * -1);
   }
 });
+
+var fromArray = function fromArray(collection) {
+  return [].slice.apply(collection);
+};
 
 var getSiblings = function getSiblings(elem, untilFn) {
   var siblings = [];
@@ -53,16 +57,103 @@ var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
   });
 };
 
+var createSidenotesWrapper = function createSidenotesWrapper(target, delimiters) {
+  if (!target || target.classList && target.classList.contains('no-sidebar')) {
+    return null;
+  }
+
+  var group = [];
+  var children = fromArray(target.children);
+  var childrenCount = children.length;
+  var frag = document.createDocumentFragment();
+
+  var wrapBefore = function wrapBefore(lastElement) {
+    var wrapper = document.createElement('section');
+    wrapper.classList.add('sidenotes-wrapper');
+
+    var content = document.createElement('div');
+    group.forEach(function (el) {
+      content.appendChild(el.cloneNode(true));
+    });
+
+    var aside = document.createElement('aside');
+    aside.classList.add('sidenotes');
+
+    wrapper.appendChild(content);
+    wrapper.appendChild(aside);
+    frag.appendChild(wrapper);
+
+    if (lastElement) {
+      frag.appendChild(lastElement.cloneNode(true));
+    }
+  };
+
+  children.forEach(function (child, i) {
+    // is a delimiter
+    // we wrap, append, append delimiter and clear the group
+    if (delimiters.find(function (el) {
+      return el === child;
+    })) {
+      wrapBefore(child);
+
+      group = [];
+    }
+
+    // otherwise, we stack the element in the current group
+    else {
+        group.push(child);
+
+        if (i + 1 === childrenCount) {
+          wrapBefore();
+        }
+      }
+  });
+
+  var clonedTarget = target.cloneNode(false);
+  clonedTarget.appendChild(frag);
+
+  target.parentNode.replaceChild(clonedTarget, target);
+};
+
+var balanceNotes = function balanceNotes(sections, getElements) {
+  sections.forEach(function (section) {
+    var aside = section.querySelector('.sidenotes');
+
+    getElements(section).forEach(function (note) {
+      var firstChild = note.firstChild;
+
+      // footnote
+      if (firstChild.tagName === 'A' && firstChild.hash.match(/^#fn:/)) {
+        var id = firstChild.hash.slice(1);
+        var target = document.getElementById(id);
+        var refnote = document.createElement('div');
+        refnote.classList.add('sidenote');
+        refnote.dataset.refnote = firstChild.innerText;
+        refnote.dataset.note = '#fnref:' + id.split(':')[1];
+        refnote.innerHTML = target.innerHTML;
+
+        aside.appendChild(refnote);
+        note.classList.add('in--sidenotes');
+      }
+      // sidenote
+      else {
+          aside.appendChild(note.cloneNode(true));
+          note.classList.add('in--sidenotes');
+        }
+    });
+  });
+};
+
 (function () {
   var $ = function $(selector) {
     return document.querySelector(selector);
   };
   var $$ = function $$(selector) {
     var root = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : document;
-    return [].slice.apply(root.querySelectorAll(selector));
+    return fromArray(root.querySelectorAll(selector));
   };
 
-  document.addEventListener('DOMContentLoaded', function() {
+  document.addEventListener('DOMContentLoaded', function () {
     var toc = document.getElementById('TableOfContents');
     new MenuSpy(toc, { enableLocationHash: false });
 
@@ -89,58 +180,19 @@ var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
       });
     }
 
-    // footnotes -> sidenotes
-    $$('.footnotes').forEach(function (footnotes) {
-      footnotes.setAttribute('hidden', true);
+    // footnotes, sidenotes -> sidebar
+    createSidenotesWrapper($('.page__body'), $$('.page__body h1'));
 
-      var notes = $$('.footnote-return');
-
-      notes.forEach(function (el) {
-        var id = el.hash.slice(1);
-        var target = document.getElementById(id);
-        var newNode = document.createElement('div');
-        newNode.classList.add('in-sidebar');
-        newNode.classList.add('in-sidebar--from-footnote');
-        newNode.style.top = target.offsetTop + 'px';
-
-        newNode.innerHTML = el.parentElement.innerHTML;
-        target.insertAdjacentElement('afterend', newNode);
-      });
-    });
-  });
-
-  // because we'd like to wait for images to load before calculating stuff
-  window.addEventListener('load', function () {
-    // content-notes -> sidenotes
-    $$('.in-sidebar--from-content').forEach(function (sidenote) {
-      var previousElementSibling = sidenote.previousElementSibling;
-
-      if (!previousElementSibling) {
-        return;
-      }
-
-      sidenote.style.top = previousElementSibling.offsetTop + 'px';
+    $$('.article__body').forEach(function (article) {
+      console.log(article);
+      createSidenotesWrapper(article, []);
     });
 
-    // realign
-    $$('.in-sidebar').forEach(function (sidenote, i, all) {
-      var previousAlike = all[i - 1];
-
-      if (i === 0 || !sidenote.parentElement.contains(previousAlike)) {
-        return;
-      }
-
-      // move after if overlap
-      var yStart = sidenote.offsetTop;
-      var prevEnd = previousAlike.offsetTop + previousAlike.offsetHeight;
-
-      if (yStart <= prevEnd) {
-        sidenote.style.transform = 'translateY(' + (prevEnd - yStart) + 'px)';
-        sidenote.classList.add('moved');
-      }
+    balanceNotes($$('.sidenotes-wrapper'), function (section) {
+      return $$('.sidenote, .footnote-ref', section);
     });
 
-    // toggle state
+    // togglable headlines
     if (document.body.classList.contains('toggable-headlines')) {
       toggleHeadlines($$('.article__title'), function (el) {
         return el.classList.contains('article__title');
