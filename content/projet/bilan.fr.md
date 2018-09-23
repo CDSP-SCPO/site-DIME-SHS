@@ -49,8 +49,11 @@ Ces recommandations du jury international ont permis une réévaluation des obje
 {{< /longdesc >}}
 
 {{< sidebar >}}
-<a href="/img/reperes/shema_reperes.svg" target="_blank">Télécharger la frise de repères</a>
+<a href="/img/reperes/shema_reperes.svg" target="_blank">Voir la frise de repères</a>
 {{< /sidebar >}}
 
 # Famille de métier
-![Repartition des personnels par compétences](/img/reperes/schema_bilan.svg)
+![Repartition des personnels par compétences](/img/reperes/schemas_bilan.svg)
+{{< sidebar >}}
+<a href="/img/reperes/schemas_bilan.svg" target="_blank">Voir la répartition des personnels</a>
+{{< /sidebar >}}
