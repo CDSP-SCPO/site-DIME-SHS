@@ -49,7 +49,7 @@ Ces recommandations du jury international ont permis une réévaluation des obje
 {{< /longdesc >}}
 
 {{< sidebar >}}
-<a href="/img/reperes/shema_reperes.svg">Télécharger la frise de repères</a>
+<a href="/img/reperes/shema_reperes.svg" target="_blank">Télécharger la frise de repères</a>
 {{< /sidebar >}}
 
 # Famille de métier
