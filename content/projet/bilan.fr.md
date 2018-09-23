@@ -8,9 +8,9 @@ weight: 40
 # Évaluation de l’équipement
 
 {{< sidebar >}}
-[Bilan et perspectives scientifiques 2011-2014](/docs/DIME-SHS-BilanPerspectives2014.pdf)<br>
-[Bilan et perspectives scientifiques 2014-2017 (version anglaise)](/docs/AssesmentOutlookDIME2014-2017.pdf)<br>
-[Rapport d'étape ANR 2011-2016 (version anglaise)](/docs/DIME-SHS-ScientificReport2016.pdf)
+<a href="/docs/DIME-SHS-BilanPerspectives2014.pdf" target="_blank">Bilan et perspectives scientifiques 2011-2014</a><br>
+<a href="/docs/AssesmentOutlookDIME2014-2017.pdf" target="_blank">Bilan et perspectives scientifiques 2014-2017 (version anglaise)</a><br>
+<a href="/docs/DIME-SHS-ScientificReport2016.pdf" target="_blank">Rapport d'étape ANR 2011-2016 (version anglaise)</a><br>
 {{< /sidebar >}}
 
 Dans le cadre de son processus de suivi, l’Agence Nationale de la Recherche, opérateur de l’équipement, a fait réaliser en 2017 - après 6 années de fonctionnement - une analyse détaillée des pratiques et résultats du projet en s’appuyant sur un jury international indépendant.<br>
