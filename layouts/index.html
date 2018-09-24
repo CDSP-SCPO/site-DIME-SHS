@@ -5,7 +5,7 @@
 
   {{ .Page.Content }}
 
-  <section class="slide slide--auto-height" data-section="{{ .Page.Kind }}">
+  <section class="slide slide--auto-height" data-section="{{ .Page.Kind }}" data-slides-nav-state="alternate">
     <aside class="table-of-contents" role="aside">
       {{ block "toc" . }}{{ end }}
     </aside>
