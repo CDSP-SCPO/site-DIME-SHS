@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Calque_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 569 202.7" style="enable-background:new 0 0 569 202.7;" xml:space="preserve">
+	 viewBox="0 0 390 114" style="enable-background:new 0 0 390 114;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
 	.st1{fill:#666666;}
@@ -13,23 +13,23 @@
 	.st7{font-family:'MuseoSans-100';}
 	.st8{font-size:30.3999px;}
 </style>
-<rect x="7.2" y="105" class="st0" width="125.7" height="29.1"/>
-<text transform="matrix(1 0 0 1 7.1957 113.6367)" class="st1 st2 st3">Projets  </text>
-<text transform="matrix(1 0 0 1 7.1957 128.0367)" class="st1 st2 st3">selectionnés</text>
-<rect x="269.6" y="105" class="st0" width="125.7" height="29.1"/>
-<text transform="matrix(1 0 0 1 269.6318 113.6367)" class="st1 st2 st3">Projets </text>
-<text transform="matrix(1 0 0 1 269.6318 128.0367)" class="st1 st2 st3">déposés</text>
+<rect x="16.2" y="69" class="st0" width="125.7" height="29.1"/>
+<text transform="matrix(1 0 0 1 16.1957 77.6354)" class="st1 st2 st3">Projets  </text>
+<text transform="matrix(1 0 0 1 16.1957 92.0354)" class="st1 st2 st3">selectionnés</text>
+<rect x="278.6" y="69" class="st0" width="125.7" height="29.1"/>
+<text transform="matrix(1 0 0 1 278.6318 77.6354)" class="st1 st2 st3">Projets </text>
+<text transform="matrix(1 0 0 1 278.6318 92.0354)" class="st1 st2 st3">déposés</text>
 <g>
 	<g>
-		<path class="st4" d="M169.1,48.6c-44.5,0-80.6,35.9-81,80.3H250C249.7,84.5,213.6,48.6,169.1,48.6z"/>
+		<path class="st4" d="M178.1,12.6c-44.5,0-80.6,35.9-81,80.3H259C258.7,48.5,222.6,12.6,178.1,12.6z"/>
 	</g>
 	<g>
-		<line class="st5" x1="233.7" y1="62.2" x2="167.7" y2="128.2"/>
+		<line class="st5" x1="242.7" y1="26.2" x2="176.7" y2="92.2"/>
 	</g>
-	<circle class="st4" cx="169.1" cy="128.9" r="11.3"/>
+	<circle class="st4" cx="178.1" cy="92.9" r="11.3"/>
 </g>
-<rect x="8.2" y="96.1" class="st0" width="64.8" height="33.1"/>
-<text transform="matrix(1 0 0 1 5.2078 94.7669)" class="st6 st7 st8">92</text>
-<rect x="265.2" y="96.1" class="st0" width="83.7" height="34.8"/>
-<text transform="matrix(1 0 0 1 268.6318 94.7669)" class="st6 st7 st8">120</text>
+<rect x="17.2" y="60.1" class="st0" width="64.8" height="33.1"/>
+<text transform="matrix(1 0 0 1 14.2078 58.7656)" class="st6 st7 st8">92</text>
+<rect x="274.2" y="60.1" class="st0" width="83.7" height="34.8"/>
+<text transform="matrix(1 0 0 1 277.6318 58.7656)" class="st6 st7 st8">120</text>
 </svg>
