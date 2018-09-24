@@ -30,7 +30,7 @@ weight: 40
 {{< /sidebar >}}
 
 ## Taux d'acceptation des projets
-![Taux d'acceptation des projets](/img/reperes/ratio-deposes-selectionnes.svg) 
+![Taux d'acceptation des projets](/img/reperes/schemas_ratio_projets.svg) 
 
 
 # Évaluation de l’équipement
