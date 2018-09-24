@@ -45,11 +45,6 @@
   @extend .items-start;
   @extend .relative;
   scroll-behavior: smooth;
-  // height: 100vh;
-  // scroll-snap-type: mandatory;
-  // scroll-snap-points-y: repeat(100%);
-  // overflow-y: auto;
-  // scroll-snap-destination: 50% 0;
 
   p:empty:first-of-type {
     display: none;
@@ -97,23 +92,21 @@
       @extend .near-white;
       @extend .bg-dark-gray;
 
-      @extend .flex-row-ns;
+      @extend .flex-row-l;
       @extend .flex-wrap;
-      @extend .ph0-ns;
+      @extend .ph0-l;
 
       h1 {
         @extend .w-100;
-        @extend .pl6-ns;
         @extend .pl7-l;
         @extend .self-end;
       }
 
       p {
-        @extend .w-25-ns;
         @extend .w-20-l;
 
         &:not(:last-child) {
-          @extend .mr4-ns;
+          @extend .mr4-l;
         }
       }
     }
@@ -122,13 +115,11 @@
       @extend .bg-mid-gray;
 
       @extend .ph4-l;
-      @extend .flex-row-ns;
-      @extend .justify-between-ns;
+      @extend .flex-row-l;
       @extend .justify-center-l;
-      @extend .items-center-ns;
+      @extend .items-center-l;
 
       > section {
-        @extend .w-30-m;
         @extend .w-25-l;
 
         &:not(:last-child) {
