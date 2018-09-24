@@ -180,7 +180,7 @@ var balanceNotes = function balanceNotes(sections, getElements) {
       // Meny Spy on the home
       new MenuSpy(nav, {
         enableLocationHash: false,
-        threshold: 400,
+        threshold: document.documentElement.clientHeight / 2,
         hashTimeout: 200,
         callback: function(currentItem){
           var state = currentItem.target.dataset.slidesNavState || 'default';
