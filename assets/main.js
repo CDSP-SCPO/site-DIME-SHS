@@ -28,7 +28,7 @@ var getSiblings = function getSiblings(elem, untilFn) {
 };
 
 var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
-  var defaultState = document.body.classList.contains('toggable-headlines--closed') ? 'closed' : 'opened';
+  var defaultState = document.body.classList.contains('toggable-headlines--closed') || document.documentElement.clientWidth < 768 ? 'closed' : 'opened';
   var toggleSiblings = function toggleSiblings(headline) {
     var nextItems = getSiblings(headline, untilFn);
     nextItems.forEach(function (s) {
