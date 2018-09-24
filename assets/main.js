@@ -154,11 +154,15 @@ var balanceNotes = function balanceNotes(sections, getElements) {
   };
 
   document.addEventListener('DOMContentLoaded', function () {
+    // Left sidebar Table of Contents (generated from Hugo generator)
     var toc = document.getElementById('TableOfContents');
     new MenuSpy(toc, { enableLocationHash: false });
 
+    // Home slides
     var slidesContainer = $('.slides');
     if (slidesContainer) {
+      // Build the slides bulleted navigation
+      var navContainer = $('.slides__nav');
       var nav = $('.slides__nav > ul');
       $$('.slide', slidesContainer).forEach(function (slide, i) {
         if (!slide.getAttribute('id')) {
@@ -172,11 +176,16 @@ var balanceNotes = function balanceNotes(sections, getElements) {
         }
         nav.appendChild(li);
       });
+
+      // Meny Spy on the home
       new MenuSpy(nav, {
         enableLocationHash: false,
-        // refElement: slidesContainer,
-        threshold: 75,
-        hashTimeout: 300
+        threshold: 400,
+        hashTimeout: 200,
+        callback: function(currentItem){
+          var state = currentItem.target.dataset.slidesNavState || 'default';
+          navContainer.dataset.state = state;
+        }
       });
     }
 
@@ -184,7 +193,6 @@ var balanceNotes = function balanceNotes(sections, getElements) {
     createSidenotesWrapper($('.page__body'), $$('.page__body h1'));
 
     $$('.article__body').forEach(function (article) {
-      console.log(article);
       createSidenotesWrapper(article, []);
     });
 

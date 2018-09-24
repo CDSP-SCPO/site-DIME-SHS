@@ -17,6 +17,7 @@
 
   .active a {
     @extend .o-100;
+    @extend .bg-white;
   }
 
   a {
@@ -28,6 +29,13 @@
 
     height: 8px;
     width: 8px;
+  }
+
+  &[data-state="alternate"] a {
+    @extend .bg-mid-gray;
+  }
+  &[data-state="alternate"] .active a {
+    @extend .bg-dark-gray;
   }
 }
 
