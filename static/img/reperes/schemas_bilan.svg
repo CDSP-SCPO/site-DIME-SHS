@@ -14,23 +14,23 @@
 <rect x="163" y="174.1" class="st0" width="125.4" height="29.6"/>
 <text transform="matrix(1 0 0 1 202.7245 182.7261)" class="st1 st2 st3">Archives</text>
 <rect x="6.7" y="174.1" class="st0" width="125.4" height="29.6"/>
-<text transform="matrix(1 0 0 1 29.373 182.7261)" class="st1 st2 st3">Dévellopement </text>
+<text transform="matrix(1 0 0 1 29.373 182.7261)" class="st1 st2 st3">Développement </text>
 <text transform="matrix(1 0 0 1 57.073 197.1261)" class="st1 st2 st3">Web</text>
 <rect x="319.3" y="174.1" class="st0" width="125.1" height="14.8"/>
 <text transform="matrix(1 0 0 1 341.5434 182.7261)" class="st1 st2 st3">Documentation</text>
 <rect x="474.8" y="174.1" class="st0" width="125.7" height="14.8"/>
 <text transform="matrix(1 0 0 1 475.9045 182.7263)" class="st1 st2 st3">Production de données</text>
 <rect x="631.4" y="174.1" class="st0" width="125.1" height="14.8"/>
-<text transform="matrix(1 0 0 1 647.8879 182.7263)" class="st1 st2 st3">Gestion de Panel</text>
+<text transform="matrix(1 0 0 1 647.8879 182.7263)" class="st1 st2 st3">Gestion de panel</text>
 <rect x="787.5" y="174.1" class="st0" width="125.1" height="29.6"/>
 <text transform="matrix(1 0 0 1 816.0475 182.7254)" class="st1 st2 st3">Coordination  </text>
-<text transform="matrix(1 0 0 1 817.3475 197.1254)" class="st1 st2 st3">de l’Equipex</text>
+<text transform="matrix(1 0 0 1 817.3475 197.1254)" class="st1 st2 st3">de l’EquipEx</text>
 <g>
 	<circle class="st4" cx="69.6" cy="70.1" r="62.6"/>
 	<circle class="st4" cx="225.6" cy="70.1" r="62.6"/>
 	<circle class="st4" cx="381.6" cy="70.1" r="62.6"/>
 	
-		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 107.8921 400.672)" class="st4" cx="537.6" cy="70.1" rx="62.6" ry="62.6"/>
+		<ellipse transform="matrix(0.7071 -0.7071 0.7071 0.7071 107.8883 400.6709)" class="st4" cx="537.6" cy="70.1" rx="62.6" ry="62.6"/>
 	<circle class="st4" cx="693.6" cy="70.1" r="62.6"/>
 	<circle class="st4" cx="849.6" cy="70.1" r="62.6"/>
 </g>
@@ -133,7 +133,7 @@
 	<g>
 		<g>
 			
-				<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 387.4783 540.0236)" class="st4" cx="511.1" cy="42.3" rx="11" ry="11"/>
+				<ellipse transform="matrix(0.3162 -0.9487 0.9487 0.3162 309.3531 513.7981)" class="st4" cx="511.1" cy="42.3" rx="11" ry="11"/>
 			<g>
 				<path class="st5" d="M487.8,70.1c1.6-9.4,6.7-14.9,13.3-17.3"/>
 				<path class="st5" d="M520.9,52.7c5.7,2,10.3,6.4,12.5,13.5"/>
@@ -159,8 +159,7 @@
 	<g>
 		<g>
 			<g>
-				
-					<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 357.4708 565.5541)" class="st4" cx="511.1" cy="72.7" rx="11" ry="11"/>
+				<ellipse transform="matrix(0.3162 -0.9487 0.9487 0.3162 280.513 534.585)" class="st4" cx="511.1" cy="72.7" rx="11" ry="11"/>
 				<g>
 					<path class="st5" d="M501.1,83.1c-5.5,1.9-9.9,6.1-12.2,12.8"/>
 					<path class="st5" d="M520.9,83.1c2.3,0.8,4.5,2,6.4,3.6"/>
