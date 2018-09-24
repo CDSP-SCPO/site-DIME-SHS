@@ -57,7 +57,8 @@ Les instruments de l’Equipex DIME-SHS sont principalement développés et anim
 {{< sidebar >}}
 [Équipe ELIPSS](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#813)<br>
 [Équipe beQuali](http://bequali.fr/fr/propos/#13687)<br>
-[Équipe Dime web](http://dimeweb.dime-shs.sciences-po.fr/#team)
+[Équipe Dime web](http://dimeweb.dime-shs.sciences-po.fr/#team)<br>
+<a href="/img/reperes/schemas_bilan.svg" target="_blank">Voir la répartition des personnels</a>
 {{< /sidebar >}}
 
 Au sein de ces équipes, l’expertise technique d’ingénieurs spécialisés est mobilisée dans des domaines de compétence extrêmement variés :
@@ -74,6 +75,8 @@ Au sein de ces équipes, l’expertise technique d’ingénieurs spécialisés e
 - conception et développement d’applications web,
 - design web,
 - construction et maintenance d’une infrastructure informatique.
+
+![Repartition des personnels par compétences](/img/reperes/schemas_bilan.svg)
 
 À la diversité des compétences nécessaires au déploiement des instruments, s’ajoute la diversité des statuts, des employeurs et des canaux de financement des personnels.
 
