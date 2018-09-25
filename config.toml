@@ -17,11 +17,12 @@ enableRobotsTXT = true
     "book",
     "bookPart",
     "conferencePaper",
-    "conferenceContribution",
+    "communication",
     "datascape",
     "doctoralThesis",
     "report",
     "bookReview",
+    "pressReview",
     "workingPaper",
     "speech",
   ]
@@ -30,12 +31,14 @@ enableRobotsTXT = true
     journalArticle = "article"
     thesis = "doctoralThesis"
     "conference publication" = "conferencePaper"
-    "conference poster" = "conferenceContribution"
-    presentation = "conferenceContribution"
+    "conference poster" = "conferencePaper"
+    presentation = "communication"
     manuscript = "workingPaper"
+    "blogPost" = "workingPaper"
     bookSection = "bookPart"
+    magazineArticle = "pressReview"
     "web site" = "datascape"
-    "blogPost" = "datascape"
+    "videorecording" = "speech"
 
   [params.publications.dime-web]
     name = "Dime Web"

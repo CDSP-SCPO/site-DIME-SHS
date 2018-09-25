@@ -9,12 +9,12 @@ options:
 - toggable-headlines
 - toggable-headlines--closed
 ---
-{{< home-slide >}}
+{{< home-slide id="home" >}}
 # DIME-SHS
 Innovative tools for the production and reuse of social science research data
 
 {{< /home-slide >}}
-{{< home-slide id="introduction">}}
+{{< home-slide id="intro" >}}
 # Tools for the Social Sciences
 
 The DIME-SHS EquipEx (Excellence Facility for Survey Data Infrastructures and Methods in the Humanities and Social Sciences) offers researchers tools for the production or reuse of social science data and research materials.
@@ -25,7 +25,7 @@ Selected under France’s Investments for the Future Programmes dedicated to Exc
 A further indication of the project’s scientific excellence and its potential attractiveness to the academic community, in June 2010 the Equipex DIME-SHS was awarded the Université Paris Sorbonne Cité label, by decision of the latter’s Scientific and Pedagogical Steering Committee.
 
 {{< /home-slide >}}
-{{< home-slide >}}
+{{< home-slide id="instruments" >}}
 <section>
   <h1>ELIPSS</h1>
   <p>an online panel consisting of 3000 people representative of the French population, who are invited to respond to monthly academic surveys disseminated using a tablet app.<br>

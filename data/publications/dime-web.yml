@@ -155,7 +155,7 @@
     - Ojala, Mace
   date: 2017-01-05
   url: https://ethos.itu.dk/2017/01/05/mining-with-hyphe-reflections-on-publicethos-13/
-  type: datascape
+  type: workingPaper
   issue: null
   pages: null
   publication: null
@@ -248,6 +248,19 @@
   publication: null
   volume: ""
   source: American Political Science Association Conference
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/s0e6rqi878r8qmlcn9dl9l0b1
+  title: >-
+    SoWell : Quelles données se cachent derrière le Bonheur ?
+  authors:
+    - Jacomy, Mathieu
+    - Ooghe, Benjamin
+    - Beasley, Elizabeth
+  date: 2017-04
+  url: http://medialab.github.io/well-being-metrics/app/
+  type: datascape
+  source: http://medialab.github.io/well-being-metrics/app/
+  publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/71ng63ruee9cmo9ve3uj73v63j
   title: La mesure de l’opinion dans la “démocratie furtive”:les indicateurs de
@@ -377,7 +390,7 @@
     - Venturini, Tommaso
   date: 2016-05, 2016-05-20
   url: http://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13051/12797
-  type: conferenceContribution
+  type: conferencePaper
   source: International AAAI Conference on Web and Social Media, Köln, DE,
     2016-05-18/2016-05-20
   publication: Association for the Advancement of Artificial Intelligence
@@ -605,7 +618,7 @@
     - Jacomy, Mathieu
   date: 2017-09-04
   url: https://metsem.hypotheses.org/111
-  type: videorecording
+  type: speech
   source: null
   publication: null
   category: dime-web

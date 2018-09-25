@@ -19,7 +19,8 @@
 
 .bibliography-entry {
   @extend .lh-copy;
-  @extend .flex-l;
+  @extend .flex-ns;
+  @extend .justify-between;
   @extend .pb3;
   @extend .pt3;
 
@@ -37,7 +38,6 @@
   .bibliography-entry__body {
     @extend .black-60;
     @extend .measure-wide;
-    @extend .w-60-l;
   }
 
   h3 {
@@ -54,13 +54,14 @@
 
   .bibliography-entry__metadata {
     @extend .f6;
-    @extend .w-30-l;
-    @extend .ml-auto-l;
+    @extend .w-30-ns;
+    @extend .ml4-ns;
+    flex-shrink: 0;
 
     > ul {
       @extend .list;
       @extend .pl0;
-      @extend .mt0-l;
+      @extend .mt0-ns;
     }
 
     a {

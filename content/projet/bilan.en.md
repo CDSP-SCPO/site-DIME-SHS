@@ -25,7 +25,7 @@ weight: 40
   - 2018: beQuali teaching kits
 {{< /longdesc >}}
 
-##Distribution
+## Distribution
 120 projects deposited/92 selected
 
 # Evaluation of the facility

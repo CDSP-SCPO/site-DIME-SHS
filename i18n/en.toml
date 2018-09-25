@@ -21,7 +21,7 @@ other = "book"
 other = "book part"
 [conferencePaper]
 other = "conference paper"
-[conferenceContribution]
+[communication]
 other = "conference contribution"
 [datascape]
 other = "datascape"
@@ -31,6 +31,8 @@ other = "doctoral thesis"
 other = "report"
 [bookReview]
 other = "book review"
+[pressReview]
+other = "press review"
 [workingPaper]
 other = "working paper"
 [speech]
