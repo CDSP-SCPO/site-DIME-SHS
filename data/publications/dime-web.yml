@@ -249,6 +249,19 @@
   volume: ""
   source: American Political Science Association Conference
   category: dime-web
+- id: oai:spire.sciencespo.fr:2441/s0e6rqi878r8qmlcn9dl9l0b1
+  title: >-
+    SoWell : Quelles données se cachent derrière le Bonheur ?
+  authors:
+    - Jacomy, Mathieu
+    - Ooghe, Benjamin
+    - Beasley, Elizabeth
+  date: 2017-04
+  url: http://medialab.github.io/well-being-metrics/app/
+  type: datascape
+  source: http://medialab.github.io/well-being-metrics/app/
+  publication: null
+  category: dime-web
 - id: oai:spire.sciencespo.fr:2441/71ng63ruee9cmo9ve3uj73v63j
   title: La mesure de l’opinion dans la “démocratie furtive”:les indicateurs de
     confiance dans les choix scientifiques et technologiques
