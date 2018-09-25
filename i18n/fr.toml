@@ -21,7 +21,7 @@ other = "livres"
 other = "parties ou chapitres de livre"
 [conferencePaper]
 other = "communications dans des actes de colloque publiés"
-[conferenceContribution]
+[communication]
 other = "communications non publiées"
 [datascape]
 other = "datascapes"
@@ -31,6 +31,8 @@ other = "thèses de doctorat"
 other = "rapports"
 [bookReview]
 other = "comptes-rendus d'ouvrage"
+[pressReview]
+other = "revue de presse"
 [workingPaper]
 other = "working papers"
 [speech]
