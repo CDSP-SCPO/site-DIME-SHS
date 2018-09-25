@@ -1,5 +1,5 @@
 ---
-title:  DIME-SHS s’invite aux 10 ans du CDSP (12 et 13 décembre 2016)
+title:  DIME-SHS s’invite aux 10 ans du CDSP les 12 et 13 décembre 2016
 date:   2016-12-01T00:00:00
 ---
 
