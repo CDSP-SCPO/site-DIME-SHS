@@ -12,6 +12,16 @@
   list-style-position: outside;
 }
 
+@media #{$breakpoint-not-small} {
+  .list-inline-ns {
+    list-style: inline;
+  }
+
+  .list-ns {
+    list-style-type: none;
+  }
+}
+
 .badges-list {
   @extend .pa0;
   @extend .mv4;

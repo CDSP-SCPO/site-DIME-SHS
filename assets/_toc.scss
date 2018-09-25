@@ -1,7 +1,8 @@
 @import 'components/links';
+@import 'components/positions';
 
 .table-of-contents {
-  position: sticky;
+  @extend .sticky;
   top: 7em;
 }
 
