@@ -49,7 +49,7 @@ Signal supplémentaire de l'excellence scientifique du projet et de son potentie
 
   <p>un ensemble de méthodes numériques et d’outils informatiques pour offrir un accompagnement aux chercheurs dans l’utilisation du web comme terrain d’enquête</br>
 
-  [Découvrir Dime Web]({{< ref "instruments/dimeweb.fr.md" >}})
+  [Découvrir Dime Web]({{< ref "instruments/dime-web.fr.md" >}})
   </p>
 
 </section>
