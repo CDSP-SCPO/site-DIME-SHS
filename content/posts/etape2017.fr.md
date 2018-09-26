@@ -1,5 +1,5 @@
 ---
-title: Point d’étape 2017 : de l’évaluation à mi-parcours au programme d’action final
+title: Point d’étape 2017&nbsp;:&nbsp;de l’évaluation à mi-parcours au programme d’action final
 date:   2017-09-21T00:00:00
 ---
 
