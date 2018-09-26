@@ -9,5 +9,5 @@ En présence de Richard Descoing, administrateur de la Fondation nationale des s
 
 {{< sidebar >}}
 <a href="https://vimeo.com/36091749">Inauguration de DIME-SHS</a>.<br>
-<iframe src="https://player.vimeo.com/video/36091749?color=ffffff&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/36091749?color=ffffff&byline=0&portrait=0" frameborder="0" with="100%"></iframe>
 {{< /sidebar >}}
