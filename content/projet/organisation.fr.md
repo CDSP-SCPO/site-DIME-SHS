@@ -46,7 +46,7 @@ Membres du conseil scientifique :
 Chaque instrument est doté d’un **comité scientifique et technique** (CST). Il a pour fonction d’accompagner les développements, de sélectionner les projets à mettre en œuvre et discuter les choix scientifiques et techniques propres à l’instrument. Organe indépendant, il est composé d’experts en méthodes qualitatives, quantitatives, ou web représentant un large panel de disciplines des sciences sociales.
 
 {{< sidebar >}}
-[Le CST ELIPSS](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#790)<br>
+[Le CST ELIPSS](http://quanti.dime-shs.sciences-po.fr/fr/lorganisation/#814)<br>
 [Le CST beQuali](http://bequali.fr/fr/propos/#cst)<br>
 [Le CST Dime Web](http://dimeweb.dime-shs.sciences-po.fr/#team)
 {{< /sidebar >}}
