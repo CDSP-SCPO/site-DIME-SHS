@@ -76,7 +76,6 @@ Au sein de ces équipes, l’expertise technique d’ingénieurs spécialisés e
 - design web,
 - construction et maintenance d’une infrastructure informatique.
 
-![Repartition des personnels par compétences](/img/reperes/schemas_bilan.svg)
 <a href="/img/reperes/schemas_bilan.svg" target="_blank"><img src="/img/reperes/schemas_bilan.svg"></a>
 
 À la diversité des compétences nécessaires au déploiement des instruments, s’ajoute la diversité des statuts, des employeurs et des canaux de financement des personnels.
