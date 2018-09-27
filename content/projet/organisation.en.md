@@ -58,6 +58,7 @@ The EquipEx DIME-SHS instruments are mainly developed and managed by Sciences Po
 {{< /sidebar >}}
 
 Within these teams, the technical expertise of specialist engineers is employed in an extremely varied range of disciplines:
+
 - survey methodology,
 - questionnaire design and scheduling,
 - survey management,
@@ -70,6 +71,8 @@ Within these teams, the technical expertise of specialist engineers is employed 
 - web application design and development,
 - web design,
 - IT infrastructure construction and maintenance.
+
+<a href="/img/reperes/schemas_bilan-en.svg" target="_blank"><img src="/img/reperes/schemas_bilan.svg"></a>
 
 In addition to the diversity of skills needed to run the programmes, there is diversity in the status of personnel, in employers and in the staff funding channels.
 Since the start of the project at the end of 2011, almost 40 engineers funded by ANR subsidy have contributed to the implementation and management of the instruments, i.e. the equivalent of an average 12 full-time staff per year.
