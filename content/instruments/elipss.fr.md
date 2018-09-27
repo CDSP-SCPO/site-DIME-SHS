@@ -47,7 +47,8 @@ Proposées dans le cadre d’appels à projets, les enquêtes soumises au panel 
 
 Après une exclusivité maximale d’un an pour les équipes ayant co-produit une enquête ELIPSS, les données viennent enrichir le [catalogue du CDSP](https://cdsp.sciences-po.fr/fr/ressources-en-ligne/?0=subject__libel-ELIPSS) pour être mises à disposition de l’ensemble de la communauté de scientifique.
 
-![Schéma de fonctionnement de Elipss](/img/instruments/schema_elipss.svg)
+<a href="/img/reperes/schema_elipss.svg" target="_blank" alt="Schéma de fonctionnement de Elipss"><img src="/img/reperes/schema_elipss.svg"></a>
+
 
 # Apports
 En donnant les moyens à de nombreuses équipes de recherche de réaliser une enquête, ELIPSS recueille une variété impressionnante de données détaillées, qui éclairent sur les évolutions les plus récentes des situations sociales, des pratiques et des attitudes en France dans un très grand nombre de domaines.
