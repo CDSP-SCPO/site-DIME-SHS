@@ -30,7 +30,7 @@ weight: 40
 {{< /sidebar >}}
 
 ## Taux d'acceptation des projets
-<a href="/img/reperes/schemas_ratio_projets.svg" target="_blank"><img src="/img/reperes/schemas_bilan.svg"></a>
+<a href="/img/reperes/schemas_ratio_projets.svg" target="_blank"><img src="/img/reperes/schemas_ratio_projets.svg"></a>
 
 # Évaluation de l’équipement
 
