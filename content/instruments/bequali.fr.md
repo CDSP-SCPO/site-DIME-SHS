@@ -37,7 +37,7 @@ L’équipe beQuali traite les matériaux d’enquêtes sélectionnées et assur
 
 BeQuali s’inscrit également dans une démarche de préservation des données de la recherche et prévoit un archivage au Centre informatique nationale de l’Enseignement supérieur ([CINES](https://www.cines.fr/)) des enquêtes mises à disposition.
 
-![Schéma de fonctionnement de beQuali](/img/instruments/shemas_bequali.svg)
+<a href="/img/instruments/shemas_bequali.svg" target="_blank"><img src="/img/instruments/shemas_bequali.svg"></a>
 
 # Apports
 Il existe un intérêt fort de la communauté académique pour la mise à disposition de matériaux d’enquêtes qualitatives. La mise à disposition des corpus beQuali valorise ainsi le travail des chercheurs producteurs et permet à d’autres de les réutiliser afin de produire notamment des comparaisons ou de nouvelles interprétations (réanalyse, comparaison, etc.). De plus, l’intérêt du partage de ces matériaux en termes d’enseignement des méthodes qualitatives est considérable.
@@ -64,4 +64,4 @@ En parallèle, beQuali poursuit ses actions afin de favoriser les usages des cor
 
 [^8]: [THOMAS Anja, The ‘European Integration Paradox’ Comparing EU Practice and Discourse on the Role of Parliaments in the EU in the Assemblée nationale and the Bundestag Across Time, thèse de doctorat soutenue en décembre 2016, Sciences Po - IEP de Paris, 425 pp.](http://spire.sciencespo.fr/hdl:/2441/5i1k2o8mn49maohtdrake9dsfv)
 
-[^9]: [traitement d’archives sous format papier et électronique (inventaire, classement, anonymisation, etc.), contextualisation des enquêtes, sensibilisation de la communauté scientifique aux bonnes pratiques et aux possibilités de réutilisation des matériaux
+[^9]: [traitement d’archives sous format papier et électronique (inventaire, classement, anonymisation, etc.), contextualisation des enquêtes</br>sensibilisation de la communauté scientifique aux bonnes pratiques et aux possibilités de réutilisation des matériaux]
