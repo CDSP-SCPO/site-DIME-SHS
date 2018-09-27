@@ -15,7 +15,7 @@
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
   <link href="{{ $css.RelPermalink | relURL }}" rel="stylesheet" >
   <script src="{{ $menuspy.RelPermalink | relURL }}"></script>
-  <script src="{{ $main.RelPermalink | relURL }}" async defer></script>
+  <script src="{{ $main.RelPermalink | relURL }}"></script>
   <link rel="shortcut icon" href="https://www.sciencespo.fr/sites/all/themes/SPresponsive/images/favicon.png">
 </head>
 {{- $PageStyles := union (default .Page.Params.options slice) (default .Page.CurrentSection.Params.options slice) -}}
