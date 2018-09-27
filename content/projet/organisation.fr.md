@@ -7,11 +7,11 @@ weight: 20
 ---
 
 # Gouvernance
-Coordonné par Sciences Po, l’Equipex DIME-SHS est animé par Nicolas Sauger en qualité de Responsable scientifique et technique depuis septembre 2017. Il prend la suite de Laurent Lesnard qui a initié le projet en 2011.<br>
-La gouvernance de DIME-SHS est spécifiée dans l’accord de consortium pour la réalisation du projet d’Equipex[^1]; elle est organisée autour de trois instances.
 {{< sidebar >}}
 ![Nicolas SAUGER, Responsable scientifique de DIME-SHS](/img/NS.svg)
 {{< /sidebar >}}
+Coordonné par Sciences Po, l’Equipex DIME-SHS est animé par Nicolas Sauger en qualité de Responsable scientifique et technique depuis septembre 2017. Il prend la suite de Laurent Lesnard qui a initié le projet en 2011.<br>
+La gouvernance de DIME-SHS est spécifiée dans l’accord de consortium pour la réalisation du projet d’Equipex[^1]; elle est organisée autour de trois instances.
 
 
 Le **Comité de coordination** assure le suivi opérationnel transversal des activités des trois instruments. Il réunit:
