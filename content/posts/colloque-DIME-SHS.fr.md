@@ -37,8 +37,8 @@ La réutilisation de données qualitatives pour étudier Le paradoxe de l’int�
 Enseigner avec des données qualitatives existantes
 - Christophe Giraud, Professeur des universités à l'Université Paris Descartes
 
-## 11h45 - 12h30 / Utiliser Hyphe en sciences sociales : comment articuler les méthodes numériques avec d’autres aspects de sa recherche ?
-Des outils pour appréhender le Web comme terrain d’enquêtes
+## 11h45 - 12h30 / Des outils et méthodes numériques pour appréhender le Web comme terrain d’enquêtes
+Utiliser Hyphe en sciences sociales
 - Benjamin Ooghe-Tabanou, Ingénieur de recherche médialab et Responsable de l'instrument Dime Web
 Controverses autour de la vaccination
 - Jérémy Ward, Chercheur associé au LIED PIERI et ingénieur d'étude à l'ORS-PACA
@@ -49,7 +49,7 @@ Controverses autour de la vaccination
 - Claire Levallois Barthes, Maître de conférences en droit à Télécom ParisTech, coordinatrice de la Chaire Valeurs et Politiques des Informations Personnelles
 - Daniel Bizeul, Chercheur associé au Cresppa-CSU et Professeur à l’Université d’Angers
 - Céline Alazard, Archiviste et Responsable de la Plateforme technologique "Archives Documentation Numérisation" à l'Université de Bourgogne
-- Emilie Masson, Juriste et membre de l’équipe du Correspondant informatique et libertés du Cnrs
+- Emilie Masson, Juriste et membre de l’équipe du Correspondant informatique et libertés du CNRS
 
 ## 15h45 - 17h15 / Table-ronde "Analyse textuelle en renfort de l’exploitation des données", modéré par Jean-Philippe Cointet (Chercheur au médialab de Sciences Po)
 - Dominique Labbé, Chercheur associé à PACTE
