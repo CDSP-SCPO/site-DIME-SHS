@@ -20,7 +20,8 @@ parse(stream)
     const categories = Object.keys(publications);
     const writes = categories.map(category => {
       const filename = join(__dirname, '..', 'data', 'publications', `${category}.yml`);
-      const data = items.filter(d => d.category === category);
+      const data = items.filter(d => d.category === category)
+        .sort((d1, d2) => d1.id > d2.id ? 1 : -1);
 
       if (data.length === 0) {
         return Promise.resolve();
