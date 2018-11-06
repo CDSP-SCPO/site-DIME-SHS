@@ -21,7 +21,7 @@ Find out more:
 # Programme
 ## 9h30 - 10h00 / Introductory lecture
 Replication, reuse and crossing of the corpus : challenges and opportunities for DIME-SHS
--  Nicolas Sauger, DIME-SHS scientific director, CDSP director)
+- Nicolas Sauger, DIME-SHS scientific director, CDSP director)
 
 ## 10h00 - 10h45 / Co-producing data for research with ELIPSS
 Daily national mobility panel : first results of a longitudinal survey - first wave
