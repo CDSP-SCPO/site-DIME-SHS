@@ -1,6 +1,6 @@
 ---
 title:  Colloque DIME-SHS - Bilan
-date:   2018-07-12T00:00:00
+date:   2018-11-06T00:00:00
 ---
 
 _Le 28 septembre 2018 s'est tenu le colloque DIME-SHS "Des instruments pour la recherche en Sciences Sociales" qui a rassemblé une centaine de personnes.
