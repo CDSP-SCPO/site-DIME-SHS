@@ -1,5 +1,5 @@
 ---
-title:  Réunion des instances scientifiques - 27 septembre 2018
+title:  Bilan de la "réunion publique" 2018
 date:   2018-09-30T00:00:00
 ---
 

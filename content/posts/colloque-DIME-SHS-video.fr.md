@@ -1,5 +1,5 @@
 ---
-title:  Colloque DIME-SHS - Bilan
+title:  Retour sur le colloque DIME-SHS
 date:   2018-11-06T00:00:00
 ---
 
