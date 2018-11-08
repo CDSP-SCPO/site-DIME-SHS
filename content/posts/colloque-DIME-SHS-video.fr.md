@@ -1,5 +1,5 @@
 ---
-title:  Retour sur le colloque DIME-SHS
+title:  Retour sur le colloque "Des instruments pour la recherche en Sciences Sociales"
 date:   2018-11-06T00:00:00
 ---
 
