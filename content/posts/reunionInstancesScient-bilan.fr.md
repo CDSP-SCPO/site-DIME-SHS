@@ -8,7 +8,8 @@ Le 27 septembre, en marge du colloque proprement scientifique, la "réunion publ
 
 Ce faisant, elle a été l'occasion non seulement de faire le bilan des actions déjà mises en oeuvre et de présenter les opérations à venir d'ici la clôture du projet mais également celle d'un échange ouvert sur les perspectives de pérennisation des instruments ELIPSS, beQuali et Dime web après 2019.
 
-Cette demi-journée s'est clôturée par une session dédiée aux expériences de chercheurs-utilisateurs des dispositifs de DIME-SHS - pour ELIPSS, Florent Gougou sur l'enquête Dynamiques de mobilisation (Dynamob) et pour beQuali, Olivier Rozenberg sur l'enquête "le Parlement français et l'union européenne". Ces présentations ont permis autant de mettre en lumière les apports essentiels des instruments pour la pratique de recherche que de donner à voir les difficultés qu'ont pu rencontrer les utilisateurs, ouvrant ainsi des pistes de réflexion pour la suite.
+Cette demi-journée s'est clôturée par une session dédiée aux expériences de chercheurs-utilisateurs des dispositifs de DIME-SHS - pour ELIPSS, Florent Gougou sur l'enquête Dynamiques de mobilisation (Dynamob) et pour beQuali, Olivier Rozenberg sur l'enquête "le Parlement français et l'union européenne".
+Ces présentations ont permis autant de mettre en lumière les apports essentiels des instruments pour la pratique de recherche que de donner à voir les difficultés qu'ont pu rencontrer les utilisateurs, ouvrant ainsi des pistes de réflexion pour la suite.
 
 # Bilan et perspectives des instruments
 
