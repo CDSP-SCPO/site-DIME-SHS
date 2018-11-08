@@ -1,6 +1,7 @@
 ---
 title:  Retour sur le colloque "Des instruments pour la recherche en Sciences Sociales"
 date:   2018-11-06T00:00:00
+ID: cocoDIPLR 
 ---
 
 *Le 28 septembre 2018 s'est tenu le colloque DIME-SHS "Des instruments pour la recherche en Sciences Sociales" qui a rassemblé une centaine de personnes.*
