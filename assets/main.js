@@ -146,7 +146,8 @@ var balanceNotes = function balanceNotes(sections, getElements) {
 
 (function () {
   var $ = function $(selector) {
-    return document.querySelector(selector);
+    var root = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : document;
+    return root.querySelector(selector);
   };
   var $$ = function $$(selector) {
     var root = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : document;
@@ -217,6 +218,13 @@ var balanceNotes = function balanceNotes(sections, getElements) {
       toggleHeadlines($$('.bibliography-section h3'), function (el) {
         return el.nodeName === 'H3';
       });
+
+      if (window.location.hash && $(window.location.hash)) {
+        var clickable = $('.clickable', $(window.location.hash));
+        if (clickable) {
+          clickable.click();
+        }
+      }
     }
   });
 })();
