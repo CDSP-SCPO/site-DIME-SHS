@@ -1,7 +1,7 @@
 ---
-title: Bibliography on qualitative HSS surveys
+title: Ressources pour l'enseignement
 parent: bequali
-website: http://bequali.fr/en/bibliography/
+website: http://bequali.fr/fr/les-enquetes/kit-enseignement/
 ---
 
-A Zotero bibliography produced by monitoring the sharing, documentation and reuse of qualitative social science surveys.
+Une interface web pour rechercher des documents pour l'enseignements en croisant des filtres sur la méthodologie de recherche et par enquêtes. 
