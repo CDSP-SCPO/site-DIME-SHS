@@ -49,7 +49,7 @@ Signal supplémentaire de l'excellence scientifique du projet et de son potentie
 
   <p>un ensemble de méthodes numériques et d’outils informatiques pour offrir un accompagnement aux chercheurs dans l’utilisation du web comme terrain d’enquête<br>
 
-  <a href="instruments/dime-web.fr.md">Discover beQuali</a>
+  <a href="instruments/dime-web.fr.md">Découvrir beQuali</a>
   </p>
 
 </section>
