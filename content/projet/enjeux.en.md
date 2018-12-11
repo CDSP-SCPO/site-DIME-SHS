@@ -19,6 +19,7 @@ DIME-SHS is an experimental facility for innovative research in the humanities a
 DIME-SHS adheres closely in its operational principles to the values of open science and [FAIR](https://www.force11.org/group/fairgroup/fairprinciples) standards. DIME-SHS is committed to the improvement of standards, in particular methodological standards, with a focus on scientific excellence. DIME-SHS also embodies methodological pluralism, combining approaches sometimes drawn from widely separated traditions.
 
 The main missions of DIME-SHS are thus to… :
+
 1. Design experimental tools for the production of research data;
 1. Structure platforms to facilitate data access and exploration;
 1. Contribute to thinking about multi-corpus research methods and promote new practices supported by digital tools;
