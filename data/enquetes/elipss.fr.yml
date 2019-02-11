@@ -7,6 +7,13 @@ items:
   - équipe ATAPA
   - équipe ELIPSS
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2014.06.atapa/
+- title: Capital social, réseaux sociaux et ressources sociales
+  date: 2019
+  authors:
+  - Pierre Mercklé
+  - Benoît Tudoux
+  - équipe CAPSOC
+  - équipe ELIPSS
 - title: Catégorisations et connaissances ordinaires de la société - Jeu des métiers
   date: 2014
   authors:
@@ -28,6 +35,14 @@ items:
   authors:
   - Antoine Nebout
   - équipe ELIPSS
+- title: Connaissance et perception des questions démographiques
+  date: 2018
+  authors:
+  - Virginie De Luca Barrusse
+  - Cécile Lefèvre
+  - Jacques Véron
+  - équipe POP-AWARE
+  - équipe ELIPSS
 - title: Culture financière et comportements patrimoniaux en France
   date: 2017
   authors:
@@ -47,7 +62,7 @@ items:
   - Vincent Tiberj
   - équipe Dynamob
   - équipe ELIPSS
-  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2013.09.dynamob/
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2013.09.dynamob/
 - title: Dynamiques de mobilisation - vague 2
   date: décembre 2013
   authors:
@@ -63,7 +78,7 @@ items:
   - Vincent Tiberj
   - équipe Dynamob
   - équipe ELIPSS
-  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2014.03.dynamob/
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2014.03.dynamob/
 - title: Dynamiques de mobilisation - vague 4
   date: avril 2014
   authors:
@@ -71,7 +86,7 @@ items:
   - Vincent Tiberj
   - équipe Dynamob
   - équipe ELIPSS
-  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2014.04.dynamob/
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2014.04.dynamob/
 - title: Dynamiques de mobilisation - vague 5
   date: mai 2014
   authors:
@@ -79,7 +94,7 @@ items:
   - Vincent Tiberj
   - équipe Dynamob
   - équipe ELIPSS
-  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2014.05.dynamob/
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2014.05.dynamob/
 - title: Dynamiques de mobilisation - vague 6
   date: juin 2014
   authors:
@@ -87,7 +102,7 @@ items:
   - Vincent Tiberj
   - équipe Dynamob
   - équipe ELIPSS
-  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2014.06.dynamob/
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2014.06.dynamob/
 - title: Dynamiques de mobilisation - vague 7
   date: décembre 2014
   authors:
@@ -175,6 +190,7 @@ items:
   - Vincent Tiberj
   - équipe Dynamob
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2017.06.dynamob/
 - title: Dynamiques de mobilisation - vague 18
   date: décembre 2017
   authors:
@@ -182,16 +198,17 @@ items:
   - Vincent Tiberj
   - équipe Dynamob
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2017.12.dynamob/
 - title: Enquête annuelle - vague 1
   date: 2013
   authors:
   - équipe ELIPSS
-  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2013.04.ea/
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2013.04.ea/
 - title: Enquête annuelle - vague 2
   date: 2014
   authors:
   - équipe ELIPSS
-  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2014.03.ea/
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2014.03.ea/
 - title: Enquête annuelle - vague 3
   date: 2015
   authors:
@@ -211,6 +228,11 @@ items:
   date: 2018
   authors:
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2018.03.ea/
+- title: Enquête annuelle - vague 7
+  date: 2019
+  authors:
+  - équipe ELIPSS
 - title: Enquête sur les valeurs, l'environnement et l'énergie - vague 1
   date: 2013
   authors:
@@ -219,7 +241,7 @@ items:
   - Monique Wach
   - équipe EVALENE
   - équipe ELIPSS
-  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2013.10.evalene/
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2013.10.evalene/
 - title: Enquête sur les valeurs, l'environnement et l'énergie - vague 2
   date: 2015
   authors:
@@ -228,6 +250,7 @@ items:
   - Monique Wach
   - équipe EVALENE
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2015.11.evalene/
 - title: Étude des facteurs de gaspillage selon le modèle du comportement planifié
   date: 2016
   authors:
@@ -252,7 +275,7 @@ items:
   - Caroline Moreau
   - équipe FECOND
   - équipe ELIPSS
-  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2013.07.fecond/
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2013.07.fecond/
 - title: Goûts, morales, groupes sociaux
   date: 2014
   authors:
@@ -265,6 +288,11 @@ items:
   lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2014.10.mrct/
 - title: Hiérarchisation, délimitation et identification des échelles territoriales
   date: 2017
+  authors:
+  - Claude Grasland
+  - Clarisse Didelon-Loiseau
+  - équipe GLOCALMAP
+  - équipe ELIPSS
 - title: "Les rapports des citoyens à la justice : expériences et représentations"
   date: 2018
   authors:
@@ -278,13 +306,27 @@ items:
   - Bérangère Véron
   - Marie Duru-Bellat
   - équipe ELIPSS
-  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2014.02.soligene/
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2014.02.soligene/
+- title: L’intérêt pour la nature dans un contexte d’urbanisation
+  date: 2019
+  authors:
+  - Emmanuelle Baudry
+  - équipe NatInterest
+  - équipe ELIPSS
 - title: Livraisons des colis et mobilités des e-consommateurs
   date: 2016
   authors:
   - Anne Aguiléra
   - Leslie Belton-Chevallier
   - Nora Mareï
+  - équipe ELIPSS
+- title: Médias et société face au terrorisme
+  date: 2019
+  authors:
+  - Pierre Lefébure
+  - Claire Sécail
+  - Anne Jadot
+  - équipe MEDIATERR
   - équipe ELIPSS
 - title: Mobilités et rapport à l'espace dans le cycle de vie
   date: 2016
@@ -302,13 +344,26 @@ items:
   authors:
   - Thomas Buhler
   - Philippe Signoret
+  - équipe ELIPSS
+- title: Panel National Mobilité quotidienne - vague 2
+  date: 2019
+  authors:
+  - Thomas Buhler
+  - Philippe Signoret
+  - équipe ELIPSS
+- title: Personnalité, position sociale et pratiques culturelles : pour une articulation de la recherche psychologique et sociologique
+  date: 2019
+  authors:
+  - TRomain Brisson
+  - équipe PSYSOC
+  - équipe ELIPSS
 - title: Pratiques culturelles, médias et technologies de l'information - vague 1
   date: 2013
   authors:
   - Philippe Coulangeon
   - Olivier Donnat
   - équipe ELIPSS
-  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2013.06.pmti/
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2013.06.pmti/
 - title: Pratiques culturelles, médias et technologies de l'information - vague 2
   date: 2015
   authors:
@@ -328,12 +383,14 @@ items:
   - Alexis Spire
   - équipe PREFACE
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2016.01.preface/
 - title: Pratiques et représentations face à l'État - vague 2
   date: 2017
   authors:
   - Alexis Spire
   - équipe PREFACE
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2017.01.preface/
 - title: Pratiques numériques - vague 1
   date: 2013
   authors:
@@ -353,12 +410,19 @@ items:
   date: 2016
   authors:
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2016.04.pn/
 - title: Pratiques numériques - vague 5
   date: 2017
   authors:
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2017.07.pn/
 - title: Pratiques numériques - vague 6
   date: 2018
+  authors:
+  - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2018.07.pn/
+- title: Pratiques numériques - vague 7
+  date: 2019
   authors:
   - équipe ELIPSS
 - title: Quelques questions sur l'Europe
@@ -394,6 +458,7 @@ items:
   - Catherine Clarisse
   - équipe SHAMA
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2016.07.shama/
 - title: Santé, travail et environnement. Enquête sur les expositions aux poussières inorganiques - vague 1
   date: 2013
   authors:
@@ -411,6 +476,7 @@ items:
   - Michel Vincent
   - équipe SILICOSIS
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2016.10.elipssilice/
 - title: Situation de couple, intentions de fécondité et opinions sur la famille
   date: 2013
   authors:
@@ -430,16 +496,29 @@ items:
   authors:
   - Mirna Safi
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2015.10.srclf/
 - title: Styles de vie et environnement
   date: 2017
   authors:
-  - Claude Grasland
-  - Clarisse Didelon-Loiseau
-  - équipe GLOCALMAP
+  - Ivaylo D. Petev
+  - Yoann Demoli
+  - équipe SVEN
   - équipe ELIPSS
 - title: Tarification sociale de l'eau
   date: 2016
   authors:
   - Olivier Beaumais
   - équipe TARIFEAU
+  - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2016.05.tarifeau/
+- title: Travail, Emploi, Motivation, santé Psychologique et Orientation
+  date: 2018
+  authors:
+  - Florent Lheureux
+  - équipe TEMPO
+  - équipe ELIPSS
+- title: Variations de cadrage médiatique de l'inégalité de revenus et leurs effets politiques
+  date: 2018
+  authors:
+  - Sonja Zmerli
   - équipe ELIPSS
