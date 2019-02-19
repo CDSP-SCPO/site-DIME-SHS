@@ -13,10 +13,6 @@ Elle servira notamment à cofinancer le renouvellement de l'échantillon du pane
 <!--more-->
 
 {{< sidebar class="last" >}}
-[Formulaire d'inscription](https://framaforms.org/colloque-dime-shs-des-instruments-au-service-de-la-recherche-en-sciences-sociales-1529765747)
-
 En savoir plus:
-[Site de l'instrument Elipss](http://quanti.dime-shs.sciences-po.fr/fr/)
-[Site de l'instrument beQuali](http://bequali.fr/fr/)
-[Site de l'instrument Dime Web](http://dimeweb.dime-shs.sciences-po.fr/)
+[Les EquipEx soutenus par USPC](http://www.sorbonne-paris-cite.fr/fr/recherche/projets-investissement-davenir-pia/equipements-dexcellence-et-infrastructures-en-biologie)
 {{< /sidebar >}}
