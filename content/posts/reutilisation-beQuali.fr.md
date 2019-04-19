@@ -3,7 +3,7 @@ title:  beQuali : du concret pour les cours de sociologie de la famille
 date:   2019-04-19T00:00:00
 ---
 
-A l'Université Paris Descartes, certains cours de sociologie baignent dans la pratique. Christophe Giraud, enseignant en sociologie de la famille, invite ses étudiants à se confronter à l’usage de véritables données d’enquêtes de recherche, mises à disposition par beQuali, pour mettre à l’épreuve leur capacité d’analyse.
+A l'Université Paris Descartes, certains cours de sociologie baignent dans la pratique. Christophe Giraud, enseignant en sociologie de la famille, invite ses étudiants à se confronter à l’usage de données d’enquêtes de recherche déjà éprouvées, mises à disposition par beQuali, pour mettre à l’épreuve leur capacité d’analyse.
 
 Désireux de leur faire approfondir la question de l’analyse des données qualitatives -souvent négligée au profit des sessions sur les méthodes de collecte- dans ses cours, Christophe Giraud mobilise le corpus de données de l'enquête [La formation des couples](http://bequali.fr/fr/enquetes/lenquete-en-bref/cdsp_bq_s2/) de Michel Bozon et François Héran (1983-85) pour faire travailler les étudiants.
 
