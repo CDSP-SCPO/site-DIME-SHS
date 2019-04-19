@@ -1,6 +1,6 @@
 ---
 title:  beQuali : du concret pour les cours de sociologie de la famille
-date:   2019-04-20T00:00:00
+date:   2019-04-19T00:00:00
 ---
 
 A l'Université Paris Descartes, certains cours de sociologie baignent dans la pratique. Christophe Giraud, enseignant en sociologie de la famille, invite ses étudiants à se confronter à l’usage de véritables données d’enquêtes de recherche, mises à disposition par beQuali, pour mettre à l’épreuve leur capacité d’analyse.
