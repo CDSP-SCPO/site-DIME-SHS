@@ -1,5 +1,5 @@
 ---
-title:  beQuali : concrete cases for the classes in sociology of the family
+title:  "beQuali : concrete cases for the classes in sociology of the family"
 date:   2019-04-19T00:00:00
 ---
 

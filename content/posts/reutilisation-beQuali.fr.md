@@ -1,5 +1,5 @@
 ---
-title:  beQuali : du concret pour les cours de sociologie de la famille
+title:  "beQuali : du concret pour les cours de sociologie de la famille"
 date:   2019-04-19T00:00:00
 ---
 
