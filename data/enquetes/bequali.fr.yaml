@@ -85,6 +85,8 @@ items:
   date: "1990-1995"
   authors:
   - GOTMAN Anne
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/cdsp_bq_s6/
+  lien_doi: https://doi:10.21410/DSHS_2016/AZGSTR
 - title: Espace et temps du travail domestique
   date: "1978-1981"
   authors:
@@ -96,6 +98,7 @@ items:
   - DE VISSCHER Christian
   - HARGUINDÉGUY, PASQUIER Romain
   - STAFFORD Ian
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/cdsp_bequali_sp7/
 - title: Le réformisme assumé de la CFDT
   date: "2008-2009"
   authors:

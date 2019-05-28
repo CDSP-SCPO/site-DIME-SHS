@@ -76,6 +76,8 @@ items:
   date: "1987-1990"
   authors:
   - MUSSELIN Christine
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/cdsp_bq_s4/
+  lien_doi: https://doi:10.21410/dshs_2016/p9kv-f227
 - title: Dilapidation and prodigality
   date: "1990-1995"
   authors:
