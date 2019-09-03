@@ -2,13 +2,13 @@
 
 'use strict';
 
-const parse = require('@iarna/toml/parse-stream');
-const {createReadStream} = require('fs');
-const {writeFile} = require('fs').promises;
-const {join} = require('path');
-const importers = require('../scripts/import/index.js');
-const {stringify} = require('yaml').default;
+import parse from '@iarna/toml/parse-stream';
+import fs, {createReadStream} from 'fs';
+import {join} from 'path';
+import importers from '../scripts/import/index.js';
+import {stringify} from 'yaml';
 
+const {writeFile} = fs.promises;
 const [,, type, source] = process.argv;
 
 const importer = importers[type];
