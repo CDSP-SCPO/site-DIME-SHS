@@ -1,27 +1,31 @@
 {
-  "_from": "tachyons-sass@4.8",
-  "_id": "tachyons-sass@4.8.1",
+  "_args": [
+    [
+      "tachyons-sass@4.9.5",
+      "/Users/oncletom/workspace/medialab/site-DIME-SHS"
+    ]
+  ],
+  "_from": "tachyons-sass@4.9.5",
+  "_id": "tachyons-sass@4.9.5",
   "_inBundle": false,
-  "_integrity": "sha512-2lyzsFRpFVCjAi7FzuhD6nRUkj6wVH81850AGvxPD5C9G8n58ok5iIuwIm+s/8CaNiqzcnGXzGthJ4Kiq2Y5Og==",
+  "_integrity": "sha512-GPPUIoM+8OkaHF7Ii8+AE5AQzVekfrRnGv55oXYTspXw8BMThmiXr/HrCUmYGiuSnBG73T0862tvzqLGP8B/Mg==",
   "_location": "/tachyons-sass",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "version",
     "registry": true,
-    "raw": "tachyons-sass@4.8",
+    "raw": "tachyons-sass@4.9.5",
     "name": "tachyons-sass",
     "escapedName": "tachyons-sass",
-    "rawSpec": "4.8",
+    "rawSpec": "4.9.5",
     "saveSpec": null,
-    "fetchSpec": "4.8"
+    "fetchSpec": "4.9.5"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/tachyons-sass/-/tachyons-sass-4.8.1.tgz",
-  "_shasum": "5e7b85eb8a1e3cccf45acdff09e97f4ad1844d59",
-  "_spec": "tachyons-sass@4.8",
+  "_resolved": "https://registry.npmjs.org/tachyons-sass/-/tachyons-sass-4.9.5.tgz",
+  "_spec": "4.9.5",
   "_where": "/Users/oncletom/workspace/medialab/site-DIME-SHS",
   "author": {
     "name": "John Otander"
@@ -29,18 +33,16 @@
   "bugs": {
     "url": "https://github.com/tachyons-css/tachyons-sass/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
-    "tachyons": "^4.8.1"
+    "tachyons-custom": "^4.9.5"
   },
-  "deprecated": false,
   "description": "Transpiled Sass partials for Tachyons",
   "devDependencies": {
-    "ava": "^0.22.0",
-    "css-scss": "^0.1.0",
-    "glob": "^7.1.2",
-    "node-sass": "^4.5.3",
-    "standard": "^10.0.3"
+    "ava": "^0.25.0",
+    "css-scss": "^0.1.1",
+    "glob": "^7.1.3",
+    "node-sass": "^4.9.3",
+    "standard": "^12.0.1"
   },
   "homepage": "https://github.com/tachyons-css/tachyons-sass#readme",
   "keywords": [
@@ -62,5 +64,5 @@
     "test": "ava"
   },
   "style": "tachyons.scss",
-  "version": "4.8.1"
+  "version": "4.9.5"
 }
