@@ -15,8 +15,9 @@ const getUrl = (urls) => {
     .pop();
 };
 
-const importer = (source, {publicationsMapping, publications, publicationsLabels}) => {
+const importer = (source, {publicationsMapping:mappingConfig, publications, publicationsLabels}) => {
   const DEFAULT_CATEGORY = getDefaultCategory(publications);
+  const {spire:publicationsMapping} = mappingConfig;
 
   return get(source)
     .then(({text}) => {

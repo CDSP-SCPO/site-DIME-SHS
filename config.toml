@@ -11,34 +11,107 @@ canonifyURLs = true
 enableRobotsTXT = true
 
 [params]
+  # Liste des identifiants DIME-SHS
+  # Détermine l'ordre d'affichage des types de publications.
+  # Ils sont mappés depuis les sections ci-dessous
+  #   - params.publicationsMapping.spire
+  #   - params.publicationsMapping.zotero
   publicationsLabels = [
-    "article",
-    "periodicalIssue",
-    "book",
-    "bookPart",
-    "conferencePaper",
-    "communication",
-    "datascape",
-    "doctoralThesis",
-    "report",
-    "bookReview",
-    "pressReview",
-    "workingPaper",
-    "speech",
+    "Articles",
+    "Ouvrages",
+    "Parties d'ouvrages",
+    "Communications avec actes",
+    "Communications orales",
+    "Posters",
+    "Rapports",
+    "Datascapes",
+    "Cartes et illustrations",
+    "Working papers",
+    "Contributions à un site web",
+    "Articles de presse",
+    "Presse, media, audiovisuel",
+    "Thèses et mémoires",
+    "Logiciels"
   ]
 
-  [params.publicationsMapping]
-    journalArticle = "article"
-    thesis = "doctoralThesis"
-    "conference publication" = "conferencePaper"
-    "conference poster" = "conferencePaper"
-    presentation = "communication"
-    manuscript = "workingPaper"
-    "blogPost" = "workingPaper"
-    bookSection = "bookPart"
-    magazineArticle = "pressReview"
-    "web site" = "datascape"
-    "videorecording" = "speech"
+  # À gauche, l'identifiant Spire…
+  # À droite, l'identifiant DIME-SHS.
+  # Elle est construite à la main depuis cette Spreadsheet
+  #   https://docs.google.com/spreadsheets/d/1qkbsB0wmTmek_nEPpghUMHjakJTqDVHQocvDHguKSSE/edit#gid=521723747
+  # La traduction de l'identifiant DIME-SHS (droite)
+  #   se trouve dans les fichiers i18n/{en,fr}.toml
+  [params.publicationsMapping.spire]
+    article = "Articles"      #
+    bookPart = "Parties d'ouvrages"     #
+    book = "Ouvrages"     #
+    conferenceContribution = "Communications orales"     #
+    contributionToPeriodical = "Articles de presse"     #
+    workingPaper = "Working papers"     #
+    websiteContribution = "Contributions à un site web"      #
+    report = "Rapports"     #
+    bookReview = "Articles"     #
+    periodicalIssue = "Articles de presse"      #
+    doctoralThesis = "Thèses et mémoires"     #
+    audiovisual = "Presse, media, audiovisuel"      #
+    conferencePaper = "Communications avec actes"      #
+    reportPart = "Rapports"     #
+    interview = "Presse, media, audiovisuel"      #
+    conferenceProceedings = "Communications orales"      #
+    "conference publication" = "Communications orales"      #
+    masterThesis = "Thèses et mémoires"     #
+    website = "Datascapes"      #
+    "web site" = "Datascapes"      #
+    preprint = "Presse, media, audiovisuel"     #
+    annotation = "Cartes et illustrations"     #
+    professoralThesis = "Thèses et mémoires"      #
+    conferencePoster = "Communications avec actes"     #
+    "conference poster" = "Communications avec actes"     #
+    map = "Cartes et illustrations"      #
+    speech = "Communications orales"
+    unspecified = ""      #
+
+  # À gauche, l'identifiant Zotero…
+  # À droite, l'identifiant DIME-SHS.
+  # Elle est construite à la main depuis cette Spreadsheet
+  #   https://docs.google.com/spreadsheets/d/1qkbsB0wmTmek_nEPpghUMHjakJTqDVHQocvDHguKSSE/edit#gid=521723747
+  # La traduction de l'identifiant DIME-SHS (droite)
+  #   se trouve dans les fichiers i18n/{en,fr}.toml
+  [params.publicationsMapping.zotero]
+    note = ""                             # Note
+    book = "Ouvrages"                     # Book
+    bookSection = "Parties d'ouvrages"                # Book Section
+    journalArticle = "Articles de presse"             # Journal Article
+    magazineArticle = "Articles de presse"            # Magazine Article
+    newspaperArticle = "Articles de presse"           # Newspaper Article
+    thesis = "Thèses et mémoires"                     # Thesis
+    letter = ""                           # Letter
+    manuscript = "Working papers"         # Manuscript
+    interview = "Presse, media, audiovisuel"          # Interview
+    film = "Presse, media, audiovisuel"               # Film
+    artwork = "Cartes et illustrations"                          # Artwork
+    webpage = "Datascapes"                # Web Page
+    report = "Rapports"                   # Report
+    bill = ""                     # Bill
+    case = ""                     # Case
+    hearing = ""                  # Hearing
+    patent = ""                   # Patent
+    statute = ""                  # Statute
+    email = "Contributions à un site web"                    # E-mail
+    map = "Cartes et illustrations"                      # Map
+    blogPost = "Contributions à un site web"          # Blog Post
+    instantMessage = ""           # Instant Message
+    forumPost = "Contributions à un site web"         # Forum Post
+    audioRecording = "Presse, media, audiovisuel"     # Audio Recording
+    presentation = "Communications orales"            # Presentation
+    videoRecording = "Presse, media, audiovisuel"     # Video Recording
+    tvBroadcast = "Presse, media, audiovisuel"        # TV Broadcast
+    radioBroadcast = "Presse, media, audiovisuel"     # Radio Broadcast
+    podcast = "Presse, media, audiovisuel"            # Podcast
+    computerProgram = "Logiciels"                     # Computer Program
+    conferencePaper = "Communications avec actes"     # Conference Paper
+    document = "Rapports"         # Document
+    encyclopediaArticle = "Parties d'ouvrages"      # Encyclopedia Article
+    dictionaryEntry = "Parties d'ouvrages"          # Dictionary Entry
 
   [params.publications.dime-web]
     name = "Dime Web"

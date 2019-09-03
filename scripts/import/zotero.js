@@ -20,7 +20,7 @@ const getSource = (data) => {
   return data.publisher || data.conferenceName || data.blogTitle || data.manuscriptType || data.meetingName || data.place || null;
 };
 
-const importer = (source, {publicationsMapping, publications, publicationsLabels}) => {
+const importer = (source, {publicationsMapping:mappingConfig, publications, publicationsLabels}) => {
   return request
       .get(source)
       // TODO
@@ -30,6 +30,7 @@ const importer = (source, {publicationsMapping, publications, publicationsLabels
       .query({limit: 100})
       .then(({body}) => {
         const DEFAULT_CATEGORY = getDefaultCategory(publications);
+        const {zotero:publicationsMapping} = mappingConfig;
 
         const items = body.filter(d => d.data.collections).map(item => {
           const categoryId = item.data.collections.pop();
