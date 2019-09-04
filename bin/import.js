@@ -16,6 +16,11 @@ const stream = createReadStream(join(__dirname, '..', 'config.toml'));
 
 parse(stream)
   .then(config => importer(source, config.params))
+  .catch(error => {
+    console.error(error);
+    console.error(`\x1B[30;41mL'import a été annulé et aucun fichier n'a été mis à jour.\x1B[0m`);
+    process.exit(1);
+  })
   .then(({items, publications}) => {
     const categories = Object.keys(publications);
     const writes = categories.map(category => {
