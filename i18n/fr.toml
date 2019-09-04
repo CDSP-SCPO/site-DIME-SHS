@@ -11,32 +11,36 @@ other = "Nous contacter"
 [anr_footer]
 other = "Contenu ANR"
 
-[article]
+["mapping_Articles"]
 other = "articles"
-[periodicalIssue]
-other = "numéro de périodique"
-[book]
-other = "livres"
-[bookPart]
-other = "parties ou chapitres de livre"
-[conferencePaper]
-other = "communications dans des actes de colloque publiés"
-[communication]
-other = "communications non publiées"
-[datascape]
-other = "datascapes"
-[doctoralThesis]
-other = "thèses de doctorat"
-[report]
+["mapping_Ouvrages"]
+other = "ouvrages"
+["mapping_Parties d'ouvrages"]
+other = "parties d'ouvrages"
+["mapping_Communications avec actes"]
+other = "communications avec actes"
+["mapping_Communications orales"]
+other = "communications orales"
+["mapping_Posters"]
+other = "posters"
+["mapping_Rapports"]
 other = "rapports"
-[bookReview]
-other = "comptes-rendus d'ouvrage"
-[pressReview]
-other = "revue de presse"
-[workingPaper]
+["mapping_Datascapes"]
+other = "datascapes"
+["mapping_Cartes et illustrations"]
+other = "cartes et illustrations"
+["mapping_Working papers"]
 other = "working papers"
-[speech]
-other = "présentations"
+["mapping_Contributions à un site web"]
+other = "contributions à un site web"
+["mapping_Articles de presse"]
+other = "articles de presse"
+["mapping_Presse, media, audiovisuel"]
+other = "Presse, media, audiovisuel"
+["mapping_Thèses et mémoires"]
+other = "thèses et mémoires"
+["mapping_Logiciels"]
+other = "logiciels"
 
 [survey_presentation]
 other = "Présentation de l’enquête"
