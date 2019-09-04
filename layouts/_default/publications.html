@@ -14,8 +14,8 @@
   {{- range $labels -}}
   {{- $type := . -}}
   {{- with (where $items "type" $type) -}}
-    <section class="bibliography-section" id="{{$key}}-{{$type}}">
-      <h3>{{ humanize (i18n $type) }}</h3>
+    <section class="bibliography-section" id="{{$key}}-{{anchorize $type}}">
+      <h3>{{ humanize (i18n (delimit (slice "mapping" $type) "_")) }}</h3>
 
       {{ range . }}
       {{- $Publication := . -}}
