@@ -13,7 +13,8 @@ const ALLOWED_TYPES = [
 const getAuthors = (creators) => {
   return creators
       .filter(({creatorType}) => ALLOWED_TYPES.indexOf(creatorType) !== -1)
-      .map(({name, firstName, lastName}) => name || `${lastName}, ${firstName}`);
+      .map(({name, firstName, lastName}) => name || `${lastName}, ${firstName}`)
+      .map(name => name.trim().replace(/,+$/, ''))
 };
 
 const getSource = (data) => {
