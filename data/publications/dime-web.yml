@@ -1,13 +1,12 @@
 - id: 3DIBYB48
-  title: >-
-    L’EMI en partage : essai de cartographie des acteurs
+  title: "L’EMI en partage : essai de cartographie des acteurs"
   authors:
     - Schneider, Élisabeth
     - Serres, Alexandre
     - Stalder, Angèle
   date: 2015-10-09
   url: https://archivesic.ccsd.cnrs.fr/sic_01217549/document
-  type: conferencePaper
+  type: Communications avec actes
   issue: null
   pages: ""
   publication: null
@@ -21,7 +20,7 @@
     - Ojala, Mace
   date: 2017-01-05
   url: https://ethos.itu.dk/2017/01/05/mining-with-hyphe-reflections-on-publicethos-13/
-  type: workingPaper
+  type: Contributions à un site web
   issue: null
   pages: null
   publication: null
@@ -38,7 +37,7 @@
     - Chaudiron, Stéphane
   date: 2015-11-18
   url: http://hal.univ-lille3.fr/hal-01281716
-  type: conferencePaper
+  type: Communications avec actes
   issue: null
   pages: 145-158
   publication: null
@@ -54,7 +53,7 @@
     - Peyrache-Gadeau, Véronique
   date: 2017-07-12
   url: https://labexitem.hypotheses.org/452
-  type: conferencePaper
+  type: Communications avec actes
   issue: null
   pages: ""
   publication: null
@@ -62,9 +61,8 @@
   source: null
   category: dime-web
 - id: 7LGEKTJG
-  title: >-
-    What is Digital Humanities' Identity in Interdisciplinary Practices?: An
-    Experiment with Digital Tools for Visualizing the Francophone DH Network
+  title: "What is Digital Humanities' Identity in Interdisciplinary Practices?: An
+    Experiment with Digital Tools for Visualizing the Francophone DH Network"
   authors:
     - Desfriches-Doria, Orélie
     - Sergent, Henri
@@ -73,7 +71,7 @@
     - Borel, Justine
   date: "2018"
   url: http://doi.acm.org/10.1145/3240431.3240439
-  type: conferencePaper
+  type: Communications avec actes
   issue: null
   pages: 39–47
   publication: null
@@ -81,13 +79,12 @@
   source: ACM
   category: dime-web
 - id: A7S7BE2I
-  title: >-
-    The AfD’s Facebook Wall: A new Hub for Right-Wing Mobilisation in Germany?
+  title: "The AfD’s Facebook Wall: A new Hub for Right-Wing Mobilisation in Germany?"
   authors:
     - Arzheimer, Kai
   date: 2015-09-03
   url: https://convention2.allacademic.com/one/apsa/apsa15/index.php?cmd=Online+Program+View+Paper&selected_paper_id=997634&PHPSESSID=vnpdminlo8d0kvs0u7aprbk8e0
-  type: conferencePaper
+  type: Communications avec actes
   issue: null
   pages: "21"
   publication: null
@@ -103,7 +100,7 @@
     - Rogers, Richard
   date: "2017"
   url: http://sk.sagepub.com/reference/the-sage-handbook-of-social-media//i851.xml
-  type: bookPart
+  type: Parties d'ouvrages
   issue: null
   pages: 91-108
   publication: null
@@ -118,7 +115,7 @@
     - Severo, Marta
   date: May 2016
   url: https://hal.archives-ouvertes.fr/hal-01294443
-  type: article
+  type: Articles de presse
   issue: "6"
   pages: ""
   publication: Azimuth. Philosophical Coordinates in Modern and Contemporary Age
@@ -132,7 +129,7 @@
     - Julliard, Virginie
   date: 2017-08-22
   url: https://www.cairn.info/revue-reseaux-2017-4-page-35.htm
-  type: article
+  type: Articles de presse
   issue: "204"
   pages: 35-69
   publication: Réseaux
@@ -140,13 +137,12 @@
   source: null
   category: dime-web
 - id: GB8HZL45
-  title: >-
-    ‪#Theoriedugenre : comment débat-on du genre sur Twitter ?‪
+  title: "‪#Theoriedugenre : comment débat-on du genre sur Twitter ?‪"
   authors:
     - Julliard, Virginie
   date: "2016"
   url: https://www.cairn.info/article.php?ID_ARTICLE=QDC_030_0135
-  type: article
+  type: Articles de presse
   issue: "30"
   pages: 135-157
   publication: Questions de communication
@@ -160,7 +156,7 @@
     - Froio, Caterina
   date: 2017-06-19
   url: https://www.cairn.info/revue-reseaux-2017-2-page-39.htm
-  type: article
+  type: Articles de presse
   issue: 202-203
   pages: 39-78
   publication: Réseaux
@@ -174,7 +170,7 @@
     - Sánchez, Sandra Álvaro
   date: "2019"
   url: http://peerproduction.net/editsuite/issues/issue-13-open/peer-reviewed-papers/a-topological-space-for-design-participation-and-production/
-  type: article
+  type: Articles de presse
   issue: "13"
   pages: "15"
   publication: Journal of Peer Production
@@ -192,7 +188,7 @@
     - Seror, Valérie
   date: January 1, 2019
   url: http://www.sciencedirect.com/science/article/pii/S0277953618306282
-  type: article
+  type: Articles de presse
   issue: ""
   pages: 73-80
   publication: Social Science & Medicine
@@ -206,7 +202,7 @@
     - de Carvalho Pereira, Débora
   date: 2017-10-15
   url: https://f-origin.hypotheses.org/wp-content/blogs.dir/3105/files/2017/10/Rapport-REPASTOL-PEREIRA-2017.compressed.pdf
-  type: report
+  type: Rapports
   issue: null
   pages: "131"
   publication: null
@@ -222,7 +218,7 @@
     - Mabi, Clément
   date: 2016/01/01
   url: http://journals.openedition.org/rfsic/1783
-  type: article
+  type: Articles de presse
   issue: "8"
   pages: ""
   publication: Revue française des sciences de l’information et de la communication
@@ -230,8 +226,8 @@
   source: null
   category: dime-web
 - id: VQP36VGJ
-  title: >-
-    Dépasser la liste : quand la bibliothèque entre dans la danse des corpus web
+  title: "Dépasser la liste : quand la bibliothèque entre dans la danse des corpus
+    web"
   authors:
     - Pedroja, Cynthia
     - L'Hôte, Anne
@@ -239,7 +235,7 @@
     - Levain, Elisabeth
   date: 2016-07
   url: https://hal.archives-ouvertes.fr/hal-01386536
-  type: conferencePaper
+  type: Communications avec actes
   issue: null
   pages: 646-648
   publication: null
@@ -247,26 +243,23 @@
   source: Jagiellonian University & Pedagogical University
   category: dime-web
 - id: WMBY5H84
-  title: >-
-    L'EMI sur le web : cartographie d'un domaine en émergence
+  title: "L'EMI sur le web : cartographie d'un domaine en émergence"
   authors:
     - Serres, Alexandre
     - Stalder, Angèle
   date: 2016-03-18
   url: https://archivesic.ccsd.cnrs.fr/sic_01483421/document
-  type: conferencePaper
+  type: Communications avec actes
   issue: null
   pages: ""
   publication: null
   volume: ""
-  source: >-
-    Journée d'étude GRCDI-ESPE de Caen et Rouen, « L’EMI en questions : enjeux,
-    prescriptions, contenus, apprentissages »
+  source: "Journée d'étude GRCDI-ESPE de Caen et Rouen, « L’EMI en questions : enjeux,
+    prescriptions, contenus, apprentissages »"
   category: dime-web
 - id: XQHL9B8C
-  title: >-
-    Big Data Measures of Well-Being: Evidence from a Google Well-Being Index in
-    the US
+  title: "Big Data Measures of Well-Being: Evidence from a Google Well-Being Index in
+    the US"
   authors:
     - Algan, Yann
     - Beasley, Elizabeth
@@ -276,7 +269,7 @@
     - Senik, Claudia
   date: "2015"
   url: https://core.ac.uk/display/80771218
-  type: article
+  type: Articles de presse
   issue: ""
   pages: ""
   publication: ""
@@ -284,16 +277,15 @@
   source: null
   category: dime-web
 - id: Y5IH4549
-  title: >-
-    Cartographier les acteurs d'un territoire : une approche appliquée au
-    patrimoine industriel textile du Nord-Pas-de-Calais
+  title: "Cartographier les acteurs d'un territoire : une approche appliquée au
+    patrimoine industriel textile du Nord-Pas-de-Calais"
   authors:
     - Berthelot, Marie-Aimée
     - Severo, Marta
     - Kergosien, Eric
   date: 2016-03
   url: https://hal.archives-ouvertes.fr/hal-01353660
-  type: conferencePaper
+  type: Communications avec actes
   issue: null
   pages: 66-72
   publication: null
@@ -301,14 +293,13 @@
   source: Collège international des sciences du territoire (CIST)
   category: dime-web
 - id: YVPJ5WGK
-  title: >-
-    Mapping Wind Energy Controversies Online: Introduction to Methods and
-    Datasets
+  title: "Mapping Wind Energy Controversies Online: Introduction to Methods and
+    Datasets"
   authors:
     - Munk, Anders Kristian
   date: 2014/11/01
   url: https://papers.ssrn.com/abstract=2595287
-  type: report
+  type: Rapports
   issue: null
   pages: ""
   publication: null
@@ -325,7 +316,7 @@
     - Brilli, Agata
   date: 2017, 2017
   url: http://spire.sciencespo.fr/hdl:/2441/10ctml1egq89ro59upjajbj74n
-  type: speech
+  type: Communications orales
   source: International Conference on Public Policy (ICPP3), Singapore, SG,
     2017-06-28/2017-06-30
   publication: International Public Policy Association
@@ -336,57 +327,53 @@
     - Ooghe, Benjamin
   date: 2016-11-23
   url: https://dlis.hypotheses.org/831
-  type: speech
+  type: Communications orales
   source: null
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/13spb3bujg8rlrlaj9j2t7ccvl
-  title: >-
-    Présentation du médialab et description des corpus web:INA DLWeb - Saison 5
-    atelier 5 : Web archivé et archives scientifiques
+  title: "Présentation du médialab et description des corpus web:INA DLWeb - Saison 5
+    atelier 5 : Web archivé et archives scientifiques"
   authors:
     - Girard, Paul
     - Ooghe, Benjamin
   date: 2014-06-13
   url: http://atelier-dlweb.fr/blog/?p=1254
-  type: speech
+  type: Communications orales
   source: null
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/15bh4udemm8439nhc008loqhn3
-  title: >-
-    Outils &amp; méthodes pour créer, traiter et analyser des corpus web:INA
-    DLWeb - Saison 6 atelier 3 : Qu’est ce qu’un corpus web ?
+  title: "Outils &amp; méthodes pour créer, traiter et analyser des corpus web:INA
+    DLWeb - Saison 6 atelier 3 : Qu’est ce qu’un corpus web ?"
   authors:
     - Ooghe, Benjamin
   date: 2015-04-17
   url: https://web90.hypotheses.org/1335
-  type: speech
+  type: Communications orales
   source: null
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/1698ddv85d9ffo13hjld5iudlo
-  title: >-
-    Visual Network Analysis: the Example of the Rio+20 Online Debate
+  title: "Visual Network Analysis: the Example of the Rio+20 Online Debate"
   authors:
     - Venturini, Tommaso
     - Jacomy, Mathieu
     - Pereira, Debora
   date: 2015
   url: http://www.medialab.sciences-po.fr/wp-content/uploads/2015/06/VisualNetwork_Paper-10.pdf
-  type: report
+  type: Rapports
   source: null
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/1l85je5mf39d1904g1iqrfrftm
-  title: >-
-    Hyphe et Dime Web:OTMedia Workshop 2013 : Big Data for Media Analysis
+  title: "Hyphe et Dime Web:OTMedia Workshop 2013 : Big Data for Media Analysis"
   authors:
     - Jacomy, Mathieu
     - Ooghe, Benjamin
   date: 2013-12-05
   url: http://www.otmedia.fr/wp-content/uploads/2013/10/OT-Media-International-Conference-Big-Data-for-Media-Analysis.pdf
-  type: speech
+  type: Communications orales
   source: null
   publication: null
   category: dime-web
@@ -398,14 +385,13 @@
     - Ooghe, Benjamin
   date: 2017-05
   url: http://tools.medialab.sciences-po.fr/privacy/
-  type: datascape
+  type: Datascapes
   source: http://tools.medialab.sciences-po.fr/privacy/
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/1ve2iilj4i94ip23o9iav2ja5b
-  title: >-
-    Pourquoi le débat #EuropaCity n’a pas pris sur Twitter ?:Analyse de la
-    mobilisation autour d’une controverse environnementale sur le réseau social
+  title: "Pourquoi le débat #EuropaCity n’a pas pris sur Twitter ?:Analyse de la
+    mobilisation autour d’une controverse environnementale sur le réseau social"
   authors:
     - Antolinos-Basso, Diego
     - Paddeu, Flaminia
@@ -413,32 +399,30 @@
     - Blanc, Nathalie
   date: 2017-11, 1993
   url: http://spire.sciencespo.fr/hdl:/2441/1ve2iilj4i94ip23o9iav2ja5b
-  type: article
+  type: Articles
   source: Reset, (7), 1-1 (2017-11)
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/230upj29ts8o39oavidln6jeu0
-  title: >-
-    L'archivage piloté par la recherche : l'exemple du médialab:Master II ENSSIB
-    - Archivage
+  title: "L'archivage piloté par la recherche : l'exemple du médialab:Master II
+    ENSSIB - Archivage"
   authors:
     - Ooghe, Benjamin
   date: 2014-01-13
   url: http://spire.sciencespo.fr/hdl:/2441/230upj29ts8o39oavidln6jeu0
-  type: speech
+  type: Communications orales
   source: null
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/2ap5ocbu0b96m8ogel9f93clo0
-  title: >-
-    Datascape Privacy : méthode d'exploration visuelle d'un large corpus de
-    données web
+  title: "Datascape Privacy : méthode d'exploration visuelle d'un large corpus de
+    données web"
   authors:
     - Crépel, Maxime
     - Jacomy, Mathieu
   date: 2017-06
   url: http://spire.sciencespo.fr/hdl:/2441/2ap5ocbu0b96m8ogel9f93clo0
-  type: speech
+  type: Communications orales
   source: null
   publication: null
   category: dime-web
@@ -449,7 +433,7 @@
     - Ooghe, Benjamin
   date: 2018-09-27
   url: http://spire.sciencespo.fr/hdl:/2441/2ku47fg4gm8b1ojnr6ko3t6dn9
-  type: speech
+  type: Communications orales
   source: null
   publication: null
   category: dime-web
@@ -462,10 +446,9 @@
     - Gray, Jonathan
   date: 2018-08
   url: http://spire.sciencespo.fr/hdl:/2441/2qstn4hntb9899i33dp4dn3hrs
-  type: bookPart
-  source: >-
-    The Routledge Handbook to Developments in Digital Journalism Studies,
-    Abingdon: Routledge
+  type: Parties d'ouvrages
+  source: "The Routledge Handbook to Developments in Digital Journalism Studies,
+    Abingdon: Routledge"
   publication: Routledge
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/2solvroumm9kgpsu49vb8pphju
@@ -476,10 +459,9 @@
     - Leclercq, Christophe
   date: 2017-03-16
   url: http://medialab.github.io/publications/datascape@scienceXXL/
-  type: speech
-  source: >-
-    Science XXL : Ce que l’abondance et la diversité des données font aux
-    sciences sociales, Paris, FR, 2017-03-16/2017-03-17
+  type: Communications orales
+  source: "Science XXL : Ce que l’abondance et la diversité des données font aux
+    sciences sociales, Paris, FR, 2017-03-16/2017-03-17"
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/3aa6g5tifn9tc856n9g7svklvo
@@ -489,7 +471,7 @@
     - Ooghe, Benjamin
   date: 2018-06-21
   url: https://lemel.hypotheses.org/156
-  type: speech
+  type: Communications orales
   source: null
   publication: null
   category: dime-web
@@ -502,7 +484,7 @@
     - Boullier, Dominique
   date: 2016, 1983
   url: http://spire.sciencespo.fr/hdl:/2441/3dciauig4s8g0rl470bucqrf33
-  type: article
+  type: Articles
   source: Réseaux, 1(195), 131-161 (2016)
   publication: Éditions La Découverte
   category: dime-web
@@ -514,14 +496,13 @@
     - Girard, Paul
   date: 2016-11-15
   url: https://anf-mate2016.sciencesconf.org/data/MATE_SHS_2016_Ooghe_B.pdf
-  type: speech
+  type: Communications orales
   source: null
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/3r6kitktvv8fkp8lssnr3qmis6
-  title: >-
-    How to Tell Stories with Networks: Exploring the Narrative Affordances of
-    Graphs with the Iliad
+  title: "How to Tell Stories with Networks: Exploring the Narrative Affordances of
+    Graphs with the Iliad"
   authors:
     - Venturini, Tommaso
     - Bounegru, Liliana
@@ -529,22 +510,20 @@
     - Gray, Jonathan
   date: 2017-02-25
   url: http://spire.sciencespo.fr/hdl:/2441/3r6kitktvv8fkp8lssnr3qmis6
-  type: bookPart
-  source: >-
-    Datafied Society: Social Research in the Age of Big Data., (pp. 155-170):
-    Amsterdam University Press
+  type: Parties d'ouvrages
+  source: "Datafied Society: Social Research in the Age of Big Data., (pp. 155-170):
+    Amsterdam University Press"
   publication: Amsterdam University Press
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/4q6osdlj0291krv8b6c9rlr59s
-  title: >-
-    médialab Tools : de petits outils simples et complexes au service de la
+  title: "médialab Tools : de petits outils simples et complexes au service de la
     DataScience:ANF MATE-SHS 2016 - Collecter et produire des données pour la
-    recherche en SHS
+    recherche en SHS"
   authors:
     - Ooghe, Benjamin
   date: 2016-11-16
   url: https://anf-mate2016.sciencesconf.org/data/MATE_SHS_2016_Ooghe_TabanouB.pdf
-  type: speech
+  type: Communications orales
   source: null
   publication: null
   category: dime-web
@@ -557,20 +536,19 @@
     - Larousserie, David
   date: 2012-02-03, 1944
   url: https://www.lemonde.fr/planete/article/2012/02/03/reseaux-la-quete-des-lois-du-web_1638035_3244.html
-  type: article
+  type: Articles
   source: Le  (2012-02-03)
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/50pcas4psk963o61vui7tvdprr
-  title: >-
-    hyphe : Utiliser le Web comme terrain d'enquête:Ateliers DATA SHS - MESHS
-    Lille
+  title: "hyphe : Utiliser le Web comme terrain d'enquête:Ateliers DATA SHS - MESHS
+    Lille"
   authors:
     - Ooghe, Benjamin
     - Crépel, Maxime
   date: 2017-12-15
   url: https://www.meshs.fr/page/lesjourne171004111447
-  type: speech
+  type: Communications orales
   source: null
   publication: null
   category: dime-web
@@ -584,31 +562,29 @@
     - Bastian, Mathieu
   date: 2014, 2006
   url: http://spire.sciencespo.fr/hdl:/2441/58bmf6rqp96hros64meac1fts
-  type: article
+  type: Articles
   source: PLos ONE, 9(6), 1-18 (2014)
   publication: Public Library of Science
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/64dg5450086mrm77un6vp36r7
-  title: >-
-    Explorer les internets avec Hyphe:METSEM #06
+  title: "Explorer les internets avec Hyphe:METSEM #06"
   authors:
     - Jacomy, Mathieu
   date: 2017-09-04, 2017-04
   url: https://metsem.hypotheses.org/111
-  type: speech
+  type: Communications orales
   source: null
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/6m937ip5p99bro7c1l1hho5voc
-  title: >-
-    The Formation of Digital Networks in Controversial Areas of Biotechnology:
-    Discussing the notion of public opinion through web-based big-data analysis
+  title: "The Formation of Digital Networks in Controversial Areas of Biotechnology:
+    Discussing the notion of public opinion through web-based big-data analysis"
   authors:
     - Tournay, Virginie
     - Jacomy, Mathieu
   date: 2016-03
   url: http://spire.sciencespo.fr/hdl:/2441/6m937ip5p99bro7c1l1hho5voc
-  type: speech
+  type: Communications orales
   source: null
   publication: null
   category: dime-web
@@ -621,7 +597,7 @@
     - Venturini, Tommaso
   date: 2016-05, 2016-05-20
   url: http://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13051/12797
-  type: conferencePaper
+  type: Communications avec actes
   source: International AAAI Conference on Web and Social Media, Köln, DE,
     2016-05-18/2016-05-20
   publication: Association for the Advancement of Artificial Intelligence
@@ -636,7 +612,7 @@
     - Jacomy, Mathieu
   date: 2016-06-20
   url: http://spire.sciencespo.fr/hdl:/2441/6urkuh5hb58h9oobtv1nlit9uo
-  type: article
+  type: Articles
   source: Digital Journalism (2016-06-20)
   publication: null
   category: dime-web
@@ -654,7 +630,7 @@
     - Fleury, Eric
   date: 2015-09
   url: http://spire.sciencespo.fr/hdl:/2441/6v5vvm7ncu9hcbjumqg47u2jq8
-  type: article
+  type: Articles
   source: Journal of Complex Networks (2015-09)
   publication: null
   category: dime-web
@@ -667,7 +643,7 @@
     - Cautrès, Bruno
   date: 2016-11
   url: http://www.cevipof.com/fr/le-barometre-de-la-confiance-politique-du-cevipof/methodologie/
-  type: report
+  type: Rapports
   source: null
   publication: CEVIPOF
   category: dime-web
@@ -685,7 +661,7 @@
     - Venturini, Tommaso
   date: 2015-10
   url: https://medialab.github.io/double-dating-data/
-  type: datascape
+  type: Datascapes
   source: https://medialab.github.io/double-dating-data/
   publication: null
   category: dime-web
@@ -697,7 +673,7 @@
     - Robin, Sabrina, Géographie-Cités
   date: 2015-07
   url: https://journals.openedition.org/netcom/2089
-  type: article
+  type: Articles
   source: Netcom – Réseaux, communication et territoires, 29(3/4), 275-296 (2015-07)
   publication: null
   category: dime-web
@@ -710,7 +686,7 @@
     - Plique, Guillaume
   date: 2018-10, 2018-10
   url: http://hyphe.medialab.sciences-po.fr/docs/20181004-DigitalTools-HyperlinkIsNotDead.pdf
-  type: conferencePaper
+  type: Communications orales
   source: WS.2 2018 International conference on Web Studies, Paris, France — October
     03 - 05, 2018, Paris, FR, 2018-10-03/2018-10-05
   publication: Association for Computing Machinery
@@ -724,14 +700,12 @@
     - Jacomy, Mathieu
   date: 2016-01
   url: http://spire.sciencespo.fr/hdl:/2441/7jgmr11pjd939b8r7iobgqs53u
-  type: bookPart
-  source: >-
-    DigitalSTS: A Handbook and Fieldguide: Inconnu
+  type: Parties d'ouvrages
+  source: "DigitalSTS: A Handbook and Fieldguide: Inconnu"
   publication: Inconnu
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/q9ro3ttpd9dbr4mml3st7996s
-  title: >-
-    Hors champs: la multipositionnalité par l'analyse des réseaux
+  title: "Hors champs: la multipositionnalité par l'analyse des réseaux"
   authors:
     - Venturini, Tommaso
     - Jacomy, Mathieu
@@ -739,20 +713,19 @@
     - Girard, Paul
   date: 2016-05, 1983
   url: http://spire.sciencespo.fr/hdl:/2441/q9ro3ttpd9dbr4mml3st7996s
-  type: article
+  type: Articles
   source: Réseaux, (199) (2016-05)
   publication: Éditions La Découverte
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/s0e6rqi878r8qmlcn9dl9l0b1
-  title: >-
-    SoWell : Quelles données se cachent derrière le Bonheur ?
+  title: "SoWell : Quelles données se cachent derrière le Bonheur ?"
   authors:
     - Jacomy, Mathieu
     - Ooghe, Benjamin
     - Beasley, Elizabeth
   date: 2017-04
   url: http://medialab.github.io/well-being-metrics/app/
-  type: datascape
+  type: Datascapes
   source: http://medialab.github.io/well-being-metrics/app/
   publication: null
   category: dime-web
@@ -766,7 +739,7 @@
     - Girard, Paul
   date: 2018-02
   url: https://fosdem.org/2018/schedule/event/multi_level_graph_index/
-  type: speech
+  type: Communications orales
   source: FOSDEM'18, Bruxelles, BE, 2018-02-03/2018-02-04
   publication: null
   category: dime-web

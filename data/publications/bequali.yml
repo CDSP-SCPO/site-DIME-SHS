@@ -1,28 +1,25 @@
 - id: 3VVSP9ZG
   title: Genre et « Formation du couple », réanalyser une enquête canonique
   authors:
-    - >-
-      Descoutures, Virginie, 
+    - Descoutures, Virginie
   date: 12-13 décembre 2014
   url: ""
-  type: communication
+  type: Communications orales
   issue: null
   pages: null
   publication: null
   volume: null
-  source: >-
-    Expérimenter l'analyse secondaire des enquêtes qualitatives : premier bilan
+  source: "Expérimenter l'analyse secondaire des enquêtes qualitatives : premier bilan"
   category: bequali
 - id: 84SNI7TF
-  title: >-
-    The "European integration paradox" : comparing EU practice and discourse on
+  title: 'The "European integration paradox" : comparing EU practice and discourse on
     the role of parliaments in the EU in the Assemblée nationale and the
-    Bundestag across time
+    Bundestag across time'
   authors:
     - Thomas, Anja
   date: 2016-12
   url: http://www.theses.fr/2016IEPP0039
-  type: doctoralThesis
+  type: Thèses et mémoires
   issue: null
   pages: null
   publication: null
@@ -30,35 +27,30 @@
   source: Paris
   category: bequali
 - id: HQFYNCIP
-  title: >-
-    Inventaire et collecte des données qualitatives : comment les chercheurs (se
-    dé-)font (de) leurs enquêtes ?
+  title: "Inventaire et collecte des données qualitatives : comment les chercheurs
+    (se dé-)font (de) leurs enquêtes ?"
   authors:
-    - >-
-      Rioufreyt, Thibaut, 
-    - >-
-      Bachelot, Carole, 
-    - >-
-      Guaspare, Catherine, 
+    - Rioufreyt, Thibaut
+    - Bachelot, Carole
+    - Guaspare, Catherine
   date: 12-13 décembre 2014
   url: ""
-  type: communication
+  type: Communications orales
   issue: null
   pages: null
   publication: null
   volume: null
-  source: >-
-    Expérimenter l’analyse  secondaire des enquêtes qualitatives : premier bilan
+  source: "Expérimenter l’analyse  secondaire des enquêtes qualitatives : premier
+    bilan"
   category: bequali
 - id: Q4X3PZ4R
-  title: >-
-    Des banques d'enquêtes qualitatives en sciences sociales : panorama Europe
-    Etats-Unis
+  title: "Des banques d'enquêtes qualitatives en sciences sociales : panorama Europe
+    Etats-Unis"
   authors:
     - Guaspare, Catherine
   date: "2017"
   url: http://www.recherche-qualitative.qc.ca/documents/files/revue/hors_serie/HS-21/rq-hs21-c-guaspare.pdf
-  type: article
+  type: Articles de presse
   issue: "21"
   pages: 143-163
   publication: La réanalyse des enquêtes qualitatives à l'épreuve de l'expérimentation
@@ -66,17 +58,16 @@
   source: null
   category: bequali
 - id: TFQ4JY54
-  title: >-
-    Types idéologiques et classe résiduelle dans l'enquête d'Etienne Schweisguth
-    : les Français et la politique, 1982-1988. Réanalyse à partir de deux
-    familles de logiciels, CAQDAS et ADT
+  title: "Types idéologiques et classe résiduelle dans l'enquête d'Etienne
+    Schweisguth : les Français et la politique, 1982-1988. Réanalyse à partir de
+    deux familles de logiciels, CAQDAS et ADT"
   authors:
     - Abrial, Stéphanie
     - Brugidou, Mathieu
     - Salomon, Annie-Claude
   date: "2017"
   url: www.recherche-qualitative.qc.ca/documents/files/revue/hors_serie/HS-21/rq-hs21-abrial-et-al.pdf
-  type: article
+  type: Articles de presse
   issue: "21"
   pages: 29-53
   publication: La réanalyse des enquêtes qualitatives à l'épreuve de l'expérimentation
@@ -89,7 +80,7 @@
     - Souanef, Karim
   date: 2017-05
   url: http://bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bq_s3/
-  type: report
+  type: Rapports
   source: null
   publication: beQuali
   category: bequali
@@ -101,7 +92,7 @@
     - Groshens, Emilie
   date: 2016-05-12
   url: http://spire.sciencespo.fr/hdl:/2441/21a8lnlbuv9g6rbuaibf6n1muj
-  type: speech
+  type: Communications orales
   source: Séminaire du laboratoire Edytem, Chambéry, FR, 2016-05-12/2016-05-12
   publication: null
   category: bequali
@@ -113,36 +104,33 @@
     - Groshens, Emilie
   date: 2017-06
   url: http://spire.sciencespo.fr/hdl:/2441/2e0rq8803g8js99fv8eblti06g
-  type: speech
+  type: Communications orales
   source: Séminaire du pôle "Unité de Recherche sur le vieillissement (URV)" de la
     CNAV, Paris, CNAV, FR, 2017-06-14
   publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/2e9t5j36aq8bbppvaon5f2kedl
-  title: >-
-    Enquête sur l'enquête « De l’Afrique à la France : deux générations
-    d’immigrés africains (2006-2010) » de Jacques Barou
+  title: "Enquête sur l'enquête « De l’Afrique à la France : deux générations
+    d’immigrés africains (2006-2010) » de Jacques Barou"
   authors:
     - Bendjaballah, Selma
   date: 2017-06
   url: http://bequali.fr/media/surveys_unzip/unziped_cdsp_bq_s5/cdsp_bq_s5/ESE/cdsp_bq_s5_ese_rapport.pdf
-  type: report
+  type: Rapports
   source: null
   publication: beQuali
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/2gctglt2qj87ir70u6bfhdi260
-  title: >-
-    Ce que l’analyse secondaire apporte à la socio-histoire des idées
+  title: "Ce que l’analyse secondaire apporte à la socio-histoire des idées
     politiques. Retour d’enquête sur deux revues de parti : La Revue socialiste
-    et La Nouvelle Critique
+    et La Nouvelle Critique"
   authors:
     - Rioufreyt, Thibaut
   date: 2014-12
   url: http://spire.sciencespo.fr/hdl:/2441/2gctglt2qj87ir70u6bfhdi260
-  type: speech
-  source: >-
-    », journée d’étude « Expérimenter l’analyse secondaire des enquêtes
-    qualitatives : Premier bilan », ISP, Nanterre, FR, 2014-12-12/2014-12-13
+  type: Communications orales
+  source: "», journée d’étude « Expérimenter l’analyse secondaire des enquêtes
+    qualitatives : Premier bilan », ISP, Nanterre, FR, 2014-12-12/2014-12-13"
   publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/2pn65l78en94t9neo42pgj31no
@@ -153,20 +141,19 @@
     - Juillard, Emeline
   date: 2019-01
   url: http://spire.sciencespo.fr/hdl:/2441/2pn65l78en94t9neo42pgj31no
-  type: report
+  type: Rapports
   source: null
   publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/30i9r73tr38j98mb7q4de6e5dg
-  title: >-
-    Rôles et compétences dans un projet de mise à disposition d'archives
-    d'enquêtes qualitatives en SHS : le cas de beQuali
+  title: "Rôles et compétences dans un projet de mise à disposition d'archives
+    d'enquêtes qualitatives en SHS : le cas de beQuali"
   authors:
     - Cadorel, Sarah
     - Groshens, Emilie
   date: 2015-12
   url: http://spire.sciencespo.fr/hdl:/2441/30i9r73tr38j98mb7q4de6e5dg
-  type: speech
+  type: Communications orales
   source: “Rôle et compétences des professionnels de l’information scientifique et
     technique pour l’accompagnement des projets de recherche” - journée d’études
     organisée par le réseau des documentalistes d'Aquitaine (ARPIST), Pessac,
@@ -174,28 +161,26 @@
   publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/36pa2uv7n688qae8v14qd16b73
-  title: >-
-    Bequali : An infrastructure project for reutilisation of qualitative
-    research in the social sciences
+  title: "Bequali : An infrastructure project for reutilisation of qualitative
+    research in the social sciences"
   authors:
     - Cadorel, Sarah
     - Pedroja, Cynthia
   date: 2015-06
   url: http://spire.sciencespo.fr/hdl:/2441/36pa2uv7n688qae8v14qd16b73
-  type: speech
+  type: Communications orales
   source: conférence LIBER, Londres, GB, 2014-06-12
   publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/3al534ljdf90v93448b112cq9p
-  title: >-
-    BeQuali : un dispositif pour (apprendre à) partager les enquêtes
-    qualitatives en SHS
+  title: "BeQuali : un dispositif pour (apprendre à) partager les enquêtes
+    qualitatives en SHS"
   authors:
     - Duchesne, Sophie
     - Garcia, Guillaume
   date: 2013
   url: http://spire.sciencespo.fr/hdl:/2441/3al534ljdf90v93448b112cq9p
-  type: speech
+  type: Communications orales
   source: séminaire « Les lundis de l’INED », INED, FR, 2013-04-08/2013-04-08
   publication: null
   category: bequali
@@ -205,14 +190,13 @@
     - Garcia, Guillaume
   date: 2016-01
   url: http://bequali.fr/fr/les-enquetes/lenquete-en-bref/cdsp_bequali_sp6/
-  type: report
+  type: Rapports
   source: null
   publication: beQuali
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/3jrvd4j4co8jp92qkq04lpgfh7
-  title: >-
-    Anonymat et confidentialité des données : l’expérience de
-    beQuali:L'expérience et les solutions mises en œuvre par beQuali
+  title: "Anonymat et confidentialité des données : l’expérience de
+    beQuali:L'expérience et les solutions mises en œuvre par beQuali"
   authors:
     - Fromont, Emilie
     - Bendjaballah, Selma
@@ -222,10 +206,9 @@
     - Groshens, Emilie
   date: 2018-10
   url: https://hal-amu.archives-ouvertes.fr/hal-01903040v1
-  type: bookPart
-  source: >-
-    La diffusion numérique des données en SHS, Aix en Provence: Presses
-    universitaires de Provence
+  type: Parties d'ouvrages
+  source: "La diffusion numérique des données en SHS, Aix en Provence: Presses
+    universitaires de Provence"
   publication: Presses universitaires de Provence
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/3k9lmfvmq8b29j3l7gk0fi894
@@ -234,7 +217,7 @@
     - Garcia, Guillaume
   date: 2013-01
   url: http://bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bequali_sp2/
-  type: report
+  type: Rapports
   source: null
   publication: beQuali
   category: bequali
@@ -247,27 +230,25 @@
     - Garcia, Guillaume
   date: 2013-01
   url: http://bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bequali_sp1/
-  type: report
+  type: Rapports
   source: null
   publication: beQuali
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/3pcp5e58dk9qeabp6olc3i7at3
-  title: >-
-    Préservez, partagez et réutilisez des enquêtes qualitatives : Présentation
-    de la plateforme beQuali
+  title: "Préservez, partagez et réutilisez des enquêtes qualitatives : Présentation
+    de la plateforme beQuali"
   authors:
     - Groshens, Emilie
   date: 2018-11-06
   url: http://spire.sciencespo.fr/hdl:/2441/3pcp5e58dk9qeabp6olc3i7at3
-  type: speech
+  type: Communications orales
   source: LILLIAD, Learning Center Innovation, Lille, FR, 2018-11-06
   publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/3v2s7jooug9cv9vp3rnbapc1p2
-  title: >-
-    Valoriser les données d’enquêtes qualitatives en sciences sociales : le cas
+  title: "Valoriser les données d’enquêtes qualitatives en sciences sociales : le cas
     français de la banque d’enquête beQuali:Les données et les sciences de
-    l’information
+    l’information"
   authors:
     - Bendjaballah, Selma
     - Garcia, Guillaume
@@ -277,7 +258,7 @@
     - Juillard, Emeline
   date: 2017-10
   url: http://spire.sciencespo.fr/hdl:/2441/3v2s7jooug9cv9vp3rnbapc1p2
-  type: article
+  type: Articles
   source: Documentation et bibliothèques, 63(4), 73-85 (2017-10)
   publication: null
   category: bequali
@@ -291,10 +272,9 @@
     - Rioufreyt, Thibaut
   date: 2015-06
   url: http://spire.sciencespo.fr/hdl:/2441/42v71b5pth894qajj8vlg7k68i
-  type: speech
-  source: >-
-    Congrès de l’association française de science politique : Section thématique
-    7, IEP d'Aix-en-Provence, FR, 2015-06-22/2015-06-22
+  type: Communications orales
+  source: "Congrès de l’association française de science politique : Section
+    thématique 7, IEP d'Aix-en-Provence, FR, 2015-06-22/2015-06-22"
   publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/4h27hls2ra8q6rjvokttt77smb
@@ -305,26 +285,23 @@
     - Cadorel, Sarah
   date: 2018-12
   url: http://spire.sciencespo.fr/hdl:/2441/4h27hls2ra8q6rjvokttt77smb
-  type: speech
-  source: >-
-    FAIRe vivre les données de la recherche : retours d’expérience sur
+  type: Communications orales
+  source: "FAIRe vivre les données de la recherche : retours d’expérience sur
     l'organisation, la préservation et le partage, Atelier Dialogu’IST URFIST de
-    Paris, FR, 2018-12-13/2018-12-13
+    Paris, FR, 2018-12-13/2018-12-13"
   publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/4rdr8to77v8r68lmvelj0bir55
-  title: >-
-    Permettre la réutilisation d’enquêtes qualitatives : l’exemple de beQuali
+  title: "Permettre la réutilisation d’enquêtes qualitatives : l’exemple de beQuali"
   authors:
     - Juillard, Emeline
     - Bendjaballah, Selma
   date: 2016-11
   url: http://spire.sciencespo.fr/hdl:/2441/4rdr8to77v8r68lmvelj0bir55
-  type: speech
-  source: >-
-    ANF du réseau MATE-SHS  "Collecter et produire des données et des corpus
+  type: Communications orales
+  source: "ANF du réseau MATE-SHS  \"Collecter et produire des données et des corpus
     pour mieux les traiter : quels besoins pour la recherche en SHS aujourd'hui
-    ?", Fréjus, FR, 2016-11-15/2016-11-18
+    ?\", Fréjus, FR, 2016-11-15/2016-11-18"
   publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/4ro2favs2m8ufoqr8luv8jj7tl
@@ -337,7 +314,7 @@
     - Musselin, Christine
   date: 2018-10
   url: http://bequali.fr/fr/enquetes/lenquete-en-bref/cdsp_bq_s4/
-  type: report
+  type: Rapports
   source: null
   publication: beQuali
   category: bequali
@@ -349,7 +326,7 @@
     - Bendjaballah, Selma
   date: 2018-10
   url: http://www.bequali.fr/media/surveys_unzip/unziped_cdsp_bq_sp7/cdsp_bq_sp7/ESE/cdsp_bq_sp7_ese_rapport.pdf
-  type: report
+  type: Rapports
   source: null
   publication: null
   category: bequali
@@ -362,7 +339,7 @@
     - Groshens, Emilie
   date: 2016-03
   url: http://spire.sciencespo.fr/hdl:/2441/5glt27v74e8gp9tt2118b3chsk
-  type: speech
+  type: Communications orales
   source: Association des archivistes français, Forum des archivistes, Meta/morphose,
     les archives bouillon de culture numérique, Troyes, FR,
     2016-03-30/2016-04-01
@@ -374,7 +351,7 @@
     - Garcia, Guillaume
   date: 2019-02
   url: http://spire.sciencespo.fr/hdl:/2441/5j077uhj7b8thpqf8031p5v19l
-  type: speech
+  type: Communications orales
   source: Journée d'études Tracés "Quelles données pour quelle recherche ?", EHESS,
     Paris, FR, 2019-02-08/2019-02-08
   publication: null
@@ -385,20 +362,19 @@
     - Vandenbunder, Jeremie
   date: 2018-12
   url: http://spire.sciencespo.fr/hdl:/2441/5k1d2htm38b6q3tgljb72usd1
-  type: speech
+  type: Communications orales
   source: Journées annueles MATE-SHS 2018, MSH Lyon-Saint Etienne, FR,
     2018-12-03/2018-12-04
   publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/6bepl9034o9merg5eb6rienb1c
-  title: >-
-    beQuali : une archive qualitative au service des sciences sociales
+  title: "beQuali : une archive qualitative au service des sciences sociales"
   authors:
     - Duchesne, Sophie
     - Garcia, Guillaume
   date: 2014, 2014
   url: http://spire.sciencespo.fr/hdl:/2441/6bepl9034o9merg5eb6rienb1c
-  type: conferencePaper
+  type: Communications orales
   source: Les archives de la recherche, pratique des acteurs et enjeux juridiques; Les
     Archives de la recherche Problèmes et enjeux de la construction du savoir
     scientifique , Orsay Université Paris Sud - Cnam Paris, FR,
@@ -412,7 +388,7 @@
     - Van Zanten, Agnès
   date: 2016-01
   url: http://bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bequali_s1/
-  type: report
+  type: Rapports
   source: null
   publication: beQuali
   category: bequali
@@ -423,7 +399,7 @@
     - Garcia, Guillaume
   date: 2013-01
   url: http://bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bequali_sp3/
-  type: report
+  type: Rapports
   source: null
   publication: beQuali
   category: bequali
@@ -437,11 +413,10 @@
     - Souanef, Karim
   date: 2015-06
   url: http://spire.sciencespo.fr/hdl:/2441/78l8j4kvt49t79fjurto6olfnl
-  type: speech
-  source: >-
-    VIème congrès de l'association française de sociologie : Réseau thématique
-    20 "Méthodes", Université Versailles Saint-Quentin, FR,
-    2015-06-30/2015-06-30
+  type: Communications orales
+  source: "VIème congrès de l'association française de sociologie : Réseau thématique
+    20 \"Méthodes\", Université Versailles Saint-Quentin, FR,
+    2015-06-30/2015-06-30"
   publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/7qb0rlgrcf88ga3m0bqqemr4s1
@@ -453,7 +428,7 @@
     - Cadorel, Sarah
   date: 2015-01
   url: http://bequali.fr/fr/les-enquetes/lenquete-en-bref/cdsp_bequali_sp5/
-  type: report
+  type: Rapports
   source: null
   publication: beQuali
   category: bequali
@@ -464,55 +439,51 @@
     - Bendjaballah, Selma
   date: 2016-05
   url: http://spire.sciencespo.fr/hdl:/2441/7vpgha25po80g9euf7ka9uokd4
-  type: speech
+  type: Communications orales
   source: Séminaire du Centre de recherches sociologiques et politiques de Paris
     (CRESPPA), Université Paris 8, FR, 2016-05-19/2016-05-19
   publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/ad4eb6lh99qjba7ffu3m1ut9f
-  title: >-
-    Anonymat et confidentialité des données qualitatives : Le retour
-    d’expérience de beQuali:Formation doctorale
+  title: "Anonymat et confidentialité des données qualitatives : Le retour
+    d’expérience de beQuali:Formation doctorale"
   authors:
     - Cadorel, Sarah
     - Groshens, Emilie
   date: 2018-11-23
   url: http://spire.sciencespo.fr/hdl:/2441/ad4eb6lh99qjba7ffu3m1ut9f
-  type: speech
+  type: Communications orales
   source: null
   publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/l8pq6urvk84u96cu01l2vm9i3
-  title: >-
-    BeQuali: A digital qualitative data archive, The Challenge of Qualitative
-    Data
+  title: "BeQuali: A digital qualitative data archive, The Challenge of Qualitative
+    Data"
   authors:
     - Garcia, Guillaume
     - Cornilleau, Anne
     - Jullian de la Fuente, Pierre
   date: 2011-12
   url: http://spire.sciencespo.fr/hdl:/2441/l8pq6urvk84u96cu01l2vm9i3
-  type: speech
+  type: Communications orales
   source: eDDI Workshop “Standardizingmetadata structures and the DDI”, Gothenburg,
     SE, 2011-12-07/2011-12-09
   publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/lt0s6l4ba8ktqvhfbs8svq2un
-  title: >-
-    Enseigner avec des archives d'enquêtes qualitatives : le cas de beQuali
+  title: "Enseigner avec des archives d'enquêtes qualitatives : le cas de beQuali"
   authors:
     - Garcia, Guillaume
     - Bendjaballah, Selma
   date: 2018-03
   url: http://spire.sciencespo.fr/hdl:/2441/lt0s6l4ba8ktqvhfbs8svq2un
-  type: speech
+  type: Communications orales
   source: Congrès de l'Association française de sociologie, Amiens, FR,
     2017-07-04/2017-07-04
   publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/t7jhth12f8ripvmt7ppfulrs3
-  title: >-
-    beQuali: Une Plateforme d'Archives Numériques en Sciences Sociales
+  title: "beQuali: Une Plateforme d'Archives Numériques en Sciences Sociales"
   authors:
     - Juillard, Emeline
     - Cadorel, Sarah
@@ -521,7 +492,7 @@
     - Fromont, Emilie
   date: 2018-10
   url: http://spire.sciencespo.fr/hdl:/2441/t7jhth12f8ripvmt7ppfulrs3
-  type: conferencePaper
+  type: Communications orales
   source: DTUC '18 Digital Tools &amp; Uses Congress; ACM International Conference
     Proceeding Series, Paris, France, FR, 2018-10-03/2018-10-05
   publication: ACM Digital Library
