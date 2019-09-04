@@ -36,7 +36,7 @@ const importer = (source, {publicationsMapping:mappingConfig, publications, publ
         const itemType = getType(types.pop());
         const type = publicationsMapping[itemType] || itemType;
         if (publicationsLabels.indexOf(type) === -1) {
-          console.error('%s : mapping pas configuré dans config.toml', type);
+          throw new RangeError(`[Import Spire] Le mapping '${type}' de l'item #${id} (${title}) est inconnu. Il est à configurer dans le fichier config.toml au niveau de l'ancre '[params.publicationsMapping.spire]'.`);
         }
 
         return {
