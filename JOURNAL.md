@@ -1,10 +1,22 @@
 # Journal de bord
 
 
-### Ce que je compte faire demain
+## Mardi 3 septembre 2019
 
+- intégration de la Spreadsheet de mapping des catégories • [#66](https://github.com/CDSP-SCPO/site-DIME-SHS/issues/66)<br>
+Finalement je n'ai pas opté pour l'utilisation de l'export CSV du mapping pour deux raisons :
+  1. l'export CSV n'est pas compris par le [générateur de site Hugo](https://gohugo.io) (les retours à la ligne dans le CSV ne sont pas compris) ;
+  2. les API Zotero et Spire retournent des identifiants de type ("bookPart") tandis que la feuille contient des libellés en français ("Partie d'ouvrage")
+Je fais le choix de rendre plus explicite dans le fichier de configuration (`config.toml`), en faisant un mapping pour Spire, et un pour Zotero, construit à la main à partir de la Spreadsheet.
+- quand j'arrête de travailler, il me reste 2 choses à terminer :
+  - terminer l'action en erreur si le script rencontre un mapping manquant lors de l'import ;
+  - ajuster les fichiers de traduction des types de production (`i18n/{en,fr}.toml`)
 
+## Lundi 2 septembre 2019
 
+- [revue et priorisation du backlog](https://github.com/CDSP-SCPO/site-DIME-SHS/projects/4)
+
+---
 
 ## Vendredi 27 juillet 2018
 
