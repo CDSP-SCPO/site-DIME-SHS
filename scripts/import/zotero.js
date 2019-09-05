@@ -23,51 +23,7 @@ const getSource = (data) => {
   return data.publisher || data.conferenceName || data.blogTitle || data.manuscriptType || data.meetingName || data.place || null;
 };
 
-<<<<<<< HEAD
-const importer = (source, {publicationsMapping:mappingConfig, publications, publicationsLabels}) => {
-  return request
-      .get(source)
-      // TODO
-      // The Zotero API returns at most 100 items in a response.
-      // If the number of publication comes to exceed 100,
-      // some additional logic is needed to handle pagination of responses.
-      .query({limit: 100})
-      .then(({body}) => {
-        const DEFAULT_CATEGORY = getDefaultCategory(publications);
-        const {zotero:publicationsMapping} = mappingConfig;
 
-        const items = body.filter(d => d.data.collections).map(item => {
-          const categoryId = item.data.collections.pop();
-          const category = getCategory(categoryId, publications, 'zotero');
-
-          const {key:id, title, url, date, itemType, creators} = item.data;
-          const {issue, pages, volume, publicationTitle:publication} = item.data;
-          const type = publicationsMapping[itemType] || itemType;
-
-          if (publicationsLabels.indexOf(type) === -1) {
-            throw new RangeError(`[Import Zotero] Le mapping '${type}' de l'item #${id} (${title}) est inconnu. Il est à configurer dans le fichier config.toml au niveau de l'ancre '[params.publicationsMapping.zotero]'.`);
-          }
-
-          return {
-            id,
-            title,
-            authors: getAuthors(creators),
-            date,
-            url: cleanUrl(url),
-            type,
-            issue,
-            pages,
-            publication,
-            volume,
-            source: getSource(item.data),
-            category: category || DEFAULT_CATEGORY,
-          };
-        });
-
-        return {items, publications};
-      })
-};
-=======
 export async function* paginate (url) {
   while (url) {
     const {header, body} = await request.get(url);
@@ -88,7 +44,6 @@ export function parseBody (body, {publications, mappingConfig, publicationsLabel
   return body.filter(d => d.data.collections).map(item => {
     const categoryId = item.data.collections.pop();
     const category = getCategory(categoryId, publications, 'zotero');
->>>>>>> Pagination des résultats Zotero
 
     const {key:id, title, url, date, itemType, creators} = item.data;
     const {issue, pages, volume, publicationTitle:publication} = item.data;
@@ -103,7 +58,7 @@ export function parseBody (body, {publications, mappingConfig, publicationsLabel
       title,
       authors: getAuthors(creators),
       date,
-      url,
+      url: cleanUrl(url),
       type,
       issue,
       pages,
