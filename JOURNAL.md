@@ -1,9 +1,22 @@
 # Journal de bord
 
+## Jeudi 5 septembre 2019
+
+- **intégration de la Spreadsheet de mapping des catégories** • [#66](https://github.com/CDSP-SCPO/site-DIME-SHS/issues/66)<br>
+J'ai [documenté dans un commentaire de la PR](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/66#issuecomment-528386172) quoi regarder au niveau 1) du mapping et 2) des données, pour s'assurer qu'il n'y a pas de régression.
+
+## Mercredi 4 septembre 2019
+
+- **intégration de la Spreadsheet de mapping des catégories** • [#66](https://github.com/CDSP-SCPO/site-DIME-SHS/issues/66)<br>
+La finalisation s'est passée sans problème :
+  1. les libellés sont traduits en français et en anglais ;
+  2. le script affiche une erreur "humainement compréhensible" si le type d'un item Spire ou Zotero n'est pas connu ; l'import ne va pas plus loin
+  3. j'ai même corrigé un défaut d'affichage des `<nom, prénom>` dans l'import Spire
+
 
 ## Mardi 3 septembre 2019
 
-- intégration de la Spreadsheet de mapping des catégories • [#66](https://github.com/CDSP-SCPO/site-DIME-SHS/issues/66)<br>
+- **intégration de la Spreadsheet de mapping des catégories** • [#66](https://github.com/CDSP-SCPO/site-DIME-SHS/issues/66)<br>
 Finalement je n'ai pas opté pour l'utilisation de l'export CSV du mapping pour deux raisons :
   1. l'export CSV n'est pas compris par le [générateur de site Hugo](https://gohugo.io) (les retours à la ligne dans le CSV ne sont pas compris) ;
   2. les API Zotero et Spire retournent des identifiants de type ("bookPart") tandis que la feuille contient des libellés en français ("Partie d'ouvrage")
