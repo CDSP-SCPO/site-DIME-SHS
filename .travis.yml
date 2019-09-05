@@ -7,6 +7,7 @@ env:
   HUGO_VERSION="0.48"
   BASE_URL=https://dime-shs.sciencespo.fr/
   MATOMO_SITE_ID=10
+  NODE_DEBUG="import*"
 
 install:
 - wget --no-clobber https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/${HUGO_FLAVOUR}_${HUGO_VERSION}_Linux-64bit.tar.gz
