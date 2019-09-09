@@ -1,7 +1,5 @@
-'use strict';
-
 const request = require('superagent');
-const {getCategory, getDefaultCategory} = require('./helpers.js');
+const {getCategory, getDefaultCategory, cleanUrl} = require('./helpers.js');
 
 const ALLOWED_TYPES = [
   'author',
