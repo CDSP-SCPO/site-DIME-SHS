@@ -11,7 +11,7 @@
     "node": "10"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "ava scripts/**/*.test.js",
     "import": "npm run import:clean && npm run import:zotero && npm run import:spire",
     "import:clean": "node -r esm ./bin/clean.js",
     "import:zotero": "node -r esm ./bin/import.js zotero https://api.zotero.org/groups/2198702/items",
@@ -32,6 +32,11 @@
   "bugs": {
     "url": "https://github.com/CDSP-SCPO/site-DIME-SHS/issues"
   },
+  "ava": {
+		"require": [
+			"esm"
+		]
+	},
   "homepage": "https://github.com/CDSP-SCPO/site-DIME-SHS#readme",
   "dependencies": {
     "@iarna/toml": "^2.2.3",
@@ -43,5 +48,7 @@
     "tachyons-sass": "^4.9.5",
     "yaml": "^1.6.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "ava": "^2.3.0"
+  }
 }
