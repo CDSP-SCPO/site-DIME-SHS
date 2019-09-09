@@ -1,7 +1,5 @@
-'use strict';
-
 const {get} = require('superagent');
-const {getCategory, getDefaultCategory} = require('./helpers.js');
+const {getCategory, getDefaultCategory, cleanUrl} = require('./helpers.js');
 const {parse} = require('fast-xml-parser');
 
 const getType = (type) => {
