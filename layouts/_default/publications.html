@@ -17,7 +17,7 @@
     <section class="bibliography-section" id="{{$key}}-{{anchorize $type}}">
       <h3>{{ humanize (i18n (delimit (slice "mapping" $type) "_")) }}</h3>
 
-      {{ range . }}
+      {{ range (sort (sort . "title" "asc") "date" "desc") }}
       {{- $Publication := . -}}
       <article class="bibliography-entry bibliography-entry--quiet">
         <article class="bibliography-entry__body">
