@@ -50,7 +50,7 @@ const importer = (source, {publicationsMapping:mappingConfig, publications, publ
             title,
             authors: getAuthors(creators),
             date,
-            url,
+            url: cleanUrl(url),
             type,
             issue,
             pages,

@@ -13,7 +13,7 @@
   "scripts": {
     "build": "hugo",
     "start": "hugo server --disableFastRender --i18n-warnings",
-    "test": "echo \"Error: no test specified\" && exit 0",
+    "test": "ava scripts/**/*.test.js",
     "deploy:ci": "[[ $(git diff ./data) ]] && (git add ./data && git commit -m 'Mise à jour des publications' && git push origin HEAD:master) || exit 0",
     "import": "npm run import:clean && npm run import:zotero && npm run import:spire",
     "import:clean": "node -r esm ./bin/clean.js",
@@ -38,6 +38,11 @@
   "bugs": {
     "url": "https://github.com/CDSP-SCPO/site-DIME-SHS/issues"
   },
+  "ava": {
+    "require": [
+      "esm"
+    ]
+  },
   "homepage": "https://github.com/CDSP-SCPO/site-DIME-SHS#readme",
   "dependencies": {
     "@iarna/toml": "^2.2.3",
@@ -50,6 +55,7 @@
     "yaml": "^1.6.0"
   },
   "devDependencies": {
+    "ava": "^2.3.0",
     "hugo-bin": "^0.46.2"
   }
 }

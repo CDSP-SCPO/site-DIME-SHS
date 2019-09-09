@@ -44,7 +44,7 @@ const importer = (source, {publicationsMapping:mappingConfig, publications, publ
           title,
           authors: Array.isArray(authors) ? authors : [authors],
           date: Array.isArray(date) ? date.join(', ') : date,
-          url,
+          url: cleanUrl(url),
           type,
           source,
           publication,
