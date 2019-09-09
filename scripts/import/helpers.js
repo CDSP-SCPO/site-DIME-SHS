@@ -1,16 +1,14 @@
-'use strict';
+import intersect from 'lodash.intersection';
 
-const intersect = require('lodash.intersection');
-
-const getDefaultCategory = (publications) => {
+export function getDefaultCategory (publications) {
   return Object.keys(publications).find(key => {
     if (('collections' in publications[key]) === false) {
       return key;
     }
   });
-};
+}
 
-const getCategory = (id, publications, type) => {
+export function getCategory (id, publications, type) {
   return Object.keys(publications).find(key => {
     const {collections} = publications[key];
 
@@ -27,6 +25,17 @@ const getCategory = (id, publications, type) => {
       }
     }
   });
-};
+}
 
-module.exports = {getDefaultCategory, getCategory};
+export function cleanUrl (maybeUrl) {
+  try {
+    const url = new URL(maybeUrl);
+    return url.toString();
+  }
+  catch (error) {
+    if (typeof maybeUrl === 'string' && maybeUrl.match(/^(.+\.[\w]+)(?<!.*@.*)\/?.*$/)) {
+      return 'http://' + maybeUrl.trim();
+    }
+    return maybeUrl;
+  }
+}

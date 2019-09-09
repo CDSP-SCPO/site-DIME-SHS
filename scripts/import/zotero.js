@@ -1,7 +1,5 @@
-'use strict';
-
 const request = require('superagent');
-const {getCategory, getDefaultCategory} = require('./helpers.js');
+const {getCategory, getDefaultCategory, cleanUrl} = require('./helpers.js');
 
 const ALLOWED_TYPES = [
   'author',
@@ -50,7 +48,7 @@ const importer = (source, {publicationsMapping:mappingConfig, publications, publ
             title,
             authors: getAuthors(creators),
             date,
-            url,
+            url: cleanUrl(url),
             type,
             issue,
             pages,
