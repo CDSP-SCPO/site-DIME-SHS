@@ -2,14 +2,16 @@
 
 'use strict';
 
-import parse from '@iarna/toml/parse-stream';
+import {debuglog} from 'util';
 import fs, {createReadStream} from 'fs';
 import {join} from 'path';
-import importers from '../scripts/import/index.js';
+import parse from '@iarna/toml/parse-stream';
 import {stringify} from 'yaml';
+import importers from '../scripts/import/index.js';
 
 const {writeFile} = fs.promises;
 const [,, type, source] = process.argv;
+const debug = debuglog('import');
 
 const importer = importers[type];
 const stream = createReadStream(join(__dirname, '..', 'config.toml'));
@@ -22,6 +24,8 @@ parse(stream)
     process.exit(1);
   })
   .then(({items, publications}) => {
+    debug('Attempting to write %d %s items in data/publications', items.length, type)
+
     const categories = Object.keys(publications);
     const writes = categories.map(category => {
       const filename = join(__dirname, '..', 'data', 'publications', `${category}.yml`);
@@ -37,4 +41,4 @@ parse(stream)
 
     return Promise.all(writes);
   })
-  .catch(error => console.error(error.message));
+  .catch(error => console.error(error) && process.exit(1));
