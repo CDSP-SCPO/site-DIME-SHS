@@ -1,6 +1,7 @@
-const {get} = require('superagent');
-const {getCategory, getDefaultCategory, cleanUrl} = require('./helpers.js');
-const {parse} = require('fast-xml-parser');
+import {get} from 'superagent';
+import {decode} from 'he';
+import {getCategory, getDefaultCategory, cleanUrl} from './helpers.js';
+import {parse} from 'fast-xml-parser';
 
 const getType = (type) => {
   return type.split('/').pop();
@@ -13,7 +14,7 @@ const getUrl = (urls) => {
     .pop();
 };
 
-const importer = (source, {publicationsMapping:mappingConfig, publications, publicationsLabels}) => {
+export default function importer (source, {publicationsMapping:mappingConfig, publications, publicationsLabels}) {
   const DEFAULT_CATEGORY = getDefaultCategory(publications);
   const {spire:publicationsMapping} = mappingConfig;
 
@@ -39,7 +40,7 @@ const importer = (source, {publicationsMapping:mappingConfig, publications, publ
 
         return {
           id,
-          title,
+          title: decode(title),
           authors: Array.isArray(authors) ? authors : [authors],
           date: Array.isArray(date) ? date.join(', ') : date,
           url: cleanUrl(url),
@@ -53,5 +54,3 @@ const importer = (source, {publicationsMapping:mappingConfig, publications, publ
       return {items, publications};
     })
 };
-
-module.exports = importer;
