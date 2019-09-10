@@ -1,11 +1,43 @@
 # Journal de bord
 
+## Mardi 10 septembre 2019
+
+⏳ + 0.5j
+
+- appel avec Amélie pour faire le point sur la consommation du budget (1j en tout depuis le début)
+- **Productions / Publications : l'ordonnancement est antéchronologique (le plus récent en haut) puis par ordre alphabétique du nom du premier auteur** • [#68](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/68)<br>
+J'ai passé le plus clair de mon temps à faire des aller-retours entre l'écriture des tests unitaires pour homogénéiser les dates, afin de rendre le champ utile pour le tri. Quelques cas de figure pas repérés lors de l'écriture du ticket ont fait leur apparition lors de l'import de données. Les tests se sont avérés utiles pour éviter les régressions.<br>
+Ça a clairement pris plus de temps que prévu.
+
+## Lundi 9 septembre 2019
+
+⏳ + 0.25j
+
+- **Urls de publications invalides** • [#69](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/69)<br>
+Tout s'est déroulé comme prévu et sans accroc.
+- **Gestion des HTMLEntities dans les titres des publications ** • [#64](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/64)<br>
+Tout s'est déroulé comme prévu et sans accroc.
+- mise en place de tests unitaires, je sens que ça peut/va être utile.
+
+## Vendredi 6 septembre 2019
+
+⏳ + 0.25j
+
+- **pagination des données Zotero** • [#64](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/64)<br>
+Tout s'est déroulé comme prévu et sans accroc. Fonctionnalité finalisée.
+- **intégration de la Spreadsheet de mapping des catégories** • [#66](https://github.com/CDSP-SCPO/site-DIME-SHS/issues/66)<br>
+Intégration des ajustements suite aux retours d'Amélie et de Benjamin. J'ai discuté sur le chan irc #medialab pour avoir des infos sur le mapping des catégories Spire — rien de concret pour l'API XML. Je trouve risqué et coûteux en temps/résultat de passer sur l'API JSON-RPC qui n'est pas plus documenté.
+
 ## Jeudi 5 septembre 2019
+
+⏳ + 0.5j
 
 - **intégration de la Spreadsheet de mapping des catégories** • [#66](https://github.com/CDSP-SCPO/site-DIME-SHS/issues/66)<br>
 J'ai [documenté dans un commentaire de la PR](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/66#issuecomment-528386172) quoi regarder au niveau 1) du mapping et 2) des données, pour s'assurer qu'il n'y a pas de régression.
 
 ## Mercredi 4 septembre 2019
+
+⏳ + 0.25j
 
 - **intégration de la Spreadsheet de mapping des catégories** • [#66](https://github.com/CDSP-SCPO/site-DIME-SHS/issues/66)<br>
 La finalisation s'est passée sans problème :
@@ -15,6 +47,8 @@ La finalisation s'est passée sans problème :
 
 
 ## Mardi 3 septembre 2019
+
+⏳ + 0.25j
 
 - **intégration de la Spreadsheet de mapping des catégories** • [#66](https://github.com/CDSP-SCPO/site-DIME-SHS/issues/66)<br>
 Finalement je n'ai pas opté pour l'utilisation de l'export CSV du mapping pour deux raisons :
