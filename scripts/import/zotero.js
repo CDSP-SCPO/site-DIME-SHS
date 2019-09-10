@@ -1,7 +1,7 @@
 import {debuglog} from 'util';
 import request from 'superagent';
 import {parse as parseLinkHeader} from 'http-link-header';
-import {getCategory, getDefaultCategory, cleanUrl} from './helpers.js';
+import {getCategory, getDefaultCategory, cleanUrl, toDate} from './helpers.js';
 
 const debug = debuglog('import:zotero');
 
@@ -57,7 +57,7 @@ export function parseBody (body, {publications, mappingConfig, publicationsLabel
       id,
       title,
       authors: getAuthors(creators),
-      date,
+      date: toDate(date),
       url: cleanUrl(url),
       type,
       issue,
