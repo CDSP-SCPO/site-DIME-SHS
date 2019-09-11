@@ -1,6 +1,6 @@
 import {get} from 'superagent';
 import {decode} from 'he';
-import {getCategory, getDefaultCategory, cleanUrl} from './helpers.js';
+import {getCategory, getDefaultCategory, cleanUrl, toDate} from './helpers.js';
 import {parse} from 'fast-xml-parser';
 
 const getType = (type) => {
@@ -42,7 +42,7 @@ export default function importer (source, {publicationsMapping:mappingConfig, pu
           id,
           title: decode(title),
           authors: Array.isArray(authors) ? authors : [authors],
-          date: Array.isArray(date) ? date.join(', ') : date,
+          date: Array.isArray(date) ? toDate(date[0]) : toDate(date),
           url: cleanUrl(url),
           type,
           source,
