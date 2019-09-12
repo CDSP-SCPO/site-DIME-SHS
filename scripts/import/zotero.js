@@ -1,7 +1,6 @@
 import {debuglog} from 'util';
-import request from 'superagent';
 import {parse as parseLinkHeader} from 'http-link-header';
-import {getCategory, getDefaultCategory, cleanUrl, toDate} from './helpers.js';
+import {get, getCategory, getDefaultCategory, cleanUrl, toDate} from './helpers.js';
 
 const debug = debuglog('import:zotero');
 
@@ -26,7 +25,7 @@ const getSource = (data) => {
 
 export async function* paginate (url) {
   while (url) {
-    const {header, body} = await request.get(url);
+    const {header, body} = await get(url).retry(3, 5000);
     debug('paginating to %s', url);
 
     url = header.link && parseLinkHeader(header.link).rel('next').length

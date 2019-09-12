@@ -1,4 +1,9 @@
 import intersect from 'lodash.intersection';
+import superagent from 'superagent';
+import extendWithDelay from 'superagent-retry-delay';
+
+extendWithDelay(superagent);
+export const get = superagent.get;
 
 export function getDefaultCategory (publications) {
   return Object.keys(publications).find(key => {
