@@ -2,7 +2,7 @@ sudo: false
 language: cpp
 
 env:
-- TARGET_BRANCH=gh-pages
+- TARGET_BRANCH=prod
   HUGO_FLAVOUR=hugo
   HUGO_VERSION="0.48"
   BASE_URL=https://dime-shs.sciencespo.fr/
@@ -13,7 +13,10 @@ install:
 - tar -xzf ${HUGO_FLAVOUR}_${HUGO_VERSION}_Linux-64bit.tar.gz
 - rm ${HUGO_FLAVOUR}_${HUGO_VERSION}_Linux-64bit.tar.gz
 
-script: ./hugo -b $BASE_URL
+script:
+- set -e
+- npm test
+- ./hugo -b $BASE_URL
 
 deploy:
 - provider: pages
