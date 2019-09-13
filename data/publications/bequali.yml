@@ -3,6 +3,7 @@
   authors:
     - Descoutures, Virginie
   date: 2014-12-12
+  date_sort: 2014-12-12T00:00:00.000Z
   url: ""
   type: Communications orales
   issue: null
@@ -18,6 +19,7 @@
   authors:
     - Thomas, Anja
   date: 2016-12
+  date_sort: 2016-12-01T00:00:00.000Z
   url: http://www.theses.fr/2016IEPP0039
   type: Thèses et mémoires
   issue: null
@@ -34,6 +36,7 @@
     - Bachelot, Carole
     - Guaspare, Catherine
   date: 2014-12-12
+  date_sort: 2014-12-12T00:00:00.000Z
   url: ""
   type: Communications orales
   issue: null
@@ -49,6 +52,7 @@
   authors:
     - Guaspare, Catherine
   date: "2017"
+  date_sort: 2017-01-01T00:00:00.000Z
   url: http://www.recherche-qualitative.qc.ca/documents/files/revue/hors_serie/HS-21/rq-hs21-c-guaspare.pdf
   type: Articles
   issue: "21"
@@ -66,6 +70,7 @@
     - Brugidou, Mathieu
     - Salomon, Annie-Claude
   date: "2017"
+  date_sort: 2017-01-01T00:00:00.000Z
   url: http://www.recherche-qualitative.qc.ca/documents/files/revue/hors_serie/HS-21/rq-hs21-abrial-et-al.pdf
   type: Articles
   issue: "21"
@@ -79,6 +84,7 @@
   authors:
     - Souanef, Karim
   date: 2017-05
+  date_sort: 2017-05-01T00:00:00.000Z
   url: http://bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bq_s3/
   type: Rapports
   source: null
@@ -91,6 +97,7 @@
     - Danciu, Alina
     - Groshens, Emilie
   date: 2016-05-12
+  date_sort: 2016-05-12T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/21a8lnlbuv9g6rbuaibf6n1muj
   type: Communications orales
   source: Séminaire du laboratoire Edytem, Chambéry, FR, 2016-05-12/2016-05-12
@@ -103,6 +110,7 @@
     - Bendjaballah, Selma
     - Groshens, Emilie
   date: 2017-06
+  date_sort: 2017-06-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/2e0rq8803g8js99fv8eblti06g
   type: Communications orales
   source: Séminaire du pôle "Unité de Recherche sur le vieillissement (URV)" de la
@@ -115,6 +123,7 @@
   authors:
     - Bendjaballah, Selma
   date: 2017-06
+  date_sort: 2017-06-01T00:00:00.000Z
   url: http://bequali.fr/media/surveys_unzip/unziped_cdsp_bq_s5/cdsp_bq_s5/ESE/cdsp_bq_s5_ese_rapport.pdf
   type: Rapports
   source: null
@@ -127,6 +136,7 @@
   authors:
     - Rioufreyt, Thibaut
   date: 2014-12
+  date_sort: 2014-12-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/2gctglt2qj87ir70u6bfhdi260
   type: Communications orales
   source: "», journée d’étude « Expérimenter l’analyse secondaire des enquêtes
@@ -140,6 +150,7 @@
     - Garcia, Guillaume
     - Juillard, Emeline
   date: 2019-01-01
+  date_sort: 2019-01-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/2pn65l78en94t9neo42pgj31no
   type: Rapports
   source: null
@@ -152,6 +163,7 @@
     - Cadorel, Sarah
     - Groshens, Emilie
   date: 2015-12
+  date_sort: 2015-12-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/30i9r73tr38j98mb7q4de6e5dg
   type: Communications orales
   source: “Rôle et compétences des professionnels de l’information scientifique et
@@ -167,6 +179,7 @@
     - Cadorel, Sarah
     - Pedroja, Cynthia
   date: 2015-06
+  date_sort: 2015-06-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/36pa2uv7n688qae8v14qd16b73
   type: Communications orales
   source: conférence LIBER, Londres, GB, 2014-06-12
@@ -179,6 +192,7 @@
     - Duchesne, Sophie
     - Garcia, Guillaume
   date: 2013
+  date_sort: 1970-01-01T00:00:02.013Z
   url: http://spire.sciencespo.fr/hdl:/2441/3al534ljdf90v93448b112cq9p
   type: Communications orales
   source: séminaire « Les lundis de l’INED », INED, FR, 2013-04-08/2013-04-08
@@ -189,6 +203,7 @@
   authors:
     - Garcia, Guillaume
   date: 2016-01-01
+  date_sort: 2016-01-01T00:00:00.000Z
   url: http://bequali.fr/fr/les-enquetes/lenquete-en-bref/cdsp_bequali_sp6/
   type: Rapports
   source: null
@@ -205,6 +220,7 @@
     - Juillard, Emeline
     - Groshens, Emilie
   date: 2018-10
+  date_sort: 2018-10-01T00:00:00.000Z
   url: https://hal-amu.archives-ouvertes.fr/hal-01903040v1
   type: Parties d'ouvrages
   source: "La diffusion numérique des données en SHS, Aix en Provence: Presses
@@ -216,6 +232,7 @@
   authors:
     - Garcia, Guillaume
   date: 2013-01-01
+  date_sort: 2013-01-01T00:00:00.000Z
   url: http://bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bequali_sp2/
   type: Rapports
   source: null
@@ -229,6 +246,7 @@
   authors:
     - Garcia, Guillaume
   date: 2013-01-01
+  date_sort: 2013-01-01T00:00:00.000Z
   url: http://bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bequali_sp1/
   type: Rapports
   source: null
@@ -240,6 +258,7 @@
   authors:
     - Groshens, Emilie
   date: 2018-11-06
+  date_sort: 2018-11-06T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/3pcp5e58dk9qeabp6olc3i7at3
   type: Communications orales
   source: LILLIAD, Learning Center Innovation, Lille, FR, 2018-11-06
@@ -257,6 +276,7 @@
     - Fromont, Emilie
     - Juillard, Emeline
   date: 2017-10
+  date_sort: 2017-10-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/3v2s7jooug9cv9vp3rnbapc1p2
   type: Articles
   source: Documentation et bibliothèques, 63(4), 73-85 (2017-10)
@@ -271,6 +291,7 @@
     - Souanef, Karim
     - Rioufreyt, Thibaut
   date: 2015-06
+  date_sort: 2015-06-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/42v71b5pth894qajj8vlg7k68i
   type: Communications orales
   source: "Congrès de l’association française de science politique : Section
@@ -284,6 +305,7 @@
     - Garcia, Guillaume
     - Cadorel, Sarah
   date: 2018-12
+  date_sort: 2018-12-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/4h27hls2ra8q6rjvokttt77smb
   type: Communications orales
   source: "FAIRe vivre les données de la recherche : retours d’expérience sur
@@ -297,6 +319,7 @@
     - Juillard, Emeline
     - Bendjaballah, Selma
   date: 2016-11
+  date_sort: 2016-11-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/4rdr8to77v8r68lmvelj0bir55
   type: Communications orales
   source: "ANF du réseau MATE-SHS  \"Collecter et produire des données et des corpus
@@ -313,6 +336,7 @@
     - Juillard, Emeline
     - Musselin, Christine
   date: 2018-10
+  date_sort: 2018-10-01T00:00:00.000Z
   url: http://bequali.fr/fr/enquetes/lenquete-en-bref/cdsp_bq_s4/
   type: Rapports
   source: null
@@ -325,6 +349,7 @@
   authors:
     - Bendjaballah, Selma
   date: 2018-10
+  date_sort: 2018-10-01T00:00:00.000Z
   url: http://www.bequali.fr/media/surveys_unzip/unziped_cdsp_bq_sp7/cdsp_bq_sp7/ESE/cdsp_bq_sp7_ese_rapport.pdf
   type: Rapports
   source: null
@@ -338,6 +363,7 @@
     - Gaultier-Voituriez, Odile
     - Groshens, Emilie
   date: 2016-03
+  date_sort: 2016-03-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/5glt27v74e8gp9tt2118b3chsk
   type: Communications orales
   source: Association des archivistes français, Forum des archivistes, Meta/morphose,
@@ -350,6 +376,7 @@
   authors:
     - Garcia, Guillaume
   date: 2019-02
+  date_sort: 2019-02-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/5j077uhj7b8thpqf8031p5v19l
   type: Communications orales
   source: Journée d'études Tracés "Quelles données pour quelle recherche ?", EHESS,
@@ -361,6 +388,7 @@
   authors:
     - Vandenbunder, Jeremie
   date: 2018-12
+  date_sort: 2018-12-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/5k1d2htm38b6q3tgljb72usd1
   type: Communications orales
   source: Journées annueles MATE-SHS 2018, MSH Lyon-Saint Etienne, FR,
@@ -373,6 +401,7 @@
     - Duchesne, Sophie
     - Garcia, Guillaume
   date: 2014
+  date_sort: 1970-01-01T00:00:02.014Z
   url: http://spire.sciencespo.fr/hdl:/2441/6bepl9034o9merg5eb6rienb1c
   type: Communications orales
   source: Les archives de la recherche, pratique des acteurs et enjeux juridiques; Les
@@ -387,6 +416,7 @@
     - Garcia, Guillaume
     - Van Zanten, Agnès
   date: 2016-01-01
+  date_sort: 2016-01-01T00:00:00.000Z
   url: http://bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bequali_s1/
   type: Rapports
   source: null
@@ -398,6 +428,7 @@
   authors:
     - Garcia, Guillaume
   date: 2013-01-01
+  date_sort: 2013-01-01T00:00:00.000Z
   url: http://bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bequali_sp3/
   type: Rapports
   source: null
@@ -412,6 +443,7 @@
     - Descoutures, Virginie
     - Souanef, Karim
   date: 2015-06
+  date_sort: 2015-06-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/78l8j4kvt49t79fjurto6olfnl
   type: Communications orales
   source: "VIème congrès de l'association française de sociologie : Réseau thématique
@@ -427,6 +459,7 @@
     - Souanef, Karim
     - Cadorel, Sarah
   date: 2015-01-01
+  date_sort: 2015-01-01T00:00:00.000Z
   url: http://bequali.fr/fr/les-enquetes/lenquete-en-bref/cdsp_bequali_sp5/
   type: Rapports
   source: null
@@ -438,6 +471,7 @@
     - Juillard, Emeline
     - Bendjaballah, Selma
   date: 2016-05
+  date_sort: 2016-05-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/7vpgha25po80g9euf7ka9uokd4
   type: Communications orales
   source: Séminaire du Centre de recherches sociologiques et politiques de Paris
@@ -451,6 +485,7 @@
     - Cadorel, Sarah
     - Groshens, Emilie
   date: 2018-11-23
+  date_sort: 2018-11-23T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/ad4eb6lh99qjba7ffu3m1ut9f
   type: Communications orales
   source: null
@@ -464,6 +499,7 @@
     - Cornilleau, Anne
     - Jullian de la Fuente, Pierre
   date: 2011-12
+  date_sort: 2011-12-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/l8pq6urvk84u96cu01l2vm9i3
   type: Communications orales
   source: eDDI Workshop “Standardizingmetadata structures and the DDI”, Gothenburg,
@@ -476,6 +512,7 @@
     - Garcia, Guillaume
     - Bendjaballah, Selma
   date: 2018-03
+  date_sort: 2018-03-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/lt0s6l4ba8ktqvhfbs8svq2un
   type: Communications orales
   source: Congrès de l'Association française de sociologie, Amiens, FR,
@@ -491,6 +528,7 @@
     - Groshens, Emilie
     - Fromont, Emilie
   date: 2018-10
+  date_sort: 2018-10-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/t7jhth12f8ripvmt7ppfulrs3
   type: Communications orales
   source: DTUC '18 Digital Tools &amp; Uses Congress; ACM International Conference
