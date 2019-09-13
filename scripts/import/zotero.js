@@ -44,9 +44,10 @@ export function parseBody (body, {publications, mappingConfig, publicationsLabel
     const categoryId = item.data.collections.pop();
     const category = getCategory(categoryId, publications, 'zotero');
 
-    const {key:id, title, url, date, itemType, creators} = item.data;
+    const {key:id, title, url, itemType, creators} = item.data;
     const {issue, pages, volume, publicationTitle:publication} = item.data;
     const type = publicationsMapping[itemType] || itemType;
+    const date = toDate(item.data.date);
 
     if (publicationsLabels.indexOf(type) === -1) {
       throw new RangeError(`[Import Zotero] Le mapping '${type}' de l'item #${id} (${title}) est inconnu. Il est à configurer dans le fichier config.toml au niveau de l'ancre '[params.publicationsMapping.zotero]'.`);
@@ -56,7 +57,8 @@ export function parseBody (body, {publications, mappingConfig, publicationsLabel
       id,
       title,
       authors: getAuthors(creators),
-      date: toDate(date),
+      date,
+      date_sort: new Date(date).toISOString(),
       url: cleanUrl(url),
       type,
       issue,

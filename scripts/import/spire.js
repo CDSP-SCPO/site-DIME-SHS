@@ -21,12 +21,13 @@ export function parseBody (text, {publications, publicationsMapping, publication
     const metadata = item.metadata['oai_dc:dc'];
     const {identifier:id} = item.header;
 
-    const {['dc:title']:title, ['dc:date']:date, ['dc:creator']:authors} = metadata;
+    const {['dc:title']:title, ['dc:date']:dateField, ['dc:creator']:authors} = metadata;
     const {['dc:type']:types} = metadata;
     const {['dc:publisher']:publication, ['dc:source']:source} = metadata;
 
     const category = getCategory(item.header.setSpec, publications, 'spire');
     const url = getUrl(metadata['dc:identifier']);
+    const date = Array.isArray(metadata['dc:date']) ? toDate(metadata['dc:date'][0]) : toDate(metadata['dc:date']);
 
     const itemType = getType(types.pop());
     const type = publicationsMapping[itemType] || itemType;
@@ -38,7 +39,8 @@ export function parseBody (text, {publications, publicationsMapping, publication
       id,
       title: decode(title),
       authors: Array.isArray(authors) ? authors : [authors],
-      date: Array.isArray(date) ? toDate(date[0]) : toDate(date),
+      date,
+      date_sort: new Date(date).toISOString(),
       url: cleanUrl(url),
       type,
       source,
