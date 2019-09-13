@@ -11,7 +11,7 @@
     "node": "10"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 0",
     "import": "npm run import:clean && npm run import:zotero && npm run import:spire",
     "import:clean": "./bin/clean.js",
     "import:zotero": "./bin/import.js zotero https://api.zotero.org/groups/2198702/items",

@@ -1,5 +1,5 @@
-sudo: false
-language: cpp
+language: node_js
+node_js: '12'
 
 env:
 - TARGET_BRANCH=prod
@@ -8,21 +8,48 @@ env:
   BASE_URL=https://dime-shs.sciencespo.fr/
   MATOMO_SITE_ID=10
 
-install:
+before_install:
 - wget --no-clobber https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/${HUGO_FLAVOUR}_${HUGO_VERSION}_Linux-64bit.tar.gz
 - tar -xzf ${HUGO_FLAVOUR}_${HUGO_VERSION}_Linux-64bit.tar.gz
 - rm ${HUGO_FLAVOUR}_${HUGO_VERSION}_Linux-64bit.tar.gz
 
-script:
-- set -e
-- npm test
-- ./hugo -b $BASE_URL
+matrix:
+  fast_finish: true
 
-deploy:
-- provider: pages
-  skip-cleanup: true
-  github-token: "$GH_TOKEN"
-  local-dir: public
-  target-branch: $TARGET_BRANCH
-  on:
-    branch: master
+stages:
+- test
+- import-data
+- build
+
+jobs:
+  include:
+  - name: test
+    script: npm test
+  - name: import-data
+    if: type = cron OR type = pull_request
+    before_install:
+    - openssl aes-256-cbc -K $encrypted_c08989f760e2_key -iv $encrypted_c08989f760e2_iv -in .travis/deploy_key.pem.enc -out .travis/deploy_key.pem -d
+    script:
+    - npm run import
+    - git status --short
+    after_success:
+    - eval "$(ssh-agent -s)"
+    - chmod 600 .travis/deploy_key.pem
+    - ssh-add .travis/deploy_key.pem
+    deploy:
+      provider: script
+      skip-cleanup: true
+      script: git diff --quiet --staged && git add data && git commit -m 'Mise à jour
+        des publications' && git push origin master
+      on:
+        branch: master
+  - name: build
+    script: ./hugo -b $BASE_URL
+    deploy:
+    - provider: pages
+      skip-cleanup: true
+      github-token: "$GH_TOKEN"
+      local-dir: public
+      target-branch: "$TARGET_BRANCH"
+      on:
+        branch: master
