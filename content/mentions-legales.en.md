@@ -3,6 +3,8 @@ title: Credits
 menu:
   footer:
     parent: home
+options:
+- toggable-headlines--opened
 ---
 
 # Credits

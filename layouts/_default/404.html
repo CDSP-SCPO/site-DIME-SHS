@@ -1,0 +1,13 @@
+
+{{ define "main" }}
+
+<main class="slide">
+
+  {{ partial "contents/post.html" . }}
+
+  <aside class="sidenotes" role="aside">
+    {{ block "sidenotes" . }}{{ end }}
+  </aside>
+</main>
+
+{{ end }}
