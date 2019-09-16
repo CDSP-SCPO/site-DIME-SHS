@@ -3,6 +3,8 @@ title: Mentions légales
 menu:
   footer:
     parent: home
+options:
+- toggable-headlines--opened
 ---
 
 # Crédits

@@ -80,7 +80,7 @@
       }
     }
 
-    &:nth-of-type(1) {
+    &:nth-of-type(1):not(.slide--no-color) {
       @extend .near-white;
       background: $secondary-color;
 
