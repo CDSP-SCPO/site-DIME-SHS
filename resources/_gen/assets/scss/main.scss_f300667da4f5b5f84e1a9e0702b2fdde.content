@@ -6459,7 +6459,10 @@ body > section [role="main"] {
 .page .article__body h1 {
   font-size: 1.25rem; }
 
-.f5, .article .article__body h2,
+.f5, .article .article__body h2.f5,
+.article .page__body h2.f5,
+.page .article__body h2.f5,
+.page .page__body h2.f5, .article .article__body h2,
 .page .article__body h2, .bibliography-entry h3 {
   font-size: 1rem; }
 
@@ -7496,3 +7499,12 @@ p:empty {
 
 body {
   color: #4A4A4A; }
+
+.list--logos img {
+  filter: grayscale(100%);
+  opacity: .7;
+  max-height: 60px;
+  max-width: 130px; }
+  .list--logos img:hover, .list--logos img:focus {
+    filter: none;
+    opacity: 1; }

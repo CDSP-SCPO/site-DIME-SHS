@@ -25,6 +25,10 @@
       @extend .pb0;
       @extend .mt4;
       @extend .lh-title;
+
+      &.f5 {
+        @extend .f5;
+      }
     }
   }
 
