@@ -3,15 +3,8 @@ node_js: '12'
 
 env:
 - TARGET_BRANCH=prod
-  HUGO_FLAVOUR=hugo
-  HUGO_VERSION="0.48"
   BASE_URL=https://dime-shs.sciencespo.fr/
   MATOMO_SITE_ID=10
-
-before_install:
-- wget --no-clobber https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/${HUGO_FLAVOUR}_${HUGO_VERSION}_Linux-64bit.tar.gz
-- tar -xzf ${HUGO_FLAVOUR}_${HUGO_VERSION}_Linux-64bit.tar.gz
-- rm ${HUGO_FLAVOUR}_${HUGO_VERSION}_Linux-64bit.tar.gz
 
 matrix:
   fast_finish: true
@@ -44,7 +37,7 @@ jobs:
       on:
         branch: master
   - name: build
-    script: ./hugo -b $BASE_URL
+    script: npm run build -- -b $BASE_URL
     deploy:
     - provider: pages
       skip-cleanup: true

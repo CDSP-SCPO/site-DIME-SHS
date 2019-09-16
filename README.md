@@ -42,40 +42,31 @@ Les éléments d'interface sont traduits à deux endroits :
 
 ## 🛠 Développer en local
 
-- **Générateur** : `Hugo@>=0.48` dans sa version dite _Extended_ (elle prend en charge le [langage Sass][])
+- **Générateur** : `Hugo@>=0.58.2` dans sa version dite _Extended_ (elle prend en charge le [langage Sass][])
 - **CSS** : [Tachyons][] (approche _mobile-first_ et fonctionnelle)
 - **JavaScript** : _vanilla_ (compilé en ECMAScript5 via [babeljs.io REPL][])
 
 ### Installation
 
-Les commandes suivantes installent des versions opérationnelles de [Hugo Extended][Hugo] et de [Node.js][] sous macOS.
-
-Des installeurs complémentaires sont à disposition sur le [dépôt de code de Hugo][hugo-releases] et de [Node.js][nodejs-releases].
+La gestion de version de [Hugo][] est effectuée avec [Node.js][],
+afin d'avoir un outillage de développement unifié.
 
 ```bash
-# Sous macOS
-$ brew install hugo nvm
-
-# OPTIONNEL, sauf…
-# - pour mettre à jour le framework CSS
-# - pour exécuter les scripts
-$ nvm install
 $ npm install
 ```
-
 
 ### Prévisualiser en local
 
 ```bash
-$ hugo serve --stepAnalysis --disableFastRender --i18n-warnings
+$ npm start
 ```
 
-Le site est accessible sur [http://localhost:1313](http://localhost:1313).
+Le site est alors accessible sur [http://localhost:1313](http://localhost:1313).
 
 ### Générer le site
 
 ```bash
-$ hugo -b https://dime-shs.sciences-po.fr
+$ npm run build -- --baseURL https://dime-shs.sciences-po.fr
 ```
 
 Les fichiers sont générés dans le répertoire `./public`.
@@ -83,17 +74,8 @@ Les fichiers sont générés dans le répertoire `./public`.
 | Type | Identifiant | Utilité
 | ---       | ---
 | Variable d'environnement  | `MATOMO_SITE_ID`  | Transmet l'identifiant de site Matomo, pour le suivi des visites.
-| Paramètre   | `-b http://example.com`  | Site de destination.
+| Paramètre   | `--baseURL http://example.com`  | Site de destination.
 
-
-### ⚠️ Déployer les changements de CSS ⚠️
-
-À l'heure actuelle, le répertoire [`./resources`](resources) doit être _commité_ après avoir lancé Hugo (prévisualisation ou génération).
-
-C'est une limitation temporaire de Netlify, documentée sur [netlify/build-image#182](https://github.com/netlify/build-image/issues/182), [netlify/build-image#183](https://github.com/netlify/build-image/issues/183) et [gohugoio/hugo#5148](https://github.com/gohugoio/hugo/issues/5148).
-Voir aussi [site-DIME-SHS#48](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/48).
-
-> **tl;dr** Hugo Extended nécessite une version récente de GLIBC tandis que Netlify embarque une version liée à Ubuntu 14.04.
 
 ## 📦 Scripts
 
