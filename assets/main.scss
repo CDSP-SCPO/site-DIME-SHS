@@ -46,3 +46,16 @@ body {
     }
   }
 }
+
+.list--logos img {
+  filter: grayscale(100%);
+  opacity: .7;
+  max-height: 60px;
+  max-width: 130px;
+
+  &:hover,
+  &:focus {
+    filter: none;
+    opacity: 1;
+  }
+}
