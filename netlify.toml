@@ -1,12 +1,9 @@
 [build]
-  command = "hugo --baseURL $DEPLOY_URL"
+  command = "npm run build -- --baseURL $DEPLOY_URL"
   publish = "public"
 
-  [build.environment]
-  HUGO_VERSION = "0.48"
-
   [context.deploy-preview]
-  command = "hugo --i18n-warnings --baseURL $DEPLOY_PRIME_URL"
+  command = "npm run build -- --i18n-warnings --baseURL $DEPLOY_PRIME_URL"
 
   [context.deploy-preview.environment]
   HUGO_IS_PREVIEW = "1"
