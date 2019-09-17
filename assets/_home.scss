@@ -1,4 +1,5 @@
 @import 'components/links';
+@import 'components/scroll';
 
 .slide {
   @extend .flex;
@@ -60,7 +61,8 @@
   @extend .flex-column;
   @extend .items-start;
   @extend .relative;
-  scroll-behavior: smooth;
+  @extend .scroll-smooth;
+  @extend .scroll-snap-y;
 
   p:empty:first-of-type {
     display: none;
@@ -136,6 +138,9 @@
       p {
         @extend .f4-l;
       }
+    }
+    &:nth-of-type(4) {
+      @extend .pt5-l;
     }
   }
 }
