@@ -28,7 +28,7 @@ jobs:
     deploy:
       provider: script
       skip-cleanup: true
-      script: git diff --quiet --staged && git add data && git commit -m 'Mise à jour des publications' && git push origin master
+      script: git diff --quiet --staged && git add data && git commit -m 'Mise à jour des publications' && git push origin HEAD:master
       on:
         branch: master
   - name: build
