@@ -110,6 +110,21 @@
   volume: ""
   source: SAGE Publications Ltd
   category: dime-web
+- id: FLL2KXB3
+  title: From Philosopher to Network. Using Digital Traces for Understanding Paul
+    Ricoeur's Legacy
+  authors:
+    - Romele, Alberto
+    - Severo, Marta
+  date: May 2016
+  url: https://hal.archives-ouvertes.fr/hal-01294443
+  type: article
+  issue: "6"
+  pages: ""
+  publication: Azimuth. Philosophical Coordinates in Modern and Contemporary Age
+  volume: VI
+  source: null
+  category: dime-web
 - id: FVU8FFFB
   title: Entre informatique et sémiotique
   authors:
@@ -150,6 +165,38 @@
   pages: 39-78
   publication: Réseaux
   volume: ""
+  source: null
+  category: dime-web
+- id: JYS3GW52
+  title: A topological space for design, participation and production. Tracking
+    spaces of transformation » The Journal of Peer Production
+  authors:
+    - Sánchez, Sandra Álvaro
+  date: "2019"
+  url: http://peerproduction.net/editsuite/issues/issue-13-open/peer-reviewed-papers/a-topological-space-for-design-participation-and-production/
+  type: article
+  issue: "13"
+  pages: "15"
+  publication: Journal of Peer Production
+  volume: ""
+  source: null
+  category: dime-web
+- id: SDNQMW9I
+  title: France's citizen consultation on vaccination and the challenges of
+    participatory democracy in health
+  authors:
+    - Ward, Jeremy K.
+    - Cafiero, Florian
+    - Fretigny, Raphael
+    - Colgrove, James
+    - Seror, Valérie
+  date: January 1, 2019
+  url: http://www.sciencedirect.com/science/article/pii/S0277953618306282
+  type: article
+  issue: ""
+  pages: 73-80
+  publication: Social Science & Medicine
+  volume: "220"
   source: null
   category: dime-web
 - id: UA7A9CU3
@@ -355,6 +402,21 @@
   source: http://tools.medialab.sciences-po.fr/privacy/
   publication: null
   category: dime-web
+- id: oai:spire.sciencespo.fr:2441/1ve2iilj4i94ip23o9iav2ja5b
+  title: >-
+    Pourquoi le débat #EuropaCity n’a pas pris sur Twitter ?:Analyse de la
+    mobilisation autour d’une controverse environnementale sur le réseau social
+  authors:
+    - Antolinos-Basso, Diego
+    - Paddeu, Flaminia
+    - Douay, Nicolas, Géographie-Cités
+    - Blanc, Nathalie
+  date: 2017-11, 1993
+  url: http://spire.sciencespo.fr/hdl:/2441/1ve2iilj4i94ip23o9iav2ja5b
+  type: article
+  source: Reset, (7), 1-1 (2017-11)
+  publication: null
+  category: dime-web
 - id: oai:spire.sciencespo.fr:2441/230upj29ts8o39oavidln6jeu0
   title: >-
     L'archivage piloté par la recherche : l'exemple du médialab:Master II ENSSIB
@@ -374,12 +436,11 @@
   authors:
     - Crépel, Maxime
     - Jacomy, Mathieu
-  date: 2017-06, 2017-07
+  date: 2017-06
   url: http://spire.sciencespo.fr/hdl:/2441/2ap5ocbu0b96m8ogel9f93clo0
-  type: conferencePaper
-  source: Big Data Mining and Visualization; Big Data Mining and Visualization, Lille,
-    FR, 2017-06-26/2017-06-27
-  publication: GROUPES DE TRAVAIL EGC ET AFIHM
+  type: speech
+  source: null
+  publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/2ku47fg4gm8b1ojnr6ko3t6dn9
   title: DIME Web - Des outils et méthodes numériques pour exploiter le Web comme
@@ -493,6 +554,7 @@
     proposer des outils plus performants et découvrir les "lois des réseaux".
   authors:
     - Girard, Paul
+    - Larousserie, David
   date: 2012-02-03, 1944
   url: https://www.lemonde.fr/planete/article/2012/02/03/reseaux-la-quete-des-lois-du-web_1638035_3244.html
   type: article
@@ -531,7 +593,7 @@
     Explorer les internets avec Hyphe:METSEM #06
   authors:
     - Jacomy, Mathieu
-  date: 2017-09-04
+  date: 2017-09-04, 2017-04
   url: https://metsem.hypotheses.org/111
   type: speech
   source: null
@@ -607,7 +669,7 @@
   url: http://www.cevipof.com/fr/le-barometre-de-la-confiance-politique-du-cevipof/methodologie/
   type: report
   source: null
-  publication: Centre de recherches politiques de Sciences Po
+  publication: CEVIPOF
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/79inqmg4cf89gomdgi0f9ff77h
   title: Double Dating Data:Textes de l'exposition
@@ -667,18 +729,6 @@
     DigitalSTS: A Handbook and Fieldguide: Inconnu
   publication: Inconnu
   category: dime-web
-- id: oai:spire.sciencespo.fr:2441/i9ukevcvl8akqk5l42i6tc237
-  title: >-
-    Voir des communautés web : retour sur les enquêtes web d’étudiants en
-    sociologie:Congrès 2017 de l'Association Française de Sociologie
-  authors:
-    - Jacomy, Mathieu
-  date: 2017-07-05
-  url: http://osc.cnrs.fr/RT20/2017/local/documents/S5_Jacomy.pdf
-  type: speech
-  source: null
-  publication: null
-  category: dime-web
 - id: oai:spire.sciencespo.fr:2441/q9ro3ttpd9dbr4mml3st7996s
   title: >-
     Hors champs: la multipositionnalité par l'analyse des réseaux
@@ -717,6 +767,6 @@
   date: 2018-02
   url: https://fosdem.org/2018/schedule/event/multi_level_graph_index/
   type: speech
-  source: null
+  source: FOSDEM'18, Bruxelles, BE, 2018-02-03/2018-02-04
   publication: null
   category: dime-web
