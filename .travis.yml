@@ -9,17 +9,11 @@ env:
 matrix:
   fast_finish: true
 
-stages:
-- test
-- import-data
-- build
-
 jobs:
   include:
-  - name: test
-    script: npm test
+  - script: npm test
   - name: import-data
-    if: type = cron OR type = pull_request
+    if: type = cron
     script:
     - npm run import
     - git status --short
@@ -28,10 +22,10 @@ jobs:
     deploy:
       provider: script
       skip-cleanup: true
-      script: git diff --quiet --staged && git add data && git commit -m 'Mise à jour des publications' && git push origin HEAD:master
+      script: [[ $(git diff ./data) ]] && (git add ./data && git commit -m 'Mise à jour des publications' && git push origin HEAD:master) || exit 0
       on:
         branch: master
-  - name: build
+  - stage: build
     script: npm run build -- -b $BASE_URL
     deploy:
     - provider: pages
