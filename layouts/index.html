@@ -12,8 +12,7 @@
 
     <section role="main">
       <h1>{{ i18n "news" }}</h1>
-
-      {{- range first 5 (where .Pages "Section" "posts") -}}
+      {{- range first 5 (where (where .Site.Pages "Section" "posts") "Kind" "page") -}}
       {{ partial "contents/post.html" . }}
       {{- end -}}
 
