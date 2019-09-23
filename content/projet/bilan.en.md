@@ -8,7 +8,7 @@ weight: 40
 # Landmarks
 ## Chronology
 
-{{< longdesc src="/img/reperes/shema_reperes.svg" alt="Frise chronologique" >}}
+{{< longdesc src="/img/reperes/shema_reperes.svg" class="full-bleed" alt="Frise chronologique" >}}
 1. FIRST FOUNDATIONS
   - 2011 : acceptance of the project
   - 2012 : inauguration of the Equipex

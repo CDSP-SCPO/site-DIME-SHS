@@ -10,6 +10,17 @@
     @extend .lh-title;
   }
 
+  .full-bleed {
+    @extend .mw-none;
+    width: 90vw;
+  }
+
+  @media #{$breakpoint-large} {
+    .full-bleed {
+      width: 60vw;
+    }
+  }
+
   .article__body,
   .page__body {
     @extend .relative;
