@@ -1,5 +1,19 @@
 # Journal de bord
 
+## Lundi 23 septembre 2019
+
+⏳ + 1j
+
+- **largeur image/schema de fonctionnement** • [#56](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/56)<br>
+Création d'une classe CSS supplémentaire `.full-bleed` pour permettre à une image de déborder du conteneur principal.
+- **Ajouter l'effet "snap" entre les slides** • [#26](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/26)<br>
+Finalisation du code qui met à jour la pastille de progression. Le résultat n'est pas satisfaisant au niveau des actualités dans Firefox.
+- **template page 404* • [#57](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/57)<br>
+Correction des liens en sidenote (qui étaient en gris sur fond gris).
+- **Le script d'import Spire/Zotero est automatisé au rythme d'une fois par jour** • [#67](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/67)<br>
+La commande optionnelle casse — elle est passée en script npm.
+
+
 ## Vendredi 20 septembre 2019
 
 - **Le script d'import Spire/Zotero est automatisé au rythme d'une fois par jour** • [#67](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/67)<br>
@@ -7,13 +21,15 @@ Ajustement car le job est en erreur s'il n'y a pas de changement côté Zotero/S
 
 ## Jeudi 19 septembre 2019
 
+⏳ + 0.25j
+
 - **Ajouter l'effet "snap" entre les slides** • [#26](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/26)<br>
 J'ai trouvé une solution satisfaisante pour avoir le snap _et_ pour maintenir/simplifier le clic sur les ancres. Ce qu'il reste à faire c'est de mettre à jour les pastilles de progression en écrivant du code/contournant le code initial.
 
 
 ## Mardi 17 septembre 2019
 
-⏳ /
+⏳ + 0.25j
 
 - **Ajouter l'effet "snap" entre les slides** • [#26](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/26)<br>
 Ajout de l'effet mais ça change la structure de la page, du coup ça casse la mise à jour de l'activation des pastilles de progression. Je tente une solution mais ça ne marche pas, alors je laisse tomber en vue de revenir dessus à tête reposée.
