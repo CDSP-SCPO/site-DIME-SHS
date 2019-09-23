@@ -1,0 +1,36 @@
+.grid-list {
+  > ol,
+  > ul {
+    @extend .flex;
+    @extend .flex-wrap;
+    @extend .items-center;
+    @extend .list;
+    @extend .measure-wide;
+
+    > li {
+      @extend .w-100;
+      @extend .w-50-ns;
+      @extend .pl0;
+      @extend .pv6;
+      @extend .pv4-ns;
+      @extend .pr6;
+      @extend .mw2;
+      @extend .bg-right;
+
+      &:nth-child(1) {
+        background-image: url("/ui/list-figure-1.svg");
+      }
+      &:nth-child(2) {
+        background-image: url("/ui/list-figure-2.svg");
+        @extend .pl3-ns;
+      }
+      &:nth-child(3) {
+        background-image: url("/ui/list-figure-3.svg");
+      }
+      &:nth-child(4) {
+        background-image: url("/ui/list-figure-4.svg");
+        @extend .pl3-ns;
+      }
+    }
+  }
+}
