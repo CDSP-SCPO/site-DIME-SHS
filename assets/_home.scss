@@ -1,5 +1,21 @@
 @import 'components/links';
 
+.slide {
+  @extend .flex;
+  @extend .flex-column;
+  @extend .justify-center;
+
+  @extend .w-100;
+  @extend .min-vh-100;
+  @extend .ph4;
+  @extend .ph6-ns;
+  @extend .ph7-l;
+
+  &.slide--auto-height {
+    min-height: auto;
+  }
+}
+
 .slides__nav {
   @extend .dn;
   @extend .db-ns;
@@ -51,20 +67,6 @@
   }
 
   .slide {
-    @extend .flex;
-    @extend .flex-column;
-    @extend .justify-center;
-
-    @extend .w-100;
-    @extend .min-vh-100;
-    @extend .ph4;
-    @extend .ph6-ns;
-    @extend .ph7-l;
-
-    &.slide--auto-height {
-      min-height: auto;
-    }
-
     &:not(.slide--auto-height) {
       p {
         @extend .measure-wide;
@@ -79,8 +81,8 @@
         @include link-state('underline', 'no-underline');
       }
     }
-
-    &:nth-of-type(1) {
+    
+    &:nth-of-type(1):not(.slide--no-color) {
       @extend .near-white;
       background: $secondary-color;
 

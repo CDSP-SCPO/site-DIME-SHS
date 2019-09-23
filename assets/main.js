@@ -28,7 +28,11 @@ var getSiblings = function getSiblings(elem, untilFn) {
 };
 
 var toggleHeadlines = function toggleHeadlines(headlines, untilFn) {
-  var defaultState = document.body.classList.contains('toggable-headlines--closed') || document.documentElement.clientWidth < 768 ? 'closed' : 'opened';
+  if (document.body.classList.contains('toggable-headlines--none')) {
+    return;
+  }
+
+  var defaultState = document.body.classList.contains('toggable-headlines--closed') || document.documentElement.clientWidth < 768 ? (document.body.classList.contains('toggable-headlines--opened') ? 'opened' : 'closed') : 'opened';
   var toggleSiblings = function toggleSiblings(headline) {
     var nextItems = getSiblings(headline, untilFn);
     nextItems.forEach(function (s) {
@@ -161,9 +165,9 @@ var balanceNotes = function balanceNotes(sections, getElements) {
 
     // Home slides
     var slidesContainer = $('.slides');
-    if (slidesContainer) {
+    var navContainer = $('.slides__nav');
+    if (slidesContainer && navContainer) {
       // Build the slides bulleted navigation
-      var navContainer = $('.slides__nav');
       var nav = $('.slides__nav > ul');
       $$('.slide', slidesContainer).forEach(function (slide, i) {
         if (!slide.getAttribute('id')) {
