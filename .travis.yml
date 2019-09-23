@@ -22,7 +22,7 @@ jobs:
     deploy:
       provider: script
       skip-cleanup: true
-      script: [[ $(git diff ./data) ]] && (git add ./data && git commit -m 'Mise à jour des publications' && git push origin HEAD:master) || exit 0
+      script: npm run deploy:ci
       on:
         branch: master
   - stage: build
