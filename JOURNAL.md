@@ -12,6 +12,8 @@ Finalisation du code qui met à jour la pastille de progression. Le résultat n'
 Correction des liens en sidenote (qui étaient en gris sur fond gris).
 - **Le script d'import Spire/Zotero est automatisé au rythme d'une fois par jour** • [#67](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/67)<br>
 La commande optionnelle casse — elle est passée en script npm.
+- **intégration de la Spreadsheet de mapping des catégories** • [#66](https://github.com/CDSP-SCPO/site-DIME-SHS/issues/66)<br>
+Prise en compte de 2 retours : ajustement de la prise en compte des dates, et des URL/sources identiques (dans le cas des Datascapes notamment).
 
 
 ## Vendredi 20 septembre 2019
