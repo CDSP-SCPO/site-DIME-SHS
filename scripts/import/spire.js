@@ -25,12 +25,13 @@ export default function importer (source, {publicationsMapping:mappingConfig, pu
         const metadata = item.metadata['oai_dc:dc'];
         const {identifier:id} = item.header;
 
-        const {['dc:title']:title, ['dc:date']:date, ['dc:creator']:authors} = metadata;
+        const {['dc:title']:title, ['dc:creator']:authors} = metadata;
         const {['dc:type']:types} = metadata;
         const {['dc:publisher']:publication, ['dc:source']:source} = metadata;
 
         const category = getCategory(item.header.setSpec, publications, 'spire');
         const url = getUrl(metadata['dc:identifier']);
+        const date = Array.isArray(metadata['dc:date']) ? toDate(metadata['dc:date'][0]) : toDate(metadata['dc:date']);
 
         const itemType = getType(types.pop());
         const type = publicationsMapping[itemType] || itemType;
@@ -42,7 +43,8 @@ export default function importer (source, {publicationsMapping:mappingConfig, pu
           id,
           title: decode(title),
           authors: Array.isArray(authors) ? authors : [authors],
-          date: Array.isArray(date) ? toDate(date[0]) : toDate(date),
+          date,
+          date_sort: new Date(date),
           url: cleanUrl(url),
           type,
           source,

@@ -5,6 +5,7 @@
     - Serres, Alexandre
     - Stalder, Angèle
   date: 2015-10-09
+  date_sort: 2015-10-09T00:00:00.000Z
   url: https://archivesic.ccsd.cnrs.fr/sic_01217549/document
   type: Communications avec actes
   issue: null
@@ -19,6 +20,7 @@
   authors:
     - Ojala, Mace
   date: 2017-01-05
+  date_sort: 2017-01-05T00:00:00.000Z
   url: https://ethos.itu.dk/2017/01/05/mining-with-hyphe-reflections-on-publicethos-13/
   type: Contributions à un site web
   issue: null
@@ -36,6 +38,7 @@
     - Severo, Marta
     - Chaudiron, Stéphane
   date: 2015-11-18
+  date_sort: 2015-11-18T00:00:00.000Z
   url: http://hal.univ-lille3.fr/hal-01281716
   type: Communications avec actes
   issue: null
@@ -52,6 +55,7 @@
     - Cayla, Nathalie
     - Peyrache-Gadeau, Véronique
   date: 2017-07-12
+  date_sort: 2017-07-12T00:00:00.000Z
   url: https://labexitem.hypotheses.org/452
   type: Communications avec actes
   issue: null
@@ -70,6 +74,7 @@
     - Haettich, Yoann
     - Borel, Justine
   date: "2018"
+  date_sort: 2018-01-01T00:00:00.000Z
   url: http://doi.acm.org/10.1145/3240431.3240439
   type: Communications avec actes
   issue: null
@@ -83,6 +88,7 @@
   authors:
     - Arzheimer, Kai
   date: 2015-09-03
+  date_sort: 2015-09-03T00:00:00.000Z
   url: https://convention2.allacademic.com/one/apsa/apsa15/index.php?cmd=Online+Program+View+Paper&selected_paper_id=997634&PHPSESSID=vnpdminlo8d0kvs0u7aprbk8e0
   type: Communications avec actes
   issue: null
@@ -98,7 +104,8 @@
     - Marwick, Alice
     - Poell, Thomas
     - Rogers, Richard
-  date: "2017"
+  date: 2017-07
+  date_sort: 2017-07-01T00:00:00.000Z
   url: http://sk.sagepub.com/reference/the-sage-handbook-of-social-media//i851.xml
   type: Parties d'ouvrages
   issue: null
@@ -114,6 +121,7 @@
     - Romele, Alberto
     - Severo, Marta
   date: 2016-05
+  date_sort: 2016-05-01T00:00:00.000Z
   url: https://hal.archives-ouvertes.fr/hal-01294443
   type: Articles
   issue: "6"
@@ -128,6 +136,7 @@
     - Bottini, Thomas
     - Julliard, Virginie
   date: 2017-08-22
+  date_sort: 2017-08-22T00:00:00.000Z
   url: https://www.cairn.info/revue-reseaux-2017-4-page-35.htm
   type: Articles
   issue: "204"
@@ -140,7 +149,8 @@
   title: "‪#Theoriedugenre : comment débat-on du genre sur Twitter ?‪"
   authors:
     - Julliard, Virginie
-  date: "2016"
+  date: 2016-12
+  date_sort: 2016-12-01T00:00:00.000Z
   url: https://www.cairn.info/article.php?ID_ARTICLE=QDC_030_0135
   type: Articles
   issue: "30"
@@ -155,6 +165,7 @@
   authors:
     - Froio, Caterina
   date: 2017-06-19
+  date_sort: 2017-06-19T00:00:00.000Z
   url: https://www.cairn.info/revue-reseaux-2017-2-page-39.htm
   type: Articles
   issue: 202-203
@@ -169,6 +180,7 @@
   authors:
     - Sánchez, Sandra Álvaro
   date: "2019"
+  date_sort: 2019-01-01T00:00:00.000Z
   url: http://peerproduction.net/editsuite/issues/issue-13-open/peer-reviewed-papers/a-topological-space-for-design-participation-and-production/
   type: Articles
   issue: "13"
@@ -187,6 +199,7 @@
     - Colgrove, James
     - Seror, Valérie
   date: 2019-01-01
+  date_sort: 2019-01-01T00:00:00.000Z
   url: http://www.sciencedirect.com/science/article/pii/S0277953618306282
   type: Articles
   issue: ""
@@ -201,6 +214,7 @@
   authors:
     - de Carvalho Pereira, Débora
   date: 2017-10-15
+  date_sort: 2017-10-15T00:00:00.000Z
   url: https://f-origin.hypotheses.org/wp-content/blogs.dir/3105/files/2017/10/Rapport-REPASTOL-PEREIRA-2017.compressed.pdf
   type: Rapports
   issue: null
@@ -217,6 +231,7 @@
     - Julliard, Virginie
     - Mabi, Clément
   date: 2016-01-01
+  date_sort: 2016-01-01T00:00:00.000Z
   url: http://journals.openedition.org/rfsic/1783
   type: Articles
   issue: "8"
@@ -234,6 +249,7 @@
     - Chapoy, Elise
     - Levain, Elisabeth
   date: 2016-07
+  date_sort: 2016-07-01T00:00:00.000Z
   url: https://hal.archives-ouvertes.fr/hal-01386536
   type: Communications avec actes
   issue: null
@@ -248,6 +264,7 @@
     - Serres, Alexandre
     - Stalder, Angèle
   date: 2016-03-18
+  date_sort: 2016-03-18T00:00:00.000Z
   url: https://archivesic.ccsd.cnrs.fr/sic_01483421/document
   type: Communications avec actes
   issue: null
@@ -267,7 +284,8 @@
     - Higad, Kazuhito
     - Murtin, Fabrice
     - Senik, Claudia
-  date: "2015"
+  date: 2016-04
+  date_sort: 2016-04-01T00:00:00.000Z
   url: https://core.ac.uk/display/80771218
   type: Articles
   issue: ""
@@ -284,6 +302,7 @@
     - Severo, Marta
     - Kergosien, Eric
   date: 2016-03
+  date_sort: 2016-03-01T00:00:00.000Z
   url: https://hal.archives-ouvertes.fr/hal-01353660
   type: Communications avec actes
   issue: null
@@ -297,7 +316,8 @@
     Datasets"
   authors:
     - Munk, Anders Kristian
-  date: 2014-11-01
+  date: 2014-11
+  date_sort: 2014-11-01T00:00:00.000Z
   url: https://papers.ssrn.com/abstract=2595287
   type: Rapports
   issue: null
@@ -315,6 +335,7 @@
     - Meunier, Axel
     - Brilli, Agata
   date: 2017
+  date_sort: 1970-01-01T00:00:02.017Z
   url: http://spire.sciencespo.fr/hdl:/2441/10ctml1egq89ro59upjajbj74n
   type: Communications orales
   source: International Conference on Public Policy (ICPP3), Singapore, SG,
@@ -326,6 +347,7 @@
   authors:
     - Ooghe, Benjamin
   date: 2016-11-23
+  date_sort: 2016-11-23T00:00:00.000Z
   url: https://dlis.hypotheses.org/831
   type: Communications orales
   source: null
@@ -338,6 +360,7 @@
     - Girard, Paul
     - Ooghe, Benjamin
   date: 2014-06-13
+  date_sort: 2014-06-13T00:00:00.000Z
   url: http://atelier-dlweb.fr/blog/?p=1254
   type: Communications orales
   source: null
@@ -349,6 +372,7 @@
   authors:
     - Ooghe, Benjamin
   date: 2015-04-17
+  date_sort: 2015-04-17T00:00:00.000Z
   url: https://web90.hypotheses.org/1335
   type: Communications orales
   source: null
@@ -360,7 +384,8 @@
     - Venturini, Tommaso
     - Jacomy, Mathieu
     - Pereira, Debora
-  date: 2015
+  date: 2015-01-01
+  date_sort: 2015-01-01T00:00:00.000Z
   url: http://www.medialab.sciences-po.fr/wp-content/uploads/2015/06/VisualNetwork_Paper-10.pdf
   type: Rapports
   source: null
@@ -372,6 +397,7 @@
     - Jacomy, Mathieu
     - Ooghe, Benjamin
   date: 2013-12-05
+  date_sort: 2013-12-05T00:00:00.000Z
   url: http://www.otmedia.fr/wp-content/uploads/2013/10/OT-Media-International-Conference-Big-Data-for-Media-Analysis.pdf
   type: Communications orales
   source: null
@@ -384,6 +410,7 @@
     - Crépel, Maxime
     - Ooghe, Benjamin
   date: 2017-05
+  date_sort: 2017-05-01T00:00:00.000Z
   url: http://tools.medialab.sciences-po.fr/privacy/
   type: Datascapes
   source: http://tools.medialab.sciences-po.fr/privacy/
@@ -398,6 +425,7 @@
     - Douay, Nicolas, Géographie-Cités
     - Blanc, Nathalie
   date: 2017-11
+  date_sort: 2017-11-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/1ve2iilj4i94ip23o9iav2ja5b
   type: Articles
   source: Reset, (7), 1-1 (2017-11)
@@ -409,6 +437,7 @@
   authors:
     - Ooghe, Benjamin
   date: 2014-01-13
+  date_sort: 2014-01-13T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/230upj29ts8o39oavidln6jeu0
   type: Communications orales
   source: null
@@ -421,6 +450,7 @@
     - Crépel, Maxime
     - Jacomy, Mathieu
   date: 2017-06
+  date_sort: 2017-06-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/2ap5ocbu0b96m8ogel9f93clo0
   type: Communications orales
   source: null
@@ -432,6 +462,7 @@
   authors:
     - Ooghe, Benjamin
   date: 2018-09-27
+  date_sort: 2018-09-27T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/2ku47fg4gm8b1ojnr6ko3t6dn9
   type: Communications orales
   source: null
@@ -445,6 +476,7 @@
     - Bounegru, Liliana
     - Gray, Jonathan
   date: 2018-08
+  date_sort: 2018-08-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/2qstn4hntb9899i33dp4dn3hrs
   type: Parties d'ouvrages
   source: "The Routledge Handbook to Developments in Digital Journalism Studies,
@@ -458,6 +490,7 @@
     - Jacomy, Mathieu
     - Leclercq, Christophe
   date: 2017-03-16
+  date_sort: 2017-03-16T00:00:00.000Z
   url: http://medialab.github.io/publications/datascape@scienceXXL/
   type: Communications orales
   source: "Science XXL : Ce que l’abondance et la diversité des données font aux
@@ -470,6 +503,7 @@
   authors:
     - Ooghe, Benjamin
   date: 2018-06-21
+  date_sort: 2018-06-21T00:00:00.000Z
   url: https://lemel.hypotheses.org/156
   type: Communications orales
   source: null
@@ -483,6 +517,7 @@
     - Jacomy, Mathieu
     - Boullier, Dominique
   date: 2016
+  date_sort: 1970-01-01T00:00:02.016Z
   url: http://spire.sciencespo.fr/hdl:/2441/3dciauig4s8g0rl470bucqrf33
   type: Articles
   source: Réseaux, 1(195), 131-161 (2016)
@@ -495,6 +530,7 @@
     - Ooghe, Benjamin
     - Girard, Paul
   date: 2016-11-15
+  date_sort: 2016-11-15T00:00:00.000Z
   url: https://anf-mate2016.sciencesconf.org/data/MATE_SHS_2016_Ooghe_B.pdf
   type: Communications orales
   source: null
@@ -509,6 +545,7 @@
     - Jacomy, Mathieu
     - Gray, Jonathan
   date: 2017-02-25
+  date_sort: 2017-02-25T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/3r6kitktvv8fkp8lssnr3qmis6
   type: Parties d'ouvrages
   source: "Datafied Society: Social Research in the Age of Big Data., (pp. 155-170):
@@ -522,6 +559,7 @@
   authors:
     - Ooghe, Benjamin
   date: 2016-11-16
+  date_sort: 2016-11-16T00:00:00.000Z
   url: https://anf-mate2016.sciencesconf.org/data/MATE_SHS_2016_Ooghe_TabanouB.pdf
   type: Communications orales
   source: null
@@ -535,6 +573,7 @@
     - Girard, Paul
     - Larousserie, David
   date: 2012-02-03
+  date_sort: 2012-02-03T00:00:00.000Z
   url: https://www.lemonde.fr/planete/article/2012/02/03/reseaux-la-quete-des-lois-du-web_1638035_3244.html
   type: Articles
   source: Le  (2012-02-03)
@@ -547,6 +586,7 @@
     - Ooghe, Benjamin
     - Crépel, Maxime
   date: 2017-12-15
+  date_sort: 2017-12-15T00:00:00.000Z
   url: https://www.meshs.fr/page/lesjourne171004111447
   type: Communications orales
   source: null
@@ -561,6 +601,7 @@
     - Heymann, Sébastien
     - Bastian, Mathieu
   date: 2014
+  date_sort: 1970-01-01T00:00:02.014Z
   url: http://spire.sciencespo.fr/hdl:/2441/58bmf6rqp96hros64meac1fts
   type: Articles
   source: PLos ONE, 9(6), 1-18 (2014)
@@ -571,6 +612,7 @@
   authors:
     - Jacomy, Mathieu
   date: 2017-09-04
+  date_sort: 2017-09-04T00:00:00.000Z
   url: https://metsem.hypotheses.org/111
   type: Communications orales
   source: null
@@ -583,6 +625,7 @@
     - Tournay, Virginie
     - Jacomy, Mathieu
   date: 2016-03
+  date_sort: 2016-03-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/6m937ip5p99bro7c1l1hho5voc
   type: Communications orales
   source: null
@@ -596,6 +639,7 @@
     - Ooghe, Benjamin
     - Venturini, Tommaso
   date: 2016-05
+  date_sort: 2016-05-01T00:00:00.000Z
   url: http://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13051/12797
   type: Communications avec actes
   source: International AAAI Conference on Web and Social Media, Köln, DE,
@@ -611,6 +655,7 @@
     - Gray, Jonathan
     - Jacomy, Mathieu
   date: 2016-06-20
+  date_sort: 2016-06-20T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/6urkuh5hb58h9oobtv1nlit9uo
   type: Articles
   source: Digital Journalism (2016-06-20)
@@ -629,6 +674,7 @@
     - Merckle, Pierre
     - Fleury, Eric
   date: 2015-09
+  date_sort: 2015-09-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/6v5vvm7ncu9hcbjumqg47u2jq8
   type: Articles
   source: Journal of Complex Networks (2015-09)
@@ -642,6 +688,7 @@
     - Jacomy, Mathieu
     - Cautrès, Bruno
   date: 2016-11
+  date_sort: 2016-11-01T00:00:00.000Z
   url: http://www.cevipof.com/fr/le-barometre-de-la-confiance-politique-du-cevipof/methodologie/
   type: Rapports
   source: null
@@ -660,6 +707,7 @@
     - Ooghe, Benjamin
     - Venturini, Tommaso
   date: 2015-10
+  date_sort: 2015-10-01T00:00:00.000Z
   url: https://medialab.github.io/double-dating-data/
   type: Datascapes
   source: https://medialab.github.io/double-dating-data/
@@ -672,6 +720,7 @@
     - Reys, Nicolas
     - Robin, Sabrina, Géographie-Cités
   date: 2015-07
+  date_sort: 2015-07-01T00:00:00.000Z
   url: https://journals.openedition.org/netcom/2089
   type: Articles
   source: Netcom – Réseaux, communication et territoires, 29(3/4), 275-296 (2015-07)
@@ -685,6 +734,7 @@
     - Girard, Paul
     - Plique, Guillaume
   date: 2018-10
+  date_sort: 2018-10-01T00:00:00.000Z
   url: http://hyphe.medialab.sciences-po.fr/docs/20181004-DigitalTools-HyperlinkIsNotDead.pdf
   type: Communications orales
   source: WS.2 2018 International conference on Web Studies, Paris, France — October
@@ -699,6 +749,7 @@
     - Munk, Anders Kristian
     - Jacomy, Mathieu
   date: 2016-01-01
+  date_sort: 2016-01-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/7jgmr11pjd939b8r7iobgqs53u
   type: Parties d'ouvrages
   source: "DigitalSTS: A Handbook and Fieldguide: Inconnu"
@@ -712,6 +763,7 @@
     - Baneyx, Audrey
     - Girard, Paul
   date: 2016-05
+  date_sort: 2016-05-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/q9ro3ttpd9dbr4mml3st7996s
   type: Articles
   source: Réseaux, (199) (2016-05)
@@ -724,6 +776,7 @@
     - Ooghe, Benjamin
     - Beasley, Elizabeth
   date: 2017-04
+  date_sort: 2017-04-01T00:00:00.000Z
   url: http://medialab.github.io/well-being-metrics/app/
   type: Datascapes
   source: http://medialab.github.io/well-being-metrics/app/
@@ -738,6 +791,7 @@
     - Ooghe, Benjamin
     - Girard, Paul
   date: 2018-02
+  date_sort: 2018-02-01T00:00:00.000Z
   url: https://fosdem.org/2018/schedule/event/multi_level_graph_index/
   type: Communications orales
   source: FOSDEM'18, Bruxelles, BE, 2018-02-03/2018-02-04
