@@ -27,9 +27,11 @@ test('translateDate() translates FR strings into EN', (t) => {
 test('cleanDate() prepares an invalid date', (t) => {
   t.deepEqual(cleanDate('2018-10-03 / 2018-10-05'), '2018-10-03')
   t.deepEqual(cleanDate('2016, 1983'), '2016')
+  t.deepEqual(cleanDate('2016-01'), '2016-01')
   t.deepEqual(cleanDate('2015-01, 2015-01, 1887'), '2015-01')
+  t.deepEqual(cleanDate('January 1, 2019'), '2019-01-01')
   t.deepEqual(cleanDate('2012-02-03, 1944'), '2012-02-03')
-  t.deepEqual(cleanDate('12-13 décembre 2014'), '12-13 décembre 2014')
+  t.deepEqual(cleanDate('12-13 décembre 2014'), '2014-12-12')
   t.deepEqual(cleanDate('01/2015'), '2015-01')
 })
 
@@ -41,9 +43,10 @@ test('toDate() should transform a string into a sortable date string', (t) => {
     t.deepEqual(toDate('2016/01/01'), '2016-01-01')
     t.deepEqual(toDate('2016-05-12'), '2016-05-12')
     t.deepEqual(toDate('2017'), '2017')
+    t.deepEqual(toDate('2016-01'), '2016-01')
     t.deepEqual(toDate('2016-12'), '2016-12')
     t.deepEqual(toDate('May 2016'), '2016-05')
-    t.deepEqual(toDate('01/2015'), '2015-01-01')  // "bug", because month+day are equal
+    t.deepEqual(toDate('01/2015'), '2015-01')
     t.deepEqual(toDate('2018-10-03 / 2018-10-05'), '2018-10-03')
     t.deepEqual(toDate('2016, 1983'), '2016')
     t.deepEqual(toDate('2012-02-03, 1944'), '2012-02-03')

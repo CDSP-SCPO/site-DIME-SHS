@@ -73,8 +73,8 @@
     - Tran, Félicia
     - Haettich, Yoann
     - Borel, Justine
-  date: "2018"
-  date_sort: 2018-01-01T00:00:00.000Z
+  date: 2018-10
+  date_sort: 2018-10-01T00:00:00.000Z
   url: http://doi.acm.org/10.1145/3240431.3240439
   type: Communications avec actes
   issue: null
@@ -179,8 +179,8 @@
     spaces of transformation » The Journal of Peer Production
   authors:
     - Sánchez, Sandra Álvaro
-  date: "2019"
-  date_sort: 2019-01-01T00:00:00.000Z
+  date: 2019-04
+  date_sort: 2019-04-01T00:00:00.000Z
   url: http://peerproduction.net/editsuite/issues/issue-13-open/peer-reviewed-papers/a-topological-space-for-design-participation-and-production/
   type: Articles
   issue: "13"
@@ -198,7 +198,7 @@
     - Fretigny, Raphael
     - Colgrove, James
     - Seror, Valérie
-  date: 2019-01-01
+  date: 2019-01
   date_sort: 2019-01-01T00:00:00.000Z
   url: http://www.sciencedirect.com/science/article/pii/S0277953618306282
   type: Articles
@@ -230,7 +230,7 @@
     - Bigot, Jean-Edouard
     - Julliard, Virginie
     - Mabi, Clément
-  date: 2016-01-01
+  date: 2016-01
   date_sort: 2016-01-01T00:00:00.000Z
   url: http://journals.openedition.org/rfsic/1783
   type: Articles
@@ -384,7 +384,7 @@
     - Venturini, Tommaso
     - Jacomy, Mathieu
     - Pereira, Debora
-  date: 2015-01-01
+  date: 2015-01
   date_sort: 2015-01-01T00:00:00.000Z
   url: http://www.medialab.sciences-po.fr/wp-content/uploads/2015/06/VisualNetwork_Paper-10.pdf
   type: Rapports
@@ -748,7 +748,7 @@
     - Venturini, Tommaso
     - Munk, Anders Kristian
     - Jacomy, Mathieu
-  date: 2016-01-01
+  date: 2016-01
   date_sort: 2016-01-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/7jgmr11pjd939b8r7iobgqs53u
   type: Parties d'ouvrages

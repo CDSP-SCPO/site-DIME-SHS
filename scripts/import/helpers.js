@@ -79,13 +79,21 @@ const ALLOWED_TYPES = new Map([
 ])
 
 export function cleanDate (string) {
-  return (string.match(/(\d{4}([\\/\-]\d{2}){0,2}(?=\s?[\/,][\s$])){1,2}/) || [])[0]
-  || string
+  const translatedString = translateDate(string);
+
+  return (translatedString.match(/(\d{4}([\\/\-]\d{2}){0,2}(?=\s?[\/,][\s$])){1,2}/) || [])[0]
+  || translatedString
       .toLocaleLowerCase()
       .replace(/^(\w+)\s(\d{4})/, (m, month, year) => `${year}-${[...MONTH_MAP].find(([key, value]) => value === month)[0]}`)
+      .replace(/^(\w+)\s(\d+),\s(\d{4})/, (m, month, day, year) => `${year}-${[...MONTH_MAP].find(([key, value]) => value === month)[0]}-${day.padStart(2, 0)}`)
       .replace(/^(\d{1,2})[\s\/\-](\d{4})/, (m, month, year) => `${year}-${month}`)
       .replace(/^(\d{1,2})(-\d{1,2})? (\w+) (\d{4})/, (m, day, day2, month, year) => `${year}-${month}-${day}`)
-  || string;
+      .replace(/(-)(\w{2,})/, (m, sep, month) => {
+        const foundMonth = [...MONTH_MAP].find(([digits, name]) => name === month)
+
+        return foundMonth ? sep + foundMonth[0] : sep + month;
+      })
+  || translatedString;
 }
 
 export function translateDate (string) {
@@ -113,21 +121,11 @@ export function toDate (string) {
     return string
   }
 
-  const formatter = new Intl.DateTimeFormat('fr-FR', {formatMatcher: 'basic', year: 'numeric', month: '2-digit', day: '2-digit'})
-  const dateString = translateDate(string);
-  const d = new Date(cleanDate(dateString));
+  const dateString = cleanDate(string);
 
-  if (Number.isNaN(d.getTime())) {
+  if (Number.isNaN(new Date(dateString).getTime())) {
     throw new RangeError(`La date [${string}] ne peut être convertie.`)
   }
 
-  return formatter.formatToParts(d)
-    .filter(({type}) => ALLOWED_TYPES.has(type))
-    .sort((a, b) => ALLOWED_TYPES.get(a.type) - ALLOWED_TYPES.get(b.type))
-    .filter(({type, value}) => {
-      return dateString.match(new RegExp(`(^|\\D)${value}(\\D|$)`)) || (type === 'day' && matchDay(dateString, value)) || (type === 'month' && matchMonth(dateString, value))
-    })
-    .map(({value}) => value)
-    .join('-')
-    .toString();
+  return dateString.replace(/\//g, '-');
 }
