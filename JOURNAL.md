@@ -1,5 +1,36 @@
 # Journal de bord
 
+## Vendredi 20 septembre 2019
+
+- **Le script d'import Spire/Zotero est automatisé au rythme d'une fois par jour** • [#67](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/67)<br>
+Ajustement car le job est en erreur s'il n'y a pas de changement côté Zotero/Spire.
+
+## Jeudi 19 septembre 2019
+
+- **Ajouter l'effet "snap" entre les slides** • [#26](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/26)<br>
+J'ai trouvé une solution satisfaisante pour avoir le snap _et_ pour maintenir/simplifier le clic sur les ancres. Ce qu'il reste à faire c'est de mettre à jour les pastilles de progression en écrivant du code/contournant le code initial.
+
+
+## Mardi 17 septembre 2019
+
+⏳ /
+
+- **Ajouter l'effet "snap" entre les slides** • [#26](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/26)<br>
+Ajout de l'effet mais ça change la structure de la page, du coup ça casse la mise à jour de l'activation des pastilles de progression. Je tente une solution mais ça ne marche pas, alors je laisse tomber en vue de revenir dessus à tête reposée.
+
+## Lundi 16 septembre 2019
+
+⏳ + 0.5j
+
+- **Gabarit : Contributeurs** • [#24](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/24)<br>
+Mise en forme des co-financeurs en grille et des partenaires, aucune embûche.
+- **Mettre à jour vers Hugo 0.55.6** • [#63](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/63)<br>
+L'installation est reproductible, gérée avec Node.js (oui c'est paradoxal).
+- **Le script d'import Spire/Zotero est automatisé au rythme d'une fois par jour** • [#67](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/67)<br>
+C'est un premier jet, on verra bien en action si l'intégration continue arrive à commiter et publier sur Git — c'est un choix pour toujours avoir un lien direct entre ce qui est publié en HTML/ligne et l'historique Git.
+- **template page 404* • [#57](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/57)<br>
+Aucune embûche.
+
 ## Mardi 10 septembre 2019
 
 ⏳ + 0.5j
