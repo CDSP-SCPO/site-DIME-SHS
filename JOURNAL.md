@@ -1,5 +1,13 @@
 # Journal de bord
 
+## Lundi 30 septembre 2019
+
+⏳ + 0.10j
+
+- **Ajouter l'effet "snap" entre les slides** • [#26](https://github.com/CDSP-SCPO/site-DIME-SHS/pull/26)<br>
+J'ai sorti la section "Actualités" du snap, ça résout tous nos problèmes.
+
+
 ## Lundi 23 septembre 2019
 
 ⏳ + 1j
