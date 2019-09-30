@@ -1,9 +1,11 @@
 {{ define "main" }}
 
-<main class="slides">
-  <nav class="slides__nav" data-item-options="no-scroll"><ul></ul></nav>
+<main>
+  <section class="slides">
+    <nav class="slides__nav" data-item-options="no-scroll"><ul></ul></nav>
 
-  {{ .Page.Content }}
+    {{ .Page.Content }}
+  </section>
 
   <section class="slide slide--auto-height" data-section="{{ .Page.Kind }}" data-slides-nav-state="alternate" id="news">
     <aside class="table-of-contents" role="aside">

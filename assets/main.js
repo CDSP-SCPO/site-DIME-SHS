@@ -197,7 +197,7 @@
     if (slidesContainer && navContainer) {
       // Build the slides bulleted navigation
       var nav = $('.slides__nav > ul');
-      $$('.slide', slidesContainer).forEach(function (slide, i) {
+      $$('main .slide').forEach(function (slide, i) {
         if (!slide.getAttribute('id')) {
           slide.setAttribute('id', 'slide:' + (i + 1));
         }
@@ -211,11 +211,21 @@
       });
 
       if (slidesContainer) {
+        new MenuSpy(nav, {
+          enableLocationHash: false,
+          threshold: document.documentElement.clientHeight / 3,
+          hashTimeout: 200,
+          callback: function(currentItem){
+            var state = currentItem.target.dataset.slidesNavState || 'default';
+            navContainer.dataset.state = state;
+          }
+        });
+
         slidesContainer.addEventListener('scroll', function(event) {
           var scrollTop = slidesContainer.scrollTop;
           var newActiveSlide = $$('.slide', slidesContainer).filter(function(slide){
             return slide.offsetTop === scrollTop;
-          }).pop()
+          }).pop();
 
           if (newActiveSlide) {
             enableElement('#' + newActiveSlide.id);
