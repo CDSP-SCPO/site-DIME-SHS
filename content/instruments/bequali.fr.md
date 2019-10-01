@@ -37,7 +37,7 @@ L’équipe beQuali traite les matériaux d’enquêtes sélectionnées et assur
 
 BeQuali s’inscrit également dans une démarche de préservation des données de la recherche et prévoit un archivage au Centre informatique nationale de l’Enseignement supérieur ([CINES](https://www.cines.fr/)) des enquêtes mises à disposition.
 
-<a href="/img/instruments/shemas_bequali.svg" target="_blank"><img src="/img/instruments/shemas_bequali.svg"></a>
+<img src="/img/instruments/shemas_bequali.svg" alt="Schéma de fonctionnement beQuali" class="full-bleed">
 
 # Apports
 Il existe un intérêt fort de la communauté académique pour la mise à disposition de matériaux d’enquêtes qualitatives. La mise à disposition des corpus beQuali valorise ainsi le travail des chercheurs producteurs et permet à d’autres de les réutiliser afin de produire notamment des comparaisons ou de nouvelles interprétations (réanalyse, comparaison, etc.). De plus, l’intérêt du partage de ces matériaux en termes d’enseignement des méthodes qualitatives est considérable.
