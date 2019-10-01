@@ -71,10 +71,10 @@ $ npm run build -- --baseURL https://dime-shs.sciences-po.fr
 
 Les fichiers sont générés dans le répertoire `./public`.
 
-| Type | Identifiant | Utilité
-| ---       | ---
-| Variable d'environnement  | `MATOMO_SITE_ID`  | Transmet l'identifiant de site Matomo, pour le suivi des visites.
-| Paramètre   | `--baseURL http://example.com`  | Site de destination.
+| Type                      | Identifiant                     | Utilité
+| ---                       | ---                             | ---
+| Variable d'environnement  | `MATOMO_SITE_ID`                | Transmet l'identifiant de site Matomo, pour le suivi des visites.
+| Paramètre                 | `--baseURL http://example.com`  | Site de destination.
 
 
 ## 📦 Scripts
