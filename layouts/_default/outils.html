@@ -17,7 +17,7 @@
     <h2 class="f2">{{ .Title }}</h2>
 
     <ul class="cards-list">
-    {{- $folder := string (delimit (slice (trim $Page.Dir "/") $id "") "/") -}}
+    {{- $folder := string (delimit (slice (trim $Page.File.Dir "/") $id "") "/") -}}
     {{ range where $Tools "Dir" $folder }}
     <article class="card">
       <h3 class="card__title">{{ .Title }}</h3>

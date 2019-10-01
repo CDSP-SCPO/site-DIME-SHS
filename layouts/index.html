@@ -1,9 +1,11 @@
 {{ define "main" }}
 
-<main class="slides">
-  <nav class="slides__nav"><ul></ul></nav>
+<main>
+  <section class="slides">
+    <nav class="slides__nav" data-item-options="no-scroll"><ul></ul></nav>
 
-  {{ .Page.Content }}
+    {{ .Page.Content }}
+  </section>
 
   <section class="slide slide--auto-height" data-section="{{ .Page.Kind }}" data-slides-nav-state="alternate" id="news">
     <aside class="table-of-contents" role="aside">
@@ -12,8 +14,7 @@
 
     <section role="main">
       <h1>{{ i18n "news" }}</h1>
-
-      {{- range first 5 (where .Pages "Section" "posts") -}}
+      {{- range first 5 (where (where .Site.Pages "Section" "posts") "Kind" "page") -}}
       {{ partial "contents/post.html" . }}
       {{- end -}}
 

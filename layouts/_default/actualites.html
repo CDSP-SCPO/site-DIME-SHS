@@ -5,7 +5,7 @@
   {{ .Page.Content }}
 </div>
 
-{{- range where (where .Site.Pages "Kind" "page") "Section" "posts" -}}
+{{- range where (where .Site.Pages "Section" "posts") "Kind" "page" -}}
 {{ partial "contents/post.html" . }}
 {{- end -}}
 
