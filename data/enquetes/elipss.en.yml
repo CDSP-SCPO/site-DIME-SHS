@@ -33,6 +33,7 @@ items:
   authors:
   - Luc Arrondel
   - ELIPSS team
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2017.12.flip/
 - title: "Game Cultures and Play Practices in France: a survey of board games"
   date: 2017
   authors:
@@ -40,6 +41,7 @@ items:
   - Samuel Coavoux
   - Hovig Ter Minassian
   - ELIPSS team
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2017.04.ludenquete/
 - title: Electoral choices and political values (1st wave)
   date: septembre 2013
   authors:
@@ -268,6 +270,7 @@ items:
   - Claude Grasland
   - ELIPSS team
   date: 2017
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2017.09.glocalmap/
 - title: "Citizens’ relationship with the justice system: experiences and representations"
   date: 2018
   authors:
@@ -292,9 +295,10 @@ items:
 - title: Mobilities and spatial experiences over the life course
   date: 2016
   authors:
-  - ttore Recchi
+  - Ettore Recchi
   - Aurore Flipo
   - ELIPSS team
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2016.02.mobilites/
 - title: Lifestyle and Society (2014)
   date: 2014
   authors:
@@ -305,6 +309,7 @@ items:
   authors:
   - Thomas Buhler
   - Philippe Signoret
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2018.02.panamo/
 - title: Cultural practices, media and information technologies (1st wave)
   date: 2013
   authors:
@@ -428,6 +433,7 @@ items:
   - Hervé Glevarec
   - Clément Combes
   - ELIPSS team
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2017.06.series/
 - title: Residential strategies and location choice in France
   date: 2015
   authors:
@@ -436,10 +442,11 @@ items:
 - title: Lifestyles and Environment
   date: 2017
   authors:
-  - Claude Grasland
-  - Clarisse Didelon-Loiseau
-  - GLOCALMAP team
+  - Ivalo D. Petev
+  - Yoann Demoli
+  - Équipe SVEN
   - ELIPSS team
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2017.11.sven/
 - title: Water social tariff
   date: 2016
   authors:

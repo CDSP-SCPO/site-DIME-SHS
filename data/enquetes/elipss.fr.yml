@@ -48,6 +48,7 @@ items:
   authors:
   - Luc Arrondel
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2017.12.flip/
 - title: "Cultures et pratiques ludiques en France : le cas des jeux de société"
   date: 2017
   authors:
@@ -55,6 +56,7 @@ items:
   - Samuel Coavoux
   - Hovig Ter Minassian
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2017.04.ludenquete/
 - title: Dynamiques de mobilisation - vague 1
   date: septembre 2013
   authors:
@@ -293,6 +295,7 @@ items:
   - Clarisse Didelon-Loiseau
   - équipe GLOCALMAP
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2017.09.glocalmap/
 - title: "Les rapports des citoyens à la justice : expériences et représentations"
   date: 2018
   authors:
@@ -331,9 +334,10 @@ items:
 - title: Mobilités et rapport à l'espace dans le cycle de vie
   date: 2016
   authors:
-  - ttore Recchi
+  - Ettore Recchi
   - Aurore Flipo
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2016.02.mobilites/
 - title: Modes de vie et société
   date: 2014
   authors:
@@ -345,6 +349,7 @@ items:
   - Thomas Buhler
   - Philippe Signoret
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2018.02.panamo/
 - title: Panel National Mobilité quotidienne - vague 2
   date: 2019
   authors:
@@ -491,6 +496,7 @@ items:
   - Hervé Glevarec
   - Clément Combes
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2017.06.series/
 - title: Stratégies résidentielles et choix de localisation en France
   date: 2015
   authors:
@@ -504,6 +510,7 @@ items:
   - Yoann Demoli
   - équipe SVEN
   - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2017.11.sven/
 - title: Tarification sociale de l'eau
   date: 2016
   authors:
