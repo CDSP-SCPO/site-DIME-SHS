@@ -2,21 +2,30 @@
 
 'use strict';
 
-const parse = require('@iarna/toml/parse-stream');
-const {createReadStream} = require('fs');
-const {writeFile} = require('fs').promises;
-const {join} = require('path');
-const importers = require('../scripts/import/index.js');
-const {stringify} = require('yaml').default;
+import {debuglog} from 'util';
+import fs, {createReadStream} from 'fs';
+import {join} from 'path';
+import parse from '@iarna/toml/parse-stream';
+import {stringify} from 'yaml';
+import importers from '../scripts/import/index.js';
 
+const {writeFile} = fs.promises;
 const [,, type, source] = process.argv;
+const debug = debuglog('import');
 
 const importer = importers[type];
 const stream = createReadStream(join(__dirname, '..', 'config.toml'));
 
 parse(stream)
   .then(config => importer(source, config.params))
+  .catch(error => {
+    console.error(error);
+    console.error(`\x1B[30;41mL'import a été annulé et aucun fichier n'a été mis à jour.\x1B[0m`);
+    process.exit(1);
+  })
   .then(({items, publications}) => {
+    debug('Attempting to write %d %s items in data/publications', items.length, type)
+
     const categories = Object.keys(publications);
     const writes = categories.map(category => {
       const filename = join(__dirname, '..', 'data', 'publications', `${category}.yml`);
@@ -32,4 +41,4 @@ parse(stream)
 
     return Promise.all(writes);
   })
-  .catch(error => console.error(error.message));
+  .catch(error => console.error(error) && process.exit(1));

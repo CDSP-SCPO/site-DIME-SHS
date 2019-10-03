@@ -14,10 +14,10 @@
   {{- range $labels -}}
   {{- $type := . -}}
   {{- with (where $items "type" $type) -}}
-    <section class="bibliography-section" id="{{$key}}-{{$type}}">
-      <h3>{{ humanize (i18n $type) }}</h3>
+    <section class="bibliography-section" id="{{$key}}-{{anchorize $type}}">
+      <h3>{{ humanize (i18n (delimit (slice "mapping" $type) "_")) }}</h3>
 
-      {{ range . }}
+      {{ range (sort (sort . "title" "asc") "date_sort" "desc") }}
       {{- $Publication := . -}}
       <article class="bibliography-entry bibliography-entry--quiet">
         <article class="bibliography-entry__body">
@@ -37,8 +37,8 @@
             {{- end -}}: {{ end }}
           {{- with $Publication.pages -}}{{.}}{{ end }}.
           {{ end }}
-          {{ with .source }}
-          <span class="source">{{ . }}</span>.
+          {{ if and (.source) (ne .source .url) }}
+          <span class="source">{{ .source }}</span>.
           {{ end }}
         </article>
       </article>

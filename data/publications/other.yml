@@ -4,8 +4,9 @@
   authors:
     - Richard, Jérémy
   date: 2013-03
+  date_sort: 2013-03-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/1pj2kuhiad81vohsgpivi5i46l
-  type: report
+  type: Rapports
   source: null
   publication: null
   category: other
@@ -19,8 +20,9 @@
     - Jacomy, Mathieu
     - Lesnard, Laurent
   date: 2017-04
+  date_sort: 2017-04-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/44hho00kqr9m78unl9ge63dsfh
-  type: report
+  type: Rapports
   source: null
   publication: null
   category: other
@@ -36,8 +38,9 @@
     - Lesnard, Laurent
     - Ooghe, Benjamin
   date: 2017-06
+  date_sort: 2017-06-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/6on6lk4u3984grfu8tm7e0svtr
-  type: report
+  type: Rapports
   source: null
   publication: null
   category: other
@@ -52,8 +55,9 @@
     - Jacomy, Mathieu
     - Lesnard, Laurent
   date: 2014-05
+  date_sort: 2014-05-01T00:00:00.000Z
   url: http://spire.sciencespo.fr/hdl:/2441/c1v77s3738liak7b26r3jt1af
-  type: report
+  type: Rapports
   source: null
   publication: null
   category: other

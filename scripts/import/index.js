@@ -1,6 +1,7 @@
 'use strict';
 
-const zotero = require('./zotero.js');
-const spire = require('./spire.js');
 
-module.exports = {zotero, spire};
+import zotero from './zotero.js';
+import spire from './spire.js';
+
+export default {zotero, spire};

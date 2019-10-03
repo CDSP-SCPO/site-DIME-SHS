@@ -2,10 +2,12 @@
 
 'use strict';
 
-const parse = require('@iarna/toml/parse-stream');
-const {createReadStream} = require('fs');
-const {writeFile} = require('fs').promises;
-const {join} = require('path');
+import parse from '@iarna/toml/parse-stream';
+import {createReadStream} from 'fs';
+import fs from 'fs';
+import {join} from 'path';
+
+const {writeFile} = fs.promises;
 const stream = createReadStream(join(__dirname, '..', 'config.toml'));
 
 parse(stream)
