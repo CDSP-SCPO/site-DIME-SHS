@@ -8,7 +8,7 @@ weight: 40
 # Repères
 
 ## Dates clés
-{{< longdesc src="/img/reperes/shema_reperes.svg" alt="Frise chronologique" >}}
+{{< longdesc src="/img/reperes/shema_reperes.svg" class="full-bleed" alt="Frise chronologique" >}}
 1. PREMIÈRES BRIQUES
   - 2011 : acceptation du projet
   - 2012 : inauguration de l’Equipex

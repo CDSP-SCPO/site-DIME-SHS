@@ -39,7 +39,7 @@ L’accompagnement de projets de recherche recouvre des réalités différentes 
 
 Un Comité Scientifique et Technique (CST) spécifique à Dime Web assure le suivi de la sélection des projets et l’orientation de l’instrument, sur la base d’une réunion physique annuelle et d’échanges numériques. À partir de 2014, la sélection et le soutien des petits projets nécessitant une plus forte réactivité sans requérir de coûteux développements (au contraire des plus gros projets) ont été délégués à l’équipe opérationnelle et le CST a endossé un rôle de supervision annuelle.
 
-<a href="/img/instruments/schema_dimeweb.svg" target="_blank"><img src="/img/instruments/schema_dimeweb.svg"></a>
+<img src="/img/instruments/schema_dimeweb.svg" alt="Schéma de fonctionnement Dime Web" class="full-bleed">
 
 # Apports
 L’instrument Web a depuis 2011 débouché sur la création de plusieurs outils numériques dédiés aux sciences sociales, le soutien direct d’une vingtaine de projets par de l’accompagnement et de la formation, et le soutien indirect d’une vaste gamme d’utilisateurs des outils en France et à l’international, dans les mondes académiques et pédagogiques, mais également journalistiques et associatifs. Les travaux de l’instrument ont également contribué à la recherche théorique sur les algorithmes de visualisation et la spatialisation de réseaux.

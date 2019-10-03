@@ -47,7 +47,7 @@ Proposées dans le cadre d’appels à projets, les enquêtes soumises au panel 
 
 Après une exclusivité maximale d’un an pour les équipes ayant co-produit une enquête ELIPSS, les données viennent enrichir le [catalogue du CDSP](https://cdsp.sciences-po.fr/fr/ressources-en-ligne/?0=subject__libel-ELIPSS) pour être mises à disposition de l’ensemble de la communauté de scientifique.
 
-<a href="/img/instruments/schema_elipss.svg" target="_blank"><img src="/img/instruments/schema_elipss.svg"></a>
+<img src="/img/instruments/schema_elipss.svg" alt="Schéma de fonctionnement d'Elipss" class="full-bleed">
 
 
 # Apports
