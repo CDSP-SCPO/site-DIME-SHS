@@ -24,8 +24,8 @@ En savoir plus:
 ## 9h30 - 10h30 : ouverture institutionnelle
 
 ## 10h45 - 12h15 : panel "le financement des infrastructures de recherche"
-La question du financement est souvent au coeur des préoccupations quotidiennes des infrastructures de recherche. Soutien à l’investissement, auto-fiinancement, partenariats institutionnels sont autant de solutions possibles et éventuellement complémentaires. Cette table-ronde permettra d’aborder tant la diversité des modes de financement des infrastructures que leurs conséquences sur les activités qu’ils permettent de développer. L’expérience de DIME-SHS et de la quête de sa pérennisation pourront servir de pierre de touche à ces discussions.
-*Intervenants confirmés*
+La question du financement est souvent au coeur des préoccupations quotidiennes des infrastructures de recherche. Soutien à l’investissement, auto-fiinancement, partenariats institutionnels sont autant de solutions possibles et éventuellement complémentaires. Cette table-ronde permettra d’aborder tant la diversité des modes de financement des infrastructures que leurs conséquences sur les activités qu’ils permettent de développer. L’expérience de DIME-SHS et de la quête de sa pérennisation pourront servir de pierre de touche à ces discussions.<br/>
+*Intervenants confirmés*<br/>
 - Fabrice Boudjaaba (CNRS INSHS),
 - Alain Chenu (Sciences Po OSC),
 - Marie d’Arcimoles (Sciences Po CDSP),
@@ -35,16 +35,15 @@ La question du financement est souvent au coeur des préoccupations quotidiennes
 ## 12h15 - 14h : cocktail déjeunatoire
 
 ## 14h - 15h30 : table-ronde "Produire à 4 mains : les métiers dans une infrastructure de recherche"
-Une infrastructure est un point de rencontre privilégié entre des métiers et des rôles différents. Cette table-ronde se propose d’explorer ces rencontres notamment dans un dialogue entre producteurs de services, ingénieurs des plateformes, et utilisateurs. De la compréhension du projet à la gestion des contraintes et des calendriers, l’exemple de DIME-SHS est là aussi un prisme soulignant la fécondité, et éventuellement  les difficultés, de ces rencontres et de ces collaborations de travail.
-
-*Intervenants confirmés :*
+Une infrastructure est un point de rencontre privilégié entre des métiers et des rôles différents. Cette table-ronde se propose d’explorer ces rencontres notamment dans un dialogue entre producteurs de services, ingénieurs des plateformes, et utilisateurs. De la compréhension du projet à la gestion des contraintes et des calendriers, l’exemple de DIME-SHS est là aussi un prisme soulignant la fécondité, et éventuellement  les difficultés, de ces rencontres et de ces collaborations de travail.<br/>
+*Intervenants confirmés :*<br/>
 - Damien Cartron (CNRS CMH),
 - Benjamin Ooghe-Tabanou (Sciences Po médialab),
 - Donato Ricci (Sciences Po médialab)
 
 ## 16h00 - 17h30 : panel "DIME-SHS : une infrastructure en devenir"
-Ce panel conclut cette journée par une mise en discussion plus directe du bilan et des perspectives de DIME-SHS. Comment comprendre les évolutions d’un projet développé depuis 10 ans ? Quels enseignements en tirer pour construire l’avenir de cette infrastructure de recherche ? C’est là également l’occasion de penser les besoins à venir en termes d’infrastructure pour les SHS de la décennie à venir.
-*Intervenants confirmés :*
+Ce panel conclut cette journée par une mise en discussion plus directe du bilan et des perspectives de DIME-SHS. Comment comprendre les évolutions d’un projet développé depuis 10 ans ? Quels enseignements en tirer pour construire l’avenir de cette infrastructure de recherche ? C’est là également l’occasion de penser les besoins à venir en termes d’infrastructure pour les SHS de la décennie à venir.<br/>
+*Intervenants confirmés :*<br/>
 - Dominique Joye (Université de Lausanne FORS),
 - Nicolas Sauger (Sciences Po CDSP),
 - Roxane Silberman (CNRS CMH),
