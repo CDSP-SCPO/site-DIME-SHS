@@ -9,7 +9,7 @@ Cette conférence représente cette double ambition : raconter l’histoire et l
 <!--more-->
 
 {{< sidebar class="last" >}}
-[Formulaire d'inscription](https://framaforms.org/conference-de-cloture-dime-shs-1570795200)
+[Formulaire d'inscription](https://framaforms.org/Colloque-de-cloture-dime-shs-1570795200)
 
 En savoir plus:
 [Site de l'instrument Elipss](http://quanti.dime-shs.sciences-po.fr/fr/)
