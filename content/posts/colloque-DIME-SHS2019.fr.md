@@ -17,6 +17,9 @@ En savoir plus:
 [Site de l'instrument Dime Web](http://dimeweb.dime-shs.sciences-po.fr/)
 {{< /sidebar >}}
 
+<img src="/img/actualites/transformation - DIME-SHS-colloque2019.jpg" alt="Schéma de fonctionnement beQuali" class="full-bleed">
+
+
 # Programme
 
 ## 9h-9h30 : accueil café
