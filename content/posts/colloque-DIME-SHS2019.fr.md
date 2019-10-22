@@ -17,7 +17,7 @@ En savoir plus:
 [Site de l'instrument Dime Web](http://dimeweb.dime-shs.sciences-po.fr/)
 {{< /sidebar >}}
 
-<img src="/img/actualites/transformation - DIME-SHS-colloque2019.jpg" alt="Schéma de fonctionnement beQuali" class="full-bleed">
+<img src="/img/actualites/transfo-DIME-SHS-colloque2019.png" alt="Schéma de fonctionnement beQuali" class="full-bleed">
 
 
 # Programme
