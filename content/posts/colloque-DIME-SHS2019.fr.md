@@ -25,6 +25,7 @@ En savoir plus:
 ## 9h-9h30 : accueil café
 
 ## 9h30 - 10h30 : ouverture institutionnelle
+- Magda Tomasini (Ined)<br/>
 
 ## 10h45 - 12h15 : panel "le financement des infrastructures de recherche"
 La question du financement est souvent au coeur des préoccupations quotidiennes des infrastructures de recherche. Soutien à l’investissement, auto-fiinancement, partenariats institutionnels sont autant de solutions possibles et éventuellement complémentaires. Cette table-ronde permettra d’aborder tant la diversité des modes de financement des infrastructures que leurs conséquences sur les activités qu’ils permettent de développer. L’expérience de DIME-SHS et de la quête de sa pérennisation pourront servir de pierre de touche à ces discussions.<br/>
