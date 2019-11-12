@@ -9,7 +9,8 @@ Cette conférence représente cette double ambition : raconter l’histoire et l
 <!--more-->
 
 {{< sidebar class="last" >}}
-[Formulaire d'inscription](https://framaforms.org/colloque-de-cloture-dime-shs-1570795200)
+[Formulaire d'inscription au colloque](https://framaforms.org/colloque-de-cloture-dime-shs-1570795200)
+[Programme de l'atelier Metadata Management](https://docs.google.com/document/d/1BwEAuM_jepXth44wPqNn4Tl21kFFGsVAi8U00s6NOz4/edit?ts=5da9e470)
 
 En savoir plus:
 [Site de l'instrument Elipss](http://quanti.dime-shs.sciences-po.fr/fr/)
@@ -20,7 +21,7 @@ En savoir plus:
 <img src="/img/actualites/transfo-DIME-SHS-colloque2019.png" alt="Schéma de fonctionnement beQuali" class="full-bleed">
 
 
-# Programme
+# Programme du 12 décembre
 
 ## 9h-9h30 : accueil café
 
@@ -56,6 +57,13 @@ Ce panel conclut cette journée par une mise en discussion plus directe du bilan
 ## 17h30 - 18h : clôture
 
 ## 18h - 20h : cocktail
+
+# Ateliers du 13 décembre
+Deux ateliers de méthode sont organisés le 13 décembre en marge du colloque.
+Ils porteront sur la contextualisation, la diffusion et la réutilisation des données qualitatives et quantitatives.
+[Programme de l'atelier "Metadata Management"](https://docs.google.com/document/d/1BwEAuM_jepXth44wPqNn4Tl21kFFGsVAi8U00s6NOz4/edit?ts=5da9e470)
+
+
 
 # Informations pratiques
 La conférence de clôture DIME-SHS est gratuit et ouvert à tous sur inscription. [Le formulaire d'inscription est accessible ici](https://framaforms.org/colloque-dime-shs-des-instruments-au-service-de-la-recherche-en-sciences-sociales-1529765747).
