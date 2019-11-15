@@ -42,12 +42,12 @@ La question du financement est souvent au coeur des préoccupations quotidiennes
 ## 14h - 15h30 : table-ronde "Produire à 4 mains : les métiers dans une infrastructure de recherche"
 Une infrastructure est un point de rencontre privilégié entre des métiers et des rôles différents. Cette table-ronde se propose d’explorer ces rencontres notamment dans un dialogue entre producteurs de services, ingénieurs des plateformes, et utilisateurs. De la compréhension du projet à la gestion des contraintes et des calendriers, l’exemple de DIME-SHS est là aussi un prisme soulignant la fécondité, et éventuellement  les difficultés, de ces rencontres et de ces collaborations de travail.<br/>
 **Intervenants confirmés :**<br/>
--  Damien Cartron (CNRS CMH),
-- Guillaume Garcia (Sciences Po CDSP, CNRS),
-- Anne Gotman (CNRS Cerlis),
-- Emeline Juillard (Sciences Po CDSP, CNRS),
-- Mathieu Olivier (Sciences Po CDSP, CNRS),
-- Benjamin Ooghe-Tabanou (Sciences Po médialab),
+-  Damien Cartron (CNRS CMH),<br/>
+- Guillaume Garcia (Sciences Po CDSP, CNRS),<br/>
+- Anne Gotman (CNRS Cerlis),<br/>
+- Emeline Juillard (Sciences Po CDSP, CNRS),<br/>
+- Mathieu Olivier (Sciences Po CDSP, CNRS),<br/>
+- Benjamin Ooghe-Tabanou (Sciences Po médialab),<br/>
 - Donato Ricci (Sciences Po médialab).
 
 ## 16h00 - 17h30 : panel "DIME-SHS : une infrastructure en devenir"
