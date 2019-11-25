@@ -10,7 +10,8 @@ Cette conférence représente cette double ambition : raconter l’histoire et l
 
 {{< sidebar class="last" >}}
 [Formulaire d'inscription au colloque](https://framaforms.org/colloque-de-cloture-dime-shs-1570795200)
-[Programme de l'atelier Metadata Management](https://docs.google.com/document/d/1BwEAuM_jepXth44wPqNn4Tl21kFFGsVAi8U00s6NOz4/edit?ts=5da9e470)
+[Programme de l'atelier "Metadata Management"](https://docs.google.com/document/d/1BwEAuM_jepXth44wPqNn4Tl21kFFGsVAi8U00s6NOz4/edit?ts=5da9e470)
+[Programme de l'atelier "Ressources pour l'enseignement des méthodes"](https://docs.google.com/document/d/1Rx7UQWbR_fejWW0WmZeoCoXm77SYu0KMVY2z8Fwp1zM/edit?usp=sharing)
 
 En savoir plus:
 [Site de l'instrument Elipss](http://quanti.dime-shs.sciences-po.fr/fr/)
@@ -67,6 +68,7 @@ Deux ateliers de méthode sont organisés le 13 décembre en marge du colloque.
 Ils porteront sur la contextualisation, la diffusion et la réutilisation des données qualitatives et quantitatives.
 [Programme de l'atelier "Metadata Management"](https://docs.google.com/document/d/1BwEAuM_jepXth44wPqNn4Tl21kFFGsVAi8U00s6NOz4/edit?ts=5da9e470)
 
+[Programme de l'atelier "Ressources pour l'enseignement des méthodes"](https://docs.google.com/document/d/1Rx7UQWbR_fejWW0WmZeoCoXm77SYu0KMVY2z8Fwp1zM/edit?usp=sharing)
 
 
 # Informations pratiques
