@@ -27,14 +27,17 @@ En savoir plus:
 ## 9h-9h30 : accueil café
 
 ## 9h30 - 10h30 : ouverture institutionnelle
-- Magda Tomasini (Ined)<br/>
+- Frédéric Mion (Sciences Po)<br/>
+- Nicolas Sauger (Sciences Po CDSP, CNRS),<br/>
+- Magda Tomasini (Ined).
 
 ## 10h45 - 12h15 : panel "le financement des infrastructures de recherche"
 La question du financement est souvent au coeur des préoccupations quotidiennes des infrastructures de recherche. Soutien à l’investissement, auto-fiinancement, partenariats institutionnels sont autant de solutions possibles et éventuellement complémentaires. Cette table-ronde permettra d’aborder tant la diversité des modes de financement des infrastructures que leurs conséquences sur les activités qu’ils permettent de développer. L’expérience de DIME-SHS et de la quête de sa pérennisation pourront servir de pierre de touche à ces discussions.<br/>
+<br/>
 **Intervenants confirmés**<br/>
+- Marie d’Arcimoles (Sciences Po CDSP),<br/>
 - Fabrice Boudjaaba (CNRS INSHS),<br/>
 - Alain Chenu (Sciences Po OSC),<br/>
-- Marie d’Arcimoles (Sciences Po CDSP),<br/>
 - Christine Musselin (Sciences Po CSO),<br/>
 - Carthage Smith (OCDE).
 
@@ -42,10 +45,12 @@ La question du financement est souvent au coeur des préoccupations quotidiennes
 
 ## 14h - 15h30 : table-ronde "Produire à 4 mains : les métiers dans une infrastructure de recherche"
 Une infrastructure est un point de rencontre privilégié entre des métiers et des rôles différents. Cette table-ronde se propose d’explorer ces rencontres notamment dans un dialogue entre producteurs de services, ingénieurs des plateformes, et utilisateurs. De la compréhension du projet à la gestion des contraintes et des calendriers, l’exemple de DIME-SHS est là aussi un prisme soulignant la fécondité, et éventuellement  les difficultés, de ces rencontres et de ces collaborations de travail.<br/>
+<br/>
 **Intervenants confirmés :**<br/>
--  Damien Cartron (CNRS CMH),<br/>
+- Damien Cartron (CNRS CMH),<br/>
 - Guillaume Garcia (Sciences Po CDSP, CNRS),<br/>
 - Anne Gotman (CNRS Cerlis),<br/>
+- Agathe Grandval (RNM-GP),<br/>
 - Emeline Juillard (Sciences Po CDSP, CNRS),<br/>
 - Mathieu Olivier (Sciences Po CDSP, CNRS),<br/>
 - Benjamin Ooghe-Tabanou (Sciences Po médialab),<br/>
@@ -53,6 +58,7 @@ Une infrastructure est un point de rencontre privilégié entre des métiers et 
 
 ## 16h00 - 17h30 : panel "DIME-SHS : une infrastructure en devenir"
 Ce panel conclut cette journée par une mise en discussion plus directe du bilan et des perspectives de DIME-SHS. Comment comprendre les évolutions d’un projet développé depuis 10 ans ? Quels enseignements en tirer pour construire l’avenir de cette infrastructure de recherche ? C’est là également l’occasion de penser les besoins à venir en termes d’infrastructure pour les SHS de la décennie à venir.<br/>
+<br/>
 **Intervenants confirmés :**<br/>
 - Dominique Joye (Université de Lausanne FORS),<br/>
 - Nicolas Sauger (Sciences Po CDSP),<br/>
