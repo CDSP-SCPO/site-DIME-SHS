@@ -208,6 +208,20 @@
   volume: "220"
   source: null
   category: dime-web
+- id: TSP33K88
+  title: Les premiers pas d’un Internet quantique
+  authors:
+    - Larousserie, David
+  date: 2019-11-25
+  date_sort: 2019-11-25T00:00:00.000Z
+  url: https://www.lemonde.fr/sciences/article/2019/11/25/les-premiers-pas-d-un-internet-quantique_6020492_1650684.html
+  type: Articles de presse
+  issue: ""
+  pages: ""
+  publication: Le Monde.fr
+  volume: ""
+  source: null
+  category: dime-web
 - id: UA7A9CU3
   title: Les​ ​réseaux​ ​d'influence​ ​sur​ ​le​ ​Web dans​ ​le​ ​domaine​ ​des​
     ​produits​ ​laitiers
@@ -386,7 +400,7 @@
     - Pereira, Debora
   date: 2015-01
   date_sort: 2015-01-01T00:00:00.000Z
-  url: http://www.medialab.sciences-po.fr/wp-content/uploads/2015/06/VisualNetwork_Paper-10.pdf
+  url: http://spire.sciencespo.fr/hdl:/2441/1698ddv85d9ffo13hjld5iudlo
   type: Rapports
   source: null
   publication: null
