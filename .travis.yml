@@ -14,7 +14,7 @@ jobs:
   include:
   - script: npm test
   - name: import-data
-    if: type = cron
+    if: type = cron OR branch = master
     script:
     - npm run import
     - git status --short
