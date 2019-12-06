@@ -189,6 +189,20 @@
   volume: ""
   source: null
   category: dime-web
+- id: PIJTAVEM
+  title: Plongée au cœur du Web
+  authors:
+    - Larousserie, David
+  date: 2012-02-03
+  date_sort: 2012-02-03T00:00:00.000Z
+  url: https://www.lemonde.fr/planete/article/2012/02/03/reseaux-la-quete-des-lois-du-web_1638035_3244.html
+  type: Articles de presse
+  issue: ""
+  pages: ""
+  publication: Le Monde.fr
+  volume: ""
+  source: null
+  category: dime-web
 - id: SDNQMW9I
   title: France's citizen consultation on vaccination and the challenges of
     participatory democracy in health
@@ -579,20 +593,6 @@
   source: null
   publication: null
   category: dime-web
-- id: oai:spire.sciencespo.fr:2441/4qm6nenofj8ampag9ag8ms8bu2
-  title: Plongée au cœur du Web:Sans algorithmes mathématiques, Google, Facebook ou
-    Amazon n'auraient pu émerger. Les scientifiques restent très actifs pour
-    proposer des outils plus performants et découvrir les "lois des réseaux".
-  authors:
-    - Girard, Paul
-    - Larousserie, David
-  date: 2012-02-03
-  date_sort: 2012-02-03T00:00:00.000Z
-  url: https://www.lemonde.fr/planete/article/2012/02/03/reseaux-la-quete-des-lois-du-web_1638035_3244.html
-  type: Articles
-  source: Le  (2012-02-03)
-  publication: null
-  category: dime-web
 - id: oai:spire.sciencespo.fr:2441/50pcas4psk963o61vui7tvdprr
   title: "hyphe : Utiliser le Web comme terrain d'enquête:Ateliers DATA SHS - MESHS
     Lille"
@@ -768,6 +768,18 @@
   type: Parties d'ouvrages
   source: "DigitalSTS: A Handbook and Fieldguide: Inconnu"
   publication: Inconnu
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/i9ukevcvl8akqk5l42i6tc237
+  title: "Voir des communautés web : retour sur les enquêtes web d’étudiants en
+    sociologie:Congrès 2017 de l'Association Française de Sociologie"
+  authors:
+    - Jacomy, Mathieu
+  date: 2017-07-05
+  date_sort: 2017-07-05T00:00:00.000Z
+  url: http://osc.cnrs.fr/RT20/2017/local/documents/S5_Jacomy.pdf
+  type: Communications orales
+  source: null
+  publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/q9ro3ttpd9dbr4mml3st7996s
   title: "Hors champs: la multipositionnalité par l'analyse des réseaux"
