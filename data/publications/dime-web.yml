@@ -645,6 +645,22 @@
   source: null
   publication: null
   category: dime-web
+- id: oai:spire.sciencespo.fr:2441/6mqhsebmkh9dgrc80hsfmqtb0v
+  title: A New Web-Based Big Data Analytics for Dynamic Public Opinion Mapping in
+    Digital Networks on Contested Biotechnology Fields
+  authors:
+    - Tournay, Virginie
+    - Jacomy, Mathieu
+    - Necula, Andra
+    - Leibing, Annette
+    - Blasimme, Alexandro
+  date: 2019-09
+  date_sort: 2019-09-01T00:00:00.000Z
+  url: http://spire.sciencespo.fr/hdl:/2441/6mqhsebmkh9dgrc80hsfmqtb0v
+  type: Articles
+  source: OMICS. A Journal of Integrative Biology (2019-09)
+  publication: null
+  category: dime-web
 - id: oai:spire.sciencespo.fr:2441/6obemb2hsj9pboj9bbvc7sftne
   title: Hyphe, a Curation-Oriented Approach to Web Crawling for the Social Sciences
   authors:
@@ -780,6 +796,18 @@
   type: Communications orales
   source: null
   publication: null
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/pl7nokfpa9mpoqrk6biuq5f1g
+  title: Race, Religion, or Culture? Framing Islam between Racism and Neo-Racism in
+    the Online Network of the French Far Right
+  authors:
+    - Froio, Caterina
+  date: 2018-09
+  date_sort: 2018-09-01T00:00:00.000Z
+  url: http://spire.sciencespo.fr/hdl:/2441/pl7nokfpa9mpoqrk6biuq5f1g
+  type: Articles
+  source: Perspectives on Politics, 16(3), 696-709 (2018-09)
+  publication: Cambridge University Press
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/q9ro3ttpd9dbr4mml3st7996s
   title: "Hors champs: la multipositionnalité par l'analyse des réseaux"
