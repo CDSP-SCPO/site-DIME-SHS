@@ -14,11 +14,11 @@
     "build": "hugo",
     "start": "hugo server --disableFastRender --i18n-warnings",
     "test": "ava scripts/**/*.test.js",
-    "deploy:ci": "[[ $(git diff ./data) ]] && (git add ./data && git commit -m 'Mise à jour des publications' && git push origin HEAD:master) || exit 0",
+    "deploy:ci": "if git diff ./data | grep . > /dev/null; then git add ./data && git commit -m 'Mise à jour des publications' && git push origin HEAD:master; fi",
     "import": "npm run import:clean && npm run import:zotero && npm run import:spire",
     "import:clean": "node -r esm ./bin/clean.js",
     "import:zotero": "node -r esm ./bin/import.js zotero https://api.zotero.org/groups/2198702/items",
-    "import:spire": "node -r esm ./bin/import.js spire http://spire.sciencespo.fr/dissemination/oaipmh2-no-prefix-publications.xml?verb=ListRecords\\&set=SCIENCESPO:DIME-SHS\\&metadataPrefix=oai_dc",
+    "import:spire": "node -r esm ./bin/import.js spire https://spire.sciencespo.fr/dissemination/oaipmh2-no-prefix-publications.xml?verb=ListRecords\\&set=SCIENCESPO:DIME-SHS\\&metadataPrefix=oai_dc",
     "postinstall": "npm run postinstall:tachyons",
     "postinstall:tachyons": "cp -rf node_modules/tachyons-sass/ assets/vendor/tachyons/"
   },

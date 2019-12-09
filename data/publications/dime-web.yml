@@ -189,6 +189,20 @@
   volume: ""
   source: null
   category: dime-web
+- id: PIJTAVEM
+  title: Plongée au cœur du Web
+  authors:
+    - Larousserie, David
+  date: 2012-02-03
+  date_sort: 2012-02-03T00:00:00.000Z
+  url: https://www.lemonde.fr/planete/article/2012/02/03/reseaux-la-quete-des-lois-du-web_1638035_3244.html
+  type: Articles de presse
+  issue: ""
+  pages: ""
+  publication: Le Monde.fr
+  volume: ""
+  source: null
+  category: dime-web
 - id: SDNQMW9I
   title: France's citizen consultation on vaccination and the challenges of
     participatory democracy in health
@@ -206,6 +220,20 @@
   pages: 73-80
   publication: Social Science & Medicine
   volume: "220"
+  source: null
+  category: dime-web
+- id: TSP33K88
+  title: Les premiers pas d’un Internet quantique
+  authors:
+    - Larousserie, David
+  date: 2019-11-25
+  date_sort: 2019-11-25T00:00:00.000Z
+  url: https://www.lemonde.fr/sciences/article/2019/11/25/les-premiers-pas-d-un-internet-quantique_6020492_1650684.html
+  type: Articles de presse
+  issue: ""
+  pages: ""
+  publication: Le Monde.fr
+  volume: ""
   source: null
   category: dime-web
 - id: UA7A9CU3
@@ -386,7 +414,7 @@
     - Pereira, Debora
   date: 2015-01
   date_sort: 2015-01-01T00:00:00.000Z
-  url: http://www.medialab.sciences-po.fr/wp-content/uploads/2015/06/VisualNetwork_Paper-10.pdf
+  url: http://spire.sciencespo.fr/hdl:/2441/1698ddv85d9ffo13hjld5iudlo
   type: Rapports
   source: null
   publication: null
@@ -565,20 +593,6 @@
   source: null
   publication: null
   category: dime-web
-- id: oai:spire.sciencespo.fr:2441/4qm6nenofj8ampag9ag8ms8bu2
-  title: Plongée au cœur du Web:Sans algorithmes mathématiques, Google, Facebook ou
-    Amazon n'auraient pu émerger. Les scientifiques restent très actifs pour
-    proposer des outils plus performants et découvrir les "lois des réseaux".
-  authors:
-    - Girard, Paul
-    - Larousserie, David
-  date: 2012-02-03
-  date_sort: 2012-02-03T00:00:00.000Z
-  url: https://www.lemonde.fr/planete/article/2012/02/03/reseaux-la-quete-des-lois-du-web_1638035_3244.html
-  type: Articles
-  source: Le  (2012-02-03)
-  publication: null
-  category: dime-web
 - id: oai:spire.sciencespo.fr:2441/50pcas4psk963o61vui7tvdprr
   title: "hyphe : Utiliser le Web comme terrain d'enquête:Ateliers DATA SHS - MESHS
     Lille"
@@ -629,6 +643,22 @@
   url: http://spire.sciencespo.fr/hdl:/2441/6m937ip5p99bro7c1l1hho5voc
   type: Communications orales
   source: null
+  publication: null
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/6mqhsebmkh9dgrc80hsfmqtb0v
+  title: A New Web-Based Big Data Analytics for Dynamic Public Opinion Mapping in
+    Digital Networks on Contested Biotechnology Fields
+  authors:
+    - Tournay, Virginie
+    - Jacomy, Mathieu
+    - Necula, Andra
+    - Leibing, Annette
+    - Blasimme, Alexandro
+  date: 2019-09
+  date_sort: 2019-09-01T00:00:00.000Z
+  url: http://spire.sciencespo.fr/hdl:/2441/6mqhsebmkh9dgrc80hsfmqtb0v
+  type: Articles
+  source: OMICS. A Journal of Integrative Biology (2019-09)
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/6obemb2hsj9pboj9bbvc7sftne
@@ -754,6 +784,30 @@
   type: Parties d'ouvrages
   source: "DigitalSTS: A Handbook and Fieldguide: Inconnu"
   publication: Inconnu
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/i9ukevcvl8akqk5l42i6tc237
+  title: "Voir des communautés web : retour sur les enquêtes web d’étudiants en
+    sociologie:Congrès 2017 de l'Association Française de Sociologie"
+  authors:
+    - Jacomy, Mathieu
+  date: 2017-07-05
+  date_sort: 2017-07-05T00:00:00.000Z
+  url: http://osc.cnrs.fr/RT20/2017/local/documents/S5_Jacomy.pdf
+  type: Communications orales
+  source: null
+  publication: null
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/pl7nokfpa9mpoqrk6biuq5f1g
+  title: Race, Religion, or Culture? Framing Islam between Racism and Neo-Racism in
+    the Online Network of the French Far Right
+  authors:
+    - Froio, Caterina
+  date: 2018-09
+  date_sort: 2018-09-01T00:00:00.000Z
+  url: http://spire.sciencespo.fr/hdl:/2441/pl7nokfpa9mpoqrk6biuq5f1g
+  type: Articles
+  source: Perspectives on Politics, 16(3), 696-709 (2018-09)
+  publication: Cambridge University Press
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/q9ro3ttpd9dbr4mml3st7996s
   title: "Hors champs: la multipositionnalité par l'analyse des réseaux"
