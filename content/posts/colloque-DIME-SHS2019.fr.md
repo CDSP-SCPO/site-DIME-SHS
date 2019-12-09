@@ -1,7 +1,10 @@
 ---
-title:  Conférence de clôture DIME-SHS - 12 décembre 2019
+title:  REPORTE - Conférence de clôture DIME-SHS - 12 décembre 2019
 date:   2019-10-12T00:00:00
 ---
+
+** En raison des mouvements sociaux et de la situation dans les transports, l'équipe d'organisation du colloque de clôture de DIME-SHS a décidé de reporter la tenue de la journée à une date ultérieure.
+RV en 2020 pour parler de DIME-SHS! **
 
 Mis en oeuvre grâce au plan de développement des équipement d'excellence, DIME-SHS* clôture en cette fin d'année 2019 dix années de financement et tourne la page des Equipex.
 Étape décisive dans le cycle de vie d'une infrastructure, la clôture du financement est non seulement l’occasion de faire le bilan des réalisations atteintes et de présenter les perspectives ouvertes, mais également de développer une réflexion collective sur le rôle et la place de ce type d’infrastructure dans le paysage de la recherche nationale et européenne.
