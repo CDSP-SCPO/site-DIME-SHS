@@ -34,6 +34,21 @@
   volume: "9"
   source: null
   category: elipss
+- id: HATVMIV7
+  title: IV. Marques, classes et cultures
+  authors:
+    - Demoli, Yoann
+    - Lannoy, Pierre
+  date: "2019"
+  date_sort: 2019-01-01T00:00:00.000Z
+  url: https://www.cairn.info/sociologie-de-l-automobile--9782707197955-page-59.htm
+  type: Parties d'ouvrages
+  issue: null
+  pages: 59-76
+  publication: null
+  volume: ""
+  source: La Découverte
+  category: elipss
 - id: HVR28TKA
   title: "Des morales de classe ?: Dispositions éthiques et positions sociales dans
     la France contemporaine"
