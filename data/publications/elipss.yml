@@ -1,3 +1,38 @@
+- id: 5F9DPE6R
+  title: Les déterminants sociaux du sentiment d'injustice fiscale
+  authors:
+    - Spire, Alexis
+    - Bernard, Kevin
+  date: "2019"
+  date_sort: 2019-01-01T00:00:00.000Z
+  url: https://www.ofce.sciences-po.fr/pdf/revue/6-161OFCE.pdf
+  type: Articles
+  issue: ""
+  pages: 19-48
+  publication: Revue de l'OFCE
+  volume: 2019/1 (n°161)
+  source: null
+  category: elipss
+- id: 66KBVUNT
+  title: Premiers résultats de l’enquête GlocalMap
+  authors:
+    - Grasland, Claude
+    - Didelon-Loiseau, Clarisse
+    - Brennetot, Arnaud
+    - Pecout, Hugues
+    - Pistre, Pierre
+    - de Ruffray, Sophie
+    - Berroir, Sandrine
+  date: "2019"
+  date_sort: 2019-01-01T00:00:00.000Z
+  url: http://cist.cnrs.fr/wp-content/uploads/2019/11/cist-dossier_7-glocalmap.pdf
+  type: Rapports
+  issue: null
+  pages: "8"
+  publication: null
+  volume: null
+  source: null
+  category: elipss
 - id: 7I6U85IG
   title: "Entretien Alexis Spire : « Les classes populaires ressentent un très fort
     sentiment d’injustice fiscale »"
@@ -12,6 +47,21 @@
   pages: ""
   publication: Alternatives Economiques
   volume: ""
+  source: null
+  category: elipss
+- id: 7RDEFRS9
+  title: Des préférences politiques contradictoires avant l'élection présidentielle
+    de 2017
+  authors:
+    - Ferrand, Alexis
+  date: "2019"
+  date_sort: 2019-01-01T00:00:00.000Z
+  url: https://halshs.archives-ouvertes.fr/halshs-01971012
+  type: Datascapes
+  issue: null
+  pages: null
+  publication: null
+  volume: null
   source: null
   category: elipss
 - id: AVB9K3VS
@@ -33,6 +83,21 @@
   publication: Sociologie
   volume: "9"
   source: null
+  category: elipss
+- id: BWDBZEHN
+  title: Quelles conceptions du « changement climatique » en France et en Norvège ?
+    Résultats de deux enquêtes
+  authors:
+    - Fløttum, Kjersti
+  date: "2018"
+  date_sort: 2018-01-01T00:00:00.000Z
+  url: ""
+  type: Communications avec actes
+  issue: null
+  pages: "14"
+  publication: null
+  volume: "46"
+  source: SHS Web of Conferences
   category: elipss
 - id: HATVMIV7
   title: Marques, classes et cultures
@@ -85,6 +150,24 @@
   volume: "10"
   source: null
   category: elipss
+- id: IXJ699E9
+  title: "Building a probability-based online panel: Life in Australia"
+  authors:
+    - Kaczmirek, L
+    - Phillips, B
+    - Pennay, DW
+    - Lavrakas, PJ
+    - Neiger, D
+  date: "2019"
+  date_sort: 2019-01-01T00:00:00.000Z
+  url: https://csrm.cass.anu.edu.au/sites/default/files/docs/2019/8/19-050-MP-ONLINE-Publish.pdf
+  type: Articles
+  issue: 2/2019
+  pages: "54"
+  publication: CSRM Methods Series
+  volume: ""
+  source: null
+  category: elipss
 - id: JE4UCIKZ
   title: Les enquêtés mentent-ils ? Incohérences de réponse et illusion biographique
     dans les enquêtes longitudinales par questionnaires
@@ -99,6 +182,21 @@
   publication: null
   volume: null
   source: Journée d'étude « Mensonges et statistiques »
+  category: elipss
+- id: M68XEJBJ
+  title: Les approches quantitatives
+  authors:
+    - Bugeja-Bloch, Fanny
+    - Couto, Marie-Paule
+  date: "2015"
+  date_sort: 2015-01-01T00:00:00.000Z
+  url: https://www.cairn.info/les-methodes-quantitatives--9782130631613-page-21.htm
+  type: Parties d'ouvrages
+  issue: null
+  pages: 21-41
+  publication: null
+  volume: ""
+  source: Presses Universitaires de France
   category: elipss
 - id: NPEHBD28
   title: "L’enquête ELIPSSilice : passation en population générale d’un questionnaire
@@ -199,6 +297,38 @@
   pages: ""
   publication: Comparative Population Studies
   volume: "43"
+  source: null
+  category: elipss
+- id: SASWQ3V3
+  title: Obtenir justice, une affaire de capital ?
+  authors:
+    - Spire, Alexis
+    - Weidenfeld, Katia
+  date: "2019"
+  date_sort: 2019-01-01T00:00:00.000Z
+  url: https://www.cairn.info/revue-deliberee-2019-2-page-13.htm
+  type: Articles
+  issue: ""
+  pages: 13-18
+  publication: Délibérée
+  volume: 2019/2 (n°7)
+  source: null
+  category: elipss
+- id: SEX4934Q
+  title: Pourquoi les inégalités de patrimoine sont-elles mieux tolérées que d’autres
+    ?
+  authors:
+    - Forsé, Michel
+    - Frénod, Alexandra
+    - Guibet Lafaye, Caroline
+  date: "2018"
+  date_sort: 2018-01-01T00:00:00.000Z
+  url: https://www.cairn.info/revue-de-l-ofce-2018-2-page-97.htm
+  type: Articles
+  issue: ""
+  pages: 97-122
+  publication: Revue de l'OFCE
+  volume: 2018/2 (N° 156)
   source: null
   category: elipss
 - id: ZMSTQGH3
