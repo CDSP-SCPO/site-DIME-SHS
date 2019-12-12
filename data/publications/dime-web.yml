@@ -364,7 +364,7 @@
     - Brilli, Agata
   date: 2017
   date_sort: 1970-01-01T00:00:02.017Z
-  url: http://spire.sciencespo.fr/hdl:/2441/10ctml1egq89ro59upjajbj74n
+  url: https://spire.sciencespo.fr/hdl:/2441/10ctml1egq89ro59upjajbj74n
   type: Communications orales
   source: International Conference on Public Policy (ICPP3), Singapore, SG,
     2017-06-28/2017-06-30
@@ -414,7 +414,7 @@
     - Pereira, Debora
   date: 2015-01
   date_sort: 2015-01-01T00:00:00.000Z
-  url: http://spire.sciencespo.fr/hdl:/2441/1698ddv85d9ffo13hjld5iudlo
+  url: https://spire.sciencespo.fr/hdl:/2441/1698ddv85d9ffo13hjld5iudlo
   type: Rapports
   source: null
   publication: null
@@ -454,7 +454,7 @@
     - Blanc, Nathalie
   date: 2017-11
   date_sort: 2017-11-01T00:00:00.000Z
-  url: http://spire.sciencespo.fr/hdl:/2441/1ve2iilj4i94ip23o9iav2ja5b
+  url: https://spire.sciencespo.fr/hdl:/2441/1ve2iilj4i94ip23o9iav2ja5b
   type: Articles
   source: Reset, (7), 1-1 (2017-11)
   publication: null
@@ -466,7 +466,7 @@
     - Ooghe, Benjamin
   date: 2014-01-13
   date_sort: 2014-01-13T00:00:00.000Z
-  url: http://spire.sciencespo.fr/hdl:/2441/230upj29ts8o39oavidln6jeu0
+  url: https://spire.sciencespo.fr/hdl:/2441/230upj29ts8o39oavidln6jeu0
   type: Communications orales
   source: null
   publication: null
@@ -479,7 +479,7 @@
     - Jacomy, Mathieu
   date: 2017-06
   date_sort: 2017-06-01T00:00:00.000Z
-  url: http://spire.sciencespo.fr/hdl:/2441/2ap5ocbu0b96m8ogel9f93clo0
+  url: https://spire.sciencespo.fr/hdl:/2441/2ap5ocbu0b96m8ogel9f93clo0
   type: Communications orales
   source: null
   publication: null
@@ -491,7 +491,7 @@
     - Ooghe, Benjamin
   date: 2018-09-27
   date_sort: 2018-09-27T00:00:00.000Z
-  url: http://spire.sciencespo.fr/hdl:/2441/2ku47fg4gm8b1ojnr6ko3t6dn9
+  url: https://spire.sciencespo.fr/hdl:/2441/2ku47fg4gm8b1ojnr6ko3t6dn9
   type: Communications orales
   source: null
   publication: null
@@ -505,7 +505,7 @@
     - Gray, Jonathan
   date: 2018-08
   date_sort: 2018-08-01T00:00:00.000Z
-  url: http://spire.sciencespo.fr/hdl:/2441/2qstn4hntb9899i33dp4dn3hrs
+  url: https://spire.sciencespo.fr/hdl:/2441/2qstn4hntb9899i33dp4dn3hrs
   type: Parties d'ouvrages
   source: "The Routledge Handbook to Developments in Digital Journalism Studies,
     Abingdon: Routledge"
@@ -546,7 +546,7 @@
     - Boullier, Dominique
   date: 2016
   date_sort: 1970-01-01T00:00:02.016Z
-  url: http://spire.sciencespo.fr/hdl:/2441/3dciauig4s8g0rl470bucqrf33
+  url: https://spire.sciencespo.fr/hdl:/2441/3dciauig4s8g0rl470bucqrf33
   type: Articles
   source: Réseaux, 1(195), 131-161 (2016)
   publication: Éditions La Découverte
@@ -574,7 +574,7 @@
     - Gray, Jonathan
   date: 2017-02-25
   date_sort: 2017-02-25T00:00:00.000Z
-  url: http://spire.sciencespo.fr/hdl:/2441/3r6kitktvv8fkp8lssnr3qmis6
+  url: https://spire.sciencespo.fr/hdl:/2441/3r6kitktvv8fkp8lssnr3qmis6
   type: Parties d'ouvrages
   source: "Datafied Society: Social Research in the Age of Big Data., (pp. 155-170):
     Amsterdam University Press"
@@ -606,6 +606,20 @@
   source: null
   publication: null
   category: dime-web
+- id: oai:spire.sciencespo.fr:2441/52avseho8m9rjbmeot0eogd0iu
+  title: Unfolding the Multi-layered Structure of the French Mediascape
+  authors:
+    - Cardon, Dominique
+    - Cointet, Jean-Philippe
+    - Ooghe, Benjamin
+    - Plique, Guillaume
+  date: 2019-06
+  date_sort: 2019-06-01T00:00:00.000Z
+  url: https://spire.sciencespo.fr/hdl:/2441/52avseho8m9rjbmeot0eogd0iu
+  type: Rapports
+  source: null
+  publication: null
+  category: dime-web
 - id: oai:spire.sciencespo.fr:2441/58bmf6rqp96hros64meac1fts
   title: ForceAtlas2, a continuous graph layout algorithm for handy network
     visualization designed for the Gephi software
@@ -616,7 +630,7 @@
     - Bastian, Mathieu
   date: 2014
   date_sort: 1970-01-01T00:00:02.014Z
-  url: http://spire.sciencespo.fr/hdl:/2441/58bmf6rqp96hros64meac1fts
+  url: https://spire.sciencespo.fr/hdl:/2441/58bmf6rqp96hros64meac1fts
   type: Articles
   source: PLos ONE, 9(6), 1-18 (2014)
   publication: Public Library of Science
@@ -640,7 +654,7 @@
     - Jacomy, Mathieu
   date: 2016-03
   date_sort: 2016-03-01T00:00:00.000Z
-  url: http://spire.sciencespo.fr/hdl:/2441/6m937ip5p99bro7c1l1hho5voc
+  url: https://spire.sciencespo.fr/hdl:/2441/6m937ip5p99bro7c1l1hho5voc
   type: Communications orales
   source: null
   publication: null
@@ -656,7 +670,7 @@
     - Blasimme, Alexandro
   date: 2019-09
   date_sort: 2019-09-01T00:00:00.000Z
-  url: http://spire.sciencespo.fr/hdl:/2441/6mqhsebmkh9dgrc80hsfmqtb0v
+  url: https://spire.sciencespo.fr/hdl:/2441/6mqhsebmkh9dgrc80hsfmqtb0v
   type: Articles
   source: OMICS. A Journal of Integrative Biology (2019-09)
   publication: null
@@ -686,7 +700,7 @@
     - Jacomy, Mathieu
   date: 2016-06-20
   date_sort: 2016-06-20T00:00:00.000Z
-  url: http://spire.sciencespo.fr/hdl:/2441/6urkuh5hb58h9oobtv1nlit9uo
+  url: https://spire.sciencespo.fr/hdl:/2441/6urkuh5hb58h9oobtv1nlit9uo
   type: Articles
   source: Digital Journalism (2016-06-20)
   publication: null
@@ -705,7 +719,7 @@
     - Fleury, Eric
   date: 2015-09
   date_sort: 2015-09-01T00:00:00.000Z
-  url: http://spire.sciencespo.fr/hdl:/2441/6v5vvm7ncu9hcbjumqg47u2jq8
+  url: https://spire.sciencespo.fr/hdl:/2441/6v5vvm7ncu9hcbjumqg47u2jq8
   type: Articles
   source: Journal of Complex Networks (2015-09)
   publication: null
@@ -780,7 +794,7 @@
     - Jacomy, Mathieu
   date: 2016-01
   date_sort: 2016-01-01T00:00:00.000Z
-  url: http://spire.sciencespo.fr/hdl:/2441/7jgmr11pjd939b8r7iobgqs53u
+  url: https://spire.sciencespo.fr/hdl:/2441/7jgmr11pjd939b8r7iobgqs53u
   type: Parties d'ouvrages
   source: "DigitalSTS: A Handbook and Fieldguide: Inconnu"
   publication: Inconnu
@@ -804,7 +818,7 @@
     - Froio, Caterina
   date: 2018-09
   date_sort: 2018-09-01T00:00:00.000Z
-  url: http://spire.sciencespo.fr/hdl:/2441/pl7nokfpa9mpoqrk6biuq5f1g
+  url: https://spire.sciencespo.fr/hdl:/2441/pl7nokfpa9mpoqrk6biuq5f1g
   type: Articles
   source: Perspectives on Politics, 16(3), 696-709 (2018-09)
   publication: Cambridge University Press
@@ -818,7 +832,7 @@
     - Girard, Paul
   date: 2016-05
   date_sort: 2016-05-01T00:00:00.000Z
-  url: http://spire.sciencespo.fr/hdl:/2441/q9ro3ttpd9dbr4mml3st7996s
+  url: https://spire.sciencespo.fr/hdl:/2441/q9ro3ttpd9dbr4mml3st7996s
   type: Articles
   source: Réseaux, (199) (2016-05)
   publication: Éditions La Découverte
