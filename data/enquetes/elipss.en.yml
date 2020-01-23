@@ -1,4 +1,4 @@
-title: ELIPSS' Coproduced Surveys
+Orderingtitle: ELIPSS' Coproduced Surveys
 items:
 - title: Attitudes towards Alternative Partnership Arrangements
   date: 2014
@@ -292,7 +292,7 @@ items:
   - Leslie Belton-Chevallier
   - Nora Mareï
   - ELIPSS team
-- title: Mobilities and spatial experiences over the life course
+- title: Mobility and relation to space in the life cycle
   date: 2016
   authors:
   - Ettore Recchi
@@ -387,7 +387,7 @@ items:
   - GESIS Panel
   - LISS Panel
   lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2015.05.pe02/
-- title: Quelques questions sur l’Europe / International panel comparison study 2017
+- title: European panels
   date: 2017
   authors:
   - GIP Panel
@@ -395,6 +395,7 @@ items:
   - LISS Panel
   - ELIPSS team
   - Herman Schmitt
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2017.07.pe03/
 - title: Relations between eating behaviour and home environnement
   date: 2016
   authors:
