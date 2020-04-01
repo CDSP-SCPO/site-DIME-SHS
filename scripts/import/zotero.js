@@ -51,6 +51,7 @@ export function parseBody (body, {publications, mappingConfig, publicationsLabel
     const date = toDate(item.data.date);
 
     if (publicationsLabels.indexOf(type) === -1) {
+      console.log(item);
       throw new RangeError(`[Import Zotero] Le mapping '${type}' de l'item #${id} (${title}) est inconnu. Il est à configurer dans le fichier config.toml au niveau de l'ancre '[params.publicationsMapping.zotero]'.`);
     }
 

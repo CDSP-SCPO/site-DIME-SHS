@@ -50,6 +50,7 @@ export function parseRecords (records, {publications, mappingConfig, publication
     const itemType = getType(types.pop());
     const type = publicationsMapping[itemType] || itemType;
     if (publicationsLabels.indexOf(type) === -1) {
+      console.log(metadata);
       throw new RangeError(`[Import Spire] Le mapping '${type}' de l'item #${id} (${title}) est inconnu. Il est à configurer dans le fichier config.toml au niveau de l'ancre '[params.publicationsMapping.spire]'.`);
     }
 
