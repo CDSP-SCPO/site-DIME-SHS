@@ -97,6 +97,21 @@
   volume: ""
   source: American Political Science Association Conference
   category: dime-web
+- id: BRQNAZ26
+  title: Sull’uso politico dei rom in campagna elettorale. Una ricerca sul web.
+  authors:
+    - Cousin, Grégoire
+    - Pontrandolfo, Stefania
+  date: "2018"
+  date_sort: 2018-01-01T00:00:00.000Z
+  url: http://www.dsu.univr.it/?ent=pubbdip&id=977168&lang=nb
+  type: Parties d'ouvrages
+  issue: null
+  pages: pp. 243-265
+  publication: null
+  volume: ""
+  source: Roma
+  category: dime-web
 - id: E34WKHBC
   title: Digital Methods for Cross-platform Analysis
   authors:
@@ -338,6 +353,24 @@
   publication: null
   volume: ""
   source: Collège international des sciences du territoire (CIST)
+  category: dime-web
+- id: YF9T9M3S
+  title: Emergence and Diffusion of «Roma issues» in the political web arena
+  authors:
+    - Cousin, Grégoire
+    - Pontrandolfo, Stefania
+  date: 2014-10-16
+  date_sort: 2014-10-16T00:00:00.000Z
+  url: http://profs.formazione.univr.it/creaa/files/2014/05/2-Working-paper-Attitudes-Survey-MigRom_Cousin_Pontrandolfo.pdf
+  type: Communications avec actes
+  issue: null
+  pages: ""
+  publication: null
+  volume: ""
+  source: Construyendo puentes entre acción política e investigación social. Logros,
+    desafíos y perspectivas en las políticas acerca de la población gitana en el
+    Estado español. Un encuentro entre investigadores, responsables políticos y
+    tercer sector
   category: dime-web
 - id: YVPJ5WGK
   title: "Mapping Wind Energy Controversies Online: Introduction to Methods and
@@ -660,19 +693,19 @@
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/6mqhsebmkh9dgrc80hsfmqtb0v
-  title: A New Web-Based Big Data Analytics for Dynamic Public Opinion Mapping in
-    Digital Networks on Contested Biotechnology Fields
+  title: A New Web-Based Big Data Analytics for DynamicPublic Opinion Mapping in
+    Digital Networkson Contested Biotechnology Fields
   authors:
     - Tournay, Virginie
     - Jacomy, Mathieu
     - Necula, Andra
     - Leibing, Annette
     - Blasimme, Alexandro
-  date: 2019-09
-  date_sort: 2019-09-01T00:00:00.000Z
+  date: 2020
+  date_sort: 1970-01-01T00:00:02.020Z
   url: https://spire.sciencespo.fr/hdl:/2441/6mqhsebmkh9dgrc80hsfmqtb0v
   type: Articles
-  source: OMICS. A Journal of Integrative Biology (2019-09)
+  source: OMICS. A Journal of Integrative Biology, 24(1), 29-42 (2020)
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/6obemb2hsj9pboj9bbvc7sftne
@@ -702,7 +735,7 @@
   date_sort: 2016-06-20T00:00:00.000Z
   url: https://spire.sciencespo.fr/hdl:/2441/6urkuh5hb58h9oobtv1nlit9uo
   type: Articles
-  source: Digital Journalism (2016-06-20)
+  source: Digital journalism (2016-06-20)
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/6v5vvm7ncu9hcbjumqg47u2jq8
@@ -767,7 +800,7 @@
   date_sort: 2015-07-01T00:00:00.000Z
   url: https://journals.openedition.org/netcom/2089
   type: Articles
-  source: Netcom – Réseaux, communication et territoires, 29(3/4), 275-296 (2015-07)
+  source: NETCOM, 29(3/4), 275-296 (2015-07)
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/7ic3a6q7ps84f8ceoqq8jrc3o5
@@ -780,7 +813,7 @@
   date: 2018-10
   date_sort: 2018-10-01T00:00:00.000Z
   url: http://hyphe.medialab.sciences-po.fr/docs/20181004-DigitalTools-HyperlinkIsNotDead.pdf
-  type: Communications orales
+  type: Communications avec actes
   source: WS.2 2018 International conference on Web Studies, Paris, France — October
     03 - 05, 2018, Paris, FR, 2018-10-03/2018-10-05
   publication: Association for Computing Machinery
@@ -796,8 +829,8 @@
   date_sort: 2016-01-01T00:00:00.000Z
   url: https://spire.sciencespo.fr/hdl:/2441/7jgmr11pjd939b8r7iobgqs53u
   type: Parties d'ouvrages
-  source: "DigitalSTS: A Handbook and Fieldguide: Inconnu"
-  publication: Inconnu
+  source: "DigitalSTS: A Handbook and Fieldguide: Princeton University Press"
+  publication: Princeton University Press
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/i9ukevcvl8akqk5l42i6tc237
   title: "Voir des communautés web : retour sur les enquêtes web d’étudiants en

@@ -365,6 +365,21 @@
     Lausanne, CH, 2015-02-24/2015-02-24
   publication: null
   category: elipss
+- id: oai:spire.sciencespo.fr:2441/1gq9t1p04o9mno659v2pir3c1k
+  title: "With or Without Interviewer : A Replication of ESS on the ELIPSS Panel"
+  authors:
+    - Le Corgne, Simon
+    - Duwez, Emmanuelle
+    - Olivier, Mathieu
+    - Pilorin, Thomas
+  date: 2019-07
+  date_sort: 2019-07-01T00:00:00.000Z
+  url: https://spire.sciencespo.fr/hdl:/2441/1gq9t1p04o9mno659v2pir3c1k
+  type: Communications orales
+  source: ESRA - European Survey Reasearch Association, Université de Zagreb, HR,
+    2019-07-15/2019-07-19
+  publication: null
+  category: elipss
 - id: oai:spire.sciencespo.fr:2441/1lvb6gfb8d9e59desvmul1t2fq
   title: What Is the Gain in a Probability-Based Online Panel of Providing Internet
     Access to Sampling Units Who Previously Had No Access?
@@ -445,7 +460,7 @@
   url: https://spire.sciencespo.fr/hdl:/2441/2r8bsvnr8c9uirt7s4557frtur
   type: Communications orales
   source: Current Innovations in Probability-based Household Internet Panel Research
-    (CIPHER), Washington DC, US, 2049-02-21/2019-02-21
+    (CIPHER), Washington DC, US, 2019-02-21/2019-02-21
   publication: null
   category: elipss
 - id: oai:spire.sciencespo.fr:2441/33jderg00e9tko3ln7ktqumm08
@@ -571,6 +586,20 @@
     2017-11-13/2017-11-14
   publication: null
   category: elipss
+- id: oai:spire.sciencespo.fr:2441/4m8inlk0a48ldrgke5c530idjh
+  title: Étude Longitudinale par Internet pour les Sciences Sociales (ELIPSS). Un
+    dispositif de production de données en France
+  authors:
+    - Brunel, Valentin
+    - Duwez, Emmanuelle
+  date: 2019-10
+  date_sort: 2019-10-01T00:00:00.000Z
+  url: https://spire.sciencespo.fr/hdl:/2441/4m8inlk0a48ldrgke5c530idjh
+  type: Communications orales
+  source: Enquêtes longitudinales et comparaisons internationales, Plateforme
+    universitaire de données - MISHA, Strasbourg , FR, 2019-10-14/2019-10-15
+  publication: null
+  category: elipss
 - id: oai:spire.sciencespo.fr:2441/5gu47u60n08idq1ft9ota52alv
   title: ELIPSS, un panel internet pour la recherche en sciences humaines et sociales
   authors:
@@ -613,6 +642,21 @@
     Saint Quentin, FR, 2015-06-29/2015-07-02
   publication: null
   category: elipss
+- id: oai:spire.sciencespo.fr:2441/6a3ni12r3j93c9buvmb3ncfqmn
+  title: Quelles sont les meilleurs méthodes de pré-test d'un questionnaire et
+    pourquoi ce sont les entretiens cognitifs ?
+  authors:
+    - Le Corgne, Simon
+    - Olivier, Mathieu
+    - Palat, Blazej
+  date: 2019
+  date_sort: 1970-01-01T00:00:02.019Z
+  url: https://spire.sciencespo.fr/hdl:/2441/6a3ni12r3j93c9buvmb3ncfqmn
+  type: Communications orales
+  source: METSEM - Séminaire de Méthodologie, Sciences Po - Paris, FR,
+    2019-10-15/2019-10-15
+  publication: null
+  category: elipss
 - id: oai:spire.sciencespo.fr:2441/76jp9ehefm92fro92v63j6n9de
   title: L'effet de l'intérêt, de la motivation et de l'intéressement financier sur
     le recrutement et la participation à  long terme dans le panel ELIPSS
@@ -650,7 +694,7 @@
     - Bosnjak, Michael
     - Cornilleau, Anne
     - Cousteaux, Anne-Sophie
-    - Das , Marcel
+    - Das, Marcel
     - Douhou, Salima
     - Krieger, Ulrich
   date: 2016-02

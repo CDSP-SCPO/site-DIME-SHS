@@ -94,6 +94,19 @@
     FR, 2017-04-28
   publication: null
   category: bequali
+- id: oai:spire.sciencespo.fr:2441/1i32kg9fuk8j28l3c54qvdu6du
+  title: Anonymiser des enquêtes qualitatives pour leur diffusion  et leur
+    réutilisation:Festival suisse des méthodes
+  authors:
+    - Cadorel, Sarah
+    - Groshens, Emilie
+  date: 2019-09
+  date_sort: 2019-09-01T00:00:00.000Z
+  url: https://spire.sciencespo.fr/hdl:/2441/1i32kg9fuk8j28l3c54qvdu6du
+  type: Communications orales
+  source: Festival suisse des méthodes, Lausanne, CH, 2019-09-09/2019-09-10
+  publication: null
+  category: bequali
 - id: oai:spire.sciencespo.fr:2441/1pf8bfqprc9is9mqkgjv9bqkg4
   title: Enquête sur l’enquête « La profession d’architecte » de Florent Champy
   authors:
@@ -239,6 +252,24 @@
   source: conférence LIBER, Londres, GB, 2014-06-12
   publication: null
   category: bequali
+- id: oai:spire.sciencespo.fr:2441/389fdc2tl09nnr76bnsnj150pt
+  title: Former aux Methodes en Sciences Humaines et Sociales avec Bequali
+  authors:
+    - Vandenbunder, Jeremie
+    - Bendjaballah, Selma
+    - Garcia, Guillaume
+    - Fromont, Emilie
+    - Groshens, Emilie
+    - Cadorel, Sarah
+    - Juillard, Emeline
+  date: 2019
+  date_sort: 1970-01-01T00:00:02.019Z
+  url: https://spire.sciencespo.fr/hdl:/2441/389fdc2tl09nnr76bnsnj150pt
+  type: Communications orales
+  source: "Conférence annuelle de la Digital Humanities, SP-24: Society, Media,
+    Politics, Engagement, Utrecht, NL, 2019-07-09/2019-07-09"
+  publication: null
+  category: bequali
 - id: oai:spire.sciencespo.fr:2441/3al534ljdf90v93448b112cq9p
   title: "BeQuali : un dispositif pour (apprendre à) partager les enquêtes
     qualitatives en SHS"
@@ -251,6 +282,35 @@
   type: Communications orales
   source: séminaire « Les lundis de l’INED », INED, FR, 2013-04-08/2013-04-08
   publication: null
+  category: bequali
+- id: oai:spire.sciencespo.fr:2441/3e6jrr1sgf8nsqmae683alpekj
+  title: "Préservez, partagez et réutilisez des enquêtes qualitatives : présentation
+    de la plateforme beQuali"
+  authors:
+    - Garcia, Guillaume
+    - Fromont, Emilie
+  date: 2019-12
+  date_sort: 2019-12-01T00:00:00.000Z
+  url: https://spire.sciencespo.fr/hdl:/2441/3e6jrr1sgf8nsqmae683alpekj
+  type: Communications orales
+  source: Journée d'étude "Les enjeux de la réutilisation des jeux de données dans
+    l'enseignement et la recherche", Maison des Sciences de l’Homme Ange-Guépin
+    et sa Plateforme Universitaire de Données PROGEDO, Nantes, FR,
+    2019-09-30/2019-09-30
+  publication: null
+  category: bequali
+- id: oai:spire.sciencespo.fr:2441/3evc93fgvc8h4qqsgmj6kk6gna
+  title: Enquête sur l'enquête 'Les réseaux économiques souterrains en cité de
+    transit (1981-2010)' de Jean-François Laé et Numa Murard
+  authors:
+    - Vandenbunder, Jeremie
+    - Groshens, Emilie
+  date: 2019-11
+  date_sort: 2019-11-01T00:00:00.000Z
+  url: https://spire.sciencespo.fr/hdl:/2441/3evc93fgvc8h4qqsgmj6kk6gna
+  type: Rapports
+  source: null
+  publication: beQuali
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/3hsavn88h489pav9uhboenng3b
   title: Enquête sur l’enquête « Des femmes en politique » de Mariette Sineau
@@ -311,6 +371,7 @@
     de la plateforme beQuali"
   authors:
     - Groshens, Emilie
+    - Vandenbunder, Jeremie
   date: 2018-11-06
   date_sort: 2018-11-06T00:00:00.000Z
   url: https://spire.sciencespo.fr/hdl:/2441/3pcp5e58dk9qeabp6olc3i7at3
@@ -518,6 +579,20 @@
     2018-12-03/2018-12-04
   publication: null
   category: bequali
+- id: oai:spire.sciencespo.fr:2441/5m71ng2luo977qrbknf6ccm6l5
+  title: "La chaîne de transformation des données : différentes approches à partir du
+    catalogue BeQuali:L'analyse de données qualitatives (Action nationale de
+    formation CNRS)"
+  authors:
+    - Garcia, Guillaume
+    - Groshens, Emilie
+  date: 2019-10
+  date_sort: 2019-10-01T00:00:00.000Z
+  url: https://spire.sciencespo.fr/hdl:/2441/5m71ng2luo977qrbknf6ccm6l5
+  type: Communications orales
+  source: null
+  publication: null
+  category: bequali
 - id: oai:spire.sciencespo.fr:2441/5pbs81v7f791qb0l0up4vb0ohd
   title: Ne pas multiplier les individus inutilement:A propos de la réutilisation des
     enquêtes qualitatives en sciences sociales
@@ -552,7 +627,7 @@
   date: 2014
   date_sort: 1970-01-01T00:00:02.014Z
   url: https://spire.sciencespo.fr/hdl:/2441/6bepl9034o9merg5eb6rienb1c
-  type: Communications orales
+  type: Communications avec actes
   source: Les archives de la recherche, pratique des acteurs et enjeux juridiques; Les
     Archives de la recherche Problèmes et enjeux de la construction du savoir
     scientifique , Orsay Université Paris Sud - Cnam Paris, FR,
@@ -571,6 +646,19 @@
   source: null
   publication: beQuali
   category: bequali
+- id: oai:spire.sciencespo.fr:2441/6jvfv337bt8v7ac6oq8ile6ljq
+  title: Enquête sur l’enquête 'Les conditions de vie professionnelle des femmes
+    enceintes’ (1985-1988), d’Anne-Marie Devreux'
+  authors:
+    - Garcia, Guillaume
+    - Fromont, Emilie
+  date: 2019-12
+  date_sort: 2019-12-01T00:00:00.000Z
+  url: https://spire.sciencespo.fr/hdl:/2441/6jvfv337bt8v7ac6oq8ile6ljq
+  type: Rapports
+  source: null
+  publication: null
+  category: bequali
 - id: oai:spire.sciencespo.fr:2441/6pan0flqm19eho0j7cjuiec2cu
   title: Enquête sur l’enquête « L’Europe saisie par les rôles parlementaires » de
     Olivier Rozenberg
@@ -582,6 +670,32 @@
   type: Rapports
   source: null
   publication: beQuali
+  category: bequali
+- id: oai:spire.sciencespo.fr:2441/6q4rgg60jd9uup8h0mjc625ck5
+  title: Les enjeux de la réanalyse:L'analyse de données qualitatives (Action
+    nationale de formation CNRS)
+  authors:
+    - Garcia, Guillaume
+    - Groshens, Emilie
+  date: 2019-10
+  date_sort: 2019-10-01T00:00:00.000Z
+  url: https://spire.sciencespo.fr/hdl:/2441/6q4rgg60jd9uup8h0mjc625ck5
+  type: Communications orales
+  source: null
+  publication: null
+  category: bequali
+- id: oai:spire.sciencespo.fr:2441/6scpdrrdta9gvata2m28rq4c2d
+  title: Cas pratiques d'anonymisation d'enquêtes qualitatives
+  authors:
+    - Fromont, Emilie
+    - Groshens, Emilie
+  date: 2019-11
+  date_sort: 2019-11-01T00:00:00.000Z
+  url: https://spire.sciencespo.fr/hdl:/2441/6scpdrrdta9gvata2m28rq4c2d
+  type: Communications orales
+  source: Protection des données personnelles et recherches SHS, MSH Lyon St-Etienne
+    et l'Université Lyon 2, FR, 2019-11-19/2019-11-19
+  publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/76ocakag0q9s1ou042jlm1skdj
   title: "Archiving and reusing qualitative studies in social sciences: what
@@ -642,6 +756,19 @@
   type: Rapports
   source: null
   publication: beQuali
+  category: bequali
+- id: oai:spire.sciencespo.fr:2441/7r58puc6p68ska63nhojq0ia8f
+  title: Les banques d'enquêtes qualitatives:L'analyse de données qualitatives
+    (Action nationale de formation CNRS)
+  authors:
+    - Garcia, Guillaume
+    - Groshens, Emilie
+  date: 2019-10
+  date_sort: 2019-10-01T00:00:00.000Z
+  url: https://spire.sciencespo.fr/hdl:/2441/7r58puc6p68ska63nhojq0ia8f
+  type: Communications orales
+  source: null
+  publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/7vpgha25po80g9euf7ka9uokd4
   title: beQuali, une banque d’enquêtes qualitatives en SHS
@@ -762,7 +889,7 @@
   date: 2018-10
   date_sort: 2018-10-01T00:00:00.000Z
   url: https://spire.sciencespo.fr/hdl:/2441/t7jhth12f8ripvmt7ppfulrs3
-  type: Communications orales
+  type: Communications avec actes
   source: DTUC '18 Digital Tools &amp; Uses Congress; ACM International Conference
     Proceeding Series, Paris, France, FR, 2018-10-03/2018-10-05
   publication: ACM Digital Library
