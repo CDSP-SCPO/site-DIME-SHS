@@ -7,10 +7,8 @@ env:
   MATOMO_SITE_ID=10
   NODE_DEBUG="import*"
 
-matrix:
-  fast_finish: true
-
 jobs:
+  fast_finish: true
   include:
   - script: npm test
   - name: import-data
