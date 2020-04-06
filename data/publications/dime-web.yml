@@ -267,8 +267,8 @@
   source: null
   category: dime-web
 - id: VAF53LS3
-  title: Humanités numériques et analyse des controverses au regard des SIC. Retour
-    sur une expérience pédagogique
+  title: Humanités numériques et analyse des controverses au regard des SIC.
+    Retour sur une expérience pédagogique
   authors:
     - Bigot, Jean-Edouard
     - Julliard, Virginie
@@ -314,12 +314,12 @@
   pages: ""
   publication: null
   volume: ""
-  source: "Journée d'étude GRCDI-ESPE de Caen et Rouen, « L’EMI en questions : enjeux,
-    prescriptions, contenus, apprentissages »"
+  source: "Journée d'étude GRCDI-ESPE de Caen et Rouen, « L’EMI en questions :
+    enjeux, prescriptions, contenus, apprentissages »"
   category: dime-web
 - id: XQHL9B8C
-  title: "Big Data Measures of Well-Being: Evidence from a Google Well-Being Index in
-    the US"
+  title: "Big Data Measures of Well-Being: Evidence from a Google Well-Being Index
+    in the US"
   authors:
     - Algan, Yann
     - Beasley, Elizabeth
@@ -367,10 +367,10 @@
   pages: ""
   publication: null
   volume: ""
-  source: Construyendo puentes entre acción política e investigación social. Logros,
-    desafíos y perspectivas en las políticas acerca de la población gitana en el
-    Estado español. Un encuentro entre investigadores, responsables políticos y
-    tercer sector
+  source: Construyendo puentes entre acción política e investigación social.
+    Logros, desafíos y perspectivas en las políticas acerca de la población
+    gitana en el Estado español. Un encuentro entre investigadores, responsables
+    políticos y tercer sector
   category: dime-web
 - id: YVPJ5WGK
   title: "Mapping Wind Energy Controversies Online: Introduction to Methods and
@@ -415,8 +415,8 @@
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/13spb3bujg8rlrlaj9j2t7ccvl
-  title: "Présentation du médialab et description des corpus web:INA DLWeb - Saison 5
-    atelier 5 : Web archivé et archives scientifiques"
+  title: "Présentation du médialab et description des corpus web:INA DLWeb -
+    Saison 5 atelier 5 : Web archivé et archives scientifiques"
   authors:
     - Girard, Paul
     - Ooghe, Benjamin
@@ -428,8 +428,8 @@
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/15bh4udemm8439nhc008loqhn3
-  title: "Outils & méthodes pour créer, traiter et analyser des corpus web:INA DLWeb
-    - Saison 6 atelier 3 : Qu’est ce qu’un corpus web ?"
+  title: "Outils & méthodes pour créer, traiter et analyser des corpus web:INA
+    DLWeb - Saison 6 atelier 3 : Qu’est ce qu’un corpus web ?"
   authors:
     - Ooghe, Benjamin
   date: 2015-04-17
@@ -598,8 +598,8 @@
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/3r6kitktvv8fkp8lssnr3qmis6
-  title: "How to Tell Stories with Networks: Exploring the Narrative Affordances of
-    Graphs with the Iliad"
+  title: "How to Tell Stories with Networks: Exploring the Narrative Affordances
+    of Graphs with the Iliad"
   authors:
     - Venturini, Tommaso
     - Bounegru, Liliana
@@ -609,8 +609,8 @@
   date_sort: 2017-02-25T00:00:00.000Z
   url: https://spire.sciencespo.fr/hdl:/2441/3r6kitktvv8fkp8lssnr3qmis6
   type: Parties d'ouvrages
-  source: "Datafied Society: Social Research in the Age of Big Data., (pp. 155-170):
-    Amsterdam University Press"
+  source: "Datafied Society: Social Research in the Age of Big Data., (pp.
+    155-170): Amsterdam University Press"
   publication: Amsterdam University Press
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/4q6osdlj0291krv8b6c9rlr59s
@@ -627,8 +627,8 @@
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/50pcas4psk963o61vui7tvdprr
-  title: "hyphe : Utiliser le Web comme terrain d'enquête:Ateliers DATA SHS - MESHS
-    Lille"
+  title: "hyphe : Utiliser le Web comme terrain d'enquête:Ateliers DATA SHS -
+    MESHS Lille"
   authors:
     - Ooghe, Benjamin
     - Crépel, Maxime
@@ -680,8 +680,9 @@
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/6m937ip5p99bro7c1l1hho5voc
-  title: "The Formation of Digital Networks in Controversial Areas of Biotechnology:
-    Discussing the notion of public opinion through web-based big-data analysis"
+  title: "The Formation of Digital Networks in Controversial Areas of
+    Biotechnology: Discussing the notion of public opinion through web-based
+    big-data analysis"
   authors:
     - Tournay, Virginie
     - Jacomy, Mathieu
@@ -814,13 +815,13 @@
   date_sort: 2018-10-01T00:00:00.000Z
   url: http://hyphe.medialab.sciences-po.fr/docs/20181004-DigitalTools-HyperlinkIsNotDead.pdf
   type: Communications avec actes
-  source: WS.2 2018 International conference on Web Studies, Paris, France — October
-    03 - 05, 2018, Paris, FR, 2018-10-03/2018-10-05
+  source: WS.2 2018 International conference on Web Studies, Paris, France —
+    October 03 - 05, 2018, Paris, FR, 2018-10-03/2018-10-05
   publication: Association for Computing Machinery
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/7jgmr11pjd939b8r7iobgqs53u
-  title: Actor-Network VS Network Analysis VS Digital Networks Are We Talking About
-    the Same Networks?
+  title: Actor-Network VS Network Analysis VS Digital Networks Are We Talking
+    About the Same Networks?
   authors:
     - Venturini, Tommaso
     - Munk, Anders Kristian
@@ -845,8 +846,8 @@
   publication: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/pl7nokfpa9mpoqrk6biuq5f1g
-  title: Race, Religion, or Culture? Framing Islam between Racism and Neo-Racism in
-    the Online Network of the French Far Right
+  title: Race, Religion, or Culture? Framing Islam between Racism and Neo-Racism
+    in the Online Network of the French Far Right
   authors:
     - Froio, Caterina
   date: 2018-09
