@@ -89,7 +89,7 @@
     - Arzheimer, Kai
   date: 2015-09-03
   date_sort: 2015-09-03T00:00:00.000Z
-  url: https://convention2.allacademic.com/one/apsa/apsa15/index.php?cmd=Online+Program+View+Paper&selected_paper_id=997634&PHPSESSID=vnpdminlo8d0kvs0u7aprbk8e0
+  url: https://www.kai-arzheimer.com/german-right-wing-internet.pdf
   type: Communications avec actes
   issue: null
   pages: "21"
@@ -112,23 +112,6 @@
   volume: ""
   source: Roma
   category: dime-web
-- id: E34WKHBC
-  title: Digital Methods for Cross-platform Analysis
-  authors:
-    - Burgess, Jean
-    - Marwick, Alice
-    - Poell, Thomas
-    - Rogers, Richard
-  date: 2017-07
-  date_sort: 2017-07-01T00:00:00.000Z
-  url: http://sk.sagepub.com/reference/the-sage-handbook-of-social-media//i851.xml
-  type: Parties d'ouvrages
-  issue: null
-  pages: 91-108
-  publication: null
-  volume: ""
-  source: SAGE Publications Ltd
-  category: dime-web
 - id: FLL2KXB3
   title: From Philosopher to Network. Using Digital Traces for Understanding Paul
     Ricoeur's Legacy
@@ -143,35 +126,6 @@
   pages: ""
   publication: Azimuth. Philosophical Coordinates in Modern and Contemporary Age
   volume: VI
-  source: null
-  category: dime-web
-- id: FVU8FFFB
-  title: Entre informatique et sémiotique
-  authors:
-    - Bottini, Thomas
-    - Julliard, Virginie
-  date: 2017-08-22
-  date_sort: 2017-08-22T00:00:00.000Z
-  url: https://www.cairn.info/revue-reseaux-2017-4-page-35.htm
-  type: Articles
-  issue: "204"
-  pages: 35-69
-  publication: Réseaux
-  volume: ""
-  source: null
-  category: dime-web
-- id: GB8HZL45
-  title: "‪#Theoriedugenre : comment débat-on du genre sur Twitter ?‪"
-  authors:
-    - Julliard, Virginie
-  date: 2016-12
-  date_sort: 2016-12-01T00:00:00.000Z
-  url: https://www.cairn.info/article.php?ID_ARTICLE=QDC_030_0135
-  type: Articles
-  issue: "30"
-  pages: 135-157
-  publication: Questions de communication
-  volume: ""
   source: null
   category: dime-web
 - id: IHQTEBAI
@@ -264,23 +218,6 @@
   pages: "131"
   publication: null
   volume: null
-  source: null
-  category: dime-web
-- id: VAF53LS3
-  title: Humanités numériques et analyse des controverses au regard des SIC.
-    Retour sur une expérience pédagogique
-  authors:
-    - Bigot, Jean-Edouard
-    - Julliard, Virginie
-    - Mabi, Clément
-  date: 2016-01
-  date_sort: 2016-01-01T00:00:00.000Z
-  url: http://journals.openedition.org/rfsic/1783
-  type: Articles
-  issue: "8"
-  pages: ""
-  publication: Revue française des sciences de l’information et de la communication
-  volume: ""
   source: null
   category: dime-web
 - id: VQP36VGJ
