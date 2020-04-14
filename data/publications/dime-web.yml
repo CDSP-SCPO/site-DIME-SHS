@@ -505,22 +505,6 @@
   source: null
   publication: null
   category: dime-web
-- id: oai:spire.sciencespo.fr:2441/3r6kitktvv8fkp8lssnr3qmis6
-  title: "How to Tell Stories with Networks: Exploring the Narrative Affordances
-    of Graphs with the Iliad"
-  authors:
-    - Venturini, Tommaso
-    - Bounegru, Liliana
-    - Jacomy, Mathieu
-    - Gray, Jonathan
-  date: 2017-02-25
-  date_sort: 2017-02-25T00:00:00.000Z
-  url: https://spire.sciencespo.fr/hdl:/2441/3r6kitktvv8fkp8lssnr3qmis6
-  type: Parties d'ouvrages
-  source: "Datafied Society: Social Research in the Age of Big Data., (pp.
-    155-170): Amsterdam University Press"
-  publication: Amsterdam University Press
-  category: dime-web
 - id: oai:spire.sciencespo.fr:2441/4q6osdlj0291krv8b6c9rlr59s
   title: "médialab Tools : de petits outils simples et complexes au service de la
     DataScience:ANF MATE-SHS 2016 - Collecter et produire des données pour la
