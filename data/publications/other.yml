@@ -101,6 +101,20 @@
   source: null
   publication: null
   category: other
+- id: oai:spire.sciencespo.fr:2441/1tv3k66haa9qqq4nmq0lc54nbg
+  title: "L’open data : source d’injonctions contradictoires pour le partage des
+    données d’enquêtes en SHS?"
+  authors:
+    - Fromont, Emilie
+    - Brunel, Valentin
+  date: 2019-04
+  date_sort: 2019-04-01T00:00:00.000Z
+  url: https://forum.archivistes.org/apres-aafsainte19/session-archives-et-open-data/
+  type: Communications orales
+  source: Forum “Archives et transparence, une ambition citoyenne”, Association
+    des archivistes français, Saint-Etienne, FR, 2019-04-04
+  publication: null
+  category: other
 - id: oai:spire.sciencespo.fr:2441/44hho00kqr9m78unl9ge63dsfh
   title: EQUIPEX DIME-SHS  (2011-2016):Scientific Report - Convention
     ANR-10-EQPX-19-01
