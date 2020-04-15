@@ -60,7 +60,7 @@ export function parseBody (body, {publications, mappingConfig, publicationsLabel
       title,
       authors: getAuthors(creators),
       date,
-      date_sort: new Date(date),
+      date_sort: date ? new Date(date) : null,
       url: cleanUrl(url),
       type,
       issue,
