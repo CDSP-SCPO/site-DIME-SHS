@@ -200,6 +200,27 @@
   volume: null
   source: Journée d'étude « Mensonges et statistiques »
   category: elipss
+- id: K3YGUSR9
+  title: Confinement pour tous, épreuve pour certains Les résultats de la première
+    vague d'enquête du projet CoCo
+  authors:
+    - Recchi, Ettore
+    - Ferragina, Emanuele
+    - Helmeid, Emily
+    - Pauly, Stephan
+    - Safi, Mirna
+    - Sauger, Nicolas
+    - Schradie, Jen
+  date: 2020-04-20
+  date_sort: 2020-04-20T00:00:00.000Z
+  url: https://zenodo.org/record/3757813#.Xp2O1sgzbIU
+  type: Rapports
+  issue: null
+  pages: ""
+  publication: null
+  volume: null
+  source: null
+  category: elipss
 - id: MFTDSLBH
   title: Entre ordonnancement hiérarchisé des professions et regroupement des
     métiers par domaine d’activité. La double asymétrie des représentations
@@ -227,11 +248,11 @@
   date: "2019"
   date_sort: 2019-01-01T00:00:00.000Z
   url: https://infoscience.epfl.ch/record/270344
-  type: Datascapes
+  type: Communications avec actes
   issue: null
-  pages: null
+  pages: ""
   publication: null
-  volume: null
+  volume: ""
   source: null
   category: elipss
 - id: NPEHBD28
@@ -360,10 +381,10 @@
   date: 2019-11-20
   date_sort: 2019-11-20T00:00:00.000Z
   url: https://theconversation.com/et-vous-ou-aimeriez-vous-vivre-decouvrez-quelques-unes-des-villes-preferees-des-francais-127402
-  type: Datascapes
+  type: Articles de presse
   issue: null
-  pages: null
-  publication: null
+  pages: ""
+  publication: ""
   volume: null
   source: null
   category: elipss
@@ -408,10 +429,24 @@
   date: "2020"
   date_sort: 2020-01-01T00:00:00.000Z
   url: ""
-  type: Articles
-  issue: ""
-  pages: "27"
-  publication: ""
+  type: Working papers
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: null
+  category: elipss
+- id: VUAA9WNA
+  title: Le renouveau du jeu de société
+  authors:
+    - Berry, Vincent
+  date: 2018-04
+  date_sort: 2018-04-01T00:00:00.000Z
+  url: https://www.calameo.com/read/005569779149391a1c37e
+  type: Articles de presse
+  issue: "300"
+  pages: 124-129
+  publication: La Revue des livres pour enfants
   volume: ""
   source: null
   category: elipss
@@ -423,10 +458,10 @@
   date: 2019-11-19
   date_sort: 2019-11-19T00:00:00.000Z
   url: http://theconversation.com/les-francais-face-a-leurs-territoires-resultats-dune-enquete-inedite-127338
-  type: Datascapes
+  type: Articles de presse
   issue: null
-  pages: null
-  publication: null
+  pages: ""
+  publication: The Conversation
   volume: null
   source: null
   category: elipss
