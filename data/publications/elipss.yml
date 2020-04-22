@@ -1,3 +1,17 @@
+- id: 4KDYZ5AJ
+  title: Résignation et contestations des classes populaires face à l'impôt
+  authors:
+    - Spire, Alexis
+  date: 2017-10-13
+  date_sort: 2017-10-13T00:00:00.000Z
+  url: ""
+  type: Communications orales
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: Le rapport des classes populaires aux institutions
+  category: elipss
 - id: 5F9DPE6R
   title: Les déterminants sociaux du sentiment d'injustice fiscale
   authors:
@@ -98,6 +112,20 @@
   publication: null
   volume: "46"
   source: SHS Web of Conferences
+  category: elipss
+- id: FZYSIQZ3
+  title: Des salariées subalternes des institutions face aux institutions
+  authors:
+    - Siblot, Jasmine
+  date: 2017-10-13
+  date_sort: 2017-10-13T00:00:00.000Z
+  url: ""
+  type: Communications orales
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: Le rapport des classes populaires aux institutions
   category: elipss
 - id: HATVMIV7
   title: Marques, classes et cultures
@@ -449,6 +477,20 @@
   publication: La Revue des livres pour enfants
   volume: ""
   source: null
+  category: elipss
+- id: VXRA2KW6
+  title: Le rapport paradoxal à la justice
+  authors:
+    - Spire, Alexis
+  date: 2018-04-3
+  date_sort: 2018-04-03T00:00:00.000Z
+  url: ""
+  type: Communications orales
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: Journée d’étude Les institutions pénales saisies par les gouvernés
   category: elipss
 - id: XMJBFJZH
   title: "Les Français face à leurs territoires : résultats d’une enquête inédite"
