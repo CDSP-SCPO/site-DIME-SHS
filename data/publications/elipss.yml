@@ -113,6 +113,23 @@
   volume: "46"
   source: SHS Web of Conferences
   category: elipss
+- id: CCBZR554
+  title: "Quantifier les représentations citoyennes de la justice et de l’État :
+    des entretiens collectifs à une enquête par questionnaire"
+  authors:
+    - Cappellina, Bartolomeo
+    - Vigour, Cécile
+  date: 2019-07-02
+  date_sort: 2019-07-02T00:00:00.000Z
+  url: https://halshs.archives-ouvertes.fr/halshs-02274569
+  type: Communications avec actes
+  issue: null
+  pages: ""
+  publication: null
+  volume: ""
+  source: 15e Congrès de l’Association française de science politique (AFSP), ST
+    65 Quantifier en sociologie de l’action publique
+  category: elipss
 - id: FZYSIQZ3
   title: Des salariées subalternes des institutions face aux institutions
   authors:
@@ -126,6 +143,21 @@
   publication: null
   volume: null
   source: Le rapport des classes populaires aux institutions
+  category: elipss
+- id: G248YCYD
+  title: Habitudes et pratiques modales
+  authors:
+    - Buhler, Thomas
+  date: 2018-11
+  date_sort: 2018-11-01T00:00:00.000Z
+  url: https://hal.archives-ouvertes.fr/hal-01952859
+  type: Communications avec actes
+  issue: null
+  pages: ""
+  publication: null
+  volume: ""
+  source: Laboratoire de sociologie urbaine - Ecole polytechnique fédérale de
+    Lausanne and Institut de géographie et durabilité - Université de Lausanne
   category: elipss
 - id: HATVMIV7
   title: Marques, classes et cultures
@@ -316,6 +348,21 @@
   publication: null
   volume: ""
   source: Éditions du Seuil
+  category: elipss
+- id: PLCPHWET
+  title: Reconsidérer les mobilités quotidiennes en prenant en compte les
+    habitudes individuelles
+  authors:
+    - Buhler, Thomas
+  date: 2019-02
+  date_sort: 2019-02-01T00:00:00.000Z
+  url: https://hal.archives-ouvertes.fr/hal-02057633
+  type: Communications avec actes
+  issue: null
+  pages: ""
+  publication: null
+  volume: ""
+  source: Laboratoire TheMA - UMR 6049
   category: elipss
 - id: PPA5VHIA
   title: "''Quand on aime, on ne compte pas''. Difficultés méthodologiques et
