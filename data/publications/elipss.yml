@@ -615,6 +615,19 @@
     de Lausanne, CH, 2015-02-24/2015-02-24
   publication: null
   category: elipss
+- id: oai:spire.sciencespo.fr:2441/1bv6ntge668r1q64iscqno4f35
+  title: "From collecting data to disseminating it to the research community: the
+    French ELIPSS panel"
+  authors:
+    - Mairot, Alexandre
+  date: 2019-12
+  date_sort: 2019-12-01T00:00:00.000Z
+  url: https://spire.sciencespo.fr/hdl:/2441/1bv6ntge668r1q64iscqno4f35
+  type: Communications orales
+  source: Workshop "Metadata management in longitudinal and international
+    comparative studies", Paris, Sciences Po (CDSP), FR, 2019-12-13
+  publication: null
+  category: elipss
 - id: oai:spire.sciencespo.fr:2441/1gq9t1p04o9mno659v2pir3c1k
   title: "With or Without Interviewer : A Replication of ESS on the ELIPSS Panel"
   authors:
@@ -899,8 +912,8 @@
     - Le Corgne, Simon
     - Olivier, Mathieu
     - Palat, Blazej
-  date: 2019
-  date_sort: 1970-01-01T00:00:02.019Z
+  date: 2019-10
+  date_sort: 2019-10-01T00:00:00.000Z
   url: https://spire.sciencespo.fr/hdl:/2441/6a3ni12r3j93c9buvmb3ncfqmn
   type: Communications orales
   source: METSEM - Séminaire de Méthodologie, Sciences Po - Paris, FR,
