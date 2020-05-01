@@ -122,11 +122,11 @@
   date: 2019-07-02
   date_sort: 2019-07-02T00:00:00.000Z
   url: https://halshs.archives-ouvertes.fr/halshs-02274569
-  type: Communications avec actes
+  type: Communications orales
   issue: null
-  pages: ""
+  pages: null
   publication: null
-  volume: ""
+  volume: null
   source: 15e Congrès de l’Association française de science politique (AFSP), ST
     65 Quantifier en sociologie de l’action publique
   category: elipss
@@ -369,15 +369,15 @@
     habitudes individuelles
   authors:
     - Buhler, Thomas
-  date: 2019-02
-  date_sort: 2019-02-01T00:00:00.000Z
+  date: february 6-8 2019
+  date_sort: 2008-02-06T00:00:00.000Z
   url: https://hal.archives-ouvertes.fr/hal-02057633
-  type: Communications avec actes
+  type: Communications orales
   issue: null
-  pages: ""
+  pages: null
   publication: null
-  volume: ""
-  source: Laboratoire TheMA - UMR 6049
+  volume: null
+  source: Quatorzièmes Rencontres de Théo Quant
   category: elipss
 - id: PPA5VHIA
   title: "''Quand on aime, on ne compte pas''. Difficultés méthodologiques et

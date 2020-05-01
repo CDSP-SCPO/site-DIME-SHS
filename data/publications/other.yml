@@ -76,6 +76,37 @@
   volume: ""
   source: null
   category: other
+- id: WJE7I4HN
+  title: Boardgames and education
+  authors:
+    - Berry, Vincent
+  date: october 24-27 2019
+  date_sort: 2027-10-24T00:00:00.000Z
+  url: ""
+  type: Communications orales
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: Spiel Messe
+  category: other
+- id: XNWT7WCJ
+  title: "Identifier des types de rapports à la justice et à la police : des
+    entretiens collectifs à une enquête par questionnaire"
+  authors:
+    - Cappellina, Bartolomeo
+    - Vigour, Cécile
+  date: 2019-06-12
+  date_sort: 2019-06-12T00:00:00.000Z
+  url: ""
+  type: Communications orales
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: "Le quali/quanti en pratique : quelles méthodes, avec quelles données,
+    pour quels éclairages ?"
+  category: other
 - id: oai:spire.sciencespo.fr:2441/1pj2kuhiad81vohsgpivi5i46l
   title: Mise en place de l’infrastructure système du projet DIME-SHS:Rapport de
     période en entreprise
