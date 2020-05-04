@@ -47,6 +47,27 @@
   volume: null
   source: null
   category: elipss
+- id: 6L7YD6XL
+  title: Dans l'œil du cyclone. La société française après un mois de confinement
+  authors:
+    - Ferragina, Emanuele
+    - Barone, Carlo
+    - Helmeid, Emily
+    - Pauly, Stefan
+    - Recchi, Ettore
+    - Safi, Mirna
+    - Sauger, Nicolas
+    - Schradie, Jen
+  date: 2020-05-04
+  date_sort: 2020-05-04T00:00:00.000Z
+  url: https://zenodo.org/record/3784110#.Xq_V4KgzbIU
+  type: Rapports
+  issue: null
+  pages: ""
+  publication: null
+  volume: null
+  source: null
+  category: elipss
 - id: 7I6U85IG
   title: "Entretien Alexis Spire : « Les classes populaires ressentent un très
     fort sentiment d’injustice fiscale »"
@@ -97,21 +118,6 @@
   publication: Sociologie
   volume: "9"
   source: null
-  category: elipss
-- id: BWDBZEHN
-  title: Quelles conceptions du « changement climatique » en France et en Norvège
-    ? Résultats de deux enquêtes
-  authors:
-    - Fløttum, Kjersti
-  date: "2018"
-  date_sort: 2018-01-01T00:00:00.000Z
-  url: ""
-  type: Communications avec actes
-  issue: null
-  pages: "14"
-  publication: null
-  volume: "46"
-  source: SHS Web of Conferences
   category: elipss
 - id: CCBZR554
   title: "Quantifier les représentations citoyennes de la justice et de l’État :
@@ -730,6 +736,19 @@
     IS, 2015-07-13/2015-07-17
   publication: null
   category: elipss
+- id: oai:spire.sciencespo.fr:2441/1vp7n71oma9feqifhm9h860791
+  title: "From Raw Interaction Traces to Actionable Indicators: Lessons Learned"
+  authors:
+    - Dellac, Simon
+    - Pétorin, Elodie
+  date: 2019-07
+  date_sort: 2019-07-01T00:00:00.000Z
+  url: https://spire.sciencespo.fr/hdl:/2441/1vp7n71oma9feqifhm9h860791
+  type: Communications orales
+  source: European Survey Research Association (ESRA), Zagreb, HR,
+    2019-07-15/2019-07-19
+  publication: null
+  category: elipss
 - id: oai:spire.sciencespo.fr:2441/24v356h4aq84vpht7vd2pcvc89
   title: "Blaise on touch-screen tablets: The ELIPSS example"
   authors:
@@ -878,20 +897,6 @@
   type: Communications orales
   source: 6th Conference of the European Survey Research Association (ESRA),
     Reykjavik, IS, 2015-07-13/2015-07-17
-  publication: null
-  category: elipss
-- id: oai:spire.sciencespo.fr:2441/4kmctouvig9dhoeevjs8pdm2qn
-  title: Prendre en compte le cycle de vie des données dans la documentation des
-    enquêtes:4e journées annuelles du réseau MATE-SHS
-  authors:
-    - Danciu, Alina
-    - Le Corgne, Simon
-  date: 2017-11
-  date_sort: 2017-11-01T00:00:00.000Z
-  url: https://spire.sciencespo.fr/hdl:/2441/4kmctouvig9dhoeevjs8pdm2qn
-  type: Communications orales
-  source: 2017-11-14, 4e journées annuelles du réseau MATE-SHS, Rouen , Rouen, FR,
-    2017-11-13/2017-11-14
   publication: null
   category: elipss
 - id: oai:spire.sciencespo.fr:2441/4m8inlk0a48ldrgke5c530idjh
