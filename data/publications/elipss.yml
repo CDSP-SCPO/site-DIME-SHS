@@ -1,3 +1,26 @@
+- id: 2A2MCBV5
+  title: Caractéristiques sociales évaluées par un questionnaire issu des sciences
+    sociales et caractéristiques cliniques des patients atteints de sclérodermie
+    systémique
+  authors:
+    - Lemesle, G.
+    - Ballerie, A.
+    - Belhomme, N.
+    - Cazalets, C.
+    - Coiffier, G.
+    - Jego, P.
+    - Lescoat, A.
+    - Cavalin, C.
+  date: 2019-12-01
+  date_sort: 2019-12-01T00:00:00.000Z
+  url: http://www.sciencedirect.com/science/article/pii/S0248866319308458
+  type: Articles
+  issue: ""
+  pages: A78
+  publication: La Revue de Médecine Interne
+  volume: "40"
+  source: null
+  category: elipss
 - id: 4KDYZ5AJ
   title: Résignation et contestations des classes populaires face à l'impôt
   authors:
@@ -99,6 +122,24 @@
   volume: null
   source: null
   category: elipss
+- id: APS9WLEH
+  title: A propos de la cohérence thématique et temporelle des attitudes et
+    pratiques culturelles. Une analyse factorielle multiple sur les vagues 1 et
+    2 de l’enquête PMTI
+  authors:
+    - Coulangeon, Philippe
+    - Savina, Yannick
+  date: 2016-12-12
+  date_sort: 2016-12-12T00:00:00.000Z
+  url: ""
+  type: Communications orales
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: "olloque des 10 ans du CDSP : Des données et des services pour les
+    sciences sociales"
+  category: elipss
 - id: AVB9K3VS
   title: "« Ça n’a pas de sens de compter comme ça ». Difficultés et limites d’une
     approche comptable des aides financières et matérielles apportées aux jeunes
@@ -119,6 +160,30 @@
   volume: "9"
   source: null
   category: elipss
+- id: C5VUL5LK
+  title: Women with Rheumatoidarthritis Have Higher Lifetime Professional and
+    Non-Professional Exposure to Silica Dust Compared to French General
+    Population
+  authors:
+    - Sigaux, Johanna
+    - Cavalin, Catherine
+    - Macchi, Odile
+    - Challal, Salima
+    - Rharras, Sarah El
+    - Petit, Mylene
+    - Boissier, Marie-Christophe
+    - Rosental, Paul-Andre
+    - Semerano, Luca
+  date: 2019-06-01
+  date_sort: 2019-06-01T00:00:00.000Z
+  url: https://ard.bmj.com/content/78/Suppl_2/1044
+  type: Articles
+  issue: Suppl 2
+  pages: 1044-1044
+  publication: Annals of the Rheumatic Diseases
+  volume: "78"
+  source: null
+  category: elipss
 - id: CCBZR554
   title: "Quantifier les représentations citoyennes de la justice et de l’État :
     des entretiens collectifs à une enquête par questionnaire"
@@ -135,6 +200,40 @@
   volume: null
   source: 15e Congrès de l’Association française de science politique (AFSP), ST
     65 Quantifier en sociologie de l’action publique
+  category: elipss
+- id: DQCDGCZT
+  title: Les panélistes mentent-ils ? Un parcours à travers les incohérences
+    longitudinales des réponses dans ELIPSS
+  authors:
+    - Mercklé, Pierre
+  date: 2016-12-12
+  date_sort: 2016-12-12T00:00:00.000Z
+  url: ""
+  type: Communications orales
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: "olloque des 10 ans du CDSP : Des données et des services pour les
+    sciences sociales"
+  category: elipss
+- id: FL6MU9J3
+  title: "ELIPSSilice : enquêter en population générale sur des maladies
+    d'étiologie inconnue"
+  authors:
+    - Cavalin, Catherine
+    - Macchi, Odile
+    - Rosental, Paul André
+  date: 2016-12-12
+  date_sort: 2016-12-12T00:00:00.000Z
+  url: ""
+  type: Communications orales
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: "olloque des 10 ans du CDSP : Des données et des services pour les
+    sciences sociales"
   category: elipss
 - id: FZYSIQZ3
   title: Des salariées subalternes des institutions face aux institutions
@@ -165,6 +264,21 @@
   source: Laboratoire de sociologie urbaine - Ecole polytechnique fédérale de
     Lausanne and Institut de géographie et durabilité - Université de Lausanne
   category: elipss
+- id: GKE7Q5QR
+  title: Distances et proximités dans les relations à l’Etat
+  authors:
+    - Spire, Alexis
+  date: 2016-12-12
+  date_sort: 2016-12-12T00:00:00.000Z
+  url: ""
+  type: Communications orales
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: "olloque des 10 ans du CDSP : Des données et des services pour les
+    sciences sociales"
+  category: elipss
 - id: HATVMIV7
   title: Marques, classes et cultures
   authors:
@@ -179,6 +293,21 @@
   publication: null
   volume: ""
   source: La Découverte
+  category: elipss
+- id: HH463QHZ
+  title: "Internet shopping for Everyday Consumer Goods: An examination of the
+    purchasing and travel practices of click and pickup outlet customers"
+  authors:
+    - Pernot, Delphine
+  date: 2020-01-22
+  date_sort: 2020-01-22T00:00:00.000Z
+  url: http://www.sciencedirect.com/science/article/pii/S0739885920300068
+  type: Articles
+  issue: ""
+  pages: "100817"
+  publication: Research in Transportation Economics
+  volume: ""
+  source: null
   category: elipss
 - id: HVR28TKA
   title: "Des morales de classe ?: Dispositions éthiques et positions sociales
@@ -251,6 +380,21 @@
   volume: "10"
   source: null
   category: elipss
+- id: JBJWW6BC
+  title: "Cultures, classes, connexions : le numérique a-t-il bouleversé les
+    hiérarchies culturelles ?"
+  authors:
+    - Mercklé, Pierre
+  date: 2019-06
+  date_sort: 2019-06-01T00:00:00.000Z
+  url: https://halshs.archives-ouvertes.fr/halshs-02270388
+  type: Communications avec actes
+  issue: null
+  pages: ""
+  publication: null
+  volume: ""
+  source: Aix-en-Provence, France
+  category: elipss
 - id: JE4UCIKZ
   title: Les enquêtés mentent-ils ? Incohérences de réponse et illusion
     biographique dans les enquêtes longitudinales par questionnaires
@@ -300,6 +444,21 @@
   pages: ""
   publication: null
   volume: null
+  source: null
+  category: elipss
+- id: KUX4UQMY
+  title: Le désir et la domination. La forme objectiviste de la détermination en
+    sociologie
+  authors:
+    - Glevarec, Hervé
+  date: 2017-07-13
+  date_sort: 2017-07-13T00:00:00.000Z
+  url: https://www.cairn.info/revue-pole-sud-2017-1-page-131.htm?ref=doi
+  type: Articles
+  issue: "1"
+  pages: 131-145
+  publication: Pole Sud
+  volume: n° 46
   source: null
   category: elipss
 - id: MFTDSLBH
@@ -433,6 +592,23 @@
   publication: Revue française de science politique
   volume: "68"
   source: null
+  category: elipss
+- id: RD7MRRE7
+  title: Le « millefeuille territorial » français à l’épreuve des représentations
+    sociales
+  authors:
+    - Brennetot, Arnaud
+    - Didelon-Loiseau, Clarisse
+    - Grasland, Claude
+  date: 2019-07-2
+  date_sort: 2019-07-02T00:00:00.000Z
+  url: https://www.researchgate.net/publication/334397994_Le_millefeuille_territorial_francais_a_l'epreuve_des_representations_sociales_en_France
+  type: Communications avec actes
+  issue: null
+  pages: ""
+  publication: null
+  volume: ""
+  source: Congrès AFSP 2019
   category: elipss
 - id: RGIYFK75
   title: Unequal Neighbours? A French-German Comparison of Family Size Intentions
@@ -589,6 +765,39 @@
   source: "Panel des ménages-ONDH : Pertinence des données de Panels dans le suivi
     et l'évaluation des politiques publiques"
   category: elipss
+- id: WTAWNFUC
+  title: L'effet candidat
+  authors:
+    - Brouard, Sylvain
+    - Kerrouche, Éric
+  date: "2017"
+  date_sort: 2017-01-01T00:00:00.000Z
+  url: https://halshs.archives-ouvertes.fr/halshs-01596315
+  type: Parties d'ouvrages
+  issue: null
+  pages: ""
+  publication: null
+  volume: ""
+  source: Bruylant
+  category: elipss
+- id: XKN7USUE
+  title: "Se repérer dans l’espace social français : catégorisations et
+    connaissances ordinaires"
+  authors:
+    - Amossé, Thomas
+    - Penissat, Étienne
+    - Sinthon, Rémi
+  date: 2016-12-12
+  date_sort: 2016-12-12T00:00:00.000Z
+  url: ""
+  type: Communications orales
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: "olloque des 10 ans du CDSP : Des données et des services pour les
+    sciences sociales"
+  category: elipss
 - id: XMJBFJZH
   title: "Les Français face à leurs territoires : résultats d’une enquête inédite"
   authors:
@@ -603,6 +812,23 @@
   publication: The Conversation
   volume: null
   source: null
+  category: elipss
+- id: XWH566TB
+  title: "Intérêt et désintérêt pour la politique : les citoyens changent-ils
+    selon le contexte politique ?"
+  authors:
+    - Gougou, Florent
+    - Tiberj, Vincent
+  date: 2016-12-12
+  date_sort: 2016-12-12T00:00:00.000Z
+  url: ""
+  type: Communications orales
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: "olloque des 10 ans du CDSP : Des données et des services pour les
+    sciences sociales"
   category: elipss
 - id: YM88YHGZ
   title: "Analyse sociodémographique des expositions à des particules inorganiques
@@ -630,6 +856,21 @@
   publication: La Revue de Médecine Interne
   volume: "39"
   source: null
+  category: elipss
+- id: YNM46WDK
+  title: "Les Français et leurs (enjeux) politiques : les conséquences électorales
+    de la défiance sous la Présidence Hollande"
+  authors:
+    - Degeorges, Adrien
+  date: 2015-04
+  date_sort: 2015-04-01T00:00:00.000Z
+  url: https://hal.archives-ouvertes.fr/hal-02297126
+  type: Communications avec actes
+  issue: null
+  pages: ""
+  publication: null
+  volume: ""
+  source: Université de Stuttgart, Germany
   category: elipss
 - id: ZMSTQGH3
   title: « Ce sont ceux qui en parlent le plus qui en font le moins ». Pratiques
@@ -672,7 +913,7 @@
     - Mairot, Alexandre
   date: 2019-12
   date_sort: 2019-12-01T00:00:00.000Z
-  url: https://spire.sciencespo.fr/hdl:/2441/1bv6ntge668r1q64iscqno4f35
+  url: http://10.0.20.161/zenodo.3765822
   type: Communications orales
   source: Workshop "Metadata management in longitudinal and international
     comparative studies", Paris, Sciences Po (CDSP), FR, 2019-12-13
@@ -1023,8 +1264,8 @@
     - Duwez, Emmanuelle
     - Flipo, Aurore
     - Recchi, Ettore
-  date: 2017-03
-  date_sort: 2017-03-01T00:00:00.000Z
+  date: 2016-12
+  date_sort: 2016-12-01T00:00:00.000Z
   url: https://spire.sciencespo.fr/hdl:/2441/7r01om1bqd9rt8gak18oavkg1c
   type: Communications orales
   source: "Colloque des 10 ans du CDSP : « Des données et des services pour les
@@ -1130,5 +1371,19 @@
   type: Communications orales
   source: Séminaire commun SFDS/AFSP "Analyses électorales. Dialogue entre
     statisticiens et politistes", Paris, FR, 2013-11-21
+  publication: null
+  category: elipss
+- id: oai:spire.sciencespo.fr:2441/ujqtpvnmc8s8op0lnrm3oapp5
+  title: ELIPSS, a French probability‐based web panel dedicated to social science
+    research
+  authors:
+    - Duwez, Emmanuelle
+    - Portelli, Jean-Baptiste
+  date: 2019-05
+  date_sort: 2019-05-01T00:00:00.000Z
+  url: https://spire.sciencespo.fr/hdl:/2441/ujqtpvnmc8s8op0lnrm3oapp5
+  type: Communications orales
+  source: Workshop Psychological Determinants of food consumption, Cachan, FR,
+    2019-05-10/2019-05-10
   publication: null
   category: elipss
