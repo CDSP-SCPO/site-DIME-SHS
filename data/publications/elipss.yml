@@ -1126,6 +1126,21 @@
     2018-12-03/2018-12-04
   publication: null
   category: elipss
+- id: oai:spire.sciencespo.fr:2441/46vnduhciv9pco2upddgsgcd48
+  title: Challenges and best practices when designing a mobile application for the
+    ELIPSS panel
+  authors:
+    - Agren, Quentin
+    - Michaud, Geneviève
+  date: 2019-03
+  date_sort: 2019-03-01T00:00:00.000Z
+  url: https://doi.org/10.5281/zenodo.3458128
+  type: Communications orales
+  source: CSDI. International Workshop on Comparative Survey Design and
+    Implementation Program, Varsovie, Institute of Philosophy and Sociology,
+    Polish Academy of Sciences, PL, 2019-03-18/2019-03-20
+  publication: null
+  category: elipss
 - id: oai:spire.sciencespo.fr:2441/4ek93a7tfl8em91pi9rci4b2gv
   title: Setting-up a probability-based web panel. Lessons learned from the ELIPSS
     Pilot Study
@@ -1194,6 +1209,20 @@
   type: Communications orales
   source: Congrès de l'Association Française de sociologie, Université Versailles
     Saint Quentin, FR, 2015-06-29/2015-07-02
+  publication: null
+  category: elipss
+- id: oai:spire.sciencespo.fr:2441/684q33k4l68j9pucdsdiiagjlt
+  title: "Workshop: Let's take a look at a DDI-documented paradataset collected by
+    an in-house panel information system!"
+  authors:
+    - Michaud, Geneviève
+    - Rouxel, Baptiste
+  date: 2019-12
+  date_sort: 2019-12-01T00:00:00.000Z
+  url: https://doi.org/10.5281/zenodo.3628342
+  type: Communications orales
+  source: EDDI 2019. 11th Annual European DDI Users Conference, Tampere
+    University, FI, 2019-12-02
   publication: null
   category: elipss
 - id: oai:spire.sciencespo.fr:2441/6a3ni12r3j93c9buvmb3ncfqmn
