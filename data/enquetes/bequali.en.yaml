@@ -5,7 +5,7 @@ items:
   authors:
   - VAN ZANTEN Agnès
   lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/cdsp_bequali_s1/
-  lien_doi: https://doi.org/10.21410/dshs_2016/KHUK6Z
+  lien_doi: https://bequali.fr/en/surveys/lenquete-sur-lenquete/cdsp_bequali_s1/
 - title: From Africa to France, from one generation to another
   date: "2006-2010"
   authors:
@@ -17,38 +17,38 @@ items:
   - ROZENKIER Alain
   - SEGALEN Martine
   lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/cdsp_bq_s5/
-  lien_doi: https://doi.org/10.21410/dshs_2016/V2XWWP
+  lien_doi: https://bequali.fr/en/surveys/lenquete-sur-lenquete/cdsp_bq_s5/
 - title: Women in politics
   date: "1984-1985"
   authors:
   - SINEAU Mariette
   lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/cdsp_bequali_sp6/
-  lien_doi: https://doi.org/10.21410/dshs_2016/XPWWW9
+  lien_doi: https://bequali.fr/en/surveys/lenquete-sur-lenquete/cdsp_bequali_sp6/
 - title: Couple Formation
   date: "1983-1985"
   authors:
   - BOZON Michel
   - HERAN François
   lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/cdsp_bq_s2/
-  lien_doi: https://doi.org/10.21410/dshs_2016/IEKIE0
+  lien_doi: https://bequali.fr/en/surveys/lenquete-sur-lenquete/cdsp_bq_s2/
 - title: "The profession of architect: new sociological theory of the professions"
   date: "2004-2010"
   authors:
   - CHAMPY Florent
   lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/cdsp_bq_s3/
-  lien_doi: https://doi.org/10.21410/dshs_2016/IWE3KI
+  lien_doi: https://bequali.fr/en/surveys/lenquete-sur-lenquete/cdsp_bq_s3/
 - title: "The French Parliament and the European Union: Europe grasped through parliamentary roles"
   date: "1993-2005"
   authors:
   - ROZENBERG Olivier
   lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/cdsp_bequali_sp3/
-  lien_doi: https://doi.org/10.21410/dshs_2016/CLSJTH
+  lien_doi: https://bequali.fr/en/surveys/lenquete-sur-lenquete/cdsp_bequali_sp3/
 - title: The French and Politics
   date: "1983"
   authors:
   - SCHWEISGUTH Étienne
   lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/cdsp_bequali_sp2/
-  lien_doi: https://doi.org/10.21410/dshs_2016/MB6S9N
+  lien_doi: https://bequali.fr/en/surveys/lenquete-sur-lenquete/cdsp_bequali_sp2/
 - title: When French, English and (French-speaking) Belgians talk about Europe
   date: "2005-2006"
   authors:
@@ -59,7 +59,7 @@ items:
   - HAEGEL Florence
   - VAN INGELGOM Virginie
   lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/cdsp_bequali_sp1/
-  lien_doi: https://doi.org/10.21410/dshs_2016/QWDFMD
+  lien_doi: https://bequali.fr/en/surveys/lenquete-sur-lenquete/cdsp_bequali_sp1/
 - title: Representation of the social field, political attitudes and socio-economic changes
   date: "1978"
   authors:
@@ -67,7 +67,7 @@ items:
   - MICHELAT Guy
   - SIMON Michel
   lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/cdsp_bequali_sp5/
-  lien_doi: https://doi.org/10.21410/dshs_2016/6TRSZ3
+  lien_doi: https://bequali.fr/en/surveys/lenquete-sur-lenquete/cdsp_bequali_sp5/
 - title: With those of the FN. A sociologist at the Front National
   date: "1995-2017"
   authors:
@@ -77,7 +77,7 @@ items:
   authors:
   - MUSSELIN Christine
   lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/cdsp_bq_s4/
-  lien_doi: https://doi:10.21410/dshs_2016/p9kv-f227
+  lien_doi: https://bequali.fr/en/surveys/lenquete-sur-lenquete/cdsp_bq_s4/
 - title: Dilapidation and prodigality
   date: "1990-1995"
   authors:
@@ -93,12 +93,6 @@ items:
   - DE VISSCHER Christian
   - HARGUINDÉGUY, PASQUIER Romain
   - STAFFORD Ian
-- title: The assumed reformism of the CFDT
-  date: "2008-2009"
-  authors:
-  - BARTHÉLEMY Martine
-  - DARGENT Claude
-  - REY Henri
 - title: Working conditions of pregnant women
   date: "1985-1988"
   authors:
