@@ -122,6 +122,22 @@
   volume: null
   source: null
   category: elipss
+- id: A6WGVVUG
+  title: "Les pratiques de mobilité à grande distance : les résultats d'une
+    enquête française en population générale"
+  authors:
+    - Flipo, Aurore
+    - Recchi, Ettore
+  date: 2019-10-14
+  date_sort: 2019-10-14T00:00:00.000Z
+  url: ""
+  type: Communications orales
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: Swiss Mobility Conference 2019
+  category: elipss
 - id: APS9WLEH
   title: A propos de la cohérence thématique et temporelle des attitudes et
     pratiques culturelles. Une analyse factorielle multiple sur les vagues 1 et
@@ -137,7 +153,7 @@
   pages: null
   publication: null
   volume: null
-  source: "olloque des 10 ans du CDSP : Des données et des services pour les
+  source: "Colloque des 10 ans du CDSP : Des données et des services pour les
     sciences sociales"
   category: elipss
 - id: AVB9K3VS
@@ -214,7 +230,7 @@
   pages: null
   publication: null
   volume: null
-  source: "olloque des 10 ans du CDSP : Des données et des services pour les
+  source: "Colloque des 10 ans du CDSP : Des données et des services pour les
     sciences sociales"
   category: elipss
 - id: FL6MU9J3
@@ -256,13 +272,12 @@
   date: 2018-11
   date_sort: 2018-11-01T00:00:00.000Z
   url: https://hal.archives-ouvertes.fr/hal-01952859
-  type: Communications avec actes
+  type: Communications orales
   issue: null
-  pages: ""
+  pages: null
   publication: null
-  volume: ""
-  source: Laboratoire de sociologie urbaine - Ecole polytechnique fédérale de
-    Lausanne and Institut de géographie et durabilité - Université de Lausanne
+  volume: null
+  source: Swiss Mobility Conference 2018
   category: elipss
 - id: GKE7Q5QR
   title: Distances et proximités dans les relations à l’Etat
@@ -345,6 +360,20 @@
   volume: "10"
   source: null
   category: elipss
+- id: I8EIYTCH
+  title: Boardgames and education
+  authors:
+    - Berry, Vincent
+  date: october 24-27, 2019
+  date_sort: 2027-10-24T00:00:00.000Z
+  url: ""
+  type: Communications orales
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: SpielMesse - Salon international du jeu
+  category: elipss
 - id: IXJ699E9
   title: "Building a probability-based online panel: Life in Australia"
   authors:
@@ -388,12 +417,13 @@
   date: 2019-06
   date_sort: 2019-06-01T00:00:00.000Z
   url: https://halshs.archives-ouvertes.fr/halshs-02270388
-  type: Communications avec actes
+  type: Communications orales
   issue: null
-  pages: ""
+  pages: null
   publication: null
-  volume: ""
-  source: Aix-en-Provence, France
+  volume: null
+  source: La littératie numérique au prisme des sociologies de l'éducation et de
+    la culture
   category: elipss
 - id: JE4UCIKZ
   title: Les enquêtés mentent-ils ? Incohérences de réponse et illusion
@@ -415,7 +445,7 @@
     orientation towards life?"
   authors:
     - Maurice, A-C
-  date: march 2-3 2020
+  date: march 2-3, 2020
   date_sort: 2003-03-02T00:00:00.000Z
   url: ""
   type: Communications orales
@@ -534,7 +564,7 @@
     habitudes individuelles
   authors:
     - Buhler, Thomas
-  date: february 6-8 2019
+  date: february 6-8, 2019
   date_sort: 2008-02-06T00:00:00.000Z
   url: https://hal.archives-ouvertes.fr/hal-02057633
   type: Communications orales
@@ -570,11 +600,11 @@
   date: 2015-06-22
   date_sort: 2015-06-22T00:00:00.000Z
   url: https://www.researchgate.net/publication/278685149_Qui_changent_et_pourquoi_Stabilite_et_evolution_des_opinions_dans_la_France_des_annees_2010
-  type: Communications avec actes
+  type: Communications orales
   issue: null
-  pages: ""
+  pages: null
   publication: null
-  volume: ""
+  volume: null
   source: Congrès AFSP - ST2 Politique des temps ordinaires et politique des temps
     électoraux
   category: elipss
@@ -603,11 +633,11 @@
   date: 2019-07-2
   date_sort: 2019-07-02T00:00:00.000Z
   url: https://www.researchgate.net/publication/334397994_Le_millefeuille_territorial_francais_a_l'epreuve_des_representations_sociales_en_France
-  type: Communications avec actes
+  type: Communications orales
   issue: null
-  pages: ""
+  pages: null
   publication: null
-  volume: ""
+  volume: null
   source: Congrès AFSP 2019
   category: elipss
 - id: RGIYFK75
@@ -827,7 +857,7 @@
   pages: null
   publication: null
   volume: null
-  source: "olloque des 10 ans du CDSP : Des données et des services pour les
+  source: "Colloque des 10 ans du CDSP : Des données et des services pour les
     sciences sociales"
   category: elipss
 - id: YM88YHGZ
@@ -865,12 +895,13 @@
   date: 2015-04
   date_sort: 2015-04-01T00:00:00.000Z
   url: https://hal.archives-ouvertes.fr/hal-02297126
-  type: Communications avec actes
+  type: Communications orales
   issue: null
-  pages: ""
+  pages: null
   publication: null
-  volume: ""
-  source: Université de Stuttgart, Germany
+  volume: null
+  source: Internationales Zentrum für Kultur- und Technikforschung
+    (IZKT),Université de Stuttgart, Germany
   category: elipss
 - id: ZMSTQGH3
   title: « Ce sont ceux qui en parlent le plus qui en font le moins ». Pratiques
@@ -913,7 +944,7 @@
     - Mairot, Alexandre
   date: 2019-12
   date_sort: 2019-12-01T00:00:00.000Z
-  url: http://10.0.20.161/zenodo.3765822
+  url: https://spire.sciencespo.fr/hdl:/2441/1bv6ntge668r1q64iscqno4f35
   type: Communications orales
   source: Workshop "Metadata management in longitudinal and international
     comparative studies", Paris, Sciences Po (CDSP), FR, 2019-12-13
