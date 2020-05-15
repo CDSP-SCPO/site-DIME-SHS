@@ -1061,6 +1061,19 @@
     Research (CIPHER), Washington DC, US, 2019-02-21/2019-02-21
   publication: null
   category: elipss
+- id: oai:spire.sciencespo.fr:2441/32vvdtnhgh9s6rkhr22bm4f7gk
+  title: The process of creating an in-house interface for converting Blaise
+    output into DDI metadata
+  authors:
+    - Mairot, Alexandre
+  date: 2019-12
+  date_sort: 2019-12-01T00:00:00.000Z
+  url: https://spire.sciencespo.fr/hdl:/2441/32vvdtnhgh9s6rkhr22bm4f7gk
+  type: Communications orales
+  source: EDDI19 - 11th Annual European DDI User Conference, Tampere University,
+    FI, 2019-12-03/2019-12-04
+  publication: null
+  category: elipss
 - id: oai:spire.sciencespo.fr:2441/33jderg00e9tko3ln7ktqumm08
   title: Le recrutement du panel ELIPSS:Bilan du projet réalisé avec le soutien
     financier de l'INPES (subvention n°060/12-DAS)
