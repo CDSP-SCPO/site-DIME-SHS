@@ -74,13 +74,15 @@ items:
   date: "1995-2017"
   authors:
   - BIZEUL Daniel
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/cdsp_bq_s11/
+  lien_doi: https://bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bq_s11/
 - title: Comparaison des ministères de l’enseignement supérieur de France et d’Allemagne
   date: "1987-1990"
   authors:
   - MUSSELIN Christine
   - FRIEDBERG Erhard
-  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/cdsp_bequali_sp4/
-  lien_doi: https://bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bq_s11/
+  lien_cdsp: https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/cdsp_bq_s4/
+  lien_doi: https://bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bq_s4/
 - title: Dilapidation et prodigalité
   date: "1990-1995"
   authors:
