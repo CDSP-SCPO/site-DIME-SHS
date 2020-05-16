@@ -107,6 +107,18 @@
   source: Festival suisse des méthodes, Lausanne, CH, 2019-09-09/2019-09-10
   publication: null
   category: bequali
+- id: oai:spire.sciencespo.fr:2441/1k67gi8s6q86gqhbqub9kn6rs2
+  title: Enquête sur l'enquête "Avec ceux du FN (1995-2003)" de Daniel Bizeul:Avec
+    ceux du FN (1995-2003), de Daniel Bizeul
+  authors:
+    - Garcia, Guillaume
+  date: 2020-06
+  date_sort: 2020-06-01T00:00:00.000Z
+  url: https://spire.sciencespo.fr/hdl:/2441/1k67gi8s6q86gqhbqub9kn6rs2
+  type: Rapports
+  source: null
+  publication: null
+  category: bequali
 - id: oai:spire.sciencespo.fr:2441/1pf8bfqprc9is9mqkgjv9bqkg4
   title: Enquête sur l’enquête « La profession d’architecte » de Florent Champy
   authors:
@@ -794,6 +806,20 @@
   type: Communications orales
   source: Séminaire du Centre de recherches sociologiques et politiques de Paris
     (CRESPPA), Université Paris 8, FR, 2016-05-19/2016-05-19
+  publication: null
+  category: bequali
+- id: oai:spire.sciencespo.fr:2441/9j845sfdl90losalmgfgf9nba
+  title: Enquête sur l'enquête:Les infirmières et leur coordination (1988-1995),
+    de Danièle Kergoat (coord.), Françoise Imbert, Hélène Le Doaré et Danièle
+    Senotier
+  authors:
+    - Garcia, Guillaume
+    - Groshens, Emilie
+  date: 2020-06
+  date_sort: 2020-06-01T00:00:00.000Z
+  url: https://spire.sciencespo.fr/hdl:/2441/9j845sfdl90losalmgfgf9nba
+  type: Rapports
+  source: null
   publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/ad4eb6lh99qjba7ffu3m1ut9f
