@@ -125,7 +125,7 @@
     - Souanef, Karim
   date: 2017-05
   date_sort: 2017-05-01T00:00:00.000Z
-  url: http://bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bq_s3/
+  url: https://bequali.fr/media/surveys_unzip/unziped_cdsp_bq_s3/cdsp_bq_s3/ESE/cdsp_bq_s3_ese_rapport.pdf
   type: Rapports
   source: null
   publication: beQuali
@@ -164,7 +164,7 @@
     - Bendjaballah, Selma
   date: 2017-06
   date_sort: 2017-06-01T00:00:00.000Z
-  url: http://bequali.fr/media/surveys_unzip/unziped_cdsp_bq_s5/cdsp_bq_s5/ESE/cdsp_bq_s5_ese_rapport.pdf
+  url: https://bequali.fr/media/surveys_unzip/unziped_cdsp_bq_s5/cdsp_bq_s5/ESE/cdsp_bq_s5_ese_rapport.pdf
   type: Rapports
   source: null
   publication: beQuali
@@ -208,7 +208,7 @@
   url: http://www.bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bq_s6/
   type: Rapports
   source: null
-  publication: null
+  publication: CDSP (Sciences Po)
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/2pp44pdaje9l3q5rb0uaekduak
   title: La banque d'enquêtes qualitatives beQuali
@@ -670,7 +670,7 @@
   url: https://bequali.fr/fr/les-enquetes/lenquete-sur-lenquete/cdsp_bq_s12/
   type: Rapports
   source: null
-  publication: null
+  publication: CDSP (Sciences Po)
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/6pan0flqm19eho0j7cjuiec2cu
   title: Enquête sur l’enquête « L’Europe saisie par les rôles parlementaires » de
@@ -809,7 +809,7 @@
   publication: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/9j845sfdl90losalmgfgf9nba
-  title: Enquête sur l'enquête:Les infirmières et leur coordination (1988-1995),
+  title: Enquête sur l'enquête "Les infirmières et leur coordination (1988-1995)",
     de Danièle Kergoat (coord.), Françoise Imbert, Hélène Le Doaré et Danièle
     Senotier
   authors:
@@ -828,6 +828,7 @@
   authors:
     - Cadorel, Sarah
     - Groshens, Emilie
+    - Université de Lausanne (UNIL)
   date: 2018-11-23
   date_sort: 2018-11-23T00:00:00.000Z
   url: https://spire.sciencespo.fr/hdl:/2441/ad4eb6lh99qjba7ffu3m1ut9f
