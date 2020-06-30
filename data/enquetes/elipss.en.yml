@@ -276,6 +276,7 @@ items:
   authors:
   - Cécile Vigour
   - ELIPSS team
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2018.01.justirep/
 - title: Conception of the norms related to family solidarity between generations
   date: 2014
   authors:
@@ -285,13 +286,14 @@ items:
   - Marie Duru-Bellat
   - ELIPSS team
   lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/fr.cdsp.elipss.ddi.2014.02.soligene/
-- title: 	Parcel delivries and e-shopper mobilities
+- title: 	Package delivery and e-consumer mobility: characterisation of practices and flows
   date: 2016
   authors:
   - Anne Aguiléra
   - Leslie Belton-Chevallier
   - Nora Mareï
   - ELIPSS team
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2016.05.livmob/
 - title: Mobility and relation to space in the life cycle
   date: 2016
   authors:
@@ -453,3 +455,34 @@ items:
   authors:
   - Olivier Beaumais
   - TARIFEAU team
+- title: Work, Employment, Motivation, psychological Health and professional Orientation
+    date: 2018
+    authors:
+    - Florent Lheureux
+    - équipe TEMPO
+    - équipe ELIPSS
+    lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2018.11.tempo/
+- title: Media and Society facing Terrorism
+  date: 2019
+  authors:
+  - Pierre Lefébure
+  - Claire Sécail
+  - Anne Jadot
+  - équipe MEDIATERR
+  - équipe ELIPSS
+lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2019.01.mediaterr/
+- title: Knowledge and Perception of Demographic Issues (2018)
+  date: 2018
+  authors:
+  - Virginie De Luca Barrusse
+  - Cécile Lefèvre
+  - Jacques Véron
+  - équipe POP-AWARE
+  - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2018.10.popaware/
+- title: Variations of media framing of income inequality and their political effects
+  date: 2018
+  authors:
+  - Sonja Zmerli
+  - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2018.12.frameinequal/
