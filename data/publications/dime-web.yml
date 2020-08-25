@@ -191,6 +191,22 @@
   volume: "220"
   source: null
   category: dime-web
+- id: TETTBIMB
+  title: "Communication network analysis to advance mapping ‘sport for development
+    and peace’ complexity: Cohesion and leadership:"
+  authors:
+    - Herasimovich, Volha
+    - Alzua-Sorzabal, Aurkene
+  date: 2020-03-15
+  date_sort: 2020-03-15T00:00:00.000Z
+  url: https://journals.sagepub.com/doi/10.1177/1012690220909748
+  type: Articles
+  issue: ""
+  pages: ""
+  publication: International Review for the Sociology of Sport
+  volume: ""
+  source: null
+  category: dime-web
 - id: TSP33K88
   title: Les premiers pas d’un Internet quantique
   authors:
