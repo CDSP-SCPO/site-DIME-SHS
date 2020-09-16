@@ -1,5 +1,5 @@
 ---
-title:  REPORTE - Conférence de clôture DIME-SHS - 12 décembre 2019
+title:  REPORTÉ - Conférence de clôture DIME-SHS - 12 décembre 2019
 date:   2019-10-12T00:00:00
 ---
 
