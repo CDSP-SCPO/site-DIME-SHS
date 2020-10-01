@@ -360,20 +360,6 @@
   volume: "10"
   source: null
   category: elipss
-- id: I8EIYTCH
-  title: Boardgames and education
-  authors:
-    - Berry, Vincent
-  date: october 24-27, 2019
-  date_sort: 2027-10-24T00:00:00.000Z
-  url: ""
-  type: Communications orales
-  issue: null
-  pages: null
-  publication: null
-  volume: null
-  source: SpielMesse - Salon international du jeu
-  category: elipss
 - id: IXJ699E9
   title: "Building a probability-based online panel: Life in Australia"
   authors:
@@ -794,6 +780,20 @@
   volume: null
   source: "Panel des ménages-ONDH : Pertinence des données de Panels dans le suivi
     et l'évaluation des politiques publiques"
+  category: elipss
+- id: WJE7I4HN
+  title: Boardgames and education
+  authors:
+    - Berry, Vincent
+  date: october 24-27 2019
+  date_sort: 2027-10-24T00:00:00.000Z
+  url: ""
+  type: Communications orales
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: Spiel Messe
   category: elipss
 - id: WTAWNFUC
   title: L'effet candidat
