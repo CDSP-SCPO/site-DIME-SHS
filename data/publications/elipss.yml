@@ -511,25 +511,6 @@
   volume: ""
   source: 19th Swiss Transport Research Conference
   category: elipss
-- id: NPEHBD28
-  title: "L’enquête ELIPSSilice : passation en population générale d’un
-    questionnaire élaboré pour mesurer l’exposome minéral (projet SILICOSIS)"
-  authors:
-    - Cavalin, C.
-    - Rosental, P.A.
-    - Vincent, M.
-    - Olivier, M.
-    - Bonneterre, V.
-  date: 2015-01
-  date_sort: 2015-01-01T00:00:00.000Z
-  url: https://linkinghub.elsevier.com/retrieve/pii/S0761842514005269
-  type: Articles
-  issue: ""
-  pages: A155
-  publication: Revue des Maladies Respiratoires
-  volume: "32"
-  source: null
-  category: elipss
 - id: P33CH342
   title: "Résistances à l'impôt, attachement à l'État: enquête sur les
     contribuables français"
@@ -781,20 +762,6 @@
   source: "Panel des ménages-ONDH : Pertinence des données de Panels dans le suivi
     et l'évaluation des politiques publiques"
   category: elipss
-- id: WJE7I4HN
-  title: Boardgames and education
-  authors:
-    - Berry, Vincent
-  date: october 24-27 2019
-  date_sort: 2027-10-24T00:00:00.000Z
-  url: ""
-  type: Communications orales
-  issue: null
-  pages: null
-  publication: null
-  volume: null
-  source: Spiel Messe
-  category: elipss
 - id: WTAWNFUC
   title: L'effet candidat
   authors:
@@ -805,7 +772,7 @@
   url: https://halshs.archives-ouvertes.fr/halshs-01596315
   type: Parties d'ouvrages
   issue: null
-  pages: ""
+  pages: 965-1009
   publication: null
   volume: ""
   source: Bruylant
