@@ -456,12 +456,12 @@ items:
   - Olivier Beaumais
   - TARIFEAU team
 - title: Work, Employment, Motivation, psychological Health and professional Orientation
-    date: 2018
-    authors:
-    - Florent Lheureux
-    - équipe TEMPO
-    - équipe ELIPSS
-    lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2018.11.tempo/
+  date: 2018
+  authors:
+  - Florent Lheureux
+  - équipe TEMPO
+  - équipe ELIPSS
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2018.11.tempo/
 - title: Media and Society facing Terrorism
   date: 2019
   authors:
@@ -470,7 +470,7 @@ items:
   - Anne Jadot
   - équipe MEDIATERR
   - équipe ELIPSS
-lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2019.01.mediaterr/
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2019.01.mediaterr/
 - title: Knowledge and Perception of Demographic Issues (2018)
   date: 2018
   authors:
