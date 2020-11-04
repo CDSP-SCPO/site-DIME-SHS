@@ -68,10 +68,12 @@ items:
   - SIMON Michel
   lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/cdsp_bequali_sp5/
   lien_doi: https://bequali.fr/en/surveys/lenquete-sur-lenquete/cdsp_bequali_sp5/
-- title: With those of the FN. A sociologist at the Front National
+- title: With national fronters
   date: "1995-2017"
   authors:
   - BIZEUL Daniel
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/cdsp_bq_s11/
+  lien_doi: https://bequali.fr/en/enquetes/lenquete-en-bref/cdsp_bq_s11/
 - title: Comparison between the French and the German Ministries of Higher Education
   date: "1987-1990"
   authors:
