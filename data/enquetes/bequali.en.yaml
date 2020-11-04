@@ -78,38 +78,49 @@ items:
   - MUSSELIN Christine
   lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/cdsp_bq_s4/
   lien_doi: https://bequali.fr/en/surveys/lenquete-sur-lenquete/cdsp_bq_s4/
-- title: Dilapidation and prodigality
+- title: Squandering and Extravagance
   date: "1990-1995"
   authors:
   - GOTMAN Anne
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/cdsp_bq_s6/
+  lien_doi: https://bequali.fr/en/enquetes/lenquete-en-bref/cdsp_bq_s6/
 - title: Space and time of domestic work
   date: "1978-1981"
   authors:
   - CHABAUD-RYCHTER Danielle et FOUGEYROLLAS-SCHWEBEL Dominique
 - title: Territorial governance in Europe between convergence and capacity
-  date: "2012-2014"
+  date: "2012-2018"
   authors:
   - COLE Alistair (coord.)
   - DE VISSCHER Christian
   - HARGUINDÉGUY, PASQUIER Romain
   - STAFFORD Ian
-- title: Working conditions of pregnant women
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/cdsp_bequali_sp7/
+- title: The conditions of working life for pregnant women
   date: "1985-1988"
   authors:
   - DEVREUX Anne-Marie
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/cdsp_bq_s12/
+  lien_doi: https://bequali.fr/en/enquetes/lenquete-en-bref/cdsp_bq_s12/
 - title: Nurses and their coordination
-  date: "1988-1989"
+  date: "1988-1995"
   authors:
   - KERGOAT Danièle
-- title: Underground economic networks in the city of transit
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/cdsp_bq_s10/
+  lien_doi: https://bequali.fr/en/enquetes/lenquete-en-bref/cdsp_bq_s10/
+- title: Underground economic networks in temporary housing estates
   date: "1967-2014"
   authors:
   - LAÉ Jean-François
   - MURARD Numa
-- title: The hospitality
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/cdsp_bq_s7/
+  lien_doi: https://bequali.fr/en/enquetes/lenquete-en-bref/cdsp_bq_s7/
+- title: Hospitality
   date: "1995-2001"
   authors:
   - GOTMAN Anne
+  lien_cdsp: https://cdsp.sciences-po.fr/en/ressources-en-ligne/ressource/cdsp_bq_s9/
+  lien_doi: https://bequali.fr/en/enquetes/lenquete-en-bref/cdsp_bq_s9/
 - title: Operationalizing Programmatic Elites Research in America
   date: "2008-2012"
   authors:
