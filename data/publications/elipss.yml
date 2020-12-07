@@ -70,6 +70,22 @@
   volume: null
   source: null
   category: elipss
+- id: 6I4LZDWL
+  title: La différenciation des œuvres et des goûts dans la pratique des séries
+    télévisées
+  authors:
+    - Combes, Clément
+    - Glevarec, Hervé
+  date: 2020-12-03
+  date_sort: 2020-12-03T00:00:00.000Z
+  url: https://www.cairn.info/revue-europeenne-des-sciences-sociales-2020-2-page-119.htm
+  type: Articles
+  issue: "2"
+  pages: 119-157
+  publication: Revue europeenne des sciences sociales
+  volume: 58-2
+  source: null
+  category: elipss
 - id: 6L7YD6XL
   title: Dans l'œil du cyclone. La société française après un mois de confinement
   authors:
@@ -176,6 +192,24 @@
   volume: "9"
   source: null
   category: elipss
+- id: BC8EIQX2
+  title: Conversion écologique vs dépendance automobile. Une analyse des
+    dissonances entre attitudes environnementales et usages de l’automobile
+    auprès de ménages populaires en zone périurbaine et rurale
+  authors:
+    - Demoli, Yoann
+    - Sorin, Matéo
+    - Villaereal, Axel
+  date: "2020"
+  date_sort: 2020-01-01T00:00:00.000Z
+  url: https://www.cairn.info/revue-flux-2020-1-2-page-41.htm
+  type: Articles
+  issue: 1-2
+  pages: 41-58
+  publication: Flux
+  volume: 119-120
+  source: null
+  category: elipss
 - id: C5VUL5LK
   title: Women with Rheumatoidarthritis Have Higher Lifetime Professional and
     Non-Professional Exposure to Silica Dust Compared to French General
@@ -233,6 +267,37 @@
   source: "Colloque des 10 ans du CDSP : Des données et des services pour les
     sciences sociales"
   category: elipss
+- id: EQGF66GD
+  title: Connaissances artistiques des Français en 2018, approche exploratoire
+  authors:
+    - Jonchery, Anne
+    - Levy-Fayolle, Florence
+    - Berthomier, Nathalie
+    - Grandval, Agathe
+  date: "2020"
+  date_sort: 2020-01-01T00:00:00.000Z
+  url: https://www.cairn.info/revue-culture-etudes-2020-1-page-1.htm
+  type: Articles
+  issue: "1"
+  pages: 1-52
+  publication: Culture études
+  volume: "1"
+  source: null
+  category: elipss
+- id: F3GEADFS
+  title: "2. La confiance dans l’État : une relation pratique et symbolique"
+  authors:
+    - Spire, Alexis
+  date: "2020"
+  date_sort: 2020-01-01T00:00:00.000Z
+  url: https://www.cairn.info/crises-de-confiance--9782348065866-p-37.htm
+  type: Parties d'ouvrages
+  issue: null
+  pages: 37-55
+  publication: null
+  volume: ""
+  source: La Découverte
+  category: elipss
 - id: FL6MU9J3
   title: "ELIPSSilice : enquêter en population générale sur des maladies
     d'étiologie inconnue"
@@ -278,6 +343,25 @@
   publication: null
   volume: null
   source: Swiss Mobility Conference 2018
+  category: elipss
+- id: G6J65LA8
+  title: Médias et sociétés face au terrorisme. Premiers résultats du projet
+    MEDIATERR (panel ELIPSS)
+  authors:
+    - Sécail, Claire
+    - Truc, Gérôme
+    - Jadot, Anne
+    - Lefébure, Pierre
+    - Roche, Emilie
+  date: 2020-11
+  date_sort: 2020-11-01T00:00:00.000Z
+  url: https://hal.archives-ouvertes.fr/hal-03024117
+  type: Working papers
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: null
   category: elipss
 - id: GKE7Q5QR
   title: Distances et proximités dans les relations à l’Etat
@@ -377,6 +461,30 @@
   publication: CSRM Methods Series
   volume: ""
   source: null
+  category: elipss
+- id: J7ITXVQ7
+  title: La France confinée. Anciennes et nouvelles inégalités
+  authors:
+    - Safi, Mirna
+    - Coulangeon, Philippe
+    - Ferragina, Emanuele
+    - Godechot, Olivier
+    - Helmeid, Emily
+    - Pauly, Stefan
+    - Recchi, Ettore
+    - Sauger, Nicolas
+    - Schradie, Jen
+    - Tittel, Katharina
+    - Zola, Andrew
+  date: "2020"
+  date_sort: 2020-01-01T00:00:00.000Z
+  url: https://www.cairn.info/le-monde-d-aujourd-hui--9782724626704-p-93.htm
+  type: Parties d'ouvrages
+  issue: null
+  pages: 93-116
+  publication: null
+  volume: ""
+  source: Presses de Sciences Po
   category: elipss
 - id: JB5Q7E5D
   title: Associations évoquées par le changement climatique chez des citoyens
