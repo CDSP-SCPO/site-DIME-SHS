@@ -1,3 +1,20 @@
+- id: 7WIF35C3
+  title: Visual Network Exploration for Data Journalists
+  authors:
+    - Venturini, Tommaso
+    - Jacomy, Mathieu
+    - Bounegru, Liliana
+    - Gray, Jonathan
+  date: 2017-07-12
+  date_sort: 2017-07-12T00:00:00.000Z
+  url: https://papers.ssrn.com/abstract=3043912
+  type: Rapports
+  issue: null
+  pages: ""
+  publication: null
+  volume: null
+  source: Rochester, NY
+  category: other
 - id: 93HUXVBB
   title: "Les rapports des citoyens à la justice : expériences et représentations"
   authors:
@@ -48,6 +65,22 @@
   volume: ""
   source: SAGE Publications Ltd
   category: other
+- id: FMSG57NN
+  title: "Mapping YouTube: A quantitative exploration of a platformed media system"
+  authors:
+    - Rieder, Bernhard
+    - Coromina, Oscar
+    - Matamoros-Fernandez, Ariadna
+  date: 2020-08-03
+  date_sort: 2020-08-03T00:00:00.000Z
+  url: https://eprints.qut.edu.au/202962/
+  type: Articles
+  issue: "8"
+  pages: "Article number: 10667"
+  publication: First Monday
+  volume: "25"
+  source: null
+  category: other
 - id: FVU8FFFB
   title: Entre informatique et sémiotique
   authors:
@@ -76,6 +109,21 @@
   publication: Questions de communication
   volume: ""
   source: null
+  category: other
+- id: M5R89C9V
+  title: "Design and Digital Interaction: Re:Research, Volume 7"
+  authors:
+    - Muratovski, Gjoko
+    - Vogel, Craig
+  date: 2019-07-10
+  date_sort: 2019-07-10T00:00:00.000Z
+  url: ""
+  type: Ouvrages
+  issue: null
+  pages: null
+  publication: null
+  volume: ""
+  source: Intellect Books
   category: other
 - id: M68XEJBJ
   title: Les approches quantitatives

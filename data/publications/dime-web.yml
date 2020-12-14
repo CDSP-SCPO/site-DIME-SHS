@@ -1,3 +1,20 @@
+- id: 2G5XEWX9
+  title: "Paul Otlet sur le web : une étude cartographique"
+  authors:
+    - Deuff, Olivier Le
+    - David, Jean
+    - Borel, Clément
+    - Perret, Arthur
+  date: 2019-10-16
+  date_sort: 2019-10-16T00:00:00.000Z
+  url: https://archivesic.ccsd.cnrs.fr/sic_02480493
+  type: Communications avec actes
+  issue: null
+  pages: ""
+  publication: null
+  volume: ""
+  source: H2PTM’19. De l’hypertexte aux humanités numériques
+  category: dime-web
 - id: 3DIBYB48
   title: "L’EMI en partage : essai de cartographie des acteurs"
   authors:
@@ -15,6 +32,24 @@
   source: 10e Congrès des Enseignants Documentalistes de l'Education Nationale
     "Enseigner-apprendre l'information-documentation"
   category: dime-web
+- id: 44PDEBH6
+  title: "The Rhythms of the Night: increase in online night activity and
+    emotional resilience during the Spring 2020 Covid-19 lockdown"
+  authors:
+    - Castaldo, Maria
+    - Venturini, Tommaso
+    - Frasca, Paolo
+    - Gargiulo, Floriana
+  date: 2020-11-30
+  date_sort: 2020-11-30T00:00:00.000Z
+  url: http://arxiv.org/abs/2007.09353
+  type: Articles
+  issue: ""
+  pages: ""
+  publication: arXiv:2007.09353 [physics]
+  volume: ""
+  source: null
+  category: dime-web
 - id: 4Q37XPLN
   title: Mining with Hyphe
   authors:
@@ -28,6 +63,22 @@
   publication: null
   volume: null
   source: ETHOS Lab
+  category: dime-web
+- id: 5EY7YIAP
+  title: Les « antivaccins », figure de l’anti-Science
+  authors:
+    - Ward, Jeremy K.
+    - Guille-Escuret, Paul
+    - Alapetite, Clément
+  date: 2019-07-03
+  date_sort: 2019-07-03T00:00:00.000Z
+  url: https://www.cairn.info/revue-deviance-et-societe-2019-2-page-221.htm
+  type: Articles
+  issue: "2"
+  pages: 221-251
+  publication: Deviance et Societe
+  volume: Vol. 43
+  source: null
   category: dime-web
 - id: 5R7GVMR7
   title: Vers l'interopérabilité des données hétérogènes liées au patrimoine
@@ -128,6 +179,59 @@
   volume: VI
   source: null
   category: dime-web
+- id: GQWCX4SX
+  title: "A Field Guide to Fake News: A Collection of Recipes for Those Who Love
+    to Cook with Digital Methods (Chapters 1-3)"
+  authors:
+    - Bounegru, Liliana
+    - Gray, Jonathan
+    - Venturini, Tommaso
+    - Mauri, Michele
+  date: 2017-04-07
+  date_sort: 2017-04-07T00:00:00.000Z
+  url: https://papers.ssrn.com/abstract=3024202
+  type: Rapports
+  issue: null
+  pages: ""
+  publication: null
+  volume: null
+  source: Rochester, NY
+  category: dime-web
+- id: GUEBZLYK
+  title: Cartographier la propagation des contenus russes et chinois sur le Web
+    africain francophone
+  authors:
+    - Douzet, Frédérick
+    - Limonier, Kévin
+    - Mihoubi, Selma
+    - René, Élodie
+  date: 2020-06-17
+  date_sort: 2020-06-17T00:00:00.000Z
+  url: https://www.cairn.info/journal-herodote-2020-2-page-77.htm
+  type: Articles
+  issue: "2"
+  pages: 77-99
+  publication: Herodote
+  volume: N° 177-178
+  source: null
+  category: dime-web
+- id: HI9GFHED
+  title: "The Challenges of Hydropower Development in Nepal: An actor-network
+    analysis on power positions and interests in the light of sustainability -
+    Project Library, Aalborg University"
+  authors:
+    - Norbu Losang, Tenzin Jamyang
+    - Nielsen-Hannerup, Jeppe
+  date: 2018-06-01
+  date_sort: 2018-06-01T00:00:00.000Z
+  url: https://projekter.aau.dk/projekter/en/studentthesis/the-challenges-of-hydropower-development-in-nepal-an-actornetwork-analysis-on-power-positions-and-interests-in-the-light-of-sustainability(b1db184c-44a5-4291-897a-cb637d22d33e).html
+  type: Rapports
+  issue: null
+  pages: "95"
+  publication: null
+  volume: null
+  source: null
+  category: dime-web
 - id: IHQTEBAI
   title: Nous et les autres. L’altérité sur les sites web des extrêmes droites en
     France
@@ -157,6 +261,49 @@
   publication: Journal of Peer Production
   volume: ""
   source: null
+  category: dime-web
+- id: KULBTDNM
+  title: Diffusion de l’information russe en Afrique. Essai de cartographie générale
+  authors:
+    - Limonier, Kevin
+  date: 2018-11-13
+  date_sort: 2018-11-13T00:00:00.000Z
+  url: https://www.irsem.fr/institut/actualites/note-de-recherche-n-66-2018.html
+  type: Rapports
+  issue: null
+  pages: "21"
+  publication: null
+  volume: null
+  source: null
+  category: dime-web
+- id: MR6CJ2E4
+  title: Mapping Communication Design through the Web
+  authors:
+    - De Rossi, Giulia
+    - Ciuccarelli, Paolo
+  date: 2019-07-10
+  date_sort: 2019-07-10T00:00:00.000Z
+  url: https://www.intellectbooks.com/design-and-digital-interaction
+  type: Parties d'ouvrages
+  issue: null
+  pages: ""
+  publication: null
+  volume: "7"
+  source: Intellect Books
+  category: dime-web
+- id: NXPCSPG6
+  title: Smart city and e-governance in India, mapping a new urban landscape
+  authors:
+    - Leclerc, Eric
+  date: 2018-03
+  date_sort: 2018-03-01T00:00:00.000Z
+  url: https://hal.archives-ouvertes.fr/hal-01854352
+  type: Communications avec actes
+  issue: null
+  pages: ""
+  publication: null
+  volume: ""
+  source: CIST
   category: dime-web
 - id: PIJTAVEM
   title: Plongée au cœur du Web
@@ -235,6 +382,41 @@
   publication: null
   volume: null
   source: null
+  category: dime-web
+- id: USG5UF4X
+  title: "Cooking with Controversies: How Geographers Might Use Controversy
+    Mapping as a Research Tool"
+  authors:
+    - Lepawsky, Josh
+    - Davis, John-Michael
+    - Akese, Grace
+    - Persaud, Donny
+  date: 2019-07-03
+  date_sort: 2019-07-03T00:00:00.000Z
+  url: https://doi.org/10.1080/00330124.2018.1531243
+  type: Articles
+  issue: "3"
+  pages: 437-448
+  publication: The Professional Geographer
+  volume: "71"
+  source: null
+  category: dime-web
+- id: VNEIRA2U
+  title: Analyser la structure de dispositifs numériques de mise à disposition de
+    données géographiques sur le Web
+  authors:
+    - Desbonnet, Johan
+    - Gourmelon, Françoise
+    - Claramunt, Christophe
+  date: "2018"
+  date_sort: 2018-01-01T00:00:00.000Z
+  url: https://halshs.archives-ouvertes.fr/halshs-02320468
+  type: Communications avec actes
+  issue: null
+  pages: ""
+  publication: null
+  volume: ""
+  source: SAGEO 2018
   category: dime-web
 - id: VQP36VGJ
   title: "Dépasser la liste : quand la bibliothèque entre dans la danse des corpus
@@ -325,6 +507,21 @@
     gitana en el Estado español. Un encuentro entre investigadores, responsables
     políticos y tercer sector
   category: dime-web
+- id: YPCSMNHL
+  title: "Les communautés web francophones: le cas de J.R.R. Tolkien"
+  authors:
+    - Coureau, Gaël
+    - Oury, Clément
+  date: "2015"
+  date_sort: 2015-01-01T00:00:00.000Z
+  url: https://www.enssib.fr/bibliotheque-numerique/documents/66033-les-communautes-web-francophones-le-cas-de-j-r-r-tolkien.pdf
+  type: Thèses et mémoires
+  issue: null
+  pages: null
+  publication: null
+  volume: null
+  source: Lieu de publication inconnu
+  category: dime-web
 - id: YVPJ5WGK
   title: "Mapping Wind Energy Controversies Online: Introduction to Methods and
     Datasets"
@@ -339,6 +536,21 @@
   publication: null
   volume: null
   source: Rochester, NY
+  category: dime-web
+- id: Z453C9UN
+  title: "Genanvendt: Et kritisk tilbageblik på digitale metoders konsekvenser for
+    kontroverskortlægningen"
+  authors:
+    - Munk, Anders Kristian
+  date: 2018-04-05
+  date_sort: 2018-04-05T00:00:00.000Z
+  url: https://rauli.cbs.dk/index.php/dansksociologi/article/view/5722
+  type: Articles
+  issue: "1"
+  pages: 15-35
+  publication: Dansk Sociologi
+  volume: "29"
+  source: null
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/10ctml1egq89ro59upjajbj74n
   title: Designing Digital Methods to monitor and inform Urban Policy.:The case of
@@ -481,6 +693,21 @@
   type: Communications orales
   source: null
   publication: null
+  category: dime-web
+- id: oai:spire.sciencespo.fr:2441/2qstn4hntb9899i33dp4dn3hrs
+  title: Visual Network Exploration for Data Journalists
+  authors:
+    - Venturini, Tommaso
+    - Jacomy, Mathieu
+    - Bounegru, Liliana
+    - Gray, Jonathan
+  date: 2018-08
+  date_sort: 2018-08-01T00:00:00.000Z
+  url: https://spire.sciencespo.fr/hdl:/2441/2qstn4hntb9899i33dp4dn3hrs
+  type: Parties d'ouvrages
+  source: "The Routledge Handbook to Developments in Digital Journalism Studies,
+    Abingdon: Routledge"
+  publication: Routledge
   category: dime-web
 - id: oai:spire.sciencespo.fr:2441/2solvroumm9kgpsu49vb8pphju
   title: Explorer associations et transformations à travers des datascapes
