@@ -262,6 +262,23 @@
   volume: ""
   source: null
   category: dime-web
+- id: KJV6ZX2J
+  title: "“I’m not an antivaxxer, but…”: Spurious and authentic diversity among
+    vaccine critical activists"
+  authors:
+    - Cafiero, Florian
+    - Guille-Escuret, Paul
+    - Ward, Jeremy K.
+  date: 2021-05-01
+  date_sort: 2021-05-01T00:00:00.000Z
+  url: http://www.sciencedirect.com/science/article/pii/S0378873320300964
+  type: Articles
+  issue: ""
+  pages: 63-70
+  publication: Social Networks
+  volume: "65"
+  source: null
+  category: dime-web
 - id: KULBTDNM
   title: Diffusion de l’information russe en Afrique. Essai de cartographie générale
   authors:
