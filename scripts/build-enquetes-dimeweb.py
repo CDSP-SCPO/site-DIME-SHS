@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import csv
 
 def print_project(p, lang, f):
@@ -17,11 +18,11 @@ def print_project(p, lang, f):
         print("  lien_web: %s" % p["lien_web"], file=f)
 
 
-with open("dime-web.csv") as f:
+with open("data/dime-web.csv") as f:
     projects = list(csv.DictReader(f))
 
 
-with open("dime-web.fr.yml", "w") as fr, open("dime-web.en.yml", "w") as en:
+with open("data/enquetes/dime-web.fr.yml", "w") as fr, open("data/enquetes/dime-web.en.yml", "w") as en:
     print("title: Projets accompagnés par Dime Web", file=fr)
     print("title: Projects supported by Dime Web", file=en)
     print("items:", file=fr)
