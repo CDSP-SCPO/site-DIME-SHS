@@ -15,10 +15,11 @@ def print_project(p, lang, f):
     for a in p["authors"].split("\n"):
         print("  - %s" % a.strip(), file=f)
     if p["lien_web"]:
-        print("  lien_web: %s" % p["lien_web"], file=f)
+        link = p["lien_web"].split("\n")[0 if lang == "fr" else -1]
+        print("  lien_web: %s" % link, file=f)
 
 
-with open("data/dime-web.csv") as f:
+with open("resources/enquetes-dime-web.csv") as f:
     projects = list(csv.DictReader(f))
 
 
