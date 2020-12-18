@@ -46,6 +46,8 @@ other = "logiciels"
 other = "Présentation de l’enquête"
 [survey_view_doi]
 other = "L’enquête sur l'enquête"
+[survey_view_web]
+other = "En ligne"
 
 [view_tool]
 other = "Consulter l'outil"

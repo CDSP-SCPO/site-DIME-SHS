@@ -26,7 +26,10 @@
       {{- with .lien_doi -}}
         <li><a href="{{ . }}" target="_blank">{{ i18n "survey_view_doi" }}</a></li>
       {{- end -}}
-      {{- if and (not .lien_cdsp) (not .lien_doi) -}}
+      {{- with .lien_web -}}
+        <li><a href="{{ . }}" target="_blank">{{ i18n "survey_view_web" }}</a></li>
+      {{- end -}}
+      {{- if and (not .lien_cdsp) (not .lien_doi) (not .lien_web) -}}
       <li>{{ i18n "to_be_released" }}</li>
       {{- end -}}
       </ul>

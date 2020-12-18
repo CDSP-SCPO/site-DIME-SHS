@@ -47,6 +47,8 @@ other = "softwares"
 other = "Survey presentation"
 [survey_view_doi]
 other = "Investigation on the survey"
+[survey_view_web]
+other = "On the web"
 
 [view_tool]
 other = "View tool"
