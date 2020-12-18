@@ -25,7 +25,7 @@ with open("resources/enquetes-dime-web.csv") as f:
 
 with open("data/enquetes/dime-web.fr.yml", "w") as fr, open("data/enquetes/dime-web.en.yml", "w") as en:
     print("title: Projets accompagnés par Dime Web", file=fr)
-    print("title: Projects supported by Dime Web", file=en)
+    print("title: Dime Web's Supported Projects", file=en)
     print("items:", file=fr)
     print("items:", file=en)
     for p in projects:
