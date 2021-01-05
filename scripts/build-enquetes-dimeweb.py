@@ -9,7 +9,7 @@ def print_project(p, lang, f):
         else:
             title += " : "
         title += p["description_%s" % lang]
-    print("- title: \"%s\"" % title, file=f)
+    print("- title: \"%s\"" % title.replace('"', '\\"'), file=f)
     print("  date: %s" % p["date"], file=f)
     print("  authors:", file=f)
     for a in p["authors"].split("\n"):
