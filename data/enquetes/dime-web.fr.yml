@@ -81,58 +81,70 @@ pour tous » dans les commentaires sur lemonde.fr"
   - Didier Bigo
   - Félix Tréguer
   - Médéric Martin-Mazé
+  - Tommaso Venturini
   lien_web: http://web.archive.org/web/20200314092909/http://societalsecurity.net/
-- title: "SoWell"
+- title: "SoWell : Mise en place d’un laboratoire d’expérimentation en ligne sur la confiance et le bien-être du point de vue de l’économie"
   date: 2015-2017
   authors:
   - Yann Algan
   - Elizabeth Beasley
   lien_web: http://www.erc-sowell.com/
-- title: "Privacy"
+- title: "Privacy : Analyse des acteurs concernés par les questions de « vie privée » sur le web."
   date: 2015-2018
   authors:
   - Maxime Crépel
   - Dominique Boullier
+  - Marcin Detyniecki
   lien_web: https://medialab.github.io/privacy/
-- title: "NaturPradi : Relations entre plateformes numériques de la ville de Paris et végétalisation de la ville"
-  date: 2015-2018
-  authors:
-  - Donato Ricci
-  - Axel Meunier
-  - Gabriele Colombo
-  - Agata Brilli
-  lien_web: https://www.academia.edu/33729733/Digital_Methods_for_Public_Policy_Designing_Digital_Methods_to_monitor_and_inform_Urban_Policy_The_case_of_Paris_and_its_Urban_Nature_initiative
 - title: "CartoPol : Cartographie des laboratoires de sciences politiques français"
-  date: 2016
+  date: 2016-2017
   authors:
   - Michaël Goudoux
   - Charlotte Dolez
   - Sarah Vincourt
   - Faustin Armel Youbi
   lien_web: https://cartosciencepolitique.sciencespo.fr/#/fr
-- title: "Elections 2017 bib"
+- title: "Elections2017 : Cartographie web de l’activité et de la mobilisation des différents acteurs de l’élection présidentielle française de 2017"
   date: 2016-2017
   authors:
   - Cynthia Pedroja
+  - Anita Beldiman-Moore
+  - Anne L’Hôte
+  - Laurent Bajon
+  - Myriam Tazi
+  - Zohra Mechri
+  - Meryam Maizi
+  - Diégo Antolinos-Basso
+  - Odile Gaultier-Voituriez
+  - Thierry Vedel
   lien_web: http://corpusweb.sciencespo.fr/#/en/election-presidentielle-2017/view/grid
-- title: "RISCOVAC"
+- title: "RiscoVac : Risques, Controverses et Vaccinations : étude des comportements de vaccination contemporains en les replaçant dans le cadre des mobilisations et controverses contemporaines"
   date: 2016-2017
   authors:
   - Jeremy Ward
   - Paul Guille-Escuret
-- title: "COMINGGEN"
+  - Florian Cafiero
+  lien_web: https://anr.fr/Projet-ANR-15-CE36-0008
+- title: "NaturPradi : Étude des relations entre plateformes numériques de la ville de Paris et végétalisation de la ville"
+  date: 2017-2019
+  authors:
+  - Donato Ricci
+  - Axel Meunier
+  - Gabriele Colombo
+  - Agata Brilli
+  - Julien Blanc
+  - Alessia De Biase
+  - Ornella Zaza
+  - Sarah André
+  lien_web: https://www.academia.edu/33729733/Digital_Methods_for_Public_Policy_Designing_Digital_Methods_to_monitor_and_inform_Urban_Policy_The_case_of_Paris_and_its_Urban_Nature_initiative
+- title: "ComIngGen : La mesure de l'opinion publique à l'aide des outils numériques. Le cas des choix scientifiques et technologiques appliqués aux biotechnologies"
   date: 2018-2019
   authors:
   - Virginie Tournay
   - Guillaume Levrier
-- title: "PERSEVAC-POLARIVAX"
-  date: 2018-2020
-  authors:
-  - Jeremy Ward
-  - Florian Cafiero
-  - Paul Guille-Escuret
-- title: "POLARISATION"
-  date: 2019
+  lien_web: https://anr.fr/Projet-ANR-18-CE38-0007
+- title: "Polarisation : Une polarisation des médias "à la française" ? Comparaison des écosystèmes français et américain"
+  date: 2018-2019
   authors:
   - Ethan Zuckerman
   - Théophile Lenoir
@@ -140,9 +152,15 @@ pour tous » dans les commentaires sur lemonde.fr"
   - Dominique Cardon
   - Jean-Philippe Cointet
   lien_web: https://www.institutmontaigne.org/publications/media-polarization-la-francaise
-- title: "MEDIATERR"
-  date: 2019-2020
+- title: "MediaTerr : Sensibilité au traitement télévisuel du terrorisme"
+  date: 2018-2019
   authors:
   - Claire Sécail
   - Pierre Lefébure
   - Anne Jadot
+- title: "PerseVac-PolariVax : Perception de la Sécurité des Vaccins : attitudes des Français à l'égard de la vaccination - impact du niveau socioéconomique et des sources d'information"
+  date: 2018-2020
+  authors:
+  - Jeremy Ward
+  - Florian Cafiero
+  - Paul Guille-Escuret
