@@ -6,7 +6,7 @@ BeQuali a participé en octobre 2019 à l'organisation et à l'animation de l’
 
 Cette formation, co-financée par l'InSHS du CNRS, la TGIR PROGEDO, le réseau métier MATE-SHS, et soutenue par le CDSP, a mobilisé du 6 au 11 octobre 38 stagiaires et 13 formateurs. Deux membres de l'équipe de beQuali, impliqués dans le comité de pilotage de cette ANF, ont pris en charge l'animation de quatres modules de formation consacrés aux dispositifs de réanalyse.
 
-Les données de l’enquête [« De l’Afrique à la France, d’une génération à l’autre » (coordonnée par Jacques Barou)](doi:10.21410/dshs_2016/V2XWWP) mise à disposition par beQuali ont servi de fil rouge pour le suivi des exemples pris dans les différentes sessions d’ateliers, mettant ainsi au coeur de la formation la production de Dime-SHS.
+Les données de l’enquête [« De l’Afrique à la France, d’une génération à l’autre » (coordonnée par Jacques Barou)](https://doi.org/10.21410/dshs_2016/V2XWWP) mise à disposition par beQuali ont servi de fil rouge pour le suivi des exemples pris dans les différentes sessions d’ateliers, mettant ainsi au coeur de la formation la production de Dime-SHS.
 
 <!--more-->
 
