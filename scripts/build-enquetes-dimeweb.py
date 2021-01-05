@@ -17,6 +17,8 @@ def print_project(p, lang, f):
     if p["lien_web"]:
         link = p["lien_web"].split("\n")[0 if lang == "fr" else -1]
         print("  lien_web: %s" % link, file=f)
+    else:
+        print("  no_lien: true", file=f)
 
 
 with open("resources/enquetes-dime-web.csv") as f:

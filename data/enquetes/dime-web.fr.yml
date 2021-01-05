@@ -27,6 +27,7 @@ pour tous » dans les commentaires sur lemonde.fr"
   - Eric Dagiral
   - Olivier Martin
   - François de Singly
+  no_lien: true
 - title: "HateWeb : Représenter l’espace des mobilisations islamophobes en Italie : structures, évolutions et magistères intellectuels"
   date: 2014-2016
   authors:
@@ -39,6 +40,7 @@ pour tous » dans les commentaires sur lemonde.fr"
   - Christophe Giraud
   - Nelly Quemener
   - Eric Dagiral
+  no_lien: true
 - title: "EuCellEx : Cartographie du web et analyse scientométrique de la communauté des Stem Cells"
   date: 2014-2016
   authors:
@@ -51,6 +53,7 @@ pour tous » dans les commentaires sur lemonde.fr"
   authors:
   - Patrick Le Galès
   - Gilles Pinson
+  no_lien: true
 - title: "ClimateNegotiationBrowser : Naviguer à travers 20 ans de compte-rendus des conférences annuelles autour des négociations climatiques internationales"
   date: 2015
   authors:
@@ -158,9 +161,11 @@ pour tous » dans les commentaires sur lemonde.fr"
   - Claire Sécail
   - Pierre Lefébure
   - Anne Jadot
+  no_lien: true
 - title: "PerseVac-PolariVax : Perception de la Sécurité des Vaccins : attitudes des Français à l'égard de la vaccination - impact du niveau socioéconomique et des sources d'information"
   date: 2018-2020
   authors:
   - Jeremy Ward
   - Florian Cafiero
   - Paul Guille-Escuret
+  no_lien: true

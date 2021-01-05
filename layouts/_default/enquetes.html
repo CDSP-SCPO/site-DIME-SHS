@@ -29,7 +29,7 @@
       {{- with .lien_web -}}
         <li><a href="{{ . }}" target="_blank">{{ i18n "survey_view_web" }}</a></li>
       {{- end -}}
-      {{- if and (not .lien_cdsp) (not .lien_doi) (not .lien_web) -}}
+      {{- if and (not .lien_cdsp) (not .lien_doi) (not .lien_web) (not .no_lien) -}}
       <li>{{ i18n "to_be_released" }}</li>
       {{- end -}}
       </ul>

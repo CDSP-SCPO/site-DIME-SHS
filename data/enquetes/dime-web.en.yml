@@ -26,6 +26,7 @@ items:
   - Eric Dagiral
   - Olivier Martin
   - François de Singly
+  no_lien: true
 - title: "HateWeb: Representing the landscape of islamophobic expression in Italy: structure, evolution, and intellectual leaders"
   date: 2014-2016
   authors:
@@ -38,6 +39,7 @@ items:
   - Christophe Giraud
   - Nelly Quemener
   - Eric Dagiral
+  no_lien: true
 - title: "EuCellEx: Web-based Big Data analytics for dynamic public opinion mapping in digital networks on contested biotechnology fields"
   date: 2014-2016
   authors:
@@ -50,6 +52,7 @@ items:
   authors:
   - Patrick Le Galès
   - Gilles Pinson
+  no_lien: true
 - title: "ClimateNegotiationBrowser: Navigate over 20 years of United Nations climate negotiations as captured by the Earth Negotiations Bulletin."
   date: 2015
   authors:
@@ -157,9 +160,11 @@ items:
   - Claire Sécail
   - Pierre Lefébure
   - Anne Jadot
+  no_lien: true
 - title: "PerseVac-PolariVax: Perception on vaccines security: French behaviors towards vaccination - impact of socioeconomic level and information sources"
   date: 2018-2020
   authors:
   - Jeremy Ward
   - Florian Cafiero
   - Paul Guille-Escuret
+  no_lien: true
