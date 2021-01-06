@@ -28,6 +28,23 @@
   volume: null
   source: Paris
   category: bequali
+- id: EIJG24JF
+  title: Apports de la lexicométrie à l’analyse des entretiens. Le cas de
+    l’enquête « Les Français et la politique ». Avec une note d’Etienne
+    Schweisguth et une réponse de l’auteur.
+  authors:
+    - Labbé, Dominique
+  date: 2018-09
+  date_sort: 2018-09-01T00:00:00.000Z
+  url: halshs-01883952
+  type: Communications avec actes
+  issue: null
+  pages: ""
+  publication: null
+  volume: ""
+  source: Des instruments au service de la rechrche en sciences sociales, DIME-SHS
+    (Science-Po),
+  category: bequali
 - id: HQFYNCIP
   title: "Inventaire et collecte des données qualitatives : comment les chercheurs
     (se dé-)font (de) leurs enquêtes ?"
@@ -61,6 +78,21 @@
   volume: Hors-série "Les Actes"
   source: null
   category: bequali
+- id: QI347VWP
+  title: Assemblée nationale, Bundestag and the European Union. The
+    Micro-Sociological Causes of the European Integration Paradox
+  authors:
+    - Thomas, Anja
+  date: "2019"
+  date_sort: 2019-01-01T00:00:00.000Z
+  url: ""
+  type: Ouvrages
+  issue: null
+  pages: null
+  publication: null
+  volume: ""
+  source: NOMOS
+  category: bequali
 - id: TFQ4JY54
   title: "Types idéologiques et classe résiduelle dans l'enquête d'Etienne
     Schweisguth : les Français et la politique, 1982-1988. Réanalyse à partir de
@@ -77,6 +109,37 @@
   pages: 29-53
   publication: La réanalyse des enquêtes qualitatives à l'épreuve de l'expérimentation
   volume: Hors-série "Les Actes"
+  source: null
+  category: bequali
+- id: VV6VR2JC
+  title: "‘Domesticating’ and Differentiating the European Union: Parliamentary EU
+    experts in the Assemblée Nationale and the Bundestag"
+  authors:
+    - Thomas, Anja
+  date: "2020"
+  date_sort: 2020-01-01T00:00:00.000Z
+  url: https://www.cairn.info/revue-politique-europeenne-2020-1-page-158.htm?ref=doi
+  type: Articles
+  issue: 1-2
+  pages: 158-186
+  publication: Politique européenne
+  volume: 67-68
+  source: null
+  category: bequali
+- id: ZVF98FHG
+  title: "Inquiry on territorial governance in Brittany and Wales: reanalysis of
+    qualitative data by using CAQDAS in a comparative setting"
+  authors:
+    - Cole, Alistair
+    - Rioufreyt, Thibaut
+  date: 2020-07
+  date_sort: 2020-07-01T00:00:00.000Z
+  url: ""
+  type: Articles
+  issue: ""
+  pages: ""
+  publication: Qualitative Research
+  volume: ""
   source: null
   category: bequali
 - id: oai:spire.sciencespo.fr:2441/11td61c8t898gqv8qd7qe10515
