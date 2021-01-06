@@ -16,6 +16,8 @@ L’instrument Dime Web était une équipe de un à trois ingénieurs, pilotée 
 [Consulter le site de Dime Web](http://dimeweb.dime-shs.sciences-po.fr/)
 {{< /sidebar >}}
 
+<img src="/img/instruments/frisechrono-dimeWeb.png" alt="Poster bilan de Dime Web" class="full-bleed">
+
 # Objectifs
 Dime Web visait à équiper le monde des Sciences Humaines et Sociales pour exploiter les traces numériques laissées sur le web. L’instrument s’adressait à différents publics avec différents types d’approches et temporalités : conseil dans le choix et l’usage de méthodes numériques, identification de sources disponibles sur la toile, développement intégral d’outils génériques libres et open source largement réutilisables, formations pédagogiques ou académiques, appui méthodologique, soutien ponctuel l’espace d’un atelier d’une après-midi, accompagnement tout au long d’un projet de recherche sur plusieurs années, etc.
 
@@ -50,9 +52,9 @@ Les outils de Dime Web et notamment [Hyphe](http://hyphe.medialab.sciences-po.fr
 
 La plupart des outils étant libres et open source, ils sont régulièrement utilisés, téléchargés et installés comme à UCLA (USA), King’s College (Royaume Uni), Aalborg University et ITU (Danemark), UNIL (Suisse), FMSH, EHESS, TGIR HumaNum, Universités de Lille 3, Rennes 2, Paris Nanterre, Paris Descartes et Paris-Est Marne La Vallée (France). S’ajoutent également plusieurs cas d’usage de Hyphe par des chercheurs isolés ou mêmes des acteurs hors du cadre académique : un chercheur allemand a par exemple publié dans une conférence une analyse de l’extrême droite dans son pays utilisant Hyphe, les activistes d’Utopies Concrètes ont réalisé une cartographie du monde associatif, une analyse des fake news avec Hyphe par un journaliste américain a été repérée sur Medium, etc.
 
-<img src="/img/instruments/poster-dimeWeb.png" alt="Poster bilan de Dime Web" class="full-bleed">
+<img src="/img/instruments/realisations-dimeWeb.png" alt="Poster bilan de Dime Web" class="full-bleed">
 
-# Pérennisation au-delà de l’Equipex
+# Pérennisation
 Le succès des différents [outils développés par l’équipe Dime Web](https://dime-shs.sciencespo.fr/productions/outils/) auprès de communautés tant académiques que pédagogiques a permis d’identifier le besoin de pérenniser ceux-ci en leur assurant une vie au-delà de l’Equipex DIME-SHS et ainsi permettre à d’autres futurs projets de pouvoir les utiliser sans nécessairement bénéficier d’un accompagnement privilégié. Suivant [la recommandation du rapport de l’ANR](https://dime-shs.sciencespo.fr/projet/bilan/#évaluation-de-l-équipement), l’équipe web a donc concentré ses efforts lors des dernières années du projet sur la maintenance, la consolidation et la documentation du catalogue d’outils et méthodes open source afin de leur assurer une vie au-delà de l’Equipex.
 
 Pour un certain nombre des outils développés, et notamment les plus légers d’entre eux directement utilisables en ligne via une interface web, le développement et la publication en Open Source ont permis d’assurer une telle pérennisation par la seule préparation et rédaction de documentation des usages.
