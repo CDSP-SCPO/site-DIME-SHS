@@ -16,7 +16,7 @@ L’instrument Dime Web était une équipe de un à trois ingénieurs, pilotée 
 [Consulter le site de Dime Web](http://dimeweb.dime-shs.sciences-po.fr/)
 {{< /sidebar >}}
 
-<img src="/img/instruments/frisechrono-dimeWeb.png" alt="Poster bilan de Dime Web" class="full-bleed">
+<img src="/img/instruments/frisechrono-dimeWeb.png" alt="Frise chronologique Dime Web" class="full-bleed">
 
 # Objectifs
 Dime Web visait à équiper le monde des Sciences Humaines et Sociales pour exploiter les traces numériques laissées sur le web. L’instrument s’adressait à différents publics avec différents types d’approches et temporalités : conseil dans le choix et l’usage de méthodes numériques, identification de sources disponibles sur la toile, développement intégral d’outils génériques libres et open source largement réutilisables, formations pédagogiques ou académiques, appui méthodologique, soutien ponctuel l’espace d’un atelier d’une après-midi, accompagnement tout au long d’un projet de recherche sur plusieurs années, etc.

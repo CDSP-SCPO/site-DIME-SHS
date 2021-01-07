@@ -51,6 +51,9 @@ Avec quelques années de recul, et même s’il est encore trop tôt pour tirer 
 
 Au-delà, la disponibilité de ces matériaux offre de nouvelles possibilités pédagogiques à un nombre croissant d’enseignants désireux d’utiliser des sources alternatives pour aborder différemment les questions de méthodes tout comme les grands objets de la sociologie ou de la science politique. En ce sens, beQuali contribue à fournir à la communauté scientifique les moyens pour que se développe en France une vraie recherche méthodologique, à l’image de ce qui prévaut déjà dans le monde anglo-saxon notamment.
 
+{{< sidebar >}}
+<a href="/img/instruments/poster-beQuali.png" target="_blank">Poster bilan de beQuali</a>
+{{< /sidebar >}}
 
 # Pérennisation
 À l'issue du projet Dime-SHS, les expertises[^9] de beQuali sont mises à profit afin de continuer à développer le catalogue d’enquêtes à la fois en nombre et également en termes de disciplines et de méthodes employées (enquêtes par observations ethnographiques, enquêtes mixtes quanti-quali, etc).
@@ -58,10 +61,6 @@ Au-delà, la disponibilité de ces matériaux offre de nouvelles possibilités p
 Dans le contexte d’ouverture des données de recherche et dans une volonté d’élargir les services proposés à la communauté scientifique, beQuali propose un accompagnement des projets en cours de réalisation (participation à la mise en place de Data management plan). L’objectif est d’aider les équipes de recherche à gérer les données qu’elles produisent en anticipant leur éventuelle mise à disposition sur la banque d’enquêtes beQuali. Il s’agit également d’initier des bonnes pratiques en terme de documentation, de stockage et d’archivage et de rendre ainsi ces enquêtes plus facilement et rapidement communicables.
 
 En parallèle, beQuali poursuit ses actions afin de favoriser les usages des corpus mis à disposition. Ainsi, dans le cadre du plan d’action pour la fin de l’Equipex, ont été intégrés à l'instrument un module d’auto-formation pour l’enseignement des méthodes, ainsi qu'un outil permettant de filtrer les transcriptions d'entretiens selon les propriétés sociographiques des locuteurs. À l’avenir d’autres ressources seront développées, comme par exemple des “kits d’enseignement” pour les cours de méthodes qualitatives.
-
-{{< sidebar >}}
-<a href="/img/instruments/poster-beQuali.png" target="_blank">Poster bilan de beQuali</a>
-{{< /sidebar >}}
 
 [^1]: [rapport Braibant, 1996](http://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/964093000.pdf)
 [^2]: [rapport Silberman, 1999](http://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/004000935.pdf)
@@ -71,4 +70,4 @@ En parallèle, beQuali poursuit ses actions afin de favoriser les usages des cor
 
 [^8]: [THOMAS Anja, The ‘European Integration Paradox’ Comparing EU Practice and Discourse on the Role of Parliaments in the EU in the Assemblée nationale and the Bundestag Across Time, thèse de doctorat soutenue en décembre 2016, Sciences Po - IEP de Paris, 425 pp.](http://spire.sciencespo.fr/hdl:/2441/5i1k2o8mn49maohtdrake9dsfv)
 
-[^9]: [traitement d’archives sous format papier et électronique (inventaire, classement, anonymisation, etc.), contextualisation des enquêtes</br>sensibilisation de la communauté scientifique aux bonnes pratiques et aux possibilités de réutilisation des matériaux]
+[^9]: traitement d’archives sous format papier et électronique (inventaire, classement, anonymisation, etc.), contextualisation des enquêtes</br>sensibilisation de la communauté scientifique aux bonnes pratiques et aux possibilités de réutilisation des matériaux

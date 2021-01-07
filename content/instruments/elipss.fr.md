@@ -56,16 +56,16 @@ La richesse de ces données permet de mener des analyses poussées des dynamique
 
 Au-delà même des connaissances produites sur la société française, les nombreux terrains d’enquêtes réalisés avec ELIPSS offrent la possibilité d’interroger la constitution même de ce savoir et les conditions dans lesquelles il est produit. En effet, l’administration de questionnaires via Internet au moyen d’une tablette tactile mise à disposition des répondants a permis à la fois d’innover méthodologiquement, en faisant émerger et en expérimentant de nouvelles manières de construire des questions et des questionnaires en population générale et de comparer les données ainsi produites avec celles obtenues au moyen d’autres techniques d’administration d’enquête, en France et dans d’autres pays.
 
+{{< sidebar >}}
+<a href="/img/instruments/poster-ELIPSS.png" target="_blank">Poster bilan de ELIPSS</a>
+{{< /sidebar >}}
+
 # Pérrenisation
 Le dispositif ELIPSS reposait sur des expertises variées (design d’enquêtes par Internet, suivi de panel, protection de la confidentialité des répondants, développement d’application d’enquête, etc.) qu’il s’agit aujourd’hui de mettre à profit pour accompagner de nouveaux projets pour la recherche. L’expérience acquise au travers de la mise en place et de la gestion du panel ELIPSS peut servir des projets d’envergure internationale ; de fait les équipes du CDSP ont déjà participé en 2019 à la mise en place du panel européen CRONOS2 (porté par l’ERIC ESS) au travers de deux projets financés sur les appels infrastructures H2020 (Projets SSHOC et SUSTAIN-2).
 
 Par ailleurs, la poursuite du dispositif met l’accent sur le développement de travaux méthodologiques pour continuer à améliorer les méthodes d’enquêtes par questionnaire. Désormais fort de nombreux jeux de données produits dans le cadre de DIME Quanti, il est question d’exploiter et de faire exploiter ce riche matériau pour en tirer d’aussi riches enseignements.
 
 Enfin, la plus ambitieuse des perspectives concerne la pérennisation du panel ELIPSS qui exige notamment la refonte de son modèle économique. Pour tenir compte des contraintes d’un autofinancement et de l’évolution numérique de la société, certains principes du dispositif ont été revus : depuis septembre 2019, la fourniture de tablettes et d'abonnements internet aux répondants a été abandonnée, les panélistes répondent désormais via leur adresse mail personnelle et au moyen de l’équipement dont ils disposent. De plus, la recherche de financements fait à présent partie intégrante des activités du projet.
-
-{{< sidebar >}}
-<a href="/img/instruments/poster-ELIPSS.png" target="_blank">Poster bilan de ELIPSS</a>
-{{< /sidebar >}}
 
 [^0]: Un panel est un ensemble d’individus qui, dans le cadre d’une étude spécifique, sera interrogé à plusieurs reprises et dont il est possible de suivre l’évolution des opinions et comportements. Le baromètre, même s’il est répété dans le temps, interrogera des personnes différentes à chaque administration.
 [^1]: Baker, R., Blumberg, S. J., Brick, J. M., Couper, M. P., Courtright, M., Dennis, J. M.…Zahs, D. (2010). Research synthesis: AAPOR report on online panels. Public Opinion Quarterly, 74, 711–781
