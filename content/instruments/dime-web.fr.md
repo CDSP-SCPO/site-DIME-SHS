@@ -40,7 +40,6 @@ L’accompagnement de projets de recherche recouvre des réalités différentes 
 
 Un Comité Scientifique et Technique (CST) spécifique à Dime Web assurait le suivi de la sélection des projets et l’orientation de l’instrument sur la base d’une réunion physique annuelle et d’échanges numériques. Entre 2014 et 2020, la sélection et le soutien des petits projets nécessitant une plus forte réactivité sans requérir de coûteux développements (au contraire des plus gros projets) ont été délégués à l’équipe opérationnelle et le CST a endossé un rôle de supervision annuelle.
 
-
 <img src="/img/instruments/schema_dimeweb.svg" alt="Schéma de fonctionnement Dime Web" class="full-bleed">
 
 # Apports
@@ -52,7 +51,9 @@ Les outils de Dime Web et notamment [Hyphe](http://hyphe.medialab.sciences-po.fr
 
 La plupart des outils étant libres et open source, ils sont régulièrement utilisés, téléchargés et installés comme à UCLA (USA), King’s College (Royaume Uni), Aalborg University et ITU (Danemark), UNIL (Suisse), FMSH, EHESS, TGIR HumaNum, Universités de Lille 3, Rennes 2, Paris Nanterre, Paris Descartes et Paris-Est Marne La Vallée (France). S’ajoutent également plusieurs cas d’usage de Hyphe par des chercheurs isolés ou mêmes des acteurs hors du cadre académique : un chercheur allemand a par exemple publié dans une conférence une analyse de l’extrême droite dans son pays utilisant Hyphe, les activistes d’Utopies Concrètes ont réalisé une cartographie du monde associatif, une analyse des fake news avec Hyphe par un journaliste américain a été repérée sur Medium, etc.
 
-<img src="/img/instruments/realisations-dimeWeb.png" alt="Poster bilan de Dime Web" class="full-bleed">
+{{< sidebar >}}
+<a href="/img/instruments/poster-dimeWeb.png" target="_blank">Poster bilan de Dime Web</a>
+{{< /sidebar >}}
 
 # Pérennisation
 Le succès des différents [outils développés par l’équipe Dime Web](https://dime-shs.sciencespo.fr/productions/outils/) auprès de communautés tant académiques que pédagogiques a permis d’identifier le besoin de pérenniser ceux-ci en leur assurant une vie au-delà de l’Equipex DIME-SHS et ainsi permettre à d’autres futurs projets de pouvoir les utiliser sans nécessairement bénéficier d’un accompagnement privilégié. Suivant [la recommandation du rapport de l’ANR](https://dime-shs.sciencespo.fr/projet/bilan/#évaluation-de-l-équipement), l’équipe web a donc concentré ses efforts lors des dernières années du projet sur la maintenance, la consolidation et la documentation du catalogue d’outils et méthodes open source afin de leur assurer une vie au-delà de l’Equipex.
