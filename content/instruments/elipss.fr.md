@@ -57,6 +57,7 @@ La richesse de ces données permet de mener des analyses poussées des dynamique
 Au-delà même des connaissances produites sur la société française, les nombreux terrains d’enquêtes réalisés avec ELIPSS offrent la possibilité d’interroger la constitution même de ce savoir et les conditions dans lesquelles il est produit. En effet, l’administration de questionnaires via Internet au moyen d’une tablette tactile mise à disposition des répondants a permis à la fois d’innover méthodologiquement, en faisant émerger et en expérimentant de nouvelles manières de construire des questions et des questionnaires en population générale et de comparer les données ainsi produites avec celles obtenues au moyen d’autres techniques d’administration d’enquête, en France et dans d’autres pays.
 
 {{< sidebar >}}
+![](/img/instruments/poster-ELIPSS.png)
 <a href="/img/instruments/poster-ELIPSS.png" target="_blank">Poster bilan de ELIPSS</a>
 {{< /sidebar >}}
 

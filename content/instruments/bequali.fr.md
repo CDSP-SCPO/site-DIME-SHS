@@ -52,7 +52,8 @@ Avec quelques années de recul, et même s’il est encore trop tôt pour tirer 
 Au-delà, la disponibilité de ces matériaux offre de nouvelles possibilités pédagogiques à un nombre croissant d’enseignants désireux d’utiliser des sources alternatives pour aborder différemment les questions de méthodes tout comme les grands objets de la sociologie ou de la science politique. En ce sens, beQuali contribue à fournir à la communauté scientifique les moyens pour que se développe en France une vraie recherche méthodologique, à l’image de ce qui prévaut déjà dans le monde anglo-saxon notamment.
 
 {{< sidebar >}}
-<a href="/img/instruments/poster-beQuali.png" target="_blank">Poster bilan de beQuali</a>
+![]()/img/instruments/poster-beQuali.png)
+<a href="/img/instruments/poster-beQuali.pdf" target="_blank">Poster bilan de beQuali</a>
 {{< /sidebar >}}
 
 # Pérennisation
