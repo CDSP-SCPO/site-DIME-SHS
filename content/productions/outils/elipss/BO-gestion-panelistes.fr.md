@@ -1,6 +1,7 @@
 ---
 title: Back-office de gestion des panélistes
 parent: elipss
+website: https://doi.org/10.5281/zenodo.3893005
 weight: 30
 ---
 
