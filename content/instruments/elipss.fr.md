@@ -58,7 +58,7 @@ Au-delà même des connaissances produites sur la société française, les nomb
 
 {{< sidebar >}}
 ![](/img/instruments/poster-ELIPSS.png)
-<a href="/img/instruments/poster-ELIPSS.png" target="_blank">Poster bilan de ELIPSS</a>
+<a href="/img/instruments/poster-ELIPSS.pdf" target="_blank">Poster bilan de ELIPSS</a>
 {{< /sidebar >}}
 
 # Pérrenisation
