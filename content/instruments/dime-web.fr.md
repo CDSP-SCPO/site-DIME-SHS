@@ -53,7 +53,7 @@ La plupart des outils étant libres et open source, ils sont régulièrement uti
 
 {{< sidebar >}}
 ![](/img/instruments/poster-dimeWeb.png)
-<a href="/img/instruments/poster-dimeWeb.png" target="_blank">Poster bilan de Dime Web</a>
+<a href="/img/instruments/poster-dimeWeb.pdf" target="_blank">Poster bilan de Dime Web</a>
 {{< /sidebar >}}
 
 # Pérennisation
