@@ -52,7 +52,8 @@ Les outils de Dime Web et notamment [Hyphe](http://hyphe.medialab.sciences-po.fr
 La plupart des outils étant libres et open source, ils sont régulièrement utilisés, téléchargés et installés comme à UCLA (USA), King’s College (Royaume Uni), Aalborg University et ITU (Danemark), UNIL (Suisse), FMSH, EHESS, TGIR HumaNum, Universités de Lille 3, Rennes 2, Paris Nanterre, Paris Descartes et Paris-Est Marne La Vallée (France). S’ajoutent également plusieurs cas d’usage de Hyphe par des chercheurs isolés ou mêmes des acteurs hors du cadre académique : un chercheur allemand a par exemple publié dans une conférence une analyse de l’extrême droite dans son pays utilisant Hyphe, les activistes d’Utopies Concrètes ont réalisé une cartographie du monde associatif, une analyse des fake news avec Hyphe par un journaliste américain a été repérée sur Medium, etc.
 
 {{< sidebar >}}
-<a href="/img/instruments/poster-dimeWeb.png" target="_blank">![](/img/instruments/poster-dimeWeb.png)</a>
+![](/img/instruments/logos_instruments-DimeWeb.svg)
+<a href="/img/instruments/poster-dimeWeb.png" target="_blank">Poster bilan de Dime Web</a>
 {{< /sidebar >}}
 
 # Pérennisation
