@@ -61,7 +61,7 @@ Au-delà même des connaissances produites sur la société française, les nomb
 <a href="/img/instruments/poster-ELIPSS.pdf" target="_blank">Poster bilan de ELIPSS</a>
 {{< /sidebar >}}
 
-# Pérrenisation
+# Pérennisation
 Le dispositif ELIPSS reposait sur des expertises variées (design d’enquêtes par Internet, suivi de panel, protection de la confidentialité des répondants, développement d’application d’enquête, etc.) qu’il s’agit aujourd’hui de mettre à profit pour accompagner de nouveaux projets pour la recherche. L’expérience acquise au travers de la mise en place et de la gestion du panel ELIPSS peut servir des projets d’envergure internationale ; de fait les équipes du CDSP ont déjà participé en 2019 à la mise en place du panel européen CRONOS2 (porté par l’ERIC ESS) au travers de deux projets financés sur les appels infrastructures H2020 (Projets SSHOC et SUSTAIN-2).
 
 Par ailleurs, la poursuite du dispositif met l’accent sur le développement de travaux méthodologiques pour continuer à améliorer les méthodes d’enquêtes par questionnaire. Désormais fort de nombreux jeux de données produits dans le cadre de DIME Quanti, il est question d’exploiter et de faire exploiter ce riche matériau pour en tirer d’aussi riches enseignements.

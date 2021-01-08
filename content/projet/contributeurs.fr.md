@@ -7,7 +7,7 @@ weight: 30
 ---
 
 # Partenaires
-Le consortium DIME-SHS est porté par Sciences Po et réunit des partenaires de la recherche et de l’enseignement supérieur dans des disciplines variées (sociologie, démographie, sciences économiques, science politique) :
+Le consortium DIME-SHS a été porté par Sciences Po et a réuni des partenaires de la recherche et de l’enseignement supérieur dans des disciplines variées (sociologie, démographie, sciences économiques, sciences politiques) :
 
 <ul class="flex flex-column flex-row-ns flex-wrap justify-between list list--logos">
   <li class="pr3-ns w-two-thirds-ns">
@@ -31,7 +31,7 @@ Le consortium DIME-SHS est porté par Sciences Po et réunit des partenaires de 
 
     <ul class="list flex flex-nowrap flex-auto items-center">
       <li class="mr2"><a href="https://www.ehess.fr/"><img src="/img/co-financeurs/1200px-Logo_ehess.svg.png" alt="EHESS"></a></li>
-      <li><a href="https://www.univ-paris5.fr/"><img src="/img/logo-parisdescartes.jpg" alt="Université Paris Descartes"></a></li>
+      <li><a href="https://u-paris.fr/"><img src="/img/logo-Uparis.png" alt="Université Paris"></a></li>
     </ul>
   </li>
   <li class="pr3-ns w-third-ns">
@@ -50,8 +50,8 @@ Le consortium DIME-SHS est porté par Sciences Po et réunit des partenaires de 
   </li>
 </ul>
 
-# Co-financeurs
-Les ressources complémentaires à la subvention des investissement d’avenir comprennent les cofinancements de partenaires du consortium, les subventions de recherche émanant d’organismes tiers et les recettes perçues au titre de la valorisation des instruments.
+# Co-financeurs et partenaires scientifiques
+Outre les apports des partenaires du consortium, les ressources complémentaires à la subvention des investissements d’avenir ont été apportées d’une part par les cofinancements émanant d’organismes tiers, d’autre part par les recettes perçues au titre de l’utilisation des instruments.
 
 <ul class="flex flex-column flex-row-ns flex-wrap justify-between list list--logos">
   <li class="pr3-ns w-two-thirds-ns">
@@ -59,7 +59,7 @@ Les ressources complémentaires à la subvention des investissement d’avenir c
 
     <ul class="list flex flex-nowrap flex-auto items-center">
       <li class="mr2"><a href="https://www.cnrs.fr/"><img src="/img/co-financeurs/CNRSfilaire-Mono.svg" alt="Centre National de la Recherche Scientifique (CNRS)"></a></li>
-      <li class="mr2"><a href="https://www.ined.fr/"><img src="/img/logo-ined.jpg" alt="Institut national d’études démographiques (INED)"></a></li>
+      <li class="mr2"><a href="https://www.inserm.fr/"><img src="/img/logo-INSERM.png" alt="Institut national de la santé et de la recherche médicale (Inserm)"></a></li>
     </ul>
   </li>
   <li class="w-third-ns">
@@ -76,6 +76,9 @@ Les ressources complémentaires à la subvention des investissement d’avenir c
       <li class="mr2"><a href="https://www.univ-tours.fr/"><img src="/img/co-financeurs/Univ-FrancoisRabelais.png" alt="Université de Tours (anciennement Université François Rabelais)"></a></li>
       <li class="mr2"><a href="https://www.univ-paris-diderot.fr/"><img src="/img/co-financeurs/Logo-ParisDiderot.png" alt="Université Paris Diderot"></a></li>
       <li><a href="https://www.univ-rennes2.fr/"><img src="/img/co-financeurs/logo.svg" alt="Université Rennes 2"></a></li>
+      <li><a href="https://www.univ-lille.fr/"><img src="/img/co-financeurs/logo-Lille3.jpg" alt="Université Lille 3"></a></li>
+      <li><a href="https://www.univ-tours.fr/"><img src="/img/co-financeurs/logo-URabelaisTours.jpg" alt="Université François Rabelais"></a></li>
+      <li><a href="https://www.kcl.ac.uk"><img src="/img/co-financeurs/logo-KingsCollege.png" alt="King's College London"></a></li>
     </ul>
   </li>
   <li class="pr3-ns w-third-ns">
@@ -93,13 +96,19 @@ Les ressources complémentaires à la subvention des investissement d’avenir c
       <li><a href="http://www.culture.gouv.fr/Thematiques/Etudes-et-statistiques/Le-DEPS"><img src="/img/co-financeurs/ministereCulture.jpg" alt="Ministère de la culture - DEPS"></a></li>
     </ul>
   </li>
-  <li class="w-two-thirds-ns">
-    <h2 class="f5">Union européenne</h2>
+  <li class="w-third-ns">
+    <h2 class="f5">Laboratoires partenaires</h2>
 
     <ul class="list flex flex-nowrap flex-auto items-center">
-      <li class="mr3"><a href="https://www.eucellex.eu/">EUCelLEX</a></li>
-      <li class="mr3"><a href="http://www.societalsecurity.net/">SOURCE</a></li>
-      <li><a href="http://www.erc-sowell.com/">SOWELL</a></li>
+      <li><a href="https://www.sciencespo.fr/centre-etudes-europeennes/fr">Centre d'études européennes (Sciences Po, CEE, CNRS)></a></li>
+      <li><a href="https://www.sciencespo.fr/osc/fr.html">Observatoire sociologique du changement (Sciences Po, OSC, CNRS)</a></li>
+      <li><a href="https://www.sciencespo.fr/ceri/">Centre de Recherches Internationales (Sciences Po, CERI, CNRS)</a></li>
+      <li><a href="https://www.sciencespo.fr/cevipof/fr.html">Centre de recherches politiques de Sciences Po (Sciences Po, CEVIPOF, CNRS)</a></li>
+      <li><a href="https://www.sciencespo.fr/department-economics/en.html">Département d'économie (Sciences Po, CNRS)</a></li>
+      <li><a href="https://www.pacte-grenoble.fr/">Pacte, laboratoire de sciences sociales(Université Grenoble Alpes, Sciences Po Grenoble)</a></li>
+      <li><a href="https://www.gemass.fr/">Groupe d’Études des Méthodes de l’Analyse Sociologique de la Sorbonne (Sorbonne, CNRS)</a></li>
+      <li><a href="https://www.institutmontaigne.org/">Institut Montaigne</a></li>
+      <li><a href="http://controverses.org/">Programme FORCCAST</a></li>    
     </ul>
-  </li>
+  </li>  
 </ul>

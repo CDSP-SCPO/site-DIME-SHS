@@ -1,6 +1,6 @@
 ---
 title:  Réunion de clôture de l'EquipEx DIME-SHS le 14 janvier 2021
-date:   2020-01-05T00:00:00
+date:   2021-01-05T00:00:00
 ---
 9 ans après la signature de la convention de lancement de l'EquipEx DIME-SHS, ce programme d'infrastructure de recherche de pointe pour les SHS touche à sa fin. Ce tournant décisif sera enteriné le 14 janvier 2021, en présence de l'ensemble des partenaires du projet et de représentants de l'Agence nationale de la recherche.
 
