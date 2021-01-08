@@ -54,7 +54,7 @@ Le consortium DIME-SHS a été porté par Sciences Po et a réuni des partenaire
 Outre les apports des partenaires du consortium, les ressources complémentaires à la subvention des investissements d’avenir ont été apportées d’une part par les cofinancements émanant d’organismes tiers, d’autre part par les recettes perçues au titre de l’utilisation des instruments.
 
 <ul class="flex flex-column flex-row-ns flex-wrap justify-between list list--logos">
-  <li class="pr3-ns w-two-thirds-ns">
+  <li class="pr3-ns w-third-ns">
     <h2 class="f5">Instituts de recherche</h2>
 
     <ul class="list flex flex-nowrap flex-auto items-center">
@@ -62,14 +62,21 @@ Outre les apports des partenaires du consortium, les ressources complémentaires
       <li class="mr2"><a href="https://www.inserm.fr/"><img src="/img/logo-INSERM.png" alt="Institut national de la santé et de la recherche médicale (Inserm)"></a></li>
     </ul>
   </li>
-  <li class="w-third-ns">
+  <li class="pr3-ns w-third-ns">
     <h2 class="f5">Comue</h2>
 
     <ul class="list flex flex-nowrap flex-auto items-center">
       <li><a href="http://www.sorbonne-paris-cite.fr/"><img src="/img/co-financeurs/LogoUSPC_noir.png" alt="Université Sorbonne Paris Cité"></a></li>
     </ul>
   </li>
-  <li class="pr3-ns w-two-thirds-ns">
+  <li class="pr3-ns w-third-ns">
+    <h2 class="f5">Recherche privée</h2>
+
+    <ul class="list flex flex-nowrap flex-auto items-center">
+      <li><a href="https://www.axa-research.org/fr"><img src="/img/co-financeurs/AXA-Research-Fund-Logo.png" alt="AXA Research Fund"></a></li>
+    </ul>
+  </li>
+  <li>
     <h2 class="f5">Universités</h2>
 
     <ul class="list flex flex-nowrap flex-auto items-center">
@@ -79,13 +86,6 @@ Outre les apports des partenaires du consortium, les ressources complémentaires
       <li><a href="https://www.univ-lille.fr/"><img src="/img/co-financeurs/logo-Lille3.jpg" alt="Université Lille 3"></a></li>
       <li><a href="https://www.univ-tours.fr/"><img src="/img/co-financeurs/logo-URabelaisTours.jpg" alt="Université François Rabelais"></a></li>
       <li><a href="https://www.kcl.ac.uk"><img src="/img/co-financeurs/logo-KingsCollege.png" alt="King's College London"></a></li>
-    </ul>
-  </li>
-  <li class="pr3-ns w-third-ns">
-    <h2 class="f5">Recherche privée</h2>
-
-    <ul class="list flex flex-nowrap flex-auto items-center">
-      <li><a href="https://www.axa-research.org/fr"><img src="/img/co-financeurs/AXA-Research-Fund-Logo.png" alt="AXA Research Fund"></a></li>
     </ul>
   </li>
   <li class="w-third-ns">
