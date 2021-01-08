@@ -32,9 +32,10 @@ parse(stream)
       const filename = join(__dirname, '..', 'data', 'publications', `${category}.yml`);
       const data = items
         .filter(d => d.category === category)
-        .filter(({ date, url, id }) => {
-          if (!date) {
-            console.warn(`\x1B[32m⚠\x1B[0m Publication ID %s (\x1B[30;42m\x1B[37m%s\x1B[0m) has no date — it will not appear on the website.`, id, url)
+        .filter(d => {
+          if (!d.date) {
+            console.log(d)
+            console.warn(`\x1B[32m⚠\x1B[0m Publication ID %s (\x1B[30;42m\x1B[37m%s\x1B[0m) has no date — it will not appear on the website.`, d.id, d.url)
             return false
           }
           return true
