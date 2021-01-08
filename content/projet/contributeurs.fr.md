@@ -99,7 +99,7 @@ Outre les apports des partenaires du consortium, les ressources complémentaires
   <li class="pr3-ns w-two-thirds-ns">
     <h2 class="f5">Laboratoires partenaires</h2>
 
-    <ul class="list flex flex-nowrap flex-auto items-center">
+    <ul>
       <li><a href="https://www.sciencespo.fr/centre-etudes-europeennes/fr">Centre d'études européennes (Sciences Po, CEE, CNRS)></a></li>
       <li><a href="https://www.sciencespo.fr/osc/fr.html">Observatoire sociologique du changement (Sciences Po, OSC, CNRS)</a></li>
       <li><a href="https://www.sciencespo.fr/ceri/">Centre de Recherches Internationales (Sciences Po, CERI, CNRS)</a></li>
