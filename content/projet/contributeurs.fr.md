@@ -76,7 +76,7 @@ Outre les apports des partenaires du consortium, les ressources complémentaires
       <li><a href="https://www.axa-research.org/fr"><img src="/img/co-financeurs/AXA-Research-Fund-Logo.png" alt="AXA Research Fund"></a></li>
     </ul>
   </li>
-  <li>
+  <li class="pr3-ns w-two-thirds-ns">
     <h2 class="f5">Universités</h2>
 
     <ul class="list flex flex-nowrap flex-auto items-center">
@@ -96,7 +96,7 @@ Outre les apports des partenaires du consortium, les ressources complémentaires
       <li><a href="http://www.culture.gouv.fr/Thematiques/Etudes-et-statistiques/Le-DEPS"><img src="/img/co-financeurs/ministereCulture.jpg" alt="Ministère de la culture - DEPS"></a></li>
     </ul>
   </li>
-  <li class="pr3-ns w-two-thirds-ns">
+  <li>
     <h2 class="f5">Laboratoires partenaires</h2>
 
     <ul>
