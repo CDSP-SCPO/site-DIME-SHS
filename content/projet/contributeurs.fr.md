@@ -76,7 +76,7 @@ Outre les apports des partenaires du consortium, les ressources complémentaires
       <li><a href="https://www.axa-research.org/fr"><img src="/img/co-financeurs/AXA-Research-Fund-Logo.png" alt="AXA Research Fund"></a></li>
     </ul>
   </li>
-  <li class="w-third-ns">
+  <li class="pr3-ns w-third-ns">
     <h2 class="f5">Services ministériels</h2>
 
     <ul class="list flex flex-nowrap flex-auto items-center">
@@ -91,7 +91,7 @@ Outre les apports des partenaires du consortium, les ressources complémentaires
       <li class="mr2"><a href="https://www.univ-tours.fr/"><img src="/img/co-financeurs/Univ-FrancoisRabelais.png" alt="Université de Tours (anciennement Université François Rabelais)"></a></li>
       <li class="mr2"><a href="https://www.univ-paris-diderot.fr/"><img src="/img/co-financeurs/Logo-ParisDiderot.png" alt="Université Paris Diderot"></a></li>
       <li><a href="https://www.univ-rennes2.fr/"><img src="/img/co-financeurs/logo.svg" alt="Université Rennes 2"></a></li>
-      <li><a href="https://www.univ-lille.fr/"><img src="/img/co-financeurs/logo-Lille3.jpg" alt="Université Lille 3"></a></li>
+      <li><a href="https://www.univ-lille.fr/"><img src="/img/co-financeurs/logo-Lille3.png" alt="Université Lille 3"></a></li>
       <li><a href="https://www.univ-tours.fr/"><img src="/img/co-financeurs/logo-URabelaisTours.jpg" alt="Université François Rabelais"></a></li>
       <li><a href="https://www.kcl.ac.uk"><img src="/img/co-financeurs/logo-KingsCollege.png" alt="King's College London"></a></li>
     </ul>
