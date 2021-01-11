@@ -12,7 +12,7 @@ options:
 Coordonné par Sciences Po, l’Equipex DIME-SHS a été animé par Nicolas Sauger en qualité de Responsable scientifique et technique de septembre 2017 jusqu’à la fin du projet en Décembre 2020. Il a pris la suite de Laurent Lesnard qui avait initié le projet en 2011.
 La gouvernance de DIME-SHS, spécifiée dans l’accord de consortium pour la réalisation du projet d’Equipex[^1], était organisée autour de trois instances :
 
-1. Un **comité de coordination** pour assurer le suivi opérationnel transversal des activités des trois instruments. Il réunissait:
+- Un **comité de coordination** pour assurer le suivi opérationnel transversal des activités des trois instruments. Il réunissait:
   - les responsables de chaque instrument,
   - la responsable technique et informatique de DIME-SHS,
   - la responsable administrative,
@@ -20,12 +20,12 @@ La gouvernance de DIME-SHS, spécifiée dans l’accord de consortium pour la r�
 
 Ses membres étaient invités permanents du Comité de pilotage.
 
-2. Un **comité de pilotage** pour prendre les décisions relatives à l’orientation stratégique et scientifique du projet. Il était composé :
+- Un **comité de pilotage** pour prendre les décisions relatives à l’orientation stratégique et scientifique du projet. Il était composé :
   - d’un représentant de chaque partenaire du consortium,
   - du responsable scientifique et technique (Président du Comité de pilotage),
   - des membres du comité de coordination.
 
-3. Un **conseil scientifique** qui, en tant qu’instance consultative, était chargé de formuler des propositions d’orientations scientifiques et d’ajustements du projet. Il était composé de personnalités qui siégeaient en qualité d’experts indépendants et reconnus à l’international dans le domaine des méthodes en sciences sociales.
+- Un **conseil scientifique** qui, en tant qu’instance consultative, était chargé de formuler des propositions d’orientations scientifiques et d’ajustements du projet. Il était composé de personnalités qui siégeaient en qualité d’experts indépendants et reconnus à l’international dans le domaine des méthodes en sciences sociales.
 
 {{< sidebar >}}
 Membres du conseil scientifique :
