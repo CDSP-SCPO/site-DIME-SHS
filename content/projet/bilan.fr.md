@@ -4,6 +4,8 @@ menu:
   main:
     parent: Projet
 weight: 40
+options:
+- toc
 ---
 Pensé dès 2008, le projet Dime-SHS a été officiellement lancé le 31 janvier 2012 et a pris fin le 31 décembre 2020, après une année de prolongation au-delà du calendrier initial.
 
