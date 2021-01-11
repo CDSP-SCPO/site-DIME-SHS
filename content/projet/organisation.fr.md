@@ -17,7 +17,6 @@ La gouvernance de DIME-SHS, spécifiée dans l’accord de consortium pour la r�
   * la responsable technique et informatique de DIME-SHS,
   * la responsable administrative,
   * le responsable scientifique et technique.
-
 Ses membres étaient invités permanents du Comité de pilotage.
 
 2. Un **comité de pilotage** pour prendre les décisions relatives à l’orientation stratégique et scientifique du projet. Il était composé :
