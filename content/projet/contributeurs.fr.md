@@ -87,7 +87,7 @@ Outre les apports des partenaires du consortium, les ressources complémentaires
   <li class="pr3-ns w-two-thirds-ns">
     <h2 class="f5">Universités</h2>
 
-    <ul>
+    <ul class="list flex flex-nowrap flex-auto items-center">
       <li class="mr2"><a href="https://www.univ-tours.fr/"><img src="/img/co-financeurs/Univ-FrancoisRabelais.png" alt="Université de Tours (anciennement Université François Rabelais)"></a></li>
       <li class="mr2"><a href="https://www.univ-paris-diderot.fr/"><img src="/img/co-financeurs/Logo-ParisDiderot.png" alt="Université Paris Diderot"></a></li>
       <li><a href="https://www.univ-rennes2.fr/"><img src="/img/co-financeurs/logo.svg" alt="Université Rennes 2"></a></li>
