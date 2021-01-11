@@ -4,6 +4,8 @@ menu:
   main:
     parent: Projet
 weight: 30
+options:
+- toc
 ---
 
 # Partenaires

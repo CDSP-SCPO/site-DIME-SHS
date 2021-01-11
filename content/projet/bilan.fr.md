@@ -20,9 +20,9 @@ DIME-SHS a permis également de constituer un ensemble d’outils et de platefor
 
 DIME-SHS est aussi une réussite collective qui a fondamentalement charpenté l’identité et les expertises du CDSP. Impliquant plus d’une trentaine d’ingénieurs sur tout ou partie de la durée de l’EquipEx, ce projet transdisciplinaire a mobilisé de nombreux métiers (ingénieur·e·s statisticien·ne·s, gestionnaires de panel, ingénieur·e·s de recherche, documentalistes, archivistes, développeurs web,...). Toutefois, l’une des plus grandes difficultés de DIME-SHS a été de montrer les gains liés aux synergies de la construction conjointe de trois équipements. Si au final, les trois instruments n’ont pratiquement pas mené d’enquêtes conjointes - malgré plusieurs essais dans cette direction -, il existe une plus-value dans l’échange des pratiques, le partage d’expertise et de la mise en commun d’infrastructures. La question des standards, de la sécurité informatique ou juridique des dispositifs, le design et la construction des architectures informatiques ont par exemple été l’objet d’échanges constants et déterminants pour l’avancée des projets.
 
-# Repères
-
-## Dates clés
+<!---# Repères
+-->
+# Dates clés
 {{< longdesc src="/img/reperes/shema_reperes.svg" class="full-bleed" alt="Frise chronologique" >}}
 1. PREMIÈRES BRIQUES
   - 2011 : acceptation du projet

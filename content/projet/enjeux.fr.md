@@ -4,6 +4,9 @@ menu:
   main:
     parent: Projet
 weight: 10
+options:
+- toc
+
 ---
 
 # État des lieux
