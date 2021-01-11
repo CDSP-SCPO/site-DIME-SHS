@@ -23,7 +23,7 @@ Le consortium DIME-SHS a été porté par Sciences Po et a réuni des partenaire
     <h2 class="f5">Institut de recherche</h2>
 
     <ul class="list flex flex-nowrap flex-auto items-center">
-      <li><a href="https://www.ined.fr/"><img src="/img/logo-ined.jpg" alt="Institut national d’études démographiques (INED)"></a></li>
+      <li><a href="https://www.ined.fr/"><img src="/img/logo-ined.png" alt="Institut national d’études démographiques (INED)"></a></li>
     </ul>
   </li>
   <li class="pr3-ns w-third-ns">
@@ -74,6 +74,7 @@ Outre les apports des partenaires du consortium, les ressources complémentaires
 
     <ul class="list flex flex-nowrap flex-auto items-center">
       <li><a href="https://www.axa-research.org/fr"><img src="/img/co-financeurs/AXA-Research-Fund-Logo.png" alt="AXA Research Fund"></a></li>
+      <li><a href="https://www.institutmontaigne.org/"><img src="/img/co-financeurs/logo-IMontaigne.png" alt="Institut Montaigne"></a></li>
     </ul>
   </li>
   <li class="pr3-ns w-third-ns">
