@@ -87,7 +87,7 @@ Outre les apports des partenaires du consortium, les ressources complémentaires
   <li class="pr3-ns w-two-thirds-ns">
     <h2 class="f5">Universités</h2>
 
-    <ul>
+    <ul class="list flex flex-nowrap flex-auto items-center">
       <li class="mr2"><a href="https://www.univ-tours.fr/"><img src="/img/co-financeurs/Univ-FrancoisRabelais.png" alt="Université de Tours (anciennement Université François Rabelais)"></a></li>
       <li class="mr2"><a href="https://www.univ-paris-diderot.fr/"><img src="/img/co-financeurs/Logo-ParisDiderot.png" alt="Université Paris Diderot"></a></li>
       <li><a href="https://www.univ-rennes2.fr/"><img src="/img/co-financeurs/logo.svg" alt="Université Rennes 2"></a></li>
@@ -99,7 +99,7 @@ Outre les apports des partenaires du consortium, les ressources complémentaires
   <li  class="pr3-ns w-two-thirds-ns">
     <h2 class="f5">Laboratoires partenaires</h2>
 
-    <ul>
+    <ul class="list flex flex-nowrap flex-auto items-center">
       <li><a href="https://www.sciencespo.fr/centre-etudes-europeennes/fr">Centre d'études européennes (Sciences Po, CEE, CNRS)</a></li>
       <li><a href="https://www.sciencespo.fr/osc/fr.html">Observatoire sociologique du changement (Sciences Po, OSC, CNRS)</a></li>
       <li><a href="https://www.sciencespo.fr/ceri/">Centre de Recherches Internationales (Sciences Po, CERI, CNRS)</a></li>
