@@ -38,8 +38,6 @@ The beQuali team was processing the materials of the selected surveys, uploading
 
 Part of beQuali’s role is to preserve research data and archive the surveys available at the National Higher Education IT Centre ([CINES](https://www.cines.fr/)).
 
-![Schéma de fonctionnement de beQuali](/img/instruments/shemas_bequali.svg)
-
 {{< sidebar >}}
 beQuali STC's Members :</br>
 Stéphanie Abrial, Lucie Bargel, Emilie Biland-Curinier, Jean-Gabriel Contamin, Baptiste Coulmont, Rémi Gallou, Odile Gaultier-Voituriez, Christophe Giraud, Gilles Laferté (président), Goulven Le Brech, Marie Loison-Leruste, Stéphane Loret, Gilles Pouchoulin, Anne Revillard, Joséphine Simonnot, Sara Tandar.</br></br>
