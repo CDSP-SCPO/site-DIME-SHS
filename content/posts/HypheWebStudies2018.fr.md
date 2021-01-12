@@ -10,7 +10,7 @@ Ce fut l'occasion pour l'équipe de revenir de manière approfondie sur son appr
 Après un rapide retour historique aux origines du web, du lien hypertexte et des intentions de ses créateurs et utilisateurs, fut présentée l'approche propre à Dime Web d'exploiter le web comme un terrain d'enquête, à l'aide notamment de Hyphe, et les nombreux angles d'analyse originaux en découlant pour l’analyse des controverses, des dynamiques communautaires de polarisation, entre oppositions et affinités, ou encore des effets de hiérarchie suscités par la directionnalité du lien, et anticipés dès les années 60 par Robert K. Merton et son ["effet Matthieu"](https://fr.wikipedia.org/wiki/Effet_Matthieu).
 
 Vous pouvez retrouver la présentation accompagnant cette keynote ci-dessous :
-<iframe src="https://hyphe.medialab.sciences-po.fr/docs/20181004-DigitalTools-HyperlinkIsNotDead.pdf"></iframe>
+<iframe width="560" src="https://hyphe.medialab.sciences-po.fr/docs/20181004-DigitalTools-HyperlinkIsNotDead.pdf"></iframe>
 Chaque intervention s'accompagnant d'une publication reviewée et publiée au sein des proceedings de la conférence, cette intervention fut également l'occasion de produire une nouvelle publication méthodologique référençable par les utilisateurs de l'outil au sein de leurs travaux. Publiée en open access, celle-ci est disponible sur [ce lien](https://dl.acm.org/doi/10.1145/3240431.3240434) et lisible ci-dessous :
 <iframe width="560" src="https://dl.acm.org/doi/10.1145/3240431.3240434"></iframe>
 
