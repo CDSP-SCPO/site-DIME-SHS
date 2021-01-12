@@ -103,6 +103,8 @@ Outre les apports des partenaires du consortium, les ressources complémentaires
     <h2 class="f5">Laboratoires partenaires</h2>
 
     <ul>
+      <li><a href="https://cdsp.sciences-po.fr">Centre de données socio-politiques (Sciences Po, CDSP, CNRS)</a></li>
+      <li><a href="https://medialab.sciencespo.fr/">médialab (Sciences Po, médialab)</a></li>
       <li><a href="https://www.sciencespo.fr/centre-etudes-europeennes/fr">Centre d'études européennes (Sciences Po, CEE, CNRS)</a></li>
       <li><a href="https://www.sciencespo.fr/osc/fr.html">Observatoire sociologique du changement (Sciences Po, OSC, CNRS)</a></li>
       <li><a href="https://www.sciencespo.fr/ceri/">Centre de Recherches Internationales (Sciences Po, CERI, CNRS)</a></li>
