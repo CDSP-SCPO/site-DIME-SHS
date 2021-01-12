@@ -49,23 +49,10 @@ Après une exclusivité maximale d’un an pour les équipes ayant co-produit un
 <img src="/img/instruments/schema_elipss.svg" alt="Schéma de fonctionnement d'Elipss" class="full-bleed">
 
 {{< sidebar >}}
-Membres du CST ELIPSS:
-
-- Rémy Caveng,
-- Joanie Cayouette-Remblière,
-- François Denord,
-- Céline Goffette,
-- Anne Jadot (présidente)
-- Dominique Joye,
-- Cécile Lefèvre,
-- Muriel Letrait,
-- Pierre Mercklé,
-- Gaël de Peretti,
-- Élise Tenret,
-- Loup Wolff,
-- Sonja Zmerli.
-
-François Beck, Michel Bozon, Bernard Denni, Julien Duval, Guy Michelat, Isabelle Récotillet et Karine van der Straeten ont participé au comité scientifique et technique entre 2012 et 2018.
+Membres du CST ELIPSS :</br>
+Rémy Caveng, Joanie Cayouette-Remblière, François Denord, Céline Goffette, Anne Jadot (présidente), Dominique Joye, Cécile Lefèvre, Muriel Letrait, Pierre Mercklé, Gaël de Peretti, Élise Tenret, Loup Wolff, Sonja Zmerli.
+Ont également contribué :</br>
+François Beck, Michel Bozon, Bernard Denni, Julien Duval, Guy Michelat, Isabelle Récotillet et Karine van der Straeten.
 {{< /sidebar >}}
 
 # Apports

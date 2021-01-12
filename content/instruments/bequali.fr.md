@@ -43,24 +43,10 @@ BeQuali s’inscrit également dans une démarche de préservation des données 
 <img src="/img/instruments/shemas_bequali.svg" alt="Schéma de fonctionnement beQuali" class="full-bleed">
 
 {{< sidebar >}}
-Membres du CST beQuali:
-
-- Stéphanie Abrial,
-- Lucie Bargel,
-- Emilie Biland-Curinier,
-- Jean-Gabriel Contamin,
-- Baptiste Coulmont,
-- Rémi Gallou,
-- Odile Gaultier-Voituriez,
-- Christophe Giraud,
-- Gilles Laferté (président),
-- Goulven Le Brech,
-- Marie Loison-Leruste,
-- Stéphane Loret,
-- Gilles Pouchoulin,
-- Anne Revillard,
-- Joséphine Simonnot
-- Sara Tandar.
+Membres du CST beQuali :</br>
+Stéphanie Abrial, Lucie Bargel, Emilie Biland-Curinier, Jean-Gabriel Contamin, Baptiste Coulmont, Rémi Gallou, Odile Gaultier-Voituriez, Christophe Giraud, Gilles Laferté (président), Goulven Le Brech, Marie Loison-Leruste, Stéphane Loret, Gilles Pouchoulin, Anne Revillard, Joséphine Simonnot, Sara Tandar.
+Ont également contribué :</br>
+Bernard Bel, Antonio Casilli, Didier Demazière, Véronique Ginouvès, Christelle Hamel, Camille Hamidi, Dominique Le Roux, Nicolas Mariot, Brigitte Mazon, Jean-Luc Minel, Catherine Morel, Valérie Tesnière, Florence Weber.
 {{< /sidebar >}}
 
 # Apports
