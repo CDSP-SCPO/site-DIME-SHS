@@ -20,6 +20,7 @@ DIME-SHS a permis également de constituer un ensemble d’outils et de platefor
 
 DIME-SHS est aussi une réussite collective qui a fondamentalement charpenté l’identité et les expertises du CDSP. Impliquant plus d’une trentaine d’ingénieurs sur tout ou partie de la durée de l’EquipEx, ce projet transdisciplinaire a mobilisé de nombreux métiers (ingénieur·e·s statisticien·ne·s, gestionnaires de panel, ingénieur·e·s de recherche, documentalistes, archivistes, développeurs web,...). Toutefois, l’une des plus grandes difficultés de DIME-SHS a été de montrer les gains liés aux synergies de la construction conjointe de trois équipements. Si au final, les trois instruments n’ont pratiquement pas mené d’enquêtes conjointes - malgré plusieurs essais dans cette direction -, il existe une plus-value dans l’échange des pratiques, le partage d’expertise et de la mise en commun d’infrastructures. La question des standards, de la sécurité informatique ou juridique des dispositifs, le design et la construction des architectures informatiques ont par exemple été l’objet d’échanges constants et déterminants pour l’avancée des projets.
 
+
 <!---# Repères
 -->
 # Dates clés
@@ -55,8 +56,8 @@ DIME-SHS est aussi une réussite collective qui a fondamentalement charpenté l�
 <a href="/docs/DIME-SHS-ScientificReport2016.pdf" target="_blank">Rapport d'étape ANR 2011-2016 (version anglaise)</a><br>
 {{< /sidebar >}}
 
-Dans le cadre de son processus de suivi, l’Agence Nationale de la Recherche, opérateur de l’équipement, a fait réaliser en 2017 - après 6 années de fonctionnement - une analyse détaillée des pratiques et résultats du projet en s’appuyant sur un jury international indépendant.<br>
-Le rapport a fait état d’une évaluation globalement positive des instruments, notamment au vu des objectifs fixés en grande partie atteints. Le rapport note : _“One is impressed by the achievements of each of the three components of the DIME project”_. Il conclut également _“Overall, the three components of the DIME-SHS project are well on the way of reaching the initial targets of the project. The evaluation of each of these three components of the project is positive.”_
+Dans le cadre de son processus de suivi, l’Agence nationale de la recherche, opérateur de l’équipement, a fait réaliser en 2017 - après 6 années de fonctionnement - une analyse détaillée des pratiques et résultats du projet en s’appuyant sur un jury international indépendant.<br>
+Le rapport a fait état d’une évaluation globalement positive des instruments, notamment au vu des objectifs fixés en grande partie atteints. Le rapport note : _“One is impressed by the achievements of each of the three components of the DIME project”_. Il conclut également : _“Overall, the three components of the DIME-SHS project are well on the way of reaching the initial targets of the project. The evaluation of each of these three components of the project is positive.”_
 
 Le rapport soulignait néanmoins un risque majeur qui tenait à l’arrêt de la source principale du financement alors projetée pour la fin 2019. Il précisait que la pérennisation de l’équipement supposait que _“the main source of sustainability remains institutional support”_. En effet, puisqu’il semblait difficile d’envisager une source de financement principale autre qu’institutionnelle, l’arrêt de ces crédits entraînait nécessairement une redéfinition globale des services offerts par DIME-SHS.
 

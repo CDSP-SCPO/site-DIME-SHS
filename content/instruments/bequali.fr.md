@@ -34,7 +34,7 @@ BeQuali s’inscrit dans le paysage international des banques d’enquêtes qual
 Se voulant précurseur au niveau national, beQuali propose un travail important de documentation et de recontextualisation des enquêtes afin de toujours faciliter et encourager les réutilisations.
 
 # Fonctionnement
-Pendant la plus grande partie de la durée de DIME-SHS, les enquêtes qui composent le catalogue ont été sélectionnées selon différents critères scientifiques ou de faisabilité par un comité scientifique et technique (CST). La communauté scientifique a été invitée à soumettre ses propositions dans le cadre d’appel à dépôt ouverts annuellement.
+Pendant la plus grande partie de la durée de DIME-SHS, les enquêtes qui composent le catalogue ont été sélectionnées selon différents critères scientifiques ou de faisabilité par un comité scientifique et technique (CST). La communauté scientifique a été invitée à soumettre ses propositions dans le cadre d’appels à dépôt ouverts annuellement.
 
 L’équipe beQuali traitait les matériaux d’enquêtes sélectionnées et assurait leur mise en ligne sur [le site beQuali](http://bequali.fr/fr/les-enquetes/) et leur référencement sur la plateforme de téléchargement [Quetelet Progedo Diffusion](http://quetelet.progedo.fr/commander-des-donnees/).
 

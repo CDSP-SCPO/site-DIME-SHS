@@ -38,9 +38,25 @@ L’équipe opérationnelle de Dime Web s’est reposée essentiellement sur le 
 
 L’accompagnement de projets de recherche recouvre des réalités différentes qui étaient prises en compte par plusieurs niveaux d’implication de l’instrument. Les demandes d’aide ponctuelle, qui étaient souvent aussi des demandes d’orientation, se faisaient gratuitement pendant l’atelier portes-ouvertes mensuel de méthodes de Sciences Po initié au médialab. C’est souvent là également que s’effectuait un premier contact qui pouvait ensuite être développé jusqu’à une prestation payante. Dime Web donnait également des formations à des groupes de chercheurs et doctorants, soit dans le cadre de l’accompagnement d’un projet, soit indépendamment par exemple lors d’écoles d’été. À partir de 2014, l’accès à l’équipement pour de l’accompagnement, de la formation ou de la co-construction de recherches s’est fait uniquement de façon payante pour les membres internes comme externes du consortium de l’Equipex, et a ainsi participé au financement du travail de développement des outils génériques.
 
-Un Comité Scientifique et Technique (CST) spécifique à Dime Web assurait le suivi de la sélection des projets et l’orientation de l’instrument sur la base d’une réunion physique annuelle et d’échanges numériques. Entre 2014 et 2020, la sélection et le soutien des petits projets nécessitant une plus forte réactivité sans requérir de coûteux développements (au contraire des plus gros projets) ont été délégués à l’équipe opérationnelle et le CST a endossé un rôle de supervision annuelle.
+Un Comité Scientifique et Technique (CST)[^1] spécifique à Dime Web assurait le suivi de la sélection des projets et l’orientation de l’instrument sur la base d’une réunion physique annuelle et d’échanges numériques. Entre 2014 et 2020, la sélection et le soutien des petits projets nécessitant une plus forte réactivité sans requérir de coûteux développements (au contraire des plus gros projets) ont été délégués à l’équipe opérationnelle et le CST a endossé un rôle de supervision annuelle.
 
 <img src="/img/instruments/schema_dimeweb.svg" alt="Schéma de fonctionnement Dime Web" class="full-bleed">
+
+{{< sidebar >}}
+[^1]Membres du CST:
+- Dominique Cardon,
+- Dana Diminescu,
+- Guilhem Fouetillou,
+- Dominique Goux,
+- Delphine Lagarde,
+- Raphaël Laurent,
+- Olivier Martin,
+- Clément Oury,
+- Franck Rebillard,
+- Roxane Silberman,
+- Jérôme Thièvre
+- Tommaso Venturini. 
+{{< /sidebar >}}
 
 # Apports
 Dime Web a accompagné tout au long de la vie de l’instrument plus de vingt projets de recherche portés par des équipes issues d’horizons les plus divers, de la sociologie à l’économie en passant par les sciences politiques. Ainsi par exemple des projets [RiscoVac](https://anr.fr/Projet-ANR-15-CE36-0008) et [PerseVac](https://sesstim.univ-amu.fr/projet/persevac) que l’instrument Web a aidé à étudier les controverses autour de la vaccination sous l’angle du Web, en mesurant et évaluant la présence et l’influence des acteurs anti-vaccins sur le web et les réseaux sociaux. De même par exemple avec les économistes du projet [SoWell](http://www.yann-algan.com/projets/sowell/), que l’équipe de Dime Web a accompagné dans la collecte et l’analyse de données d’utilisation des moteurs de recherche en vue de modéliser le bien-être au sein de différents pays. Dans un registre tout autre encore, le projet [ComIngGen](https://anr.fr/Projet-ANR-18-CE38-0007) a bénéficié du soutien de l’instrument pour étudier dans quelle mesure la discussion sur le web a pu à la fois relayer et alimenter les débats autour des biotechnologies et des politiques publiques les encadrant.
