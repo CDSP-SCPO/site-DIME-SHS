@@ -1,5 +1,5 @@
 ---
-title:  ELIPSS : a partner in Covid-19 research
+title:  "ELIPSS : a partner in Covid-19 research"
 date:   2020-04-02T00:00:00
 ---
 The Sociological Observatory of Change (OSC) and the CDSP are mobilizing to study, through  the prism of social inequalities, the impact of social distancing and the lockdown measures put in place by the government.  Based on the extensive data collected within the framework of the probability-based ELIPSS panel, the "Coping with Covid-19" project will study the evolution of the practices and attitudes of the population by administering a series of surveys specific to Covid-19 during the period of crisis.
