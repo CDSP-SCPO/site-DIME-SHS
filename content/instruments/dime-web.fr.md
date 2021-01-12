@@ -38,12 +38,12 @@ L’équipe opérationnelle de Dime Web s’est reposée essentiellement sur le 
 
 L’accompagnement de projets de recherche recouvre des réalités différentes qui étaient prises en compte par plusieurs niveaux d’implication de l’instrument. Les demandes d’aide ponctuelle, qui étaient souvent aussi des demandes d’orientation, se faisaient gratuitement pendant l’atelier portes-ouvertes mensuel de méthodes de Sciences Po initié au médialab. C’est souvent là également que s’effectuait un premier contact qui pouvait ensuite être développé jusqu’à une prestation payante. Dime Web donnait également des formations à des groupes de chercheurs et doctorants, soit dans le cadre de l’accompagnement d’un projet, soit indépendamment par exemple lors d’écoles d’été. À partir de 2014, l’accès à l’équipement pour de l’accompagnement, de la formation ou de la co-construction de recherches s’est fait uniquement de façon payante pour les membres internes comme externes du consortium de l’Equipex, et a ainsi participé au financement du travail de développement des outils génériques.
 
-Un Comité Scientifique et Technique (CST)[^1] spécifique à Dime Web assurait le suivi de la sélection des projets et l’orientation de l’instrument sur la base d’une réunion physique annuelle et d’échanges numériques. Entre 2014 et 2020, la sélection et le soutien des petits projets nécessitant une plus forte réactivité sans requérir de coûteux développements (au contraire des plus gros projets) ont été délégués à l’équipe opérationnelle et le CST a endossé un rôle de supervision annuelle.
+Un Comité Scientifique et Technique (CST) spécifique à Dime Web assurait le suivi de la sélection des projets et l’orientation de l’instrument sur la base d’une réunion physique annuelle et d’échanges numériques. Entre 2014 et 2020, la sélection et le soutien des petits projets nécessitant une plus forte réactivité sans requérir de coûteux développements (au contraire des plus gros projets) ont été délégués à l’équipe opérationnelle et le CST a endossé un rôle de supervision annuelle.
 
 <img src="/img/instruments/schema_dimeweb.svg" alt="Schéma de fonctionnement Dime Web" class="full-bleed">
 
 {{< sidebar >}}
-[^1] : Membres du CST:
+Membres du CST Dime Web:
 - Dominique Cardon,
 - Dana Diminescu,
 - Guilhem Fouetillou,
