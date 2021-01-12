@@ -55,7 +55,7 @@ Membres du CST ELIPSS:
 - Joanie Cayouette-Remblière,
 - François Denord,
 - Céline Goffette,
-- Anne Jadot (présidente du CST)
+- Anne Jadot (présidente)
 - Dominique Joye,
 - Cécile Lefèvre,
 - Muriel Letrait,

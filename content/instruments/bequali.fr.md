@@ -41,7 +41,25 @@ L’équipe beQuali traitait les matériaux d’enquêtes sélectionnées et ass
 BeQuali s’inscrit également dans une démarche de préservation des données de la recherche et assure un archivage au Centre informatique nationale de l’Enseignement supérieur ([CINES](https://www.cines.fr/)) des enquêtes mises à disposition.
 
 <img src="/img/instruments/shemas_bequali.svg" alt="Schéma de fonctionnement beQuali" class="full-bleed">
+{{< sidebar >}}
+Membres du CST beQuali:
 
+- Stéphanie Abrial,
+- Lucie Bargel,
+- Emilie Biland-Curinier,
+- Jean-Gabriel Contamin,
+- Baptiste Coulmont,
+- Rémi Gallou,
+- Odile Gaultier-Voituriez,
+- Christophe Giraud,
+- Gilles Laferté (président),
+- Goulven Le Brech, Marie Loison-Leruste,
+- Stéphane Loret,
+- Gilles Pouchoulin,
+- Anne Revillard,
+- Joséphine Simonnot
+- Sara Tandar.
+{{< /sidebar >}}
 # Apports
 La mise à disposition des corpus beQuali valorise le travail des chercheurs producteurs et permet à d’autres de les réutiliser afin de produire notamment des comparaisons ou de nouvelles interprétations (réanalyse, comparaison, etc.). De plus, l’intérêt du partage de ces matériaux en termes d’enseignement, en particulier des méthodes qualitatives, est considérable.
 
