@@ -43,7 +43,7 @@ Un Comité Scientifique et Technique (CST)[^1] spécifique à Dime Web assurait 
 <img src="/img/instruments/schema_dimeweb.svg" alt="Schéma de fonctionnement Dime Web" class="full-bleed">
 
 {{< sidebar >}}
-[^1]Membres du CST:
+[^1] : Membres du CST:
 - Dominique Cardon,
 - Dana Diminescu,
 - Guilhem Fouetillou,
@@ -55,7 +55,7 @@ Un Comité Scientifique et Technique (CST)[^1] spécifique à Dime Web assurait 
 - Franck Rebillard,
 - Roxane Silberman,
 - Jérôme Thièvre
-- Tommaso Venturini. 
+- Tommaso Venturini.
 {{< /sidebar >}}
 
 # Apports
