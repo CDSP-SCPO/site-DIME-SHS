@@ -74,7 +74,7 @@ En parallèle, beQuali poursuit ses actions afin de favoriser les usages des cor
 [^2]: [rapport Silberman, 1999](http://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/004000935.pdf)
 [^3]: [Rapport Cribier et Feller, 2003](http://www.cmtra.org/avec/lib/elfinder-2.0-rc1/files/NOS%20ACTIONS/Publications/Dossiers%20documentaires/Archives%20sonores/techniques%20de%20documentation/CRIBIER_2003_Projet%20de%20conservation%20des%20donn%C3%A9es%20qualitatives%20des%20sciences%20sociales%20recueillies%20en%20France%20aupr%C3%A8s%20de%20la%20soci%C3%A9t%C3%A9%20civile.pdf)
 
-[^7]: [Types idéologiques et classe résiduelle dans l’enquête d'Étienne Schweisguth : Les Français et la politique, 1982-1988. Réanalyse à partir de deux familles de logiciels, CAQDAS et ADT](http://www.recherche-qualitative.qc.ca/revue/les-collections/hors-serie-les-actes/)
+[^7]: [Types idéologiques et classe résiduelle dans l’enquête d'Étienne Schweisguth : Les Français et la politique, 1982-1988. Réanalyse à partir de deux familles de logiciels, CAQDAS et ADT](https://halshs.archives-ouvertes.fr/halshs-01545814/document)
 
 [^8]: [THOMAS Anja, The ‘European Integration Paradox’ Comparing EU Practice and Discourse on the Role of Parliaments in the EU in the Assemblée nationale and the Bundestag Across Time, thèse de doctorat soutenue en décembre 2016, Sciences Po - IEP de Paris, 425 pp.](http://spire.sciencespo.fr/hdl:/2441/5i1k2o8mn49maohtdrake9dsfv)
 

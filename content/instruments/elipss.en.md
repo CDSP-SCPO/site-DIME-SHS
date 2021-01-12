@@ -8,7 +8,7 @@ options:
 - toc
 ---
 
-The DIME-QUANTI instrument, through its ELIPSS (Longitudinal Online Social Science Survey) panel, is a project that produces questionnaire-based surveys for the scientific community. It is based on a random sample (3000 individual) of the population resident in Metropolitan France, whose members have been supplied with an Internet connected touchscreen tablet on which to answer monthly surveys.
+The DIME-QUANTI instrument, through its ELIPSS (Longitudinal Online Social Science Survey) panel, was a project that produces questionnaire-based surveys for the scientific community. It was based on a random sample (3000 individual) of the population resident in Metropolitan France, whose members had been supplied with an Internet connected touchscreen tablet on which to answer monthly surveys.
 
 {{< sidebar >}}
 ![](/img/instruments/logos_instruments-ELIPSS.svg)
@@ -19,15 +19,15 @@ The DIME-QUANTI instrument, through its ELIPSS (Longitudinal Online Social Scien
 # Objectives
 The purpose of Dime Quanti is to give the scientific community the means to produce data to the highest methodological standards.
 
-Because the Elipss sample is randomly drawn, the academic surveys selected can achieve the benchmark criteria of statistical quality. In addition, the longitudinal nature of the survey is a strong feature, since there exist very few large-scale panel data for social science research.
+Because the Elipss sample was randomly drawn, the academic surveys selected was able to achieve the benchmark criteria of statistical quality. In addition, the longitudinal nature of the survey was a strong feature, since there exist very few large-scale panel data for social science research.
 
-A secondary objective of the Dime Quanti project is to develop methodological research, in particular by supporting innovative projects and experiments on survey design.
-Finally, the documentation and dissemination of the data produced by the project is intended to promote their reuse and therefore to contribute to cumulative research processes.
+A secondary objective of the Dime Quanti project was to develop methodological research, in particular by supporting innovative projects and experiments on survey design.
+
+Finally, the documentation and dissemination of the data produced by the project was intended to promote their reuse and therefore to contribute to cumulative research processes.
 
 
 # Positioning
 Elipss is part of an international landscape of online panels intended for the scientific community.
-
 Use of the Internet has developed very quickly in the last 15 years in the field of marketing surveys and opinion polls, mainly because of the low costs and speed of collection possible with the web.
 
 In a report on online surveys (Baker[^1], 2010), AAPOR (American Association for Public Opinion Research) draws attention to the significant biases in online “access” or “opt-in” panels as a way of conducting general population surveys. Although Internet access has grown rapidly since the early 2000s, part of the population is still off-line. In France in 2017, for example, 15% of the population were still without home Internet access. This lack of coverage automatically excludes part of the population from online surveys. Moreover, the use of access or opt-in panels with non-probabilistic samples casts doubt on their representativeness and on the extrapolation of results.
@@ -43,10 +43,17 @@ In order to overcome the biases flagged by AAPOR, an online panel needs to be co
 # Operation
 Submitted in response to calls for proposals, the surveys to be distributed to the ELIPSS panel are selected by the DIME Quanti Scientific and Technical Committee. The ELIPSS team then supports the research teams in the design of the questionnaire and manages the different stages of survey production: scheduling the questionnaire, testing, data collection via the ELIPSS application, field monitoring and reminders, and finally providing the project’s initiators with an exploitable data file.
 
-After a maximum of one year’s exclusive access to the data for the teams that coproduce an ELIPSS survey, the data are added to [the CDSP catalogue](https://cdsp.sciences-po.fr/fr/ressources-en-ligne/?0=subject__libel-ELIPSS) and made available to the whole scientific community.
+After a maximum of one year’s exclusive access to the data for the teams that coproduce an ELIPSS survey, the data were added to [the CDSP catalogue](https://cdsp.sciences-po.fr/fr/ressources-en-ligne/?0=subject__libel-ELIPSS) and were made available to the whole scientific community.
+
+{{< sidebar >}}
+ELIPSS STC's Members :</br>
+Rémy Caveng, Joanie Cayouette-Remblière, François Denord, Céline Goffette, Anne Jadot (présidente), Dominique Joye, Cécile Lefèvre, Muriel Letrait, Pierre Mercklé, Gaël de Peretti, Élise Tenret, Loup Wolff, Sonja Zmerli.</br></br>
+Also contributed to STC :</br>
+François Beck, Michel Bozon, Bernard Denni, Julien Duval, Guy Michelat, Isabelle Récotillet et Karine van der Straeten.
+{{< /sidebar >}}
 
 # Contributions
-By giving multiple teams the means to conduct a survey, ELIPSS is able to collect an impressive variety of detailed data, which cast light on the most recent changes in social conditions, practices and attitudes in France in a very large number of spheres.
+By giving multiple teams the means to conduct a survey, ELIPSS was able to collect an impressive variety of detailed data, which cast light on the most recent changes in social conditions, practices and attitudes in France in a very large number of spheres.
 
 The richness of these data makes it possible to undertake in-depth analyses of the dynamics running through French society, both because of the very large quantities of individual data collected on the practices, habits and attitudes of the panellists, and because of the longitudinal dimension of some of the surveys, whose questions are repeated several times at regular intervals in order to identify changes in behaviours and opinions at the most granular level.
 

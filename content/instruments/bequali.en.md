@@ -32,22 +32,27 @@ Aspiring to compare with international databanks and a frontrunner at national l
 
 
 # Operation
-The surveys that form the catalogue are selected on different scientific or feasibility criteria by a scientific and technical committee (STC). The scientific community is invited to submit its projects through a call for proposals issued at least once a year.
+During the main period of the project, the surveys that form the catalogue were selected on different scientific or feasibility criteria by a scientific and technical committee (STC). The scientific community is invited to submit its projects through a call for proposals issued at least once a year.
 
-The beQuali team processes the materials in the selected surveys, uploads them to the [beQuali site](http://bequali.fr/fr/contacs/) and references them on the download platform [Quetelet Progedo Diffusion](http://quetelet.progedo.fr/commander-des-donnees/).
+The beQuali team was processing the materials of the selected surveys, uploading them to the [beQuali site](http://bequali.fr/fr/contacs/) and referencing them on the download platform [Quetelet Progedo Diffusion](http://quetelet.progedo.fr/commander-des-donnees/).
 
-Part of beQuali’s role is to preserve research data and it is planning to archive the surveys available at the National Higher Education IT Centre ([CINES](https://www.cines.fr/)).
+Part of beQuali’s role is to preserve research data and archive the surveys available at the National Higher Education IT Centre ([CINES](https://www.cines.fr/)).
 
 ![Schéma de fonctionnement de beQuali](/img/instruments/shemas_bequali.svg)
 
+{{< sidebar >}}
+beQuali STC's Members :</br>
+Stéphanie Abrial, Lucie Bargel, Emilie Biland-Curinier, Jean-Gabriel Contamin, Baptiste Coulmont, Rémi Gallou, Odile Gaultier-Voituriez, Christophe Giraud, Gilles Laferté (président), Goulven Le Brech, Marie Loison-Leruste, Stéphane Loret, Gilles Pouchoulin, Anne Revillard, Joséphine Simonnot, Sara Tandar.</br></br>
+Also contributed to STC:</br>
+Bernard Bel, Antonio Casilli, Didier Demazière, Véronique Ginouvès, Christelle Hamel, Camille Hamidi, Dominique Le Roux, Nicolas Mariot, Brigitte Mazon, Jean-Luc Minel, Catherine Morel, Valérie Tesnière, Florence Weber.
+{{< /sidebar >}}
+
 # Contributions
-There is strong interest in the academic community in having access to qualitative survey materials. Making the beQuali materials available thus publicises the work of the researchers who produced it and allows others to reuse it, in particular for the purpose of comparison or new interpretation (reanalysis, comparison, etc.). In addition, there are considerable benefits in sharing these materials for the teaching of qualitative methods.
+ Making the beQuali materials available publicises the work of the researchers who produced it and allows others to reuse it, in particular for the purpose of comparison or new interpretation (reanalysis, comparison, etc.). In addition, there are considerable benefits in sharing these materials for the teaching of qualitative methods.
 
 As well as the raw material (interviews, preparatory documents, etc.), beQuali provides documentation that contextualises the research process: a “survey into the survey” is included in the form of a written report accompanied by audio extracts of interviews with the researchers who conducted the surveys.
 
-Although it is still too soon to draw definitive conclusions about what lessons can be learned from this experiment in terms of research and teaching, the first reuses show the benefits that can arise from giving these materials a second life. For example, revisiting a survey on the political representations of the French 30 years on made it possible to enrich the original typology by reintegrating sections of the material that could not be included at the time.
-
-Another example, a piece of research on parliamentarians in France and in Germany was substantially broadened by the inclusion of interviews originating in another piece of research conducted a few years earlier.
+Although it is still too soon to draw definitive conclusions about what lessons can be learned from this experiment in terms of research and teaching, the first research reuses show the benefits that can arise from giving these materials a second life. For example, revisiting a survey[^7] on the political representations of the French 30 years on made it possible to enrich the original typology by reintegrating sections of the material that could not be included at the time. Another example, a piece of research on parliamentarians in France and in Germany was substantially broadened by the inclusion of interviews originating in another piece of research conducted a few years earlier.
 
 Beyond this, the availability of these materials offers new pedagogical possibilities for a growing number of teachers wishing to use alternative sources to tackle methodological issues differently, as well as the big questions of sociology or political science. In this sense, beQuali is helping to provide the scientific community with the resources needed for genuine methodological research to develop in France, comparable with the situation that already prevails, for example, in the Anglo-Saxon world.
 
@@ -63,8 +68,8 @@ In parallel, beQuali continues its work to facilitate the use of the materials a
 [^2]: [Silberman Report, 1999](http://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/004000935.pdf)
 [^3]: [Cribier and Feller Report, 2003](http://www.cmtra.org/avec/lib/elfinder-2.0-rc1/files/NOS%20ACTIONS/Publications/Dossiers%20documentaires/Archives%20sonores/techniques%20de%20documentation/CRIBIER_2003_Projet%20de%20conservation%20des%20donn%C3%A9es%20qualitatives%20des%20sciences%20sociales%20recueillies%20en%20France%20aupr%C3%A8s%20de%20la%20soci%C3%A9t%C3%A9%20civile.pdf)
 
-[^7]: [Types idéologiques et classe résiduelle dans l’enquête d'Étienne Schweisguth : Les Français et la politique, 1982-1988. Réanalyse à partir de deux familles de logiciels, CAQDAS et ADT](http://www.recherche- qualitative.qc.ca/revue/les-collections/hors-serie-les-actes/)
+[^7]: [Types idéologiques et classe résiduelle dans l’enquête d'Étienne Schweisguth : Les Français et la politique, 1982-1988. Réanalyse à partir de deux familles de logiciels, CAQDAS et ADT](https://halshs.archives-ouvertes.fr/halshs-01545814/document)
 
 [^8]:  [THOMAS Anja, The ‘European Integration Paradox’ Comparing EU Practice and Discourse on the Role of Parliaments in the EU in the Assemblée nationale and the Bundestag Across Time, thèse de doctorat soutenue en décembre 2016, Sciences Po - IEP de Paris, 425 pp.](http://spire.sciencespo.fr/hdl:/2441/5i1k2o8mn49maohtdrake9dsfv)
 
-[^9]:  traitement d’archives sous format papier et électronique (inventaire, classement, anonymisation, etc.), contextualisation des enquêtes, sensibilisation de la communauté scientifique aux bonnes pratiques et aux possibilités de réutilisation des matériaux
+[^9]:  processing of archives in paper and electronic format (inventory, classification, anonymization, etc.), contextualization of surveys, awareness of the scientific community of good practices and the possibilities of reusing materials

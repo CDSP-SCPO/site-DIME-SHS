@@ -45,7 +45,6 @@ Plusieurs initiatives ont ainsi vu le jour dans le monde académique : le LISS P
 Proposées dans le cadre d’appels à projets, les enquêtes soumises au panel ELIPSS étaient sélectionnées par le comité scientifique et technique (CST) DIME Quanti. L’équipe ELIPSS accompagnait alors les équipes de recherche sélectionnées dans la conception du questionnaire et prenait en charge les différentes phases de la réalisation de l’enquête : la programmation du questionnaire, les tests, la collecte des données via l’application dédiée, le suivi du terrain et les relances, jusqu’à la restitution aux porteurs du projet d’enquête d’un fichier de données exploitable.
 
 Après une exclusivité maximale d’un an pour les équipes ayant co-produit une enquête ELIPSS, les données venaient enrichir le [catalogue du CDSP](https://cdsp.sciences-po.fr/fr/ressources-en-ligne/?0=subject__libel-ELIPSS) pour être mises à disposition de l’ensemble de la communauté scientifique.
-</br>
 
 <img src="/img/instruments/schema_elipss.svg" alt="Schéma de fonctionnement d'Elipss" class="full-bleed">
 
