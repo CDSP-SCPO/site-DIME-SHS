@@ -48,6 +48,25 @@ Après une exclusivité maximale d’un an pour les équipes ayant co-produit un
 
 <img src="/img/instruments/schema_elipss.svg" alt="Schéma de fonctionnement d'Elipss" class="full-bleed">
 
+{{< sidebar >}}
+Membres du CST ELIPSS:
+
+- Rémy Caveng,
+- Joanie Cayouette-Remblière,
+- François Denord,
+- Céline Goffette,
+- Anne Jadot (présidente du CST)
+- Dominique Joye,
+- Cécile Lefèvre,
+- Muriel Letrait,
+- Pierre Mercklé,
+- Gaël de Peretti,
+- Élise Tenret,
+- Loup Wolff,
+- Sonja Zmerli.
+
+François Beck, Michel Bozon, Bernard Denni, Julien Duval, Guy Michelat, Isabelle Récotillet et Karine van der Straeten ont participé au comité scientifique et technique entre 2012 et 2018.
+{{< /sidebar >}}
 
 # Apports
 En donnant les moyens à de nombreuses équipes de recherche de réaliser une enquête, ELIPSS a recueilli une variété impressionnante de données détaillées, qui éclairent sur les évolutions les plus récentes des situations sociales, des pratiques et des attitudes en France dans un très grand nombre de domaines. Parmi les 80 jeux de données qui en résultent, Dime Quanti a donné lieu à des collaborations interdisciplinaires originales ; l’enquête [SHAMA](https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2016.07.shama/) par exemple associait essentiellement des architectes et nutritionnistes autour des liens entre aménagement et obésité. Le dispositif s’est également démarqué par la possibilité de réaliser des enquêtes longitudinales : le projet [DYNAMOB](https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2016.07.shama/) avec 18 vagues administrées sur le rapport à la politique tant en période électorale qu’en période dite ordinaire ou encore l’[enquête annuelle](https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.2013.04.ea/) sur l’évolution des conditions de vie portée par le CDSP en sont les meilleurs exemples. Enfin, les données produites dans le cadre d’ELIPSS ont pu parfois être au plus près de l’actualité comme le démontre le projet [Coping with covid-19](https://cdsp.sciences-po.fr/fr/ressources-en-ligne/ressource/fr.cdsp.ddi.elipss.202004.coco1/).

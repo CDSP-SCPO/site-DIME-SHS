@@ -44,6 +44,7 @@ Un Comité Scientifique et Technique (CST) spécifique à Dime Web assurait le s
 
 {{< sidebar >}}
 Membres du CST Dime Web:
+
 - Dominique Cardon,
 - Dana Diminescu,
 - Guilhem Fouetillou,
