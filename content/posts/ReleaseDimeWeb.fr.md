@@ -1,6 +1,6 @@
 ---
 title:  De nouvelles versions majeures des logiciels Dime Web
-date:   2021-01-11T00:00:00
+date:   2020-12-20T00:00:00
 ---
 L'achèvement imminent du financement de DIME-SHS est l'occasion pour l'instrument Dime Web de finaliser un certain nombre des développements engagés depuis de longs mois sur ses principaux logiciels open source afin de pérenniser le travail accompli en stabilisant les outils et permettant leur usage au delà de la vie de l'Equipex.
 Ce sont ainsi 3 nouvelles "releases" majeures qui sont publiées ces derniers jours pour les logiciels Hyphe, Hyphe-Browser et Gazouilloire et qui seront présentées le 6 février 2021 à la conférence internationale de logiciel libre FOSDEM au sein de la salle [Open Research Tools & Technologies](https://fosdem.org/2021/schedule/track/open_research_tools_and_technologies/).

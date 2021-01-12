@@ -112,7 +112,6 @@ Outre les apports des partenaires du consortium, les ressources complémentaires
       <li><a href="https://www.sciencespo.fr/department-economics/en.html">Département d'économie (Sciences Po, CNRS)</a></li>
       <li><a href="https://www.pacte-grenoble.fr/">Pacte, laboratoire de sciences sociales(Université Grenoble Alpes, Sciences Po Grenoble)</a></li>
       <li><a href="https://www.gemass.fr/">Groupe d’Études des Méthodes de l’Analyse Sociologique de la Sorbonne (Sorbonne, CNRS)</a></li>
-      <li><a href="https://www.institutmontaigne.org/">Institut Montaigne</a></li>
       <li><a href="http://controverses.org/">Programme FORCCAST</a></li>    
     </ul>
   </li>  
