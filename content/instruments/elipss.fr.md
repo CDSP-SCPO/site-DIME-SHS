@@ -50,8 +50,8 @@ Après une exclusivité maximale d’un an pour les équipes ayant co-produit un
 
 {{< sidebar >}}
 Membres du CST ELIPSS :</br>
-Rémy Caveng, Joanie Cayouette-Remblière, François Denord, Céline Goffette, Anne Jadot (présidente), Dominique Joye, Cécile Lefèvre, Muriel Letrait, Pierre Mercklé, Gaël de Peretti, Élise Tenret, Loup Wolff, Sonja Zmerli.
-Ont également contribué :</br>
+Rémy Caveng, Joanie Cayouette-Remblière, François Denord, Céline Goffette, Anne Jadot (présidente), Dominique Joye, Cécile Lefèvre, Muriel Letrait, Pierre Mercklé, Gaël de Peretti, Élise Tenret, Loup Wolff, Sonja Zmerli.</br></br>
+Ont également contribué au CST:</br>
 François Beck, Michel Bozon, Bernard Denni, Julien Duval, Guy Michelat, Isabelle Récotillet et Karine van der Straeten.
 {{< /sidebar >}}
 
