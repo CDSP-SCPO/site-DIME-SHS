@@ -4,9 +4,10 @@ menu:
   main:
     parent: Project
 weight: 40
+options:
+- toc
 ---
-# Landmarks
-## Chronology
+# Chronology
 
 {{< longdesc src="/img/reperes/shema_reperes.svg" class="full-bleed" alt="Frise chronologique" >}}
 1. FIRST FOUNDATIONS

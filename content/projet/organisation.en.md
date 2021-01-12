@@ -4,6 +4,8 @@ menu:
   main:
     parent: Project
 weight: 20
+options:
+- toc
 ---
 # Governance
 Coordinated by Sciences Po, the DIME-SHS Excellence Facility was headed by Nicolas Sauger, who has been its Scientific and Technical Director from September 2017 to December 2020. He succeeded Laurent Lesnard, who initiated the project in 2011.

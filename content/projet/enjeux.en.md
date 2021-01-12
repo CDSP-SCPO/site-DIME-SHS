@@ -4,6 +4,8 @@ menu:
   main:
     parent: Project
 weight: 10
+options:
+- toc
 ---
 # Background
 Advances in digital technologies offer huge opportunities for the humanities and social sciences. Today, they not only enable us to capture a mass of information linked with the development of the Internet and social media, but they also give us the chance to recast the traditional questions and instruments of our disciplines. These new technologies also open up the possibility for the practice of science to be transformed by the principles of openness and by easier access to data. This has led both to an accentuation of the issue of replicability in the social sciences and to an exponential increase in the quantity and cumulative character of available data.
