@@ -46,7 +46,7 @@ The DIME-SHS Consortium was headed by Sciences Po and has bring together partner
     <h2 class="f5">Research Infrastructure</h2>
 
     <ul class="list flex flex-nowrap flex-auto items-center">
-      <li><a href="http://www.progedo.fr"><img src="/img/logo-queteletprogedodiffusion.png" alt="TGIR PROGEDO"></a></li>
+      <li><a href="http://www.progedo.fr"><img src="/img/logoPGD.png" alt="TGIR PROGEDO"></a></li>
     </ul>
   </li>
 </ul>
