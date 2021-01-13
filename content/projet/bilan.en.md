@@ -7,6 +7,19 @@ weight: 40
 options:
 - toc
 ---
+Imagined as early as 2008, the Dime-SHS project was officially launched on January 31st, 2012 and ended on December 31st, 2020, after it was extended for one year longer than previously planned.
+
+The long-term project aiming at building an SHS infrastructure in France, benefited from the advantage of the developments made possible by new information technologies and the power of IT infrastructures. DIME-SHS has thus made major innovations possible in the research landscape:
+-	the implementation of an online probabilistic panel in France.
+-	the publication of all qualitative survey materials.
+-	the development of new applications, whether they serve as a platform for operations such as Elipss or beQuali or whether they allow the exploration, harvesting and analysis of corpora online.
+From this point of view, DIME-SHS has largely exceeded its initial ambitions, and its structuring effects will continue well beyond the end of the initial funding..
+
+DIME-SHS has built up a very substantial archive of data that is available to the entire scientific community. This was achieved  by adopting a pioneering spirit of contemporary open science policy. This includes more than 70 quantitative surveys, 20 qualitative corpuses, and a dozen software packages made available as open source. 
+DIME-SHS has also made a set of tools and platforms available that will continue beyond the scope of the project. For example, today Hyphe is a web exploration platform available to all. Also, the Elipss panel continues to collect data and is now used to support data collections such as ISSP. Finally, beQuali now articulates a whole ecosystem of activities around qualitative data. But beyond these achievements and their continuation, DIME-SHS has above all helped to shape new skills, and to develop new expertise and ideas. It is thanks to DIME-SHS, for example, that France is now one of the linchpins of the European Cronos2 panel.  
+
+DIME-SHS is also a collective achievement that has fundamentally shaped the identity and skills of the CDSP. Involving more than thirty engineers for all or part of the duration of EquipEx, this cross-disciplinary project mobilized many professions (statistical engineers, panel managers, research engineers, and archivists). Nevertheless, one of the greatest challenges of DIME-SHS was to show the gains brought by the synergies of the joint construction of three instruments. In the end, the three instruments have hardly conducted any joint investigations - despite several attempts in this direction.  There is nevertheless a real added value in the exchange of practices, the sharing of expertise and the pooling of infrastructures. For example, the question of standards, IT or legal security of devices, and the design and construction of IT architectures have been the subject of constant exchanges that have been decisive for the progress of the projects.
+
 # Chronology
 
 {{< longdesc src="/img/reperes/shema_reperes.svg" class="full-bleed" alt="Frise chronologique" >}}
