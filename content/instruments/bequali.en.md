@@ -54,12 +54,12 @@ Although it is still too soon to draw definitive conclusions about what lessons 
 
 Beyond this, the availability of these materials offers new pedagogical possibilities for a growing number of teachers wishing to use alternative sources to tackle methodological issues differently, as well as the big questions of sociology or political science. In this sense, beQuali is helping to provide the scientific community with the resources needed for genuine methodological research to develop in France, comparable with the situation that already prevails, for example, in the Anglo-Saxon world.
 
-# Prospect
-At present, the aim is to exploit beQuali’s activity by continuing to develop the catalogue of surveys, both numerically and in terms of disciplines and methods employed (focus groups, observations, etc.).
+# Sustainability
+At the end of the Dime-SHS project, beQuali's expertise is being put to good use in order to continue developing the catalog of surveys, both in number and in terms of the disciplines and methods used (surveys based on ethnographic observations, mixed quantitative-quali surveys, etc.).
 
-In a context of open research data and with the aim of broadening the services offered to the scientific community, beQuali provides support for projects during the implementation process (participation in the establishment of a Data Management Plan). The goal is to help research teams to manage the data they produce in anticipation of their eventual inclusion in the beQuali survey bank. The aim is also to initiate good practices in terms of documentation, storage and archiving, and thereby to facilitate and accelerate the dissemination of these surveys.
+Within the context of opening up research data and with a desire to broaden the services offered to the scientific community, beQuali offers support for projects in progress (participation in the implementation of data management plans). The objective is to help research teams manage the data they produce by anticipating their possible availability on the beQuali survey database. It is also a matter of initiating best practices in terms of documentation, storage and archiving and thus making these surveys more easily and quickly communicable.
 
-In parallel, beQuali continues its work to facilitate the use of the materials already available. A teaching kit is currently being developed that teachers will be able to use as “turnkey” material for their classes in qualitative research methods.
+At the same time, beQuali continues to promote use of the available corpora. Therefore, as part of the action plan for the end of Equipex, a self-training module for teaching methods and a tool for filtering interview transcripts according to the sociographic properties of the speakers has been incorporated into the tool. In the future, other resources will be developed, such as "teaching kits'' for courses on qualitative methods.
 
 
 [^1]: [Braibant Report, 1996](http://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/964093000.pdf)

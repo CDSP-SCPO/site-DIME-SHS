@@ -59,11 +59,13 @@ The richness of these data makes it possible to undertake in-depth analyses of t
 
 Beyond the information they provide on French society, the numerous domains explored through the ELIPSS surveys make it possible to explore how this knowledge is constructed and the conditions in which it is produced. In fact, the use of online questionnaires administered on a touchscreen tablet supplied to the respondents makes it possible both to innovate methodologically, by developing and testing new ways of constructing questions and questionnaires for the general population, and to compare the data produced in this way with those obtained by other survey techniques, in France and in other countries.
 
-# Prospects
-The ELIPSS project depends on a variety of skills: online survey design, panel management, or indeed protection of respondent confidentiality.
+# Sustainability
+The ELIPSS system was based on a variety of areas of expertise (Internet survey design, panel monitoring, protection of respondent confidentiality, development of software infrastructures dedicated to the management of samples, mobile fleets and surveys, etc.) which today must be put to good use in support of new research projects. The experience gained through the implementation and management of the ELIPSS panel can be used for international projects; in fact, since 2019, CDSP teams have been participating in the implementation of the European CRONOS2 panel (led by ERIC ESS) with two projects funded under the H2020 infrastructure calls (SSHOC and ESS-SUSTAIN-2 projects).
 
-The aim today is to exploit these different skills to support new research projects.
-In future, the project will also need to emphasise the development of methodological research into the improvement of questionnaire-based survey methods.
+In addition, the work undertaken using the ELIPSS experience and data will continue and expand well beyond the initial funding. It will even become clear over time that the value of a longitudinal monitoring system such as ELIPSS is fully justified. In this respect, the device set up to monitor the lockdown experiments during the Covid-19 crisis has shown how valuable it is to have data prior to an event in order to establish what kind of impact it will have.
+
+The sustainability of the ELIPSS system is also guaranteed. Its modalities have changed. In response to changes in the place of the Internet in our society and to limit the overall costs of the system, tablets are no longer being provided to respondents and Internet subscriptions are no longer being offered. ELIPSS now relies on the commitment of Sciences Po and scientific partnerships with institutions wishing to use the platform. For example, the international ISSP survey chose ELIPSS to carry out its French fieldwork in 2020-2021. In 2020, ELIPSS completed the second refresh of its sampling in order to maintain an overall sample size of more than 2,000 participants.
+
 
 [^0]: Un panel est un ensemble d’individus qui, dans le cadre d’une étude spécifique, sera interrogé à plusieurs reprises et dont il est possible de suivre l’évolution des opinions et comportements. Le baromètre, même s’il est répété dans le temps, interrogera des personnes différentes à chaque administration.
 [^1]: Baker, R., Blumberg, S. J., Brick, J. M., Couper, M. P., Courtright, M., Dennis, J. M.…Zahs, D. (2010). Research synthesis: AAPOR report on online panels. Public Opinion Quarterly, 74, 711–781
