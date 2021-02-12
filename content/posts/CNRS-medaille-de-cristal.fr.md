@@ -11,6 +11,8 @@ Le Président du CNRS et le Directeur de l’Institut des sciences humaines et s
 
 Ces médailles sont une marque de reconnaissance du CNRS pour leur très grand engagement et l’excellence du travail qu’elles ont accompli depuis 2005 au CDSP et depuis 2011 dans le cadre élargi de l’Equipex DIME-SHS. Ces distinctions témoignent également plus généralement de la très grande importance du rôle des ingénieurs et techniciens dans la recherche aux côtés des chercheurs.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ac1z5rclyOA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 {{< sidebar class="last" >}}
 - [Anne Cornilleau](https://cdsp.sciences-po.fr/fr/le-cdsp/equipe/membre/anne.cornilleau/)
 - Anne-Sophie Cousteaux
