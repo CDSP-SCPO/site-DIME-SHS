@@ -107,6 +107,21 @@
   volume: null
   source: null
   category: elipss
+- id: 6S39YEI6
+  title: Maîtriser l’école, instrumentaliser l’État ?
+  authors:
+    - Barrault-Stella, Lorenzo
+    - Hugrée, Cédric
+  date: "2020"
+  date_sort: 2020-01-01T00:00:00.000Z
+  url: https://www.cairn.info/revue-politix-2020-2-page-103.htm
+  type: Articles
+  issue: "2"
+  pages: 103-135
+  publication: Politix
+  volume: n° 130
+  source: null
+  category: elipss
 - id: 7I6U85IG
   title: "Entretien Alexis Spire : « Les classes populaires ressentent un très
     fort sentiment d’injustice fiscale »"
