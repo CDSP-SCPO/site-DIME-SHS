@@ -14,7 +14,7 @@ Ces médailles sont une marque de reconnaissance du CNRS pour leur très grand e
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ac1z5rclyOA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {{< sidebar class="last" >}}
-- [Anne Cornilleau](https://cdsp.sciences-po.fr/fr/le-cdsp/equipe/membre/anne.cornilleau/)
+- Anne Cornilleau
 - Anne-Sophie Cousteaux
 - [Geneviève Michaud](https://cdsp.sciences-po.fr/fr/le-cdsp/equipe/membre/genevieve.michaud/)
 {{< /sidebar >}}
