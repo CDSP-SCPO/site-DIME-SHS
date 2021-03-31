@@ -4,7 +4,6 @@ node_js: '12'
 env:
 - TARGET_BRANCH="gh-pages"
   BASE_URL=https://dime-shs.sciencespo.fr/
-  MATOMO_SITE_ID=10
   NODE_DEBUG="import*"
 
 jobs:
