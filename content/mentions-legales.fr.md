@@ -67,8 +67,7 @@ Le site ne collecte aucune information personnelle, à l'exception données brut
 
 Sciences Po invite les visiteurs à informer ses services dans les plus brefs délais en cas de constat de violation des données personnelles. Complétez alors le [formulaire](https://docs.google.com/forms/d/e/1FAIpQLSd9pnlOZCeB_OW00BnhYJUfvWbQsn1CytLtmZXWTapfsGDKIg/viewform) ou envoyez un mail à dataprotection@sciencespo.fr. Vous pouvez exercer vos droits d'accès, de modification, de rectification ou de suppression des données personnelles vous concernant en nous écrivant :
 
-    par courrier : CDSP Sciences Po - 27, rue Saint-Guillaume - 75337 Paris Cedex 07
-
-    par courrier électronique : cnil@sciencespo.fr
+- par courrier : CDSP Sciences Po - 27, rue Saint-Guillaume - 75337 Paris Cedex 07
+- par courrier électronique : cnil@sciencespo.fr
 
 Le visiteur peut également contacter le Délégué à la Protection des Données de Sciences Po à l’adresse cnil@sciencespo.fr en seconde intention, puis adresser une réclamation à [la CNIL](https://www.cnil.fr/), en cas de difficultés ou questions ultérieures concernant ses droits RGPD.
