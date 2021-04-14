@@ -15,7 +15,7 @@
       {{- if .HasChildren -}}
       <ul class="secondary-navigation">
         {{- range .Children -}}
-        <li><a href="{{ .URL }}">{{ .Title }}</a></li>
+        <li><a href="{{ .URL }}"{{ with .Params.target }} target="{{ . | safeHTMLAttr }}"{{ end }}>{{ .Title }}</a></li>
         {{- end -}}
       </ul>
       {{- end -}}

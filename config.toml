@@ -132,8 +132,15 @@ enableRobotsTXT = true
     name = "Publications transverses"
     weight = 40
 
-[blackfriday]
-  hrefTargetBlank = true
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+
+  [markup.blackfriday]
+    hrefTargetBlank = true
+
+  # [markup.goldmark]
+  #   [markup.goldmark.renderer]
+  #     unsafe = true
 
 [languages]
   [languages.fr]
