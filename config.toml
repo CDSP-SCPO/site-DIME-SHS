@@ -132,8 +132,15 @@ enableRobotsTXT = true
     name = "Publications transverses"
     weight = 40
 
-[blackfriday]
-  hrefTargetBlank = true
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+
+  [markup.blackfriday]
+    hrefTargetBlank = true
+
+  # [markup.goldmark]
+  #   [markup.goldmark.renderer]
+  #     unsafe = true
 
 [languages]
   [languages.fr]
@@ -157,3 +164,19 @@ parent = "home"
 title = "Introduction"
 url = "/en/#introduction"
 weight = 10
+
+[[languages.fr.menu.footer]]
+identifier = "legal"
+parent = "home"
+title = "Mentions légales"
+url = "https://cdsp.sciences-po.fr/fr/mentions-legales/"
+params = { target = "_blank"}
+weight = 100
+
+[[languages.en.menu.footer]]
+identifier = "legal"
+parent = "home"
+title = "Credits"
+url = "https://cdsp.sciences-po.fr/en/mentions-legales/"
+params = { target = "_blank"}
+weight = 100
