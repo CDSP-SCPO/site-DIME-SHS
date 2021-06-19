@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DIME-SHS</title>
+    <link>https://dime-shs.sciencespo.fr/en/</link>
+    <description>Recent content on DIME-SHS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>EN</language>
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dime-shs.sciencespo.fr/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://dime-shs.sciencespo.fr/en/projet/enjeux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/projet/enjeux/</guid>
+      <description> Background Advances in digital technologies offer huge opportunities for the humanities and social sciences. Today, they not only enable us to capture a mass of information linked with the development of the Internet and social media, but they also give us the chance to recast the traditional questions and instruments of our disciplines. These new technologies also open up the possibility for the practice of science to be transformed by the principles of openness and by easier access to data. This has led both to an accentuation of the issue of replicability in the social sciences and to an exponential increase in the quantity and cumulative character of available data.
+Developing systems able to take advantage of these new possibilities requires considerable investment. Thanks to successive calls from the scientific community, in particular with the Silberman Report1 in 1999 and the Cribier Report2 in 2003, a number of initiatives contributed to the construction of these social science technology platforms in France.
+Selected in January 2011 in the National Research Agency’s call for Excellence Facilities projects, DIME-SHS reflects this dynamic, a single facility that brings together technologies for capturing online data, for collecting data from representative samples online, and for making data – particularly qualitative data – available to the whole scientific community. In this capacity, DIME-SHS joins the landscape of infrastructures aligned with the practices of the academic community by providing services dedicated to the production, dissemination and reuse of social science data.
+Missions and principles DIME-SHS is an experimental facility for innovative research in the humanities and social sciences. Its primary role is to design and develop a battery of tools, built on new technologies, for the production, dissemination and reuse of data. Its activity encompasses the principal types of social science data – qualitative, textual and quantitative – and the main data sources – interviews and observation notes, opinion surveys or accumulated web data.
+DIME-SHS adheres closely in its operational principles to the values of open science and FAIR standards. DIME-SHS is committed to the improvement of standards, in particular methodological standards, with a focus on scientific excellence. DIME-SHS also embodies methodological pluralism, combining approaches sometimes drawn from widely separated traditions.
+The main missions of DIME-SHS are thus to… :
+ Design experimental tools for the production of research data; Structure platforms to facilitate data access and exploration; Contribute to thinking about multi-corpus research methods and promote new practices supported by digital tools; Foster open data and secondary data use in order to make social science research methods more transparent.   Rapport Silberman, 1999 ↩ Rapport Cribier et Feller, 2003 ↩   </description>
+    </item>
+    
+    <item>
+      <title>ELIPSS</title>
+      <link>https://dime-shs.sciencespo.fr/en/instruments/elipss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/instruments/elipss/</guid>
+      <description>The DIME-QUANTI instrument, through its ELIPSS (Longitudinal Online Social Science Survey) panel, was a project that produces questionnaire-based surveys for the scientific community. It was based on a random sample (3000 individual) of the population resident in Metropolitan France, whose members had been supplied with an Internet connected touchscreen tablet on which to answer monthly surveys.
+Browse ELIPSS website
+ Objectives The purpose of Dime Quanti is to give the scientific community the means to produce data to the highest methodological standards.
+Because the Elipss sample was randomly drawn, the academic surveys selected was able to achieve the benchmark criteria of statistical quality. In addition, the longitudinal nature of the survey was a strong feature, since there exist very few large-scale panel data for social science research.
+A secondary objective of the Dime Quanti project was to develop methodological research, in particular by supporting innovative projects and experiments on survey design.
+Finally, the documentation and dissemination of the data produced by the project was intended to promote their reuse and therefore to contribute to cumulative research processes.
+Positioning Elipss is part of an international landscape of online panels intended for the scientific community. Use of the Internet has developed very quickly in the last 15 years in the field of marketing surveys and opinion polls, mainly because of the low costs and speed of collection possible with the web.
+In a report on online surveys (Baker1, 2010), AAPOR (American Association for Public Opinion Research) draws attention to the significant biases in online “access” or “opt-in” panels as a way of conducting general population surveys. Although Internet access has grown rapidly since the early 2000s, part of the population is still off-line. In France in 2017, for example, 15% of the population were still without home Internet access. This lack of coverage automatically excludes part of the population from online surveys. Moreover, the use of access or opt-in panels with non-probabilistic samples casts doubt on their representativeness and on the extrapolation of results.
+Nonetheless, the advantages of online surveys very quickly attracted social science research, in particular as a way to compensate for the drop in response rates in traditional surveys.
+In order to overcome the biases flagged by AAPOR, an online panel needs to be constructed using a random sample of the population. This means employing an off-line method of recruitment (face-to-face or by telephone) to include people without Internet access and, if necessary, to provide them with an Internet connection (Das, Ester and Kaczmirek, 2011)2.
+ In consequence, several initiatives emerged in the academic world: the LISS Panel developed by CentERdata at the University of Tilburg in the Netherlands and the Knowledge Panel in the United States were the first to use probabilistic sampling. France with ELIPSS and Germany with GESIS and GIP followed in 2011 (Blom et al., 2016)3. Other probabilistic panels designed for research were then set up in Norway, in Sweden, in Iceland, and in the UK.
+The methods used to recruit and include people without Internet access differ between these national schemes. ELIPSS is original in that it gives all the panellists Internet access by supplying them with touchscreen tablets connected to the mobile network. The methodological advantage of this model is that it ensures that all the respondents have the same questionnaire format and that it avoids certain measurement distortions caused by different presentations of the questions.
+Operation Submitted in response to calls for proposals, the surveys to be distributed to the ELIPSS panel are selected by the DIME Quanti Scientific and Technical Committee. The ELIPSS team then supports the research teams in the design of the questionnaire and manages the different stages of survey production: scheduling the questionnaire, testing, data collection via the ELIPSS application, field monitoring and reminders, and finally providing the project’s initiators with an exploitable data file.
+After a maximum of one year’s exclusive access to the data for the teams that coproduce an ELIPSS survey, the data were added to the CDSP catalogue and were made available to the whole scientific community.
+ELIPSS STC&amp;rsquo;s Members : Rémy Caveng, Joanie Cayouette-Remblière, François Denord, Céline Goffette, Anne Jadot (présidente), Dominique Joye, Cécile Lefèvre, Muriel Letrait, Pierre Mercklé, Gaël de Peretti, Élise Tenret, Loup Wolff, Sonja Zmerli. Also contributed to STC : François Beck, Michel Bozon, Bernard Denni, Julien Duval, Guy Michelat, Isabelle Récotillet et Karine van der Straeten.  Contributions By giving numerous research teams the means to conduct a survey, ELIPSS has collected an impressive array of rich data that sheds light on the most recent changes in social situations, practices and attitudes in France in a very diverse range of fields. Among the 80 resulting datasets, Dime Quanti has given rise to original interdisciplinary collaborations; the SHAMA survey, for example, essentially brought together architects and nutritionists to study the links between housing and obesity. The survey also stood out for the possibility of carrying out longitudinal surveys: the DYNAMOB project with 18 survey rounds conducted on the relationship to politics both during the election period and during the so-called ordinary period, or the annual survey on the evolution of living conditions carried out by the CDSP are the best examples of this. Finally, the data produced within the ELIPSS framework has sometimes been extremely timely, as demonstrated by the project Coping with covid-19.
+The richness of these data makes it possible to undertake in-depth analyses of the dynamics running through French society, both because of the very large quantities of individual data collected on the practices, habits and attitudes of the panellists, and because of the longitudinal dimension of some of the surveys, whose questions are repeated several times at regular intervals in order to identify changes in behaviours and opinions at the most granular level.
+Beyond the information they provide on French society, the numerous domains explored through the ELIPSS surveys make it possible to explore how this knowledge is constructed and the conditions in which it is produced. In fact, the use of online questionnaires administered to a panel on a touchscreen tablet supplied to the respondents makes it possible both to innovate methodologically, by developing and testing new ways of constructing questions and questionnaires for the general population, and to compare the data produced in this way with those obtained by other survey techniques, in France and in other countries.</description>
+    </item>
+    
+    <item>
+      <title>ELIPSS mobile app</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/elipss/appli-mobile-elipss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/elipss/appli-mobile-elipss/</guid>
+      <description>The ELIPSS mobile app is a tool that provides the panellists with access the questionnaires and allows the interactive mapping of multimedia content or photographic acquisition.</description>
+    </item>
+    
+    <item>
+      <title>Hyphe</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/dime-web/hyphe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/dime-web/hyphe/</guid>
+      <description>Web crawler and support interface for the creation of web corpora used to map web presence and hypertext links between web entities around a particular subject.</description>
+    </item>
+    
+    <item>
+      <title>Surveys</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/enquetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/enquetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>beQuali</title>
+      <link>https://dime-shs.sciencespo.fr/en/instruments/bequali/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/instruments/bequali/</guid>
+      <description>The beQuali/DIME-QUALI instrument is an archive of qualitative social science surveys available to the research and teaching community. The catalogue offers raw data, collected using qualitative methods (observations, interviews, focus groups, etc.), as well as additional analytical and contextual material on the research process, intended to facilitate the handling of the archive.
+Browse beQuali website
+ Objectives Designed to give France an archive of qualitative political science and sociology surveys equivalent to those of other European countries (UKDA, etc.), DIME-SHS be-Quali represents both a continuation and expansion of the work accomplished by the ANR’s réAnalyse project, which sought to test the possibilities of reanalysing French qualitative surveys.
+In the same spirit, beQuali seeks to capitalise on existing and often under-analysed qualitative data, for purposes of secondary analysis or reanalysis, comparison or teaching. The preservation and dissemination of qualitative social science surveys also has a dimension of transparency, which reinforces the scientific character of qualitative research.
+The retrospective documentation of the surveys and the development of exploration tools are at the heart of the project, intended to further understanding of the survey materials and, in particular, to improve the conditions of training in research through the use of real and tested data.
+Positioning BeQuali fits into an international landscape of qualitative databanks created for the scientific community. Although beQuali is not comparable with the UK Data archive or with Harvard’s Henry A. Murray research archive (in terms of numbers of surveys or personnel), the instrument shares the same goal of making data available for reuse by researchers and of preserving social science materials.
+Moreover, the beQuali survey archives has no equivalent in France and is therefore a pioneer in the hitherto empty French landscape of survey preservation and archiving (reports by Braibant1, 1996 ; Silberman2, 1999 ; Cribier and Feller3, 2003).
+Aspiring to compare with international databanks and a frontrunner at national level, beQuali is undertaking a major task of documentation and re-contextualisation on the surveys in order to facilitate and encourage reuse.
+Operation During the main period of the project, the surveys that form the catalogue were selected on different scientific or feasibility criteria by a scientific and technical committee (STC). The scientific community is invited to submit its projects through a call for proposals issued at least once a year.
+The beQuali team was processing the materials of the selected surveys, uploading them to the beQuali site and referencing them on the download platform Quetelet Progedo Diffusion.
+Part of beQuali’s role is to preserve research data and archive the surveys available at the National Higher Education IT Centre (CINES).
+beQuali STC&amp;rsquo;s Members : Stéphanie Abrial, Lucie Bargel, Emilie Biland-Curinier, Jean-Gabriel Contamin, Baptiste Coulmont, Rémi Gallou, Odile Gaultier-Voituriez, Christophe Giraud, Gilles Laferté (président), Goulven Le Brech, Marie Loison-Leruste, Stéphane Loret, Gilles Pouchoulin, Anne Revillard, Joséphine Simonnot, Sara Tandar. Also contributed to STC: Bernard Bel, Antonio Casilli, Didier Demazière, Véronique Ginouvès, Christelle Hamel, Camille Hamidi, Dominique Le Roux, Nicolas Mariot, Brigitte Mazon, Jean-Luc Minel, Catherine Morel, Valérie Tesnière, Florence Weber.  Contributions Making the beQuali materials available publicises the work of the researchers who produced it and allows others to reuse it, in particular for the purpose of comparison or new interpretation (reanalysis, comparison, etc.). In addition, there are considerable benefits in sharing these materials for the teaching of qualitative methods.
+As well as the raw material (interviews, preparatory documents, etc.), beQuali provides documentation that contextualises the research process: a “survey into the survey” is included in the form of a written report accompanied by audio extracts of interviews with the researchers who conducted the surveys.
+Although it is still too soon to draw definitive conclusions about what lessons can be learned from this experiment in terms of research and teaching, the first research reuses show the benefits that can arise from giving these materials a second life. For example, revisiting a survey4 on the political representations of the French 30 years on made it possible to enrich the original typology by reintegrating sections of the material that could not be included at the time. Another example, a piece of research on parliamentarians in France and in Germany was substantially broadened by the inclusion of interviews originating in another piece of research conducted a few years earlier.
+Beyond this, the availability of these materials offers new pedagogical possibilities for a growing number of teachers wishing to use alternative sources to tackle methodological issues differently, as well as the big questions of sociology or political science. In this sense, beQuali is helping to provide the scientific community with the resources needed for genuine methodological research to develop in France, comparable with the situation that already prevails, for example, in the Anglo-Saxon world.
+Sustainability At the end of the Dime-SHS project, beQuali&amp;rsquo;s expertise is being put to good use in order to continue developing the catalog of surveys, both in number and in terms of the disciplines and methods used (surveys based on ethnographic observations, mixed quantitative-quali surveys, etc.).
+Within the context of opening up research data and with a desire to broaden the services offered to the scientific community, beQuali offers support for projects in progress (participation in the implementation of data management plans). The objective is to help research teams manage the data they produce by anticipating their possible availability on the beQuali survey database. It is also a matter of initiating best practices in terms of documentation, storage and archiving and thus making these surveys more easily and quickly communicable.
+At the same time, beQuali continues to promote use of the available corpora. Therefore, as part of the action plan for the end of Equipex, a self-training module for teaching methods and a tool for filtering interview transcripts according to the sociographic properties of the speakers has been incorporated into the tool. In the future, other resources will be developed, such as &amp;ldquo;teaching kits&amp;rdquo; for courses on qualitative methods.
+ Braibant Report, 1996 ↩ Silberman Report, 1999 ↩ Cribier and Feller Report, 2003 ↩ Types idéologiques et classe résiduelle dans l’enquête d&amp;rsquo;Étienne Schweisguth : Les Français et la politique, 1982-1988.</description>
+    </item>
+    
+    <item>
+      <title>Hyphe-Browser</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/dime-web/hyphe-browser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/dime-web/hyphe-browser/</guid>
+      <description>A Web browser connected to Hyphe at all times, allowing to build and explore a web corpus while visualizing the pages of the websites so that the user can curate and categorize them easily.</description>
+    </item>
+    
+    <item>
+      <title>Organisation</title>
+      <link>https://dime-shs.sciencespo.fr/en/projet/organisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/projet/organisation/</guid>
+      <description>Governance Coordinated by Sciences Po, the DIME-SHS Excellence Facility was headed by Nicolas Sauger, who has been its Scientific and Technical Director from September 2017 to December 2020. He succeeded Laurent Lesnard, who initiated the project in 2011.
+The governance of DIME-SHS was set out in the consortium agreement for the implementation of the excellence facility project; it was structured around three entities.
+The Coordinating Committee is responsible for operational oversight of the activities of the three instruments. Its members were: - the Directors of each instrument, - The Technical and IT Director of DIME-SHS, - The Administrative Director, - The Scientific and Technical Director. Its members were permanent guest members of the Steering Committee.
+The Steering Committee decided on the strategic and scientific orientations of the project. It was made up of: - A representative of each consortium partner, - The Scientific and Technical Director (Chair of the Steering Committee), - members of the Coordinating Committee.
+The Scientific Council was a consultative body tasked with formulating proposals for project’s scientific orientations and adjustments. It was made up of individuals who sit as independent experts with an international reputation in the field of social science methods.
+Members of the Scientific Council:
+ Dominique Joye (President), University of Lausanne, Suisse ; Roxane Silberman, CNRS, France ; Janet Heaton, University of Exeter, Grande Bretagne ; Peter Lynn, University of Essex, Grande Bretagne ; Bertrand Müller, CNRS, France ; Marcel Das, CentERdata, Pays-Bas ; Valérie Beaudouin, Telecom Paristech, France ; Emiliano Grossman, Sciences Po, France ; Zeynep Pehlivan, INA, France ; Arja Kuula, Finish Social Sciences Data Archive, Finlande ; Anders Munk, Aalborg University, Danemark.   Each of the instruments had its own scientific and technical committee (STC). The role of these committees was to support developments and to discuss scientific and technical choices relating to the instrument. Independent structures, they were made up of experts in qualitative, quantitative or web methods, representing a wide range of social science disciplines.
+The ELIPSS STC
+The beQuali STC
+The Dime Web STC  Team The EquipEx DIME-SHS instruments were mainly developed and managed by Sciences Po’s CDSP (beQuali and ELIPSS) and medialab (Dime Web) teams.
+ELIPSS team
+beQuali team
+Dime web team  Within these teams, the technical expertise of specialist engineers was employed in an extremely varied range of disciplines:
+ survey methodology, questionnaire design and scheduling, survey management, panel tracking, statistical processing, survey archiving, digital publishing, method development, adjustment to international standards, web application design and development, web design, IT infrastructure construction and maintenance.  
+In addition to the diversity of skills needed to run the programmes, there was diversity in the status of personnel, in employers and in the staff funding channels. Since the start of the project at the end of 2011, almost 40 engineers funded by ANR subsidy have contributed to the implementation and management of the instruments, i.e. the equivalent of an average 12 full-time staff per year.
+The massive and continuing contribution by permanent CDSP staff – employees of CNRS, FNSP or MESR – also represented an input in human resources that was essential to the success of the project, and in particular for the coordination of DIME-SHS (scientific director, instrument directors, project manager for “infrastructure and IT development”).
+In addition to this, contributions further to the PIA subsidy by partners in the DIME-SHS Consortium (EHESS, INED) or other organisations interested in supporting the EquipEx (USPC, INPES, Ministry of Culture, etc.) made it possible to finance months of additional work throughout the project to keep the instruments in operation.</description>
+    </item>
+    
+    <item>
+      <title>Survey management back-office</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/elipss/bo-gestion-enquetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/elipss/bo-gestion-enquetes/</guid>
+      <description>A web application for scheduling the distribution of surveys, in preproduction or production, and to track the progress of fieldwork using real-time statistical visualisation.</description>
+    </item>
+    
+    <item>
+      <title>Contributors</title>
+      <link>https://dime-shs.sciencespo.fr/en/projet/contributeurs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/projet/contributeurs/</guid>
+      <description> Partners The DIME-SHS Consortium was headed by Sciences Po and has bring together partners from research and higher education in a variety of disciplines (sociology, demography, economics, political science):
+Grandes écoles      Research Institute    Universities     Private sector research    Research Infrastructure     Funding Partners Additional resources apart from the Investment for the Future subsidy included joint funding from consortium partners, research subsidies from third-party organisations and revenues earned from the exploitation of the instruments.
+Research Institute     Comue    Private sector research     Ministerial departments     Universities         Partner Research Lab  Centre de données socio-politiques (Sciences Po, CDSP, CNRS) médialab (Sciences Po, médialab) Centre d&#39;études européennes (Sciences Po, CEE, CNRS) Observatoire sociologique du changement (Sciences Po, OSC, CNRS) Centre de Recherches Internationales (Sciences Po, CERI, CNRS) Centre de recherches politiques de Sciences Po (Sciences Po, CEVIPOF, CNRS) Département d&#39;économie (Sciences Po, CNRS) Pacte, laboratoire de sciences sociales(Université Grenoble Alpes, Sciences Po Grenoble) Groupe d’Études des Méthodes de l’Analyse Sociologique de la Sorbonne (Sorbonne, CNRS) Programme FORCCAST    </description>
+    </item>
+    
+    <item>
+      <title>Dime Web</title>
+      <link>https://dime-shs.sciencespo.fr/en/instruments/dime-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/instruments/dime-web/</guid>
+      <description>The DIME-Web instrument is a team of one to three engineers which supports Social Science research projects in the development and use of digital methods to exploit the web as a survey medium. In particular, it is used to collect, enhance, clean up, visualise and analyse data from digital traces accessible online.
+Browse Dime Web website
+ Objectives The purpose of DIME-Web was to equip the Social Science world to exploit digital traces left on the web. The instrument was addressing different research populations with different types of approaches and timeframes: advice in the choice and use of digital methods, identification of sources available on the web, end-to-end development of reusable, free and open source generic tools, pedagogical or academic training, methodological support, one-off support in an afternoon workshop, support throughout a multi-year research project.
+To these ends, the instrument developed and supplied a whole battery of tools in the form of free open source software, which can be used to collect data from across the web with crawlers such as Hyphe, or from targeted platforms such as Twitter using the Gazouilloire software, for cleaning, enhancement or classification, or else for visualisation, exploration and study, notably from the perspective of network analysis. Free and open source, these tools can not only be freely downloaded, installed and re-engineered by third parties, but many of them can be run directly online, for example utilities like Table2Net, ScienceScape, CatWalk or SeeAlsology.
+The most ambitious of Dime Web tools is the Hyphe web crawler, which helps users in building, curating and categorizing qualitative web corpora of hypertext links between entities grouped quantitatively on the web. Both highly technical and user friendly, Hyphe offers students and researchers in the social sciences an exploratory and quali-quantitative method of studying communities of interest relating to their research fields. It is currently used by researchers in several European countries and in the Americas.
+Positioning The DIME-Web team was standing at the intersection of the fields of methodological research and digital methods in the social sciences. As well as supporting researchers in their methodology, it offered them its skills in network analysis and web archiving, as well as in controversy analysis inspired by Bruno Latour’s Actor Network Theory (ANT). The members of the operational team have authored or co-authored some fifteen academic publications, including an article on PlosOne in 2015 about the ForceAtlas2 network spatialisation algorithm implemented in the Gephi software, as well as a number of papers introducing Hyphe, notably at the ICWSM 2016 and FOSDEM 2018 conferences.
+The link with the local research and innovation environment was essentially coming through technology exchange. The free and open source technologies used and/or developed by DIME-Web and more broadly by the medialab, were also being developed by an ecosystem of specialists united by questions relating to networks and data visualisation. Private sector entities were also sometimes interested in training courses on these technologies.
+The fields that have historically been most receptive to such work were web studies, social network analysis and controversy mapping. The instrument attracted a wide range of academic and university users in France, but also abroad, especially in a number of European countries where the medialab has formed ties in the digital methods community: Richard Rogers’ Digital Methods Initiative de Richard Rogers) in Amsterdam, the Tantlab in Copenhagen, King’s College in London… Since 2011, therefore, numerous training courses and papers, notably on Hyphe, have been delivered in different countries in Europe and beyond, and DIME-Web tools have been implemented internally in different universities in England, Denmark, the United States.
+Operation DIME-Web’s operational team essentially was relying on two engineers recruited in 2011 and 2012, who pooled their working time with the Sciences Po medialab, an approach that notably provides access to more varied skills (designers, expert JavaScript developers, researchers…).
+Supporting research projects encompasses different realities, which demand different levels of input. One-off requests for help, which are also often requests for guidance, were dealt with at Sciences Po’s monthly open-doors workshop at the medialab. This is often the occasion for initial contacts, which may then develop into a paying service. DIME-Web also gives courses to groups of researchers and PhD candidates, either in a project support role, or independently, for example at summer schools. Since 2014, both members and nonmembers of the Equipex consortium have been charged a fee for access to the facility for support, training or joint research development, which therefore helps to finance the development of the generic tools.
+A specific DIME-Web Scientific and Technical Committee (STC) was monitoring the project selection process and the orientation of the programme, through one annual face-to-face meeting and ongoing digital interchanges. Between 2014 and 2020, selection and support for small projects that require rapid response without costly developments (by contrast with the bigger projects) have been delegated to the operational team and the STC’s role is confined to annual oversight.
+Dime Web STC’s members:
+ Dominique Cardon, Dana Diminescu, Guilhem Fouetillou, Dominique Goux, Delphine Lagarde, Raphaël Laurent, Olivier Martin, Clément Oury, Franck Rebillard, Roxane Silberman, Jérôme Thièvre Tommaso Venturini.   Contributions Dime Web has accompanied more than twenty research projects carried out by teams from a wide range of backgrounds throughout the duration of the project, from sociology to economics and political science. For example, in the RiscoVac and PerseVac projects, the Web tool has helped in studying the controversies surrounding vaccines online, by measuring and evaluating the presence and influence of anti-vaccine actors on the web and social networks. Similarly, with the economists of the SoWell project for example, the Dime Web team assisted in the collection and analysis of search engine usage data in order to model well-being in different countries. In an entirely different vein, the ComIngGen project has benefited from the support of the instrument to study the extent to which discussion on the web has been able to both relay and fuel the debates around biotechnology and the public policies surrounding it.
+Between 2011 and 2020, the Web tool has also led to the creation of a number of digital tools dedicated to the social sciences and freely available for anyone to use, indirectly supporting a wide range of users in France and abroad, in both the academic and pedagogical worlds, as well as in journalistic and associative circles.</description>
+    </item>
+    
+    <item>
+      <title>Gazouilloire</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/dime-web/gazouilloire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/dime-web/gazouilloire/</guid>
+      <description>Tool for the systematic recovery of data from Twitter’s API (tracking of keywords, URLs, users, co-citation networks, retweets…).</description>
+    </item>
+    
+    <item>
+      <title>Panellist management back-office</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/elipss/bo-gestion-panelistes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/elipss/bo-gestion-panelistes/</guid>
+      <description>Web application providing a one-stop support desk and panellist tracking. In particular, it incorporates response monitoring and multimode reminders (telephone, mobile alerts, emails, text messages, ordinary and recommended letter). </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/publications/</guid>
+      <description>Organized in three sections, the collection below comprises all references related to the DIME-SHS instruments themselves and references highlighting scientific results made possible by those instruments. A fourth section gathers transversal reports common to all instruments.</description>
+    </item>
+    
+    <item>
+      <title>Catwalk</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/dime-web/catwalk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/dime-web/catwalk/</guid>
+      <description>Tool for qualitative selection and categorisation of tweets.</description>
+    </item>
+    
+    <item>
+      <title>Fleet management back-office</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/elipss/bo-gestion-flotte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/elipss/bo-gestion-flotte/</guid>
+      <description>A web application which provides the support desk with up-to-date information for use in incident handling (tablets and data subscriptions).</description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>https://dime-shs.sciencespo.fr/en/projet/bilan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/projet/bilan/</guid>
+      <description> Imagined as early as 2008, the Dime-SHS project was officially launched on January 31st, 2012 and ended on December 31st, 2020, after it was extended for one year longer than previously planned.
+The long-term project aiming at building an SHS infrastructure in France, benefited from the advantage of the developments made possible by new information technologies and the power of IT infrastructures. DIME-SHS has thus made major innovations possible in the research landscape: - the implementation of an online probabilistic panel in France. - the publication of all qualitative survey materials. - the development of new applications, whether they serve as a platform for operations such as Elipss or beQuali or whether they allow the exploration, harvesting and analysis of corpora online. From this point of view, DIME-SHS has largely exceeded its initial ambitions, and its structuring effects will continue well beyond the end of the initial funding..
+DIME-SHS has built up a very substantial archive of data that is available to the entire scientific community. This was achieved by adopting a pioneering spirit of contemporary open science policy. This includes more than 70 quantitative surveys, 20 qualitative corpuses, and a dozen software packages made available as open source. DIME-SHS has also made a set of tools and platforms available that will continue beyond the scope of the project. For example, today Hyphe is a web exploration platform available to all. Also, the Elipss panel continues to collect data and is now used to support data collections such as ISSP. Finally, beQuali now articulates a whole ecosystem of activities around qualitative data. But beyond these achievements and their continuation, DIME-SHS has above all helped to shape new skills, and to develop new expertise and ideas. It is thanks to DIME-SHS, for example, that France is now one of the linchpins of the European Cronos2 panel.
+DIME-SHS is also a collective achievement that has fundamentally shaped the identity and skills of the CDSP. Involving more than thirty engineers for all or part of the duration of EquipEx, this cross-disciplinary project mobilized many professions (statistical engineers, panel managers, research engineers, and archivists). Nevertheless, one of the greatest challenges of DIME-SHS was to show the gains brought by the synergies of the joint construction of three instruments. In the end, the three instruments have hardly conducted any joint investigations - despite several attempts in this direction. There is nevertheless a real added value in the exchange of practices, the sharing of expertise and the pooling of infrastructures. For example, the question of standards, IT or legal security of devices, and the design and construction of IT architectures have been the subject of constant exchanges that have been decisive for the progress of the projects.
+Chronology  FIRST FOUNDATIONS  2011 : acceptance of the project 2012 : inauguration of the Equipex 2012 : establishment of the first Elipss sample (1500 panellists)  DEVELOPMENT  2013 : first Elipss survey 2013 : launch of Hyphe 0.0 2015 : new beQuali portal 2016 : expansion of the Elipss panel (3500 individuals)  OPERATION  2017: Mid-term evaluation 2018: Hyphe 1.0 2018: Symposium 2018: beQuali teaching kits    Evaluation of the facility Assesment and outlook 2011-2014
+Assesment and outlook 2014-2017
+ As part of its monitoring role, in 2017 – after 6 years of operation – the National Research Agency, which oversees the facility, commissioned a detailed analysis of the practices and results of the project by an independent international jury. The report delivered a broadly positive assessment of the instruments, in particular their success in meeting most of their targets. The report notes : “One is impressed by the achievements of each of the three components of the DIME project”. It also concludes “Overall, the three components of the DIME-SHS project are well on the way of reaching the initial targets of the project. The evaluation of each of these three components of the project is positive.”
+The report nevertheless stressed a major risk, the termination of the main source of funding at the end of 2019. It specified that the continuance of the project was requiring that “the main source of sustainability remains institutional support” for the future. Indeed, since it was difficult to imagine a main source of funding other than institutional, the end of these subsidies could threaten the continuity of the services provided by DIME-SHS.
+The report has also propose avenues for development and improvement in the final phase of the project. In particular, it emphasised:
+ The need to diversify funding sources, The need to reinforce the scientific impact of the infrastructure, The need to strengthen the project’s international presence.  The two main weaknesses identified by the evaluation jury, however, are the inadequate size of the team relative to its objectives, and the lack of sufficient synergies between the different components of the project.
+These recommendations by the international jury resulted in a reassessment of the objectives and priorities of the EquipEx for the final phase of its activities (2018-2019), with the formulation of a two-year action plan1 for this period. It specified the operational targets (number of surveys, development of applications,…) but also the operations required to enhance the grounding of the DIME-SHS project in the national and European research landscape.
+ DIME-SHS two-year action plan (french only) ↩   </description>
+    </item>
+    
+    <item>
+      <title>Minet</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/dime-web/minet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/dime-web/minet/</guid>
+      <description>Command line tool written in python enabling its users to perform complex webmining tasks with ease.</description>
+    </item>
+    
+    <item>
+      <title>Google Bookmarklets</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/dime-web/google-bookmarklets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/dime-web/google-bookmarklets/</guid>
+      <description>Controls that can be added to the web browser to recover a list of results and metadata from a Google search in the form of data tables.</description>
+    </item>
+    
+    <item>
+      <title>SeeAlsology</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/dime-web/seealsology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/dime-web/seealsology/</guid>
+      <description>An exploratory tool designed to construct semantic networks from the “See also” links present on many Wikipedia pages.</description>
+    </item>
+    
+    <item>
+      <title>Science Scape</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/dime-web/sciences-scape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/dime-web/sciences-scape/</guid>
+      <description>Interface for the exploration, analysis and visualisation of scientometric data exportable from Scopus and Web Of Science.</description>
+    </item>
+    
+    <item>
+      <title>Table2Net</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/dime-web/table2net/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/dime-web/table2net/</guid>
+      <description>A simple web interface that produces a display of a data table file in the form of a network.</description>
+    </item>
+    
+    <item>
+      <title>Graph Recipes</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/dime-web/graph-recipes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/dime-web/graph-recipes/</guid>
+      <description>A web interface that can be used to conduct analyses, calculate metrics and produce visualisations from network data.</description>
+    </item>
+    
+    <item>
+      <title>Final meeting on January 14, 2021</title>
+      <link>https://dime-shs.sciencespo.fr/en/posts/cloture2021/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/posts/cloture2021/</guid>
+      <description>&lt;p&gt;Nine years after signing the agreement to launch EquipEx DIME-SHS, the cutting-edge research infrastructure program for SHS is nearing its conclusion. This milestone will be ratified on January 14, 2021, in the presence of all the project partners and representatives of the French National Research Agency.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>New important versions of the DIME-web tool</title>
+      <link>https://dime-shs.sciencespo.fr/en/posts/releasedimeweb/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/posts/releasedimeweb/</guid>
+      <description>The imminent end of funding for DIME-SHS is an opportunity to finalize a certain number of developments. Some of the developments concerning the Dime Web instrument have been underway for many months on its main open source software, in order to perpetuate the work accomplished and stabilize the tools and their use beyond the lifespan of the Equipex.
+Three major new releases have been published in the last few days for Hyphe, Hyphe-Browser and Gazouilloire, and will be presented on February 6, 2021 at the FOSDEM international open source software conference in the Open Research Tools &amp;amp; Technologies room.
+The life of these tools does not end with Equipex, and the software will continue to be supported and improved in the future by the engineering team of the médialab at Sciences Po.
+Gazouilloire v1.0 Dime Web has developed the Gazouilloire software to allow the implementation of a longitudinal follow-up of Twitter over several months or years. Nearly 7 years after the development of its first prototype and the collection of several hundred million tweets for numerous research projects, Gazouilloire has reached its maturity with its version 1.0!
+In addition to being very easy to use for developers with an [installation and configuration that only takes a few minutes, this new version aims, above all, to sustain and stabilize the tool thanks to its upgrade to python3 (the current standard version of the language) and to simplify the handling, exploration and analysis of the large corpuses collected (thanks to the switch to the ElasticSearch data storage and indexing technology).
+Hyphe-Browser v2.0 &amp;amp; Hyphe v1.4 Since the release of its first full version in 2017, the web-crawling software for social sciences Hyphe has continued to develop on a regular basis with numerous bug fixes reported by users, but also with the addition of new options, features and settings available with Hyphe v1.4.
+As announced in the DIME-SHS 2018 action plan, one of the challenges for Hyphe prior to the end of EquipEx was to facilitate its deployment in order to allow researchers to quickly access the tool, for a more or less short period of time, by making a financial contribution. This objective was achieved thanks to the implementation within Hyphe Browser of the possibility, when choosing the Hyphe server to connect to, of deploying a new server at a cloud host (OVH, CityCloud or VexxHost) at the user&amp;rsquo;s expense in a few clicks, without having to call on the Dime Web team.
+The Hyphe Browser complementary software allows users to browse the web while building its corpus with Hyphe; it also allows users to categorize its actors while visiting their web pages. It has been funded by IDEFI FORCCAST in order to train students to use the web in social sciences as part of their controversy analysis courses. In addition to the option of deploying Hyphe instances on the cloud, its brand new version 2.0 has been completely redesigned, after considering the observations of users&amp;rsquo; experiences to make its use much more intuitive. Finally, this redesign has made the tool much more stable and fast, and has enriched it with many new features that will undoubtedly prove very useful for future research projects.</description>
+    </item>
+    
+    <item>
+      <title>ELIPSS : a partner in Covid-19 research</title>
+      <link>https://dime-shs.sciencespo.fr/en/posts/elipsspartenairecovid19/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/posts/elipsspartenairecovid19/</guid>
+      <description>&lt;p&gt;The Sociological Observatory of Change (OSC) and the CDSP are mobilizing to study, through  the prism of social inequalities, the impact of social distancing and the lockdown measures put in place by the government.  Based on the extensive data collected within the framework of the probability-based ELIPSS panel, the &amp;ldquo;Coping with Covid-19&amp;rdquo; project will study the evolution of the practices and attitudes of the population by administering a series of surveys specific to Covid-19 during the period of crisis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DIME-SHS expertise within two European projects</title>
+      <link>https://dime-shs.sciencespo.fr/en/posts/expertiseprojetseuropens/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/posts/expertiseprojetseuropens/</guid>
+      <description>The software engineering endeavours supporting the DIME-SHS instruments occasioned valuable skills acquisitions, regarding online panel and device fleet management. This expertise drew the attention of the European Social Survey (ESS ERIC) at the time prospecting resources to implement the software infrastructure to support its web panel “Opinion Study for Europe”.
+Hence, singled out to partner with the ESS ERIC, Sciences Po contributes to the Social Sciences and Humanities Open Cloud SSHOC (Social Sciences Humanities Open Cloud) project that endeavours to make accessible through the European Open Science Cloud (EOSC) services and resources provided to the SSH scientific community by european research infrastructures. Specifically, the CDSP partakes in the Innovations in data production work package by developing a sample management web service suited to european-scale online surveys. The CDSP is also involved in the first survey project to take advantage of the new infrastructure (ESS-SUSTAIN-2).
+An initial version of the application, covering the functional scope outlined in the first project deliverable, will be released in december 2020 with access limited to users in charge of testing during the course of january 2021. The application will consecutively find its first use case in the “Opinion Studies” web survey series covering 12 european countries.
+To attend new users, an online documentation is supplied and will be complemented by a live training session directed to ESS-SUSTAIN-2 actors, including ESS national coordinators.</description>
+    </item>
+    
+    <item>
+      <title>ELIPSS, a forthcoming collaborative book</title>
+      <link>https://dime-shs.sciencespo.fr/en/posts/ouvragecollectif/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/posts/ouvragecollectif/</guid>
+      <description>&lt;p&gt;The book &amp;ldquo;Un panel Français. L&amp;rsquo;Étude longitudinale par internet pour les sciences sociales (ELIPSS)&amp;rdquo;, a collaborative effort initiated in 2018 with a call for contributions from the data users of the DIME Quanti system, will be published by INED. It will appear in the &lt;a href=&#34;https://www.ined.fr/fr/publications/editions/grandes-enquetes/&#34; target=&#34;_blank&#34;&gt;Grandes enquêtes collection&lt;/a&gt; alongside other social science reference works.
+Featuring contributions from some thirty authors, the coordinators of the book,&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>beQuali in support of a National Training Action</title>
+      <link>https://dime-shs.sciencespo.fr/en/posts/anf_reanalyse/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/posts/anf_reanalyse/</guid>
+      <description>&lt;p&gt;In October 2019, BeQuali participated in the organization and management of the Action Nationale de Formation (ANF) &amp;ldquo;Quali-SHS, Analysing and re-analyzing qualitative data in social sciences&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>POSTPONED - DIME-SHS Closing Conference (December 12, 2019)</title>
+      <link>https://dime-shs.sciencespo.fr/en/posts/colloque-dime-shs2019/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/posts/colloque-dime-shs2019/</guid>
+      <description>&lt;p&gt;** Because of the social protest movements and the transport situation, the organising team for the DIME-SHS closing conference has decided to postpone the event to a later date. See you in 2020 to talk about DIME-SHS! **&lt;/p&gt;
+
+&lt;p&gt;Implemented as a result of the development plan for the excellence infrastructures, at this year-end 2019, DIME-SHS* turns the page on 10 years of funding for the Equipex programme. A crucial stage in the life-cycle of an infrastructure, the end of funding is not only an opportunity to look back on what has been achieved and to consider the prospects ahead, but also to develop a joint perspective on the role and function of this type of infrastructure in the national and European research landscape. This conference represents that twofold ambition: to tell the story and consider the future of a social science research infrastructure, but also to debate the purpose and funding of this type of experiment.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DIME-SHS extended in 2020</title>
+      <link>https://dime-shs.sciencespo.fr/en/posts/prolongation2020/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/posts/prolongation2020/</guid>
+      <description>&lt;p&gt;In September 2019, the DIME-SHS project was granted an additional year to complete the current projects and consolidate the sustainability efforts undertaken in the previous period.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>USPC reiterate its support to DIME-SHS</title>
+      <link>https://dime-shs.sciencespo.fr/en/posts/subventionuspc/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/posts/subventionuspc/</guid>
+      <description>&lt;p&gt;After awarding its label in June 2010, and give grant of nearly € 500k in 2015 as part of its action program &amp;ldquo;Plateformes, infrastructures et équipements de recherche&amp;rdquo;, USPC reiterates its support to the Equipex DIME-SHS at the end of 2018 by a new subsidy of € 86.4k for investments for the future.&lt;/p&gt;
+
+&lt;p&gt;Thereby, USPC confirms its recognition of the structuring nature of the instruments made available to the scientific community since the installation of Equipex in 2011.&lt;/p&gt;
+
+&lt;p&gt;In addition to other sources of funding, this grant will constitute in 2019 an essential contribution to initiate actions to maintain the existing ELIPSS survey service beyond the Equipex ending.&lt;/p&gt;
+
+&lt;p&gt;It will notably be used to co-finance the renewal of the panel&amp;rsquo;s sample, with a view to pursuing the excellence requirement that has characterized the project since its inception.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hyphe at the 2018 Web Studies conference</title>
+      <link>https://dime-shs.sciencespo.fr/en/posts/hyphewebstudies2018/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/posts/hyphewebstudies2018/</guid>
+      <description>&lt;p&gt;The 2018 edition of the International Conference on Web Studies, part of the &lt;a href=&#34;https://digitaluses-congress.univ-paris8.fr&#34; target=&#34;_blank&#34;&gt;Digital Tools &amp;amp; Uses Congress&lt;/a&gt;, was held at the MSH Paris in Saint Denis from the 3rd to the 5th of October in 2018. The Dime Web team had been invited by the organizers to present a keynote of its work on hypertext links, and in particular &lt;a href=&#34;https://hyphe.medialab.sciences-po.fr&#34; target=&#34;_blank&#34;&gt;Hyphe&lt;/a&gt;, its open source web-crawling software for social sciences.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Summary of the 2018 “public meeting”</title>
+      <link>https://dime-shs.sciencespo.fr/en/posts/reunioninstancesscient-bilan/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/posts/reunioninstancesscient-bilan/</guid>
+      <description>On September 27, on the sidelines of the scientific symposium itself, DIME-SHS’s “public meeting” this year took the new form of a dialogue between the Equipex structures (joint meeting of the scientific board and the Scientific and technical committees of each of the three instruments).
+This was an opportunity not only to take stock of the action is already underway and to present the operations planned up to the closure of the project, but also for an open discussion about the prospects for the long-term future of the ELIPSS, beQuali and Dime Web instruments after 2019.
+This half day Forum closed with a session dedicated to the experiences of researchers-users of the DIME-SHS instruments - for ELIPSS, Florent Gougou on the Dynamics of Mobilisation (Dynamob) survey and for beQuali, Olivier Rozenberg on the “The French Parliament and the European Union” survey. These presentations both cast light on the essential contributions of the instruments to the practice of research, and on the difficulties that users have experienced, thereby opening lines of thought for the future.
+Achievements and prospects of the instruments beQuali 10 surveys already available; 7 additional surveys scheduled by the end of 2019; provision of methodological tools (filing plan, zotéro library, etc.); roll-out of new teaching kits to facilitate reuse by educators.
+ELIPSS 45 datasets already disseminated to the research community; collection and dissemination of some 20 additional datasets by the end of 2019; ongoing preparation of a collective publication dedicated to the ELIPSS experience; active quest for partnerships and development of a new business model to guarantee the continuation of ELIPSS after the end of the Equipex programme.
+Dime web 22 research projects already supported; version 3 of the hyphe crawler made available online (August 2018); prospect of automated rollout in the cloud an introduction of an online payment tool by the end of 2019.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the new Equipex DIME-SHS website</title>
+      <link>https://dime-shs.sciencespo.fr/en/posts/newwebsite/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/posts/newwebsite/</guid>
+      <description>For the September 28th, 2018 conference entitled “Tools to conduct research in Social Sciences”, DIME-SHS is publishing its new website, and reaching out to an international audience, with content entirely available in English.
+On this website, you can find presentations about the ELIPSS, beQuali and Dime Web tools, as well as a list of productions from EquipEx.</description>
+    </item>
+    
+    <item>
+      <title>DIME-SHS conference - September 28th, 2018</title>
+      <link>https://dime-shs.sciencespo.fr/en/posts/colloque-dime-shs/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/posts/colloque-dime-shs/</guid>
+      <description>&lt;p&gt;Since 2011, the Equipex DIME-SMS&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; team has innovated to establish new research tools. After operating for 7 years, it has now begun the last step of its cycle.&lt;/p&gt;
+
+&lt;p&gt;On September 28th, 2018, the DIME-SHS conference entitled “Tools to conduct research in Social Sciences” will make sharing analyses and results from equipment-tools data possible.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2017 update evaluating the advances from midpoint to the final action programme</title>
+      <link>https://dime-shs.sciencespo.fr/en/posts/etape2017/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/posts/etape2017/</guid>
+      <description>Initiated in 2011, Equipex DIME-SHS was evaluated by an international and independent jury, which recognized the “impressive” results achieved after 7 years of existence.
+EquipEx, which is supposed to come to an end on 2019, has been able to achieve most of its scheduled investments, thus reaching a cruising speed :
+ The BeQuali database now gathers hundreds of interviews A panel of about 3000 people is interviewed every month for the ELIPSS tool, thus forming a catalogue of more than 50 surveys A new version of the Hyphe software was delivered by Dime Web, for an easier installment and higher performance.  At the end of 2017, the teams are fully operating. In addition to the operational coordination hub, 15 engineers funded thanks to the ANR, develop, maintain and make the tools function, alongside permanent staff also working on the project.
+For the first two years, in accordance with the 2018-2019 action plan given to the ANR, the efforts will focus on actions that provide value to the data made available since the launch of Equipex (especially with two scientific events scheduled), and on the execution of the elements that can insure a perpetuation of the tools.</description>
+    </item>
+    
+    <item>
+      <title>A new Scientific manager</title>
+      <link>https://dime-shs.sciencespo.fr/en/posts/changement-direction/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/posts/changement-direction/</guid>
+      <description>After a change in the executive branch of the Center for Social and Political Data, DIME-SMS will be welcoming next fall 2017 a new scientific manager.
+After suggesting and carrying out the development of the DIME-SHS project, Laurent Lesnard, a sociologist, will be replaced by Nicolas Sauger, a political scientist.</description>
+    </item>
+    
+    <item>
+      <title>DIME-SHS present for the CDSP’s 10-year anniversary on December 12 and 13, 2016</title>
+      <link>https://dime-shs.sciencespo.fr/en/posts/10year-anniversary/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/posts/10year-anniversary/</guid>
+      <description>DIME-SHS teams were invited on December 12 and 13, 2016 at “the CDSP’s 10-year anniversary” to hold several workshops on Equipex’ most prominent tools : case studies, feedback sessions, testimonies and demos. Six sessions that were entirely dedicated to the beQuali, ELIPSS and Dime Web tools.
+the CDSP’s 10-year anniversary ELIPSS workshops beQuali workshops Dime web workshops  </description>
+    </item>
+    
+    <item>
+      <title>CNRS crystal medal</title>
+      <link>https://dime-shs.sciencespo.fr/en/posts/cnrs-crystalmedal/</link>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/posts/cnrs-crystalmedal/</guid>
+      <description> The CNRS President and the Institute of human and social sciences Director just awarded the 2015 cristal medal  to Anne Cornilleau and Anne-Sophie Cousteaux - qualitative teams coordinators at the CDSP - and to Geneviève Michaud - IT team coordinator at the CDSP.
+Those medals are a token of appreciation from the CNRS for their commitment and the excellent work they achieved since 2005 at the CDSP, and since 2011 as members of the DIME-SHS Equipex team. Those awards also illustrate the important role engineers, who work side by side with researchers, have in research.
+ Anne Cornilleau Anne-Sophie Cousteaux Geneviève Michaud   </description>
+    </item>
+    
+    <item>
+      <title>Pilot stage : team recrutement </title>
+      <link>https://dime-shs.sciencespo.fr/en/posts/recrutements-pilotestage/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/posts/recrutements-pilotestage/</guid>
+      <description>In order to insure the launch of Equipex, an important wave of recrutement was initiated, from the beginning of the project.
+At the end of the pilot phase (2011-2012), 2 developers and 8 engineers dedicated to Quali(2), Quanti (4) and Web (2) instruments joined the initial coordination team, thus bringing DIME-SHS staff number to 16.
+Right before the development of Equipex, other recrutements will be made in 2013 and 2014 to guarantee a good expansion of the facilities that were already tested</description>
+    </item>
+    
+    <item>
+      <title>Inauguration of Equipex - January 27, 2012</title>
+      <link>https://dime-shs.sciencespo.fr/en/posts/inauguration-equipex/</link>
+      <pubDate>Fri, 27 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/posts/inauguration-equipex/</guid>
+      <description>On January 27, 2012, the CDSP organized a launch day for its Equipex DIME-SHS. This event was held in the presence of Richard Descoing, administrator of the National Foundation of political science, and Laurent Lesnard, project leader. Equipex was presented to the academic community.
+Inauguration of DIME-SHS.
+  </description>
+    </item>
+    
+    <item>
+      <title>Access rights manager</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/bequali/gestionnaire-access/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/bequali/gestionnaire-access/</guid>
+      <description>A web interface for creating accounts and managing survey access permissions (individually or in batches).</description>
+    </item>
+    
+    <item>
+      <title>Anonymised document viewer</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/bequali/visionneuse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/bequali/visionneuse/</guid>
+      <description>A web interface for viewing interview transcripts (speaking turns, stage comments, silence, etc.) using files previously encoded manually in XML-TEI on EXMARaLDA.</description>
+    </item>
+    
+    <item>
+      <title>Bibliography on qualitative HSS surveys</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/bequali/bibliographie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/bequali/bibliographie/</guid>
+      <description>A Zotero bibliography produced by monitoring the sharing, documentation and reuse of qualitative social science surveys.</description>
+    </item>
+    
+    <item>
+      <title>Explorer of survey materials</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/bequali/explorateur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/bequali/explorateur/</guid>
+      <description>A web interface that facilitates the exploration of survey materials through different filters (categories used in the classification scheme, timeline, geographical location of documents).</description>
+    </item>
+    
+    <item>
+      <title>Marvin</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/bequali/marvin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/bequali/marvin/</guid>
+      <description>Script for checking files generated by document digitisation: it checks the validity and format of the JPEG2000 files requested in the specifications.</description>
+    </item>
+    
+    <item>
+      <title>Mets2json</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/bequali/mets2json/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/bequali/mets2json/</guid>
+      <description>Script that converts the METS standard to JSON in order to make surveys available on the beQuali website.</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://dime-shs.sciencespo.fr/en/actualites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/actualites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qualitative survey classification scheme</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/bequali/classement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/bequali/classement/</guid>
+      <description>Developed from experience acquired in the handling of qualitative surveys, this classification scheme is divided into four levels (sub-group, folder, subfolder, and article).</description>
+    </item>
+    
+    <item>
+      <title>Sally</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/bequali/sally/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/bequali/sally/</guid>
+      <description>Script for checking files generated by document digitisation: it checks the validity and format of the PDF/A-1b files requested in the specifications.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Resources</title>
+      <link>https://dime-shs.sciencespo.fr/en/productions/outils/bequali/kitsenseignement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/productions/outils/bequali/kitsenseignement/</guid>
+      <description>A web interface to search for qualitative surveys materials to illustrate a social sciences methodology course (research methodology and survey filters).</description>
+    </item>
+    
+  </channel>
+</rss>

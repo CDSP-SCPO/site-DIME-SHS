@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on DIME-SHS</title>
+    <link>https://dime-shs.sciencespo.fr/en/projet/</link>
+    <description>Recent content in Project on DIME-SHS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>EN</language><atom:link href="https://dime-shs.sciencespo.fr/en/projet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://dime-shs.sciencespo.fr/en/projet/enjeux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/projet/enjeux/</guid>
+      <description> Background Advances in digital technologies offer huge opportunities for the humanities and social sciences. Today, they not only enable us to capture a mass of information linked with the development of the Internet and social media, but they also give us the chance to recast the traditional questions and instruments of our disciplines. These new technologies also open up the possibility for the practice of science to be transformed by the principles of openness and by easier access to data. This has led both to an accentuation of the issue of replicability in the social sciences and to an exponential increase in the quantity and cumulative character of available data.
+Developing systems able to take advantage of these new possibilities requires considerable investment. Thanks to successive calls from the scientific community, in particular with the Silberman Report1 in 1999 and the Cribier Report2 in 2003, a number of initiatives contributed to the construction of these social science technology platforms in France.
+Selected in January 2011 in the National Research Agency’s call for Excellence Facilities projects, DIME-SHS reflects this dynamic, a single facility that brings together technologies for capturing online data, for collecting data from representative samples online, and for making data – particularly qualitative data – available to the whole scientific community. In this capacity, DIME-SHS joins the landscape of infrastructures aligned with the practices of the academic community by providing services dedicated to the production, dissemination and reuse of social science data.
+Missions and principles DIME-SHS is an experimental facility for innovative research in the humanities and social sciences. Its primary role is to design and develop a battery of tools, built on new technologies, for the production, dissemination and reuse of data. Its activity encompasses the principal types of social science data – qualitative, textual and quantitative – and the main data sources – interviews and observation notes, opinion surveys or accumulated web data.
+DIME-SHS adheres closely in its operational principles to the values of open science and FAIR standards. DIME-SHS is committed to the improvement of standards, in particular methodological standards, with a focus on scientific excellence. DIME-SHS also embodies methodological pluralism, combining approaches sometimes drawn from widely separated traditions.
+The main missions of DIME-SHS are thus to… :
+ Design experimental tools for the production of research data; Structure platforms to facilitate data access and exploration; Contribute to thinking about multi-corpus research methods and promote new practices supported by digital tools; Foster open data and secondary data use in order to make social science research methods more transparent.   Rapport Silberman, 1999 ↩ Rapport Cribier et Feller, 2003 ↩   </description>
+    </item>
+    
+    <item>
+      <title>Organisation</title>
+      <link>https://dime-shs.sciencespo.fr/en/projet/organisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/projet/organisation/</guid>
+      <description>Governance Coordinated by Sciences Po, the DIME-SHS Excellence Facility was headed by Nicolas Sauger, who has been its Scientific and Technical Director from September 2017 to December 2020. He succeeded Laurent Lesnard, who initiated the project in 2011.
+The governance of DIME-SHS was set out in the consortium agreement for the implementation of the excellence facility project; it was structured around three entities.
+The Coordinating Committee is responsible for operational oversight of the activities of the three instruments. Its members were: - the Directors of each instrument, - The Technical and IT Director of DIME-SHS, - The Administrative Director, - The Scientific and Technical Director. Its members were permanent guest members of the Steering Committee.
+The Steering Committee decided on the strategic and scientific orientations of the project. It was made up of: - A representative of each consortium partner, - The Scientific and Technical Director (Chair of the Steering Committee), - members of the Coordinating Committee.
+The Scientific Council was a consultative body tasked with formulating proposals for project’s scientific orientations and adjustments. It was made up of individuals who sit as independent experts with an international reputation in the field of social science methods.
+Members of the Scientific Council:
+ Dominique Joye (President), University of Lausanne, Suisse ; Roxane Silberman, CNRS, France ; Janet Heaton, University of Exeter, Grande Bretagne ; Peter Lynn, University of Essex, Grande Bretagne ; Bertrand Müller, CNRS, France ; Marcel Das, CentERdata, Pays-Bas ; Valérie Beaudouin, Telecom Paristech, France ; Emiliano Grossman, Sciences Po, France ; Zeynep Pehlivan, INA, France ; Arja Kuula, Finish Social Sciences Data Archive, Finlande ; Anders Munk, Aalborg University, Danemark.   Each of the instruments had its own scientific and technical committee (STC). The role of these committees was to support developments and to discuss scientific and technical choices relating to the instrument. Independent structures, they were made up of experts in qualitative, quantitative or web methods, representing a wide range of social science disciplines.
+The ELIPSS STC
+The beQuali STC
+The Dime Web STC  Team The EquipEx DIME-SHS instruments were mainly developed and managed by Sciences Po’s CDSP (beQuali and ELIPSS) and medialab (Dime Web) teams.
+ELIPSS team
+beQuali team
+Dime web team  Within these teams, the technical expertise of specialist engineers was employed in an extremely varied range of disciplines:
+ survey methodology, questionnaire design and scheduling, survey management, panel tracking, statistical processing, survey archiving, digital publishing, method development, adjustment to international standards, web application design and development, web design, IT infrastructure construction and maintenance.  
+In addition to the diversity of skills needed to run the programmes, there was diversity in the status of personnel, in employers and in the staff funding channels. Since the start of the project at the end of 2011, almost 40 engineers funded by ANR subsidy have contributed to the implementation and management of the instruments, i.e. the equivalent of an average 12 full-time staff per year.
+The massive and continuing contribution by permanent CDSP staff – employees of CNRS, FNSP or MESR – also represented an input in human resources that was essential to the success of the project, and in particular for the coordination of DIME-SHS (scientific director, instrument directors, project manager for “infrastructure and IT development”).
+In addition to this, contributions further to the PIA subsidy by partners in the DIME-SHS Consortium (EHESS, INED) or other organisations interested in supporting the EquipEx (USPC, INPES, Ministry of Culture, etc.) made it possible to finance months of additional work throughout the project to keep the instruments in operation.</description>
+    </item>
+    
+    <item>
+      <title>Contributors</title>
+      <link>https://dime-shs.sciencespo.fr/en/projet/contributeurs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/projet/contributeurs/</guid>
+      <description> Partners The DIME-SHS Consortium was headed by Sciences Po and has bring together partners from research and higher education in a variety of disciplines (sociology, demography, economics, political science):
+Grandes écoles      Research Institute    Universities     Private sector research    Research Infrastructure     Funding Partners Additional resources apart from the Investment for the Future subsidy included joint funding from consortium partners, research subsidies from third-party organisations and revenues earned from the exploitation of the instruments.
+Research Institute     Comue    Private sector research     Ministerial departments     Universities         Partner Research Lab  Centre de données socio-politiques (Sciences Po, CDSP, CNRS) médialab (Sciences Po, médialab) Centre d&#39;études européennes (Sciences Po, CEE, CNRS) Observatoire sociologique du changement (Sciences Po, OSC, CNRS) Centre de Recherches Internationales (Sciences Po, CERI, CNRS) Centre de recherches politiques de Sciences Po (Sciences Po, CEVIPOF, CNRS) Département d&#39;économie (Sciences Po, CNRS) Pacte, laboratoire de sciences sociales(Université Grenoble Alpes, Sciences Po Grenoble) Groupe d’Études des Méthodes de l’Analyse Sociologique de la Sorbonne (Sorbonne, CNRS) Programme FORCCAST    </description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>https://dime-shs.sciencespo.fr/en/projet/bilan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/en/projet/bilan/</guid>
+      <description> Imagined as early as 2008, the Dime-SHS project was officially launched on January 31st, 2012 and ended on December 31st, 2020, after it was extended for one year longer than previously planned.
+The long-term project aiming at building an SHS infrastructure in France, benefited from the advantage of the developments made possible by new information technologies and the power of IT infrastructures. DIME-SHS has thus made major innovations possible in the research landscape: - the implementation of an online probabilistic panel in France. - the publication of all qualitative survey materials. - the development of new applications, whether they serve as a platform for operations such as Elipss or beQuali or whether they allow the exploration, harvesting and analysis of corpora online. From this point of view, DIME-SHS has largely exceeded its initial ambitions, and its structuring effects will continue well beyond the end of the initial funding..
+DIME-SHS has built up a very substantial archive of data that is available to the entire scientific community. This was achieved by adopting a pioneering spirit of contemporary open science policy. This includes more than 70 quantitative surveys, 20 qualitative corpuses, and a dozen software packages made available as open source. DIME-SHS has also made a set of tools and platforms available that will continue beyond the scope of the project. For example, today Hyphe is a web exploration platform available to all. Also, the Elipss panel continues to collect data and is now used to support data collections such as ISSP. Finally, beQuali now articulates a whole ecosystem of activities around qualitative data. But beyond these achievements and their continuation, DIME-SHS has above all helped to shape new skills, and to develop new expertise and ideas. It is thanks to DIME-SHS, for example, that France is now one of the linchpins of the European Cronos2 panel.
+DIME-SHS is also a collective achievement that has fundamentally shaped the identity and skills of the CDSP. Involving more than thirty engineers for all or part of the duration of EquipEx, this cross-disciplinary project mobilized many professions (statistical engineers, panel managers, research engineers, and archivists). Nevertheless, one of the greatest challenges of DIME-SHS was to show the gains brought by the synergies of the joint construction of three instruments. In the end, the three instruments have hardly conducted any joint investigations - despite several attempts in this direction. There is nevertheless a real added value in the exchange of practices, the sharing of expertise and the pooling of infrastructures. For example, the question of standards, IT or legal security of devices, and the design and construction of IT architectures have been the subject of constant exchanges that have been decisive for the progress of the projects.
+Chronology  FIRST FOUNDATIONS  2011 : acceptance of the project 2012 : inauguration of the Equipex 2012 : establishment of the first Elipss sample (1500 panellists)  DEVELOPMENT  2013 : first Elipss survey 2013 : launch of Hyphe 0.0 2015 : new beQuali portal 2016 : expansion of the Elipss panel (3500 individuals)  OPERATION  2017: Mid-term evaluation 2018: Hyphe 1.0 2018: Symposium 2018: beQuali teaching kits    Evaluation of the facility Assesment and outlook 2011-2014
+Assesment and outlook 2014-2017
+ As part of its monitoring role, in 2017 – after 6 years of operation – the National Research Agency, which oversees the facility, commissioned a detailed analysis of the practices and results of the project by an independent international jury. The report delivered a broadly positive assessment of the instruments, in particular their success in meeting most of their targets. The report notes : “One is impressed by the achievements of each of the three components of the DIME project”. It also concludes “Overall, the three components of the DIME-SHS project are well on the way of reaching the initial targets of the project. The evaluation of each of these three components of the project is positive.”
+The report nevertheless stressed a major risk, the termination of the main source of funding at the end of 2019. It specified that the continuance of the project was requiring that “the main source of sustainability remains institutional support” for the future. Indeed, since it was difficult to imagine a main source of funding other than institutional, the end of these subsidies could threaten the continuity of the services provided by DIME-SHS.
+The report has also propose avenues for development and improvement in the final phase of the project. In particular, it emphasised:
+ The need to diversify funding sources, The need to reinforce the scientific impact of the infrastructure, The need to strengthen the project’s international presence.  The two main weaknesses identified by the evaluation jury, however, are the inadequate size of the team relative to its objectives, and the lack of sufficient synergies between the different components of the project.
+These recommendations by the international jury resulted in a reassessment of the objectives and priorities of the EquipEx for the final phase of its activities (2018-2019), with the formulation of a two-year action plan1 for this period. It specified the operational targets (number of surveys, development of applications,…) but also the operations required to enhance the grounding of the DIME-SHS project in the national and European research landscape.
+ DIME-SHS two-year action plan (french only) ↩   </description>
+    </item>
+    
+  </channel>
+</rss>

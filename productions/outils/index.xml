@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Outils on DIME-SHS</title>
+    <link>https://dime-shs.sciencespo.fr/productions/outils/</link>
+    <description>Recent content in Outils on DIME-SHS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>FR</language><atom:link href="https://dime-shs.sciencespo.fr/productions/outils/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Application mobile ELIPSS</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/elipss/appli-mobile-elipss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/elipss/appli-mobile-elipss/</guid>
+      <description>L’application mobile Elipss permet aux panélistes d’accéder aux questionnaires et rend possible l’usage de cartographie interactive, de contenus multimédia ou d’acquisition photographique.</description>
+    </item>
+    
+    <item>
+      <title>Hyphe</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/dime-web/hyphe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/dime-web/hyphe/</guid>
+      <description>Crawler web et interface d’accompagnement à la création de corpus web permettant de cartographier la présence sur le web et les liens hypertextes entre les acteurs d’un sujet.</description>
+    </item>
+    
+    <item>
+      <title>Back-office de gestion d’enquêtes</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/elipss/bo-gestion-enquetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/elipss/bo-gestion-enquetes/</guid>
+      <description>Une application web pour programmer la diffusion des enquêtes, en pré-production ou en production, et de suivre l’évolution des terrains à l’aide de visualisations statistiques en temps réel.</description>
+    </item>
+    
+    <item>
+      <title>Hyphe-Browser</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/dime-web/hyphe-browser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/dime-web/hyphe-browser/</guid>
+      <description>Un navigateur web connecté à tout moment avec Hyphe, afin de constituer et explorer un corpus web tout en visualisant les pages des sites afin de pouvoir les sélectionner et catégoriser simplement.</description>
+    </item>
+    
+    <item>
+      <title>Back-office de gestion des panélistes</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/elipss/bo-gestion-panelistes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/elipss/bo-gestion-panelistes/</guid>
+      <description>L’application web du guichet unique d’assistance et de suivi des panélistes. Elle intègre en particulier le suivi des réponses et les relances multi-mode (téléphone, notifications mobile, emails, SMS, courrier postal simple et recommandé).</description>
+    </item>
+    
+    <item>
+      <title>Gazouilloire</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/dime-web/gazouilloire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/dime-web/gazouilloire/</guid>
+      <description>Outil de récupération systématique de données à partir de l’API de Twitter (suivi de mots-clé, d’urls, d’utilisateurs, réseaux de co-citation, retweets…).</description>
+    </item>
+    
+    <item>
+      <title>Back-office de gestion de flotte</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/elipss/bo-gestion-flotte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/elipss/bo-gestion-flotte/</guid>
+      <description>Une application web qui permet au guichet d’assistance de disposer de toutes informations à jour, utiles au suivi d’incidents (tablettes et abonnements data)</description>
+    </item>
+    
+    <item>
+      <title>Catwalk</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/dime-web/catwalk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/dime-web/catwalk/</guid>
+      <description>Outil de sélection qualitative et catégorisation de tweets.</description>
+    </item>
+    
+    <item>
+      <title>Minet</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/dime-web/minet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/dime-web/minet/</guid>
+      <description>Outil développé en python permettant à ses utilisateurs d&amp;rsquo;effectuer des tâches complexes de collecte de données sur le web depuis le confort de la ligne de commande.</description>
+    </item>
+    
+    <item>
+      <title>Google Bookmarklets</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/dime-web/google-bookmarklets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/dime-web/google-bookmarklets/</guid>
+      <description>Boutons ajoutables au navigateur web pour récupérer simplement sous la forme de données tabulaires la liste des résultats et métadonnées d’une recherche sur Google.</description>
+    </item>
+    
+    <item>
+      <title>SeeAlsology</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/dime-web/seealsology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/dime-web/seealsology/</guid>
+      <description>Outil exploratoire visant à construire des réseaux sémantiques à partir des liens “Voir aussi” présents dans de nombreuses pages sur Wikipedia.</description>
+    </item>
+    
+    <item>
+      <title>Science Scape</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/dime-web/sciences-scape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/dime-web/sciences-scape/</guid>
+      <description>Interface d’exploration, analyse et visualisation des données scientométriques exportables depuis Scopus et Web Of Science.</description>
+    </item>
+    
+    <item>
+      <title>Table2Net</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/dime-web/table2net/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/dime-web/table2net/</guid>
+      <description>Interface web permettant de produire simplement une visualisation sous la forme de réseau à partir d’un fichier de données tabulaires.</description>
+    </item>
+    
+    <item>
+      <title>Graph Recipes</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/dime-web/graph-recipes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/dime-web/graph-recipes/</guid>
+      <description>Interface web permettant de réaliser des analyses, calculer des métriques, et produire des visualisations à partir de données de réseaux.</description>
+    </item>
+    
+    <item>
+      <title>Bibliographie sur les enquêtes qualitatives en SHS</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/bequali/bibliographie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/bequali/bibliographie/</guid>
+      <description>Une bibliographie Zotero produite à partir d’une veille sur le partage, la documentation et la réutilisation d’enquêtes qualitatives en sciences humaines et sociales.</description>
+    </item>
+    
+    <item>
+      <title>Explorateur à facettes de corpus</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/bequali/explorateur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/bequali/explorateur/</guid>
+      <description>Une interface web pour faciliter l’exploration des matériaux d’enquêtes à travers différentes filtres (catégories utilisées dans le plan de classement, ligne de temps, localisation géographique des documents).</description>
+    </item>
+    
+    <item>
+      <title>Filtres Speaker</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/bequali/speakers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/bequali/speakers/</guid>
+      <description>Des filtres d&amp;rsquo;exploration des entretiens caractérisant les locuteurs (catégories sociodémographiques, analytiques)</description>
+    </item>
+    
+    <item>
+      <title>Gestionnaire de droit d’accès</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/bequali/gestionnaire-access/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/bequali/gestionnaire-access/</guid>
+      <description>Une interface web pour créer des comptes et gérer les permissions d’accès aux enquêtes (à l’unité ou par lots).</description>
+    </item>
+    
+    <item>
+      <title>Marvin</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/bequali/marvin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/bequali/marvin/</guid>
+      <description>Script de contrôle des fichiers issus de la numérisation des documents : il s’agit de vérifier la validité et le format des fichiers JPEG2000 demandés dans le cahier des charges.</description>
+    </item>
+    
+    <item>
+      <title>Mets2json</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/bequali/mets2json/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/bequali/mets2json/</guid>
+      <description>Script traduisant le standard METS en JSON afin de mettre les enquêtes à disposition sur le site beQuali.</description>
+    </item>
+    
+    <item>
+      <title>Plan de classement des enquêtes qualitatives</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/bequali/classement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/bequali/classement/</guid>
+      <description>Réalisé au fil de l’expérience acquise dans le traitement d’enquêtes qualitatives, ce plan de classement se découpe en quatre niveaux (sous-fonds, dossier, sous-dossier, et article).</description>
+    </item>
+    
+    <item>
+      <title>Ressources pour l&#39;enseignement</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/bequali/kitsenseignement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/bequali/kitsenseignement/</guid>
+      <description>Une interface web pour rechercher des documents d&amp;rsquo;enquêtes qualitatives en vue d&amp;rsquo;illustrer un cours de méthodes en sciences sociales (filtres par méthodes de recherche et par enquêtes).</description>
+    </item>
+    
+    <item>
+      <title>Sally</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/bequali/sally/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/bequali/sally/</guid>
+      <description>Script de contrôle des fichiers issus de la numérisation des documents : il s’agit de vérifier la validité et le format des fichiers PDF/A-1b demandés dans le cahier des charges.</description>
+    </item>
+    
+    <item>
+      <title>Visionneuse de documents anonymisés</title>
+      <link>https://dime-shs.sciencespo.fr/productions/outils/bequali/visionneuse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/productions/outils/bequali/visionneuse/</guid>
+      <description>Une interface web qui permet de visualiser les transcriptions d’entretiens (tour de parole, didascalies, silence, etc.) sur la base de fichiers encodés manuellement en amont en XML-TEI sur EXMARaLDA.</description>
+    </item>
+    
+  </channel>
+</rss>

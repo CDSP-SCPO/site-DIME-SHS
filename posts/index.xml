@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Actualités on DIME-SHS</title>
+    <link>https://dime-shs.sciencespo.fr/posts/</link>
+    <description>Recent content in Actualités on DIME-SHS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>FR</language>
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dime-shs.sciencespo.fr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Réunion de clôture, le 14 janvier 2021</title>
+      <link>https://dime-shs.sciencespo.fr/posts/cloture2021/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/posts/cloture2021/</guid>
+      <description>&lt;p&gt;9 ans après la signature de la convention de lancement de l&amp;rsquo;EquipEx DIME-SHS, ce programme d&amp;rsquo;infrastructure de recherche de pointe pour les SHS touche à sa fin. Ce tournant décisif sera enteriné le 14 janvier 2021, en présence de l&amp;rsquo;ensemble des partenaires du projet et de représentants de l&amp;rsquo;Agence nationale de la recherche.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>De nouvelles versions majeures des logiciels Dime Web</title>
+      <link>https://dime-shs.sciencespo.fr/posts/releasedimeweb/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/posts/releasedimeweb/</guid>
+      <description>L&amp;rsquo;achèvement imminent du financement de DIME-SHS est l&amp;rsquo;occasion pour l&amp;rsquo;instrument Dime Web de finaliser un certain nombre des développements engagés depuis de longs mois sur ses principaux logiciels open source afin de pérenniser le travail accompli en stabilisant les outils et permettant leur usage au delà de la vie de l&amp;rsquo;Equipex.
+Ce sont ainsi 3 nouvelles &amp;ldquo;releases&amp;rdquo; majeures qui sont publiées ces derniers jours pour les logiciels Hyphe, Hyphe-Browser et Gazouilloire et qui seront présentées le 6 février 2021 à la conférence internationale de logiciel libre FOSDEM au sein de la salle Open Research Tools &amp;amp; Technologies.
+La vie de ces outils ne s&amp;rsquo;arrête pas pour autant avec l&amp;rsquo;Equipex, et ces logiciels continueront à être maintenus et enrichis à l&amp;rsquo;avenir par l&amp;rsquo;équipe d&amp;rsquo;ingénieurs du médialab de Sciences Po.
+Gazouilloire v1.0 Dime Web a développé le logiciel Gazouilloire pour permettre la mise en place d&amp;rsquo;un suivi longitudinal de Twitter sur plusieurs mois ou années. Près de 7 ans après le développement de son premier prototype et la collecte de plusieurs centaines de millions de tweets pour de nombreux projets de recherche, Gazouilloire atteint enfin la maturité avec sa version 1.0 !
+Outre un usage très largement facilité pour les développeurs par une installation et configuration en quelques minutes, cette nouvelle version vise avant tout, d’une part à pérenniser et stabiliser l’outil grâce à son évolution vers python3, version désormais standard du langage, et d’autre part à simplifier la manipulation, l’exploration et l’analyse des très gros corpus collectés grâce au passage à la technologie de stockage et d’indexation des données ElasticSearch.
+Hyphe-Browser v2.0 &amp;amp; Hyphe v1.4 Depuis la publication de sa première version stable en 2017, le logiciel de webcrawling pour les sciences sociales Hyphe a poursuivi son développement de manière régulière avec de nombreuses corrections de bugs notamment remontés par les utilisateurs, mais également l&amp;rsquo;ajout de nouvelles options, fonctionnalités et réglages disponibles avec Hyphe v1.4.
+Comme annoncé au sein du plan d&amp;rsquo;action de DIME-SHS en 2018, l&amp;rsquo;un des enjeux pour Hyphe avant la fin de l&amp;rsquo;EquipEx consistait prioritairement à faciliter son déploiement afin de permettre à des chercheurs d&amp;rsquo;accéder rapidement à une instance de l&amp;rsquo;outil, pour une période plus ou moins courte, en contribuant financièrement pour cela. Cet objectif a pu être atteint grâce à la mise en place au sein de Hyphe Browser de la possibilité, au moment de choisir le serveur Hyphe auquel se connecter, de déployer un nouveau serveur chez un hébergeur sur le cloud (OVH, CityCloud ou VexxHost) aux frais de l’utilisateur en quelques clics, sans avoir à solliciter l&amp;rsquo;équipe de Dime Web.
+Permettant de naviguer sur le web tout en constituant son corpus avec Hyphe et de catégoriser ses acteurs tout en visitant leurs pages web, le logiciel complémentaire Hyphe Browser a été financé par l’IDEFI FORCCAST pour permettre notamment de former les étudiants à l’exploitation du web en sciences sociales au sein des cours d’analyse des controverses. Outre l’option de déploiement d’instances de Hyphe sur le cloud, sa toute nouvelle version 2.0 a été entièrement redesignée après de longues observations des expériences d’utilisateurs afin de rendre son usage beaucoup plus intuitif. Enfin cette refonte a permis de rendre l’outil bien plus stable et rapide, et de l’enrichir de nombreuses nouvelles fonctionnalités qui se montreront sans aucun doute très utiles pour de futurs projets de recherche.</description>
+    </item>
+    
+    <item>
+      <title>ELIPSS partenaire de la recherche sur le Covid-19</title>
+      <link>https://dime-shs.sciencespo.fr/posts/elipsspartenairecovid19/</link>
+      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/posts/elipsspartenairecovid19/</guid>
+      <description>&lt;p&gt;L’Observatoire Sociologique du changement (OSC) et le CDSP se mobilisent pour étudier l’impact de la distanciation sociale et des mesures de confinement mises en place par le gouvernement, sous le prisme des inégalités sociales. En s’appuyant sur les nombreuses données collectées dans le cadre du panel probabiliste ELIPSS, le projet Coping with Covid-19 étudiera l’évolution des pratiques et attitudes de cette population par l’administration d’une série d’enquêtes spécifiques au Covid-19 pendant la période de crise.&lt;/p&gt;
+
+&lt;h1 id=&#34;le-projet-coco-coping-with-covid-19&#34;&gt;Le Projet CoCo : Coping with Covid-19&lt;/h1&gt;
+
+&lt;p&gt;Coordonné par Ettore Recchi (OSC), Coping with Covid-19 / Faire face au Covid-19 (Coco) est un projet de recherche visant à évaluer les effets sociaux de l&amp;rsquo;épidémie en France, au regard des inégalités sociales. Grâce à un dispositif empirique original fondé sur les méthodes mixtes (mêlant données quantitatives longitudinales, journaux personnels, groupes de discussion et entretiens individuels), CoCo propose d&amp;rsquo;analyser dans le temps un large éventail d&amp;rsquo;indicateurs socio-économiques, socio-psychologiques et socio-politiques, pour mettre en évidence les perturbations des pratiques quotidiennes induites par les règles de confinement.&lt;/p&gt;
+
+&lt;h1 id=&#34;l-apport-d-elipss&#34;&gt;L’apport d’ELIPSS&lt;/h1&gt;
+
+&lt;p&gt;Le dispositif quantitatif du projet s&amp;rsquo;appuie sur de nombreuses données du panel ELIPSS, collectées régulièrement depuis 2012. À partir d’avril 2020, cinq nouvelles vagues d’enquête seront administrées au panel ELIPSS pour couvrir différentes phases de la crise du Covid-19 et suivre les changements dans les pratiques sociales, la composition des ménages, les projets de vie, les conditions de santé mentale ou les attitudes sociopolitiques.
+Cette démarche permettra ainsi d&amp;rsquo;enregistrer et d&amp;rsquo;apprécier systématiquement au fil du temps l&amp;rsquo;impact de l&amp;rsquo;épidémie sur les comportements et les attitudes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>L’expertise de Dime-SHS au service de deux projets européens</title>
+      <link>https://dime-shs.sciencespo.fr/posts/expertiseprojetseuropens/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/posts/expertiseprojetseuropens/</guid>
+      <description>La construction des outils applicatifs qui soutiennent les instruments de DIME-SHS a permis le développement et la concentration de compétences spécifiques et rares. L&amp;rsquo;expérience acquise, en particulier dans le développement des outils web de gestion de panel, d&amp;rsquo;enquêtes et de flotte mobile pour ELIPSS, a suscité l&amp;rsquo;intérêt de l’Enquête Sociale Européenne (ESS ERIC) qui recherchait une ressource capable de développer l&amp;rsquo;infrastructure de son panel web européen &amp;ldquo;Opinion Study for Europe&amp;rdquo;.
+Ainsi, en partenariat avec l&amp;rsquo;ESS, Sciences Po a été sélectionné pour contribuer au projet SSHOC (Social Sciences Humanities Open Cloud) visant à rendre accessible au travers du portail EOSC (European Open Science Cloud) les services et ressources mises à disposition de la communauté académique par les infrastructures européennes de recherche en SHS. Plus précisément, le CDSP contribue au work package Innovations in data production en développant un service web de gestion d&amp;rsquo;échantillons devant appuyer la réalisation d’enquêtes en ligne d’envergure européenne. Le CDSP est également partie prenante au premier projet d’enquête exploitant de ce service (ESS-SUSTAIN-2).
+Une première version de l&amp;rsquo;application, couvrant l’ensemble des spécifications fonctionnelles définies dans le premier livrable du projet, sera mise en ligne en décembre 2020 à destination des utilisateurs devant conduire les premiers tests courant janvier 2021. Suite à quoi le dispositif servira de support à la série d’enquêtes web “Opinions Studies” dont le terrain couvrira 12 pays européens.
+Pour en faciliter l’abord, l&amp;rsquo;application s’accompagne d&amp;rsquo;une documentation en ligne, qui sera complétée par une formation dispensée aux acteurs du projet ESS-SUSTAIN-2, dont les coordinateurs nationaux de l&amp;rsquo;ESS.</description>
+    </item>
+    
+    <item>
+      <title>ELIPSS, un ouvrage collectif à paraître</title>
+      <link>https://dime-shs.sciencespo.fr/posts/ouvragecollectif/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/posts/ouvragecollectif/</guid>
+      <description>&lt;p&gt;Initié en 2018 par un appel à contributions auprès des utilisateurs de données du dispositif DIME Quanti, l’ouvrage collectif « Un panel Français. L&amp;rsquo;Étude longitudinale par internet pour les sciences sociales (ELIPSS) » a été accepté par les Éditions de l’INED. Il paraîtra dans la &lt;a href=&#34;https://www.ined.fr/fr/publications/editions/grandes-enquetes/&#34; target=&#34;_blank&#34;&gt;collection Grandes enquêtes&lt;/a&gt; aux côtés d’autres dispositifs de référence en sciences sociales.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>beQuali en soutien d’une Action nationale de formation</title>
+      <link>https://dime-shs.sciencespo.fr/posts/anf_reanalyse/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/posts/anf_reanalyse/</guid>
+      <description>&lt;p&gt;BeQuali a participé en octobre 2019 à l&amp;rsquo;organisation et à l&amp;rsquo;animation de l’Action Nationale de Formation (ANF) “Quali-SHS, Analyser et ré-analyser des corpus de données qualitatives en sciences sociales”.&lt;/p&gt;
+
+&lt;p&gt;Cette formation, co-financée par l&amp;rsquo;InSHS du CNRS, la TGIR PROGEDO, le réseau métier MATE-SHS, et soutenue par le CDSP, a mobilisé du 6 au 11 octobre 38 stagiaires et 13 formateurs. Deux membres de l&amp;rsquo;équipe de beQuali, impliqués dans le comité de pilotage de cette ANF, ont pris en charge l&amp;rsquo;animation de quatres modules de formation consacrés aux dispositifs de réanalyse.&lt;/p&gt;
+
+&lt;p&gt;Les données de l’enquête &lt;a href=&#34;https://doi.org/10.21410/dshs_2016/V2XWWP&#34; target=&#34;_blank&#34;&gt;« De l’Afrique à la France, d’une génération à l’autre » (coordonnée par Jacques Barou)&lt;/a&gt; mise à disposition par beQuali ont servi de fil rouge pour le suivi des exemples pris dans les différentes sessions d’ateliers, mettant ainsi au coeur de la formation la production de Dime-SHS.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>REPORTÉ - Conférence de clôture DIME-SHS - 12 décembre 2019</title>
+      <link>https://dime-shs.sciencespo.fr/posts/colloque-dime-shs2019/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/posts/colloque-dime-shs2019/</guid>
+      <description>&lt;p&gt;** En raison des mouvements sociaux et de la situation dans les transports, l&amp;rsquo;équipe d&amp;rsquo;organisation du colloque de clôture de DIME-SHS a décidé de reporter la tenue de la journée à une date ultérieure.
+RV en 2020 pour parler de DIME-SHS! **&lt;/p&gt;
+
+&lt;p&gt;Mis en oeuvre grâce au plan de développement des équipement d&amp;rsquo;excellence, DIME-SHS* clôture en cette fin d&amp;rsquo;année 2019 dix années de financement et tourne la page des Equipex.
+Étape décisive dans le cycle de vie d&amp;rsquo;une infrastructure, la clôture du financement est non seulement l’occasion de faire le bilan des réalisations atteintes et de présenter les perspectives ouvertes, mais également de développer une réflexion collective sur le rôle et la place de ce type d’infrastructure dans le paysage de la recherche nationale et européenne.
+Cette conférence représente cette double ambition : raconter l’histoire et le devenir d’une infrastructure de recherche pour les SHS mais également débattre de la vocation et du financement de ce type d’expérience.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>DIME-SHS prolongé en 2020</title>
+      <link>https://dime-shs.sciencespo.fr/posts/prolongation2020/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/posts/prolongation2020/</guid>
+      <description>&lt;p&gt;En septembre 2019, le projet DIME-SHS obtient une prolongation d’une année supplémentaire pour parachever les actions en cours et asseoir l’effort de pérennisation engagé dans la période précédente.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>USPC renouvelle son soutien à DIME-SHS</title>
+      <link>https://dime-shs.sciencespo.fr/posts/subventionuspc/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/posts/subventionuspc/</guid>
+      <description>&lt;p&gt;Après lui avoir accordé son label en juin 2010, puis l’avoir doté d’une subvention de près de 500k€ en 2015 dans le cadre de son programme d’action « Plateformes, infrastructures et équipements de recherche », USPC réitère fin 2018 son soutien à l’Equipex DIME-SHS par l’attribution d’un nouvel apport de 86,4k€ au titre des investissements d’avenir.&lt;/p&gt;
+
+&lt;p&gt;USPC confirme en cela sa reconnaissance du caractère structurant des instruments mis à la disposition de la communauté scientifique depuis la mise en place de l’Equipex en 2011.&lt;/p&gt;
+
+&lt;p&gt;Venant en complément d’autres sources de financement, cette subvention va constituer en 2019 un apport essentiel pour initier les actions propres à maintenir le service d’enquêtes ELIPSS existant au-delà de la fin programmée de l’Equipex.&lt;/p&gt;
+
+&lt;p&gt;Elle servira notamment à cofinancer le renouvellement de l&amp;rsquo;échantillon du panel, dans l&amp;rsquo;optique de poursuivre l&amp;rsquo;exigence d&amp;rsquo;excellence qui a caractérisé le projet depuis ses débuts&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Retour sur le colloque &#34;Des instruments pour la recherche en Sciences Sociales&#34;</title>
+      <link>https://dime-shs.sciencespo.fr/posts/colloque-dime-shs-video/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/posts/colloque-dime-shs-video/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Le 28 septembre 2018 s&amp;rsquo;est tenu le colloque DIME-SHS &amp;ldquo;Des instruments pour la recherche en Sciences Sociales&amp;rdquo; qui a rassemblé une centaine de personnes.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Cet événement a permis aux utilisateurs de témoigner des apports de l’équipement à leurs projets de recherche en sciences sociales et plus largement de questionner des enjeux liés à l&amp;rsquo;utilisation de données pour explorer des interrogations scientifiques.&lt;/em&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/9HelqxwX-Zw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hyphe à la conférence Web Studies 2018</title>
+      <link>https://dime-shs.sciencespo.fr/posts/hyphewebstudies2018/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/posts/hyphewebstudies2018/</guid>
+      <description>&lt;p&gt;Du 3 au 5 octobre 2018 se déroulait à la MSH de Paris à Saint-Denis l&amp;rsquo;édition 2018 de l&amp;rsquo;International Conference on Web Studies intégrée au &lt;a href=&#34;https://digitaluses-congress.univ-paris8.fr&#34; target=&#34;_blank&#34;&gt;Digital Tools &amp;amp; Uses Congress&lt;/a&gt;. L&amp;rsquo;équipe Dime Web avait été conviée par les organisateurs à y assurer une keynote pour présenter ses travaux autour du lien hypertexte, et notamment &lt;a href=&#34;https://hyphe.medialab.sciences-po.fr&#34; target=&#34;_blank&#34;&gt;Hyphe&lt;/a&gt;, son logiciel open source de webcrawling pour les sciences sociales.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bilan de la &#34;réunion publique&#34; 2018</title>
+      <link>https://dime-shs.sciencespo.fr/posts/reunioninstancesscient-bilan/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/posts/reunioninstancesscient-bilan/</guid>
+      <description>&lt;p&gt;Le 27 septembre, en marge du colloque proprement scientifique, la &amp;ldquo;réunion publique&amp;rdquo; de DIME-SHS a pris cette année le format inédit d&amp;rsquo;un dialogue entre les instances de l&amp;rsquo;Equipex (réunion conjointe du conseil scientifique et des CST de chacun des trois instruments).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bienvenue sur le nouveau site web de l’Equipex DIME-SHS</title>
+      <link>https://dime-shs.sciencespo.fr/posts/nvsiteweb/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/posts/nvsiteweb/</guid>
+      <description>A l&amp;rsquo;occasion du colloque Des instruments pour la recherche en Sciences Sociales&amp;rdquo; du 28 septembre 2018, DIME-SHS met en ligne son nouveau site web et s’ouvre à l’international avec des contenus entièrement disponibles en langue anglaise.
+Retrouver sur ce site les présentations des instruments ELIPSS, beQuali et Dime Web, et la liste des productions issues de l&amp;rsquo;EquipEx.</description>
+    </item>
+    
+    <item>
+      <title>Colloque DIME-SHS - 28 septembre 2018</title>
+      <link>https://dime-shs.sciencespo.fr/posts/colloque-dime-shs/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/posts/colloque-dime-shs/</guid>
+      <description>&lt;p&gt;Depuis 2011, l&amp;rsquo;Equipex DIME-SHS&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; a innové pour mettre en place de nouveaux instruments au service de la recherche et entre aujourd&amp;rsquo;hui, à l’issue de 7 années d’exploitation, dans la dernière phase de son cycle de vie.&lt;/p&gt;
+
+&lt;p&gt;Le 28 septembre 2018, le colloque DIME-SHS &amp;ldquo;Des instruments pour la recherche en Sciences Sociales&amp;rdquo; permettra de partager analyses et résultats issus des données des instruments de l’équipement.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Point d’étape 2017 : de l’évaluation à mi-parcours au programme d’action final</title>
+      <link>https://dime-shs.sciencespo.fr/posts/etape2017/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/posts/etape2017/</guid>
+      <description>Initié en 2011, l’EquipEx DIME-SHS était évalué en juin 2017 par un jury international indépendant qui reconnaît le bilan “impressionnant” mis en œuvre après 7 années d&amp;rsquo;existence.
+L’EquipEx, dont l’achèvement est programmé pour la fin 2019, est désormais parvenu pour l&amp;rsquo;essentiel au terme des investissements prévus, atteignant sa vitesse de croisière :
+ la base de données qualitatives beQuali regroupe à présent plusieurs centaines d’entretiens ; un panel de près de 3000 personnes est interrogé tous les mois dans le cadre du dispositif ELIPSS, formant un catalogue de plus de cinquante enquêtes ; une nouvelle version du logiciel Hyphe a été livrée par Dime web, pour une installation facilitée et des performances accrues.  Fin 2017, les équipes sont à plein. Outre le pôle de coordination opérationnelle, ce sont 15 ingénieurs financés sur les fonds de l’ANR qui développent, maintiennent et font tourner les instruments, aux côtés des personnels permanents également mobilisés par le projet.
+Pour les deux dernières années de DIME-SHS, conformément au plan d’action 2018-2019 remis à l’ANR, les efforts seront concentrés sur les actions propres à valoriser les données mises à disposition depuis la mise en place de l’Equipex (avec, notamment, la programmation de deux évènements scientifiques) et sur la mise en œuvre de modalités de pérennisation des instruments.</description>
+    </item>
+    
+    <item>
+      <title>Changement de Responsable Scientifique</title>
+      <link>https://dime-shs.sciencespo.fr/posts/changement-direction/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/posts/changement-direction/</guid>
+      <description>Suite au changement de Direction du Centre de Données Socio-Politiques, DIME-SHS accueille à l&amp;rsquo;automne 2017 un nouveau Responsable Scientifique.
+Après avoir proposé et porté le développement du projet DIME-SHS, Laurent Lesnard, sociologue, passe la main à Nicolas Sauger, politiste.</description>
+    </item>
+    
+    <item>
+      <title>DIME-SHS s’invite aux 10 ans du CDSP les 12 et 13 décembre 2016</title>
+      <link>https://dime-shs.sciencespo.fr/posts/1oanscdsp/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/posts/1oanscdsp/</guid>
+      <description>Les équipes de DIME-SHS étaient invitées les 12 et 13 décembre 2016 aux « 10 ans du CDSP » à animer une série d’ateliers sur les dispositifs phare de l’Equipex : cas pratiques, retours d&amp;rsquo;expériences, témoignages et démonstrations, au total six sessions entièrement dédiées aux instruments beQuali, ELIPSS et Dime web.
+Les 10 ans du CDSP Les ateliers ELIPSS Les ateliers beQuali Les ateliers Dime web  </description>
+    </item>
+    
+    <item>
+      <title>Médaille de cristal du CNRS 2015</title>
+      <link>https://dime-shs.sciencespo.fr/posts/cnrs-medaille-de-cristal/</link>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/posts/cnrs-medaille-de-cristal/</guid>
+      <description> Le Président du CNRS et le Directeur de l’Institut des sciences humaines et sociales du CNRS viennent d’attribuer la médaille de cristal 2015, respectivement, à Anne Cornilleau et Anne-Sophie Cousteaux – coordinatrices de l’équipe quantitative du CDSP – et à Geneviève Michaud – coordinatrice de l’équipe informatique du CDSP.
+Ces médailles sont une marque de reconnaissance du CNRS pour leur très grand engagement et l’excellence du travail qu’elles ont accompli depuis 2005 au CDSP et depuis 2011 dans le cadre élargi de l’Equipex DIME-SHS. Ces distinctions témoignent également plus généralement de la très grande importance du rôle des ingénieurs et techniciens dans la recherche aux côtés des chercheurs.
+  Anne Cornilleau Anne-Sophie Cousteaux Geneviève Michaud   </description>
+    </item>
+    
+    <item>
+      <title>Phase pilote : recrutement des équipes</title>
+      <link>https://dime-shs.sciencespo.fr/posts/recrutements-phasepilote/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/posts/recrutements-phasepilote/</guid>
+      <description>Pour assurer la mise en route et les premiers développements de l’Equipex, une importante vague de recrutement a été initiée dès le démarrage du projet.
+Au terme de la phase pilote (2011-2012), 2 développeurs et 8 ingénieurs dédiés aux instruments Quali (2), Quanti (4) et Web (2) ont ainsi rejoint l’équipe de coordination originelle, portant à 16 l’effectif global de DIME-SHS.
+A la veille de l’entrée de l’Equipex dans sa phase de développement, des recrutements supplémentaires suivront en 2013 et 2014 pour garantir le bon déploiement des dispositifs déjà expérimentés.</description>
+    </item>
+    
+    <item>
+      <title>Inauguration de l&#39;Equipex - 27 janvier 2012</title>
+      <link>https://dime-shs.sciencespo.fr/posts/inauguration-equipex/</link>
+      <pubDate>Fri, 27 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://dime-shs.sciencespo.fr/posts/inauguration-equipex/</guid>
+      <description>Le 27 janvier 2012, le CDSP a organisé une journée de lancement pour son Equipex DIME-SHS. En présence de Richard Descoing, administrateur de la Fondation nationale des sciences politiques, et de Laurent Lesnard, porteur du projet, l&amp;rsquo;Equipex a été présenté à la communauté académique.
+Inauguration de DIME-SHS.
+  </description>
+    </item>
+    
+  </channel>
+</rss>
